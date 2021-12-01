@@ -1,0 +1,263 @@
+@charset "utf-8";
+
+body,html {width: 100%;height: 100%; }
+body{
+	font-family: "Cambria Math","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック";
+	font-size: 18px;
+	background: #3c3c3c url(images/background.jpg) no-repeat center center fixed;
+	color: #ffffff;
+	overflow-x: hidden;
+}
+img{border: none; vertical-align: middle; width: 100%; height: auto;}
+
+h1, h2, h3{ color: #fff; padding: 5px 10px; text-align: center;}
+p{padding: 5px; text-align: left !important;}
+a{ color:#ffffff;text-decoration: none;}
+a:hover{color: #a9b4d5;}
+
+
+#container{
+margin: 0;
+margin-bottom: 10px;
+width: 100%;
+display:flex;
+}
+
+#main{
+	width: 60%;
+    margin: 0px;
+    padding-top: 20px;
+}
+
+#index{
+	width: 20%;
+padding: 5px;
+margin-top: 12%;
+}
+
+#menubar{
+	width: 20%;
+padding: 5px;
+margin-top: 12%;
+line-height: 3vh;
+}
+
+#vessel{
+	max-width: 80%;
+}
+
+#home{
+	float: right;
+	width: 60%;
+	height: 100%;
+	background: #1f1f1f;
+	border-radius: 3px;
+	box-shadow: 0 0 10px #000;
+	margin-top: 10px;
+}
+
+#home h1{
+	font-weight: bold;
+}
+
+#home h1, p{
+	text-align: center;
+}
+
+#home th{
+	background-color: #1f1f1f;
+}
+
+#menu{
+	float: left;
+	width: 25%;	
+	position: fixed;
+	height: 100%;
+	/*background: url(./images/sidebar.png) repeat center center/cover;*/
+	background-color: #000000;
+	box-shadow: 0 20px #000;
+	left: 0;
+	top: 0;
+}
+
+#menu h1{
+	padding: 0;
+	margin: 0;
+	border-bottom: 1px solid #000;
+}
+
+#menu h2, h3{
+	padding: 0;
+	margin: 0;
+	line-height: 10vh;
+}
+
+#menu a{
+	display: block;
+	color: #ffffff;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+}
+
+#menu a:hover, .current a{
+	background-color: #581a0f;
+}
+
+#sub-nav{
+	position: sticky;
+	top: 0;
+	background-color: #1f1f1f;
+	display: none;
+	border-bottom: 5px solid #000;
+}
+
+.logo-alt{
+	display: block;
+	width: 70%;
+	margin: 0;
+}
+
+.icon{
+	display: block;
+	text-align: right;
+	position: absolute;
+	top: 2%;
+	right: 3%;
+}
+
+.menu{
+	margin: 0;
+	padding: 0;
+	float:left;
+	position: fixed;
+	width: 100%;
+	background-color: #000000;
+}
+
+.nav{
+	position: sticky;
+	top: 50px;
+	background-color: #1f1f1f;
+	border: 2px;
+	box-shadow: 0 0 10px #ffffff;
+	width: 50%;
+	margin-left: 38%;
+	border-radius: 3px;
+}
+
+.nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav li{
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.nav a{
+	display:block;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.nav li a:hover, .nav li.curNotes a{	
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-weight: bold;
+}
+
+.notes{
+	background-color: #1f1f1f;
+	border: 2px;
+	box-shadow: 0 0 10px #ffffff;
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.notes .curNotes{
+	color: #a9b4d5;
+}
+
+.notes h2{
+	border: 10px double #000;
+}
+
+.notes li{
+	text-align: left;
+}
+
+.side{
+	position: sticky;
+	top: 50px;
+	background-color: #1f1f1f;
+	text-align: center;
+	border: 2px;
+	box-shadow: 0 0 10px #ffffff;
+	width: 50%;
+	margin-left: 5%;
+	border-radius: 3px;
+}
+
+.side h3{	line-height: 5vh;}
+
+.side a{
+	text-decoration: underline solid #fff;
+	transition: 0.3s;
+}
+
+.side a:hover{
+	color: #c6a229;
+}
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted #c7d1f3; /* If you want dots under the hoverable text */
+  color: #c7d1f3;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
