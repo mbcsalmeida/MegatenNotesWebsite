@@ -26,9 +26,9 @@ function sizeNotes(){
 		document.getElementById("index").style.display = "initial";
 		document.getElementById("sub-nav").style.display = "none";
 	}
-	
-	
+		
 }
+
 
 function onClickToggle(){
 	var x = document.getElementById("toggle-contents");

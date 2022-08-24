@@ -10,42 +10,46 @@
 <meta name="description" content="Compilation of notes from routes of MegaTen speedruns, and other games, I've run so far.">
 <meta name="keywords="  content="Shin Megami Tensei, MegaTen, Speedruns, Sioneus, RTA">
 <script src="size.js"></script>
+<script src="script.js"></script>
 </head>
 <!--make hover have JP translation-->
 <body>
-<div id="container">
+    <div id="container">
 
-<div id="menubar">
-<nav class="nav">
-<ul>
-<li><a href="index.html"> Home</a></li>
-<li><a href="about.html"> About</a>
-<li><a href="pb.html"> Personal Bests</a>
-<li class=curNotes><a href="notes.html"> Notes</a>
-<li><a href="credits.html"> Credits</a>
-</ul>
-</nav>
-</div>
+        <div id="menubar">
+            <nav class="nav">
+                <ul>
+                    <li><a href="index.html"> Home</a></li>
+                    <li><a href="about.html"> About</a>
+                    <li><a href="pb.html"> Personal Bests</a>
+                    <li class=curNotes><a href="notes.html"> Notes</a>
+                    <li><a href="credits.html"> Credits</a></li>
+                        <li><a href="checklist.html">Checklist</a></li>
+                </ul>
+            </nav>
+        </div>
 
-<div id="main">
-<div id="sub-nav">
-<a class="logo-alt" href="index.html"><img src="images/iconalt.png"></a>
-<a href="javascript:void(0);" class="icon" onclick="onClickToggle()"><i class="fa fa-bars" style="font-size: 9vw;"></i></a>
-<nav id="toggle-contents" style="display: none;">
-<h2><a href="index.html"> Home</a></h2>
-<h2><a href="about.html"> About</a></h2>
-<h2><a href="pb.html"> Personal Bests</a></h2>
-<h2><a href="notes.html"> Notes</a></h2>
-<h2><a href="credits.html"> Credits</a></h2>
-</nav>
-</div>
+        <div id="main">
+            <div id="sub-nav">
+                <a class="logo-alt" href="index.html"><img src="images/iconalt.png"></a>
+                <a href="javascript:void(0);" class="icon" onclick="onClickToggle()"><i class="fa fa-bars"
+                        style="font-size: 9vw;"></i></a>
+                <nav id="toggle-contents" style="display: none;">
+                    <h2><a href="index.html"> Home</a></h2>
+                    <h2><a href="about.html"> About</a></h2>
+                    <h2><a href="pb.html"> Personal Bests</a></h2>
+                    <h2><a href="notes.html"> Notes</a></h2>
+                    <h2><a href="credits.html"> Credits</a></h2>
+                    <h2><a href="checklist.html">Checklist</a></h2>
+                </nav>
+            </div>
 <div class="notes">
 <table border="1" style="width: 100%; text-align: center;">
 <tbody>
 	<tr>
-	<td><span class=curNotes>Law END</span></td>
-	<td><a href="smt1neutral.html">Neutral END</a></td>
-	<td><a href="smt1chaos.html">Chaos END</a></td>
+	<td>Law END</span></td>
+	<td><a href="smt1law.html?route=neutral">Neutral END</a></td>
+	<td><a href="smt1law.html?route=chaos">Chaos END</a></td>
 	<td><a href="smt1bosses.html">All Bosses</a></td>
 	</tr>
 </tbody>
@@ -64,7 +68,7 @@
 <img src="images/smt1maps/3d/ARCADE-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
 </div>
 <p>Return home and go to bed (Up x2 - <span class="tooltip">Sleep<span class="tooltiptext">すいみんを とる</span></span>.</p>
-<p>Second dream sequence:
+<p>Second dream sequence:</p>
 <ul>
 <li> Mash A to say yes.
 <li> Name Heroine イ and put 4 points into <span class="tooltip">Speed<span class="tooltiptext">はやさ</span></span> and rest into <span class="tooltip">Strength<span class="tooltiptext">つよさ</span></span>.
@@ -165,7 +169,7 @@
 <img src="images/smt1maps/3d/SHINJUKU-B2F_AGITATION-POINT.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
 </div>
 <p>Talk to the Heroine (B) and go back upstairs to meet the Resistance Man (A) and head out to the western exit. </p>
-<p>For safety, go to the Messian Church and buy 3x <span class="tooltip">Holy Water<span class="tooltiptext">せいすい</span></span>
+<p>For safety, go to the Messian Church and buy 3x <span class="tooltip">Holy Water<span class="tooltiptext">せいすい</span></span></p>
 <h3>Tokyo Metropolitan Government</h3>
 <p>From the Underground Mall head south for the public execution.</p>
 
@@ -254,10 +258,10 @@
 </ul>
 
 <p>Fight Red Phantom:</p>
-<li> First Turn: <span class="tooltip">Zio<span class="tooltiptext">ジオ</span></span>,<span class="tooltip">Makakaja<span class="tooltiptext">マカカジャ</span></span>, Defend, <span class="tooltip">Agilao<span class="tooltiptext">アギラオ</span></span>
-<li> Others: <span class="tooltip">Zio<span class="tooltiptext">ジオ</span></span>, <span class="tooltip">Makakaja<span class="tooltiptext">マカカジャ</span></span>, <span class="tooltip">Hamaya<span class="tooltiptext">はまや</span></span>, <span class="tooltip">Agilao<span class="tooltiptext">アギラオ</span></span>
-<li> Keep one <span class="tooltip">Hamaya<span class="tooltiptext">はまや</span></span>
-<li> Level <span class="tooltip">Intelligence<span class="tooltiptext">ちえ</span></span>
+<li> First Turn: <span class="tooltip">Zio<span class="tooltiptext">ジオ</span></span>,<span class="tooltip">Makakaja<span class="tooltiptext">マカカジャ</span></span>, Defend, <span class="tooltip">Agilao<span class="tooltiptext">アギラオ</span></span></li>
+<li> Others: <span class="tooltip">Zio<span class="tooltiptext">ジオ</span></span>, <span class="tooltip">Makakaja<span class="tooltiptext">マカカジャ</span></span>, <span class="tooltip">Hamaya<span class="tooltiptext">はまや</span></span>, <span class="tooltip">Agilao<span class="tooltiptext">アギラオ</span></span></li>
+<li> Keep one <span class="tooltip">Hamaya<span class="tooltiptext">はまや</span></span></li>
+<li> Level <span class="tooltip">Intelligence<span class="tooltiptext">ちえ</span></span></li>
 </ul>
 
 <p>Go back to En-no-Ozuno (A) and, if needed, heal with Goki (C). Then leave for the exit (J) and fight Zenki and Goki:</p>
@@ -309,7 +313,7 @@
 
 <p><span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span> to leave the building.</p>
 <h2><a name="shibuya">Shibuya</a></h2>
-<p> Once outside, <span class="tooltip">return<span class="tooltiptext">ナカマを もどす</span></span> <span class="tooltip">Pyro Jack<span class="tooltiptext">ジャックランタン</span></span> and <span class="tooltip">Azumi<span class="tooltiptext">アズミ</span></span>, <span class="tooltip">summon<span class="tooltiptext">ナカマを よびだす</span></span> <span class="tooltip">Cu Sith<span class="tooltiptext">カーシー</span></span>. Head south to Shibuya.
+<p> Once outside, <span class="tooltip">return<span class="tooltiptext">ナカマを もどす</span></span> <span class="tooltip">Pyro Jack<span class="tooltiptext">ジャックランタン</span></span> and <span class="tooltip">Azumi<span class="tooltiptext">アズミ</span></span>, <span class="tooltip">summon<span class="tooltiptext">ナカマを よびだす</span></span> <span class="tooltip">Cu Sith<span class="tooltiptext">カーシー</span></span>. Head south to Shibuya.</p>
 <div style="text-align:center">
 <img src="images/smt1maps/3d/SHIBUYA-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
 <img src="images/smt1maps/3d/SHIBUYA-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
@@ -419,6 +423,10 @@
 , Defend, Sword
 <li> Follow-up turn: Return, Defend, Sword
 <li> Rest: AUTO. Stop AUTO and use <span class="tooltip">Charm<span class="tooltiptext">チャーム</span></span> if it wears out. Heal whenever necessary.
+</li></ul>
+
+<div id="law-path">
+	
 <li>Level <span class="tooltip">Vitality<span class="tooltiptext">たいりょく</span></span> for Hero
 <li> Put 1p in <span class="tooltip">Strength<span class="tooltiptext">つよさ</span></span>, 2p in <span class="tooltip">Magic<span class="tooltiptext">まりょく</span></span> and 2p in <span class="tooltip">Vitality<span class="tooltiptext">たいりょく</span></span> for Heroine.
 </ul>
@@ -652,6 +660,462 @@
 </ul>
 
 <p>Walk forward to finish the game</p>
+</div>
+
+<div id="chaos-path">
+	<li> Assign <span class="tooltip">Vitality<span class="tooltiptext">たいりょく</span></span> for Hero and <span class="tooltip">Magic<span class="tooltiptext">まりょく</span></span> for Heroine.
+	</ul>
+	<p>Re-summon Kushinada-Hime and Cu Sith, same formation. Cast <span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span>. Head through Jikoukuten's Lair and then south to TDL.</p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/SHITENNOH-1F-DHRTARASTRA.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p>Enter T.D.L.</p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/TDL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p>The next three floors have several warps which send you to the next floor, cycling back and forth: 2F → 3F → 4F → 3F. </p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/TDL-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/TDL-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/TDL-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p>Meet Vile Echidna: No</p>
+	<p>Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>.</p>
+	<h2><a name="ginza">Ginza</a></h2>
+	<p>Head outside. </p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/2d/POLICE.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p>Enter the lower building at any Moon, except New Moon - left chest. Enter the upper building at 2/8 Moon - left chest. Then re-enter Ginza, equip <span class="tooltip">Lotus Wand<span class="tooltiptext">ロタスウアンド</span></span> and <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>. </p>
+	
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/GINZA-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/GINZA-B2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div>
+	<p>Head to the Devil Summoner. Tell him: No -> Yes.</p>
+	
+	<ul>
+	<li> First turn:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span>
+	<li> Second turn:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span>
+	<li> Third: <span class="tooltip">Hikoubari<span class="tooltiptext">ひこうばり</span></span>, <span class="tooltip">Mazio<span class="tooltiptext">マジオ</span></span>
+	</ul>
+	<h2><a name="shinagawa">Shinagawa</a></h2>
+	<p>Make your way through the Underpass and go south to Shinagawa.</p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/SHINAGAWA-UNDERPASS-B1F.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%;">
+	<img src="images/smt1maps/2d/11-Shinagawa.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div>
+	<p> Heal at the Messiah and buy more charms if necessary.</p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/SHINAGAWA-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/SHINAGAWA-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/SHINAGAWA-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/SHINAGAWA-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div>
+	<p>Talk to Haniel. Say No.</p>
+	<ul>
+	<li> 2 turns: Defend, <span class="tooltip">Tarukaja<span class="tooltiptext">タルカジャ</span></span>, <span class="tooltip">Charm<span class="tooltiptext">チャーム</span></span>, Defend, Sword.
+	<li> AUTO. Use another Charm if necessary or heal.
+	<li> Assign points to <span class="tooltip">Vitality<span class="tooltiptext">たいりょく</span></span>.
+	</ul>
+	
+	<p> Go up to the 4F and fight the Devil Summoner in 4F:</p>
+	<ul>
+	<li> First fight: Defend, <span class="tooltip">Hamaya<span class="tooltiptext">はまや</span></span> with Heroine
+	<li> Second fight:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span> with Hero, Sword
+	<li> Third fight:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span> with Hero, <span class="tooltip">Mazio<span class="tooltiptext">マジオ</span></span>
+	</ul>
+	
+	<p>Use <span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span>. Walk into Komukuten's Lair. </p>
+	<ul>
+	<li> Hero - <span class="tooltip">Holy Water<span class="tooltiptext">せいすい</span></span>
+	</ul>
+	<p>Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>
+	 and transfer to T.D.L.</p>
+	
+	<h2><a name="tdl">Tokyo Destiny Land</a></h2>
+	<p>Save. Enter the Gaia and buy 1x <span class="tooltip">Amulet<span class="tooltiptext">アムレット</span></span>. Head upstairs to meet echidna.</p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/TDL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p> The next three floors have several warps which send you to the next floor, cycling back and forth: 2F → 3F → 4F → 3F. </p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/TDL-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/TDL-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/TDL-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p>    Meet Vile Echidna: Yes. Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>. Head out.</p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/2d/TOKYO-1.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%;">
+	<img src="images/smt1maps/3d/SHITENNOH-1F-DHRTARASTRA.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div>
+	<p>Walk into Jikoukuten's room. Leave through the Ueno exit</p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/2d/14-Ueno-Restored.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	
+	<p>Walk into the reward house at Full Moon - Left Chest. Head further west to Bishamonten's Lair.</p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/SHITENNOH-1F-VAISRAVANA.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/2d/15-Cathedral.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div>
+	
+	<p>Walk into Bishamonten's room. Cast <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span> then head outside of T.D.L and south to the Cathedral.</p>
+	
+	<h2><a name="cathedral">Lower Cathedral</a></h2>
+	<p>Talk to Chaos Hero (C).</p>
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	</div>
+	<p> Save the Turtle (enter (B) twice) and use <span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span> to go to Law side. Save at the terminal there and go to the shops.</p>
+	
+	<dl>
+	<dt> <span class="tooltip">Sell<span class="tooltiptext">うる</span></span></dt>
+	<dd>　<span class="tooltip">Magician's Mask<span class="tooltiptext">まどうのマスク</span></span></dd>
+	<dt> <span class="tooltip">Buy<span class="tooltiptext">かう</span></span></dt> at ARMORS:
+	<dd> <span class="tooltip">Yakuto Armor<span class="tooltiptext">ヤクトアーマー</span></span></dd> →　₹４００００
+	<dd> <span class="tooltip">Panser Suit<span class="tooltiptext">パンサスツ</span></span></dd> →　₹３５０００
+	<dd> <span class="tooltip">2x Helms Helm<span class="tooltiptext">ヘルムスヘルム</span></span></dd> →　₹３６０００ total
+	<dd> <span class="tooltip">Atlas Gauntlet<span class="tooltiptext">アトラスのこて</span></span></dd> → ₹２３００
+	<dd> <span class="tooltip">Metal Boots<span class="tooltiptext">メタルブーツ</span></span></dd> → ₹５０００
+	<dt> <span class="tooltip">Buy<span class="tooltiptext">かう</span></span></dt> at WEAPONS:
+	<dd> <span class="tooltip">Pauza P50<span class="tooltiptext">パウザＰ５０</span></span></dd> → ₹２８０００
+	<dd> <span class="tooltip">Flash Slugs<span class="tooltiptext">せんこうだん</span></span></dd> → ₹１００００
+	<dt> <span class="tooltip">Equip<span class="tooltiptext">そうび</span></span></dt>
+	<dd> Hero - <span class="tooltip">Pauza P50<span class="tooltiptext">パウザＰ５０</span></span>, <span class="tooltip">Flash Slugs<span class="tooltiptext">せんこうだん</span></span>, <span class="tooltip">Metal Boots<span class="tooltiptext">メタルブーツ</span></span><,<span class="tooltip">Atlas Gauntlet<span class="tooltiptext">アトラスのこて</span></span>,<span class="tooltip">Yakuto Armor<span class="tooltiptext">ヤクトアーマー</span></span>, <span class="tooltip">Helms Helm<span class="tooltiptext">ヘルムスヘルム</span></span> 
+	<dd> Heroine - 	<span class="tooltip">Panser Suit<span class="tooltiptext">パンサスツ</span></span><,<span class="tooltip">Helms Helm<span class="tooltiptext">ヘルムスヘルム</span></span> 
+	</dl>
+	
+	<p> Make your way to the bottom.  <span class="tooltip">Return<span class="tooltiptext">ナカマを もどす</span></span> <span class="tooltip">Goblin<span class="tooltiptext">ゴブリン</span></span> when casting <span class="tooltip">Estoma<span class="tooltiptext">エストマ</span></span> before B5F.  In B7F it's possible to get a <span class="tooltip">Soma<span class="tooltiptext">ソーマ</span></span> (18) for safety. Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span> after talking to Asura at B8F (E). He'll tell you to bring an item from each of the tyrants to make the Demon Ring. </p>
+	  <p>Now, again,make your way to the bottom, getting the Tyrants' item on the way (B2F, B3F, and B4F). After you reach Asura, he will fuse the Demon Ring.</p>
+	
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-B2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-B3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-B4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-B5F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-B6F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-B7F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-B8F.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%; margin-left:5%">
+	</div><p></p>
+	
+	<h2><a name="cathedral2">Upper Cathedral</a></h2>
+	<p>Back at the Cathedral, make your way to 8F. Use <span class="tooltip">Amulet<span class="tooltiptext">アムレット</span></span> in 6F.</p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-5F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-5F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+	<img src="images/smt1maps/3d/CATHEDRAL-6F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+	</div><p></p>
+	
+	<div style="text-align:center">
+	<img src="images/smt1maps/3d/CATHEDRAL-8F.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%;">
+	</div>
+	
+	<p>In 7F there is another <span class="tooltip">Soma<span class="tooltiptext">ソーマ</span></span> (18) you can get for safety. Fight Law Hero (D):</p>
+	<ul>
+	<li> AUTO
+	<li> Use <span class="tooltip">Soma<span class="tooltiptext">ソーマ</span></span> to cure CHARM if needed.
+	<li> Kushinada-Hime dying is ok.
+	</ul>
+	
+	<p>Fight Seraph Michael.</p>
+	<ul>
+	<li> AUTO until Bind
+	<li> <span class="tooltip">Summon<span class="tooltiptext">ナカマを よびだす</span></span>) <span class="tooltip">Goblin<span class="tooltiptext">ゴブリン</span></span>
+	<li> Goblin uses <span class="tooltip">Tarukaja<span class="tooltiptext">タルカジャ</span></span> until he runs out of MP
+	<li> AUTO
+	<li> Keep HP above 250 with <span class="tooltip">Diarahan<span class="tooltiptext">ディアラハン</span></span>
+	</ul>
+	
+	<p>Walk forward to finish the game</p>
+</div>
+
+<div id="neutral-path">
+	<p>Re-summon Kushinada-Hime and Cu Sith, same formation. Cast <span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span>. Head through Jikoukuten's Lair and then south to TDL.</p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/SHITENNOH-1F-DHRTARASTRA.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p>Enter T.D.L.</p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/TDL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p>The next three floors have several warps which send you to the next floor, cycling back and forth: 2F → 3F → 4F → 3F. </p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/TDL-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/TDL-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/TDL-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p>Meet Vile Echidna: No</p>
+<p>Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>.</p>
+<h2><a name="ginza">Ginza</a></h2>
+<p>Head outside. </p>
+<div style="text-align:center">
+<img src="images/smt1maps/2d/POLICE.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p>Enter the lower building at any Moon, except New Moon - left chest. Enter the upper building at 2/8 Moon - left chest. Then re-enter Ginza and <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>. </p>
+
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/GINZA-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/GINZA-B2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div>
+<p>Head to the Devil Summoner. Tell him: No -> Yes.</p>
+
+<ul>
+<li> First turn:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span>
+<li> Second turn:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span>
+<li> Third: <span class="tooltip">Hikoubari<span class="tooltiptext">ひこうばり</span></span>, <span class="tooltip">Mazio<span class="tooltiptext">マジオ</span></span>
+</ul>
+<h2><a name="shinagawa">Shinagawa</a></h2>
+<p>Make your way through the Underpass and go south to Shinagawa.</p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/SHINAGAWA-UNDERPASS-B1F.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%;">
+<img src="images/smt1maps/2d/11-Shinagawa.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div>
+<p> Heal at the Messiah and buy more charms if necessary. Head into the Armour Shop.</p>
+<dl>
+<dt> <span class="tooltip">Sell<span class="tooltiptext">うる</span></span></dt>
+<dd>　<span class="tooltip">Magician's Mask<span class="tooltiptext">まどうのマスク</span></span></dd>
+<dt> <span class="tooltip">Buy<span class="tooltiptext">かう</span></span></dt>
+<dd> <span class="tooltip">Dragon Helm<span class="tooltiptext">ドラゴンヘルム</span></span></dd>
+<dd> <span class="tooltip">Dragon Mail<span class="tooltiptext">ドラゴンメイル</span></span></dd>
+<dd> <span class="tooltip">Dragon Punil<span class="tooltiptext">ドラゴンプニル</span></span></dd>
+<dd> <span class="tooltip">Crimson Helm<span class="tooltiptext">くれないのかぶと</span></span></dd>
+<dd> <span class="tooltip">Crimson Mail<span class="tooltiptext">くれないのよろ</span></span></dd>
+<dt> <span class="tooltip">Equip<span class="tooltiptext">そうび</span></span></dt>
+<dd> Hero - <span class="tooltip">Dragon Helm<span class="tooltiptext">ドラゴンヘルム</span></span>,  <span class="tooltip">Dragon Mail<span class="tooltiptext">ドラゴンメイル</span></span>,<span class="tooltip">Dragon Punil<span class="tooltiptext">ドラゴンプニル</span></span></dd>
+<dd> Heroine - 	<span class="tooltip">Crimson Helm<span class="tooltiptext">くれないのかぶと</span></span>, <span class="tooltip">Crimson Mail<span class="tooltiptext">くれないのよろ</span></span>, <span class="tooltip">Lotus Wand<span class="tooltiptext">ロタスウアンド</span></span></dd>
+</dl>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/SHINAGAWA-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/SHINAGAWA-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/SHINAGAWA-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/SHINAGAWA-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div>
+<p>Talk to Haniel. Say No.</p>
+<ul>
+<li> 2 turns: Defend, <span class="tooltip">Tarukaja<span class="tooltiptext">タルカジャ</span></span>, <span class="tooltip">Charm<span class="tooltiptext">チャーム</span></span>, Defend, Sword.
+<li> AUTO. Use another Charm if necessary or heal.
+<li> Assign points to <span class="tooltip">Vitality<span class="tooltiptext">たいりょく</span></span>.
+</ul>
+
+<p> Go up to the 4F and fight the Devil Summoner in 4F:</p>
+<ul>
+<li> First fight: Defend, <span class="tooltip">Hamaya<span class="tooltiptext">はまや</span></span> with Heroine
+<li> Second fight:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span> with Hero, Sword
+<li> Third fight:  <span class="tooltip">Tamagaeri<span class="tooltiptext">たまがえり</span></span> with Hero, <span class="tooltip">Mazio<span class="tooltiptext">マジオ</span></span>
+</ul>
+
+<p>Use <span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span>. Walk into Komukuten's Lair. </p>
+<ul>
+<li> Hero - <span class="tooltip">Holy Water<span class="tooltiptext">せいすい</span></span>
+</ul>
+<p>Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>
+ and transfer to T.D.L.</p>
+
+<h2><a name="tdl">Tokyo Destiny Land</a></h2>
+<p>Save. Enter the Gaia and buy 2x <span class="tooltip">Amulet<span class="tooltiptext">アムレット</span></span>. Head upstairs to meet echidna.</p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/TDL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p> The next three floors have several warps which send you to the next floor, cycling back and forth: 2F → 3F → 4F → 3F. </p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/TDL-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/TDL-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/TDL-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p>    Meet Vile Echidna: No. Fight Echidna.</p>
+<ul>
+<li> 2 turns: Defend, <span class="tooltip">Tarukaja<span class="tooltiptext">タルカジャ</span></span>, <span class="tooltip">Charm<span class="tooltiptext">チャーム</span></span>, Defend, Sword.
+<li> AUTO. Use another Charm if necessary or heal.
+<li> Assign points to <span class="tooltip">Vitality<span class="tooltiptext">たいりょく</span></span>.
+</ul>
+<p>Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>. Head out.</p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/2d/TOKYO-1.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%;">
+<img src="images/smt1maps/3d/SHITENNOH-1F-DHRTARASTRA.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div>
+<p>Walk into Jikoukuten's room. </p>
+<ul>
+<li> Hero - <span class="tooltip">Holy Water<span class="tooltiptext">せいすい</span></span>
+</ul>
+<p>Use <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>. Head out.</p>
+<p>Head through the Passage to the Cathedral.</p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/GINZA-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/GINZA2-B2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/GINZA-B3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<h2><a name="tokyo">Tokyo Building</a></h2>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL2-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div>
+<p>Head into the Cathedral and talk to Hero. Head head upstairs to reach the Law Side.</p>
+<p>Save at the terminal. Head to the Weapon Shop.</p>
+<ul>
+<li> <span class="tooltip">Buy<span class="tooltiptext">かう</span></span>
+<li> <span class="tooltip">Pauza P50<span class="tooltiptext">パウザＰ５０</span></span> → ₹２８０００
+<li> <span class="tooltip">Flash Slugs<span class="tooltiptext">せんこうだん</span></span> → ₹１００００
+<li> <span class="tooltip">Equip<span class="tooltiptext">そうび</span></span></dt> Hero: Pauza P50, Flash Slugs.
+</ul>
+<p>Get the Octopus and head outside. </p>
+
+<p>Swim to the Tokyo Government Building. Head inside and cast <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>. Go back to B1F and talk to Law Hero again, then cast <span class="tooltip">Traesto<span class="tooltiptext">トラエスト</span></span>.</p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/MO-32.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div><p></p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/MO-45.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/MO-46.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+<div style="text-align:center">
+<img src="images/smt1maps/3d/MO-47.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/MO-48.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div>
+<p>Return all demons.	Fight Deity Vishnu.</p>
+<ul>
+<li> AUTO. Stop to heal if necessary.
+</ul>
+	
+<p>Re-summon Kushinada. <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>.</p>
+<h2><a name="cathedral">Lower Cathedral</a></h2>
+<p>Head back and talk to Law Hero and Chaos Hero. You can now enter the Heart of the Cathedral. </p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-B2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-B3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-B4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-B5F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-B6F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-B7F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-B8F.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%; margin-left:5%">
+</div><p></p>
+
+<p>Get poisoned in B5F. Use an <span class="tooltip">Amulet<span class="tooltiptext">アムレット</span></span> in B6F. You can grab a back-up <span class="tooltip">Soma<span class="tooltiptext">ソーマ</span></span> in B7F.	</p>
+
+<p>Fight Chaos Hero and Lilith.</p>
+<ul>
+<li> Return Kushinada, GUN with Hero and SWORD with Heroine.
+<li> AUTO. Stop to heal if necessary.
+</ul>
+
+<p>Finally, at B8F fight Tenma Lord Asura.</p>
+<ul>
+<li> AUTO until Bind
+<li> <span class="tooltip">Summon<span class="tooltiptext">ナカマを よびだす</span></span> <span class="tooltip">Goblin<span class="tooltiptext">ゴブリン</span></span>
+<li> Goblin uses <span class="tooltip">Tarukaja<span class="tooltiptext">タルカジャ</span></span> until he runs out of MP
+<li> AUTO
+<li> Keep HP above 200 with <span class="tooltip">Diarahan<span class="tooltiptext">ディアラハン</span></span>
+</ul>
+<p>Revive Goblin and heal him up completely. Cast <span class="tooltip">Traport<span class="tooltiptext">トラポート</span></span>.</p>
+
+<h2><a name="cathedral2">Upper Cathedral</a></h2>
+<p>Back at the Cathedral, make your way to 8F. Use <span class="tooltip">Amulet<span class="tooltiptext">アムレット</span></span> in 6F.</p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-B1F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-2F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-3F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-4F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-5F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-5F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%;">
+<img src="images/smt1maps/3d/CATHEDRAL-6F.png" alt=" " style="border: 2px solid #fff; width: 40%; height: 40%; margin-left:5%">
+</div><p></p>
+
+<div style="text-align:center">
+<img src="images/smt1maps/3d/CATHEDRAL-8F.png" alt=" " style="border: 2px solid #fff; width: 35%; height: 35%;">
+</div>
+
+<p>In 7F there is another <span class="tooltip">Soma<span class="tooltiptext">ソーマ</span></span> (18) you can get for safety. Fight Law Hero (D):</p>
+<ul>
+<li> AUTO
+<li> Use <span class="tooltip">Soma<span class="tooltiptext">ソーマ</span></span> to cure CHARM if needed.
+<li> Kushinada-Hime dying is ok.
+</ul>
+
+<p>Fight Seraph Michael.</p>
+<ul>
+<li> AUTO until Bind
+<li> <span class="tooltip">Summon<span class="tooltiptext">ナカマを よびだす</span></span>) <span class="tooltip">Goblin<span class="tooltiptext">ゴブリン</span></span>
+<li> Goblin uses <span class="tooltip">Tarukaja<span class="tooltiptext">タルカジャ</span></span> until he runs out of MP
+<li> AUTO
+<li> Keep HP above 250 with <span class="tooltip">Diarahan<span class="tooltiptext">ディアラハン</span></span>
+</ul>
+
+<p>Walk forward to finish the game</p>
+</div>
 
 </section>
 </div>
@@ -676,7 +1140,7 @@
 
 </div>
 
-<script>sizeNotes(); window.addEventListener('resize', sizeNotes);</script>
+<script>changePath(); sizeNotes(); window.addEventListener('resize', sizeNotes); </script>
 </body>
 <footer>
 <h3><a href="#top">Top</a></h3>
