@@ -1,45 +1,32 @@
 import { Fragment } from 'react';
+import {NavLogo} from '../../components/nav-link.styles.jsx'
 import { Outlet, Link, useLocation } from 'react-router-dom';
+import {StyledTopbar} from './topbar.styles.jsx'
 
-import './topbar.styles.css'
 const TopBar = () => {
-
-    const location = useLocation();
-
-    const topBarClass = () => {
-        if(location.pathname.includes("/notes")){
-            return 'Topbar_left'
-        }
-        else{
-            return 'Topbar'
-        }
-    }
 
     return (
         <Fragment>
-            <div className={topBarClass()}>
-                <Link className='logo-container' to='/'>
-                    Logo
+              <StyledTopbar>
+                <Link to='/'>
+                    <NavLogo src="images/iconalt.png"/>
                 </Link>
-                <div className='nav-links-container'>
-                    <Link className='nav-link' to='/home'>
-                        Home
-                    </Link>
-                    <Link className='nav-link' to='/about'>
+                <Link to='/home'>
+                        Home  
+                </Link>
+                <Link to='/about'>
                         About
-                    </Link>
-                    <Link className='nav-link' to='/notes/red'>
+                </Link>
+                <Link to='/notes'>
                         Notes
-                    </Link>
-                    <Link className='nav-link' to='/credits'>
-                        Credits
-                    </Link>
-                    <Link className='nav-link' to='/checklist'>
-                        Checklist
-                    </Link>
-
-                </div>
-            </div>
+                </Link>
+                <Link to='/credits'>
+                        credits                    
+                </Link>
+                <Link to='/checklist'>
+                    Checklist
+                </Link>
+            </StyledTopbar>
             <Outlet />
         </Fragment>
 

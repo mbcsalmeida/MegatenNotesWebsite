@@ -1,13 +1,17 @@
 import '../../App.css';
 import ReactMarkdown from 'react-markdown';
 import { Component } from 'react';
+import {MarkdownContainer} from './container.styles.jsx'
 
 export default class MainContainer extends Component {
+    
+
     constructor(props) {
         super(props)
 
         this.state = { content: null }
     }
+
 
     componentDidMount() {
         const page = "pages/" + this.props.pageURL
@@ -18,10 +22,10 @@ export default class MainContainer extends Component {
 
     render() {
         return (
-            <div>
+            <MarkdownContainer>
                 <ReactMarkdown className="Markdown-Container" children={this.state.content}/>
-            </div>
-        );
+            </MarkdownContainer>
+      )
     }
 }
 

@@ -5,13 +5,6 @@ margin-left: auto;
 background-color: #1f1f1f;
 }
 
-.Markdown-Container{
-	background-color: #ffffff;
-	border: 2px;
-	box-shadow: 0 0 10px #ffffff;
-	padding: 10px;
-	border-radius: 3px;
-}
 
 @keyframes App-logo-spin {
   from {
