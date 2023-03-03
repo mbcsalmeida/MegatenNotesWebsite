@@ -21,7 +21,7 @@ const TopBar = () => {
                         Notes
                 </Link>
                 <Link to='/credits'>
-                        credits                    
+                        Credits                    
                 </Link>
                 <Link to='/checklist'>
                     Checklist

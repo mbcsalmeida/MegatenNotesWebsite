@@ -11,7 +11,7 @@ const SideBar  = () => {
                 <Link to='/'>
                     <NavLogo src="images/icon.png"/>
                 </Link>
-                <NavLink to='/home'>
+                <NavLink  to='/home'>
                         Home  
                 </NavLink>
                 <NavLink to='/about'>
@@ -21,7 +21,7 @@ const SideBar  = () => {
                         Notes
                 </NavLink>
                 <NavLink to='/credits'>
-                        credits                    
+                        Credits                    
                 </NavLink>
                 <NavLink to='/checklist'>
                     Checklist
