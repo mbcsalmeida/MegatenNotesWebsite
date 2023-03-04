@@ -1,7 +1,8 @@
 import '../../App.css';
 import ReactMarkdown from 'react-markdown';
 import { Component } from 'react';
-import {MarkdownContainer} from './container.styles.jsx'
+import {MarkdownContainer, FloatingActionBar, FloatingActionBarIcon, FloatingActionBarBlock, FloatingActionBarText} from './container.styles.jsx'
+
 
 export default class MainContainer extends Component {
     
@@ -9,6 +10,10 @@ export default class MainContainer extends Component {
         super(props)
 
         this.state = { content: null }
+        
+        if(this.props.location.pathname.includes("/notes")){
+            this.className = "main-container-notes"
+       }
     }
 
     updatePage(){
@@ -28,8 +33,16 @@ export default class MainContainer extends Component {
 
     render() {
         return (
-            <MarkdownContainer>
+            <MarkdownContainer className={this.className}>
                 <ReactMarkdown className="Markdown-Container" children={this.state.content}/>
+                <FloatingActionBar>
+                    <FloatingActionBarBlock>
+                        <FloatingActionBarText>Kichijoji</FloatingActionBarText>
+                        <FloatingActionBarText>Shibuya</FloatingActionBarText>
+                        <FloatingActionBarText>Cathedral</FloatingActionBarText>
+                    </FloatingActionBarBlock>
+                    <FloatingActionBarIcon />
+                </FloatingActionBar>
             </MarkdownContainer>
       )
     }

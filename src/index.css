@@ -4,6 +4,7 @@ body {
 	background: #3c3c3c url(../public/images/background.jpg) no-repeat center center fixed;
 	color: #ffffff;
 	overflow-x: hidden; 
+	margin: 0;
 }
 
 root {

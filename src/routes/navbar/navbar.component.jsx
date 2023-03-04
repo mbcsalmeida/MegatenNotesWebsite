@@ -1,7 +1,6 @@
-import { Component } from 'react';
 import TopBar from '../topbar/topbar.component.jsx'
 import SideBar from '../sidebar/sidebar.component.jsx'
-import { Outlet, Link, useLocation } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 
 export const NavBar = () => {
   

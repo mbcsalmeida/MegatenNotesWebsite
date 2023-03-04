@@ -1,25 +1,24 @@
 import './App.css';
 import { Routes, Route, Navigate } from "react-router-dom";
-import { Component } from 'react';
 import {NavBar} from './routes/navbar/navbar.component.jsx';
 import MainContainer from './routes/container/container.component.jsx';
+import { useLocation } from 'react-router-dom';
 
-class App extends Component {
+const App = () => {
+    let location = useLocation();
 
-  render() {
     return (
       <Routes>
         <Route path="/" element={<NavBar />}>
-          <Route index key="root" element={<MainContainer pageURL={"main/home.md"} />} />
-          <Route path="home" key="home" element={<MainContainer pageURL={"main/home.md"} />} />
-          <Route path="about" key="about" element={<MainContainer pageURL={"main/about.md"} />} />
-          <Route path="credits" key="credits" element={<MainContainer pageURL={"main/credits.md"} />} />
-          <Route path="notes" key="notes" element={<MainContainer pageURL={"main/notes.md"} />} />
-          <Route path="checklist" key="checklist" element={<MainContainer pageURL={"main/notes.md"} />} />
+          <Route index key="root" element={<MainContainer location={location} pageURL={"main/home.md"} />} />
+          <Route path="home" key="home" element={<MainContainer location={location} pageURL={"main/home.md"} />} />
+          <Route path="about" key="about" element={<MainContainer location={location} pageURL={"main/about.md"} />} />
+          <Route path="credits" key="credits" element={<MainContainer location={location} pageURL={"main/credits.md"} />} />
+          <Route path="notes" key="notes" element={<MainContainer location={location} pageURL={"main/notes.md"} />} />
+          <Route path="checklist" key="checklist" element={<MainContainer location={location} pageURL={"main/notes.md"} />} />
         </Route>
       </Routes>
     );
-  }
 }
 
 export default App;

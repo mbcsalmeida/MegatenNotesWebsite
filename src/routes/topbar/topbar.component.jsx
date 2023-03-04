@@ -1,7 +1,8 @@
 import { Fragment } from 'react';
 import {NavLogo} from '../../components/nav-link.styles.jsx'
-import { Outlet, Link, useLocation } from 'react-router-dom';
-import {StyledTopbar} from './topbar.styles.jsx'
+import { Outlet} from 'react-router-dom';
+import {StyledTopbar, TopBarLink, LinkContainer, TopBarLogo} from './topbar.styles.jsx';
+import {Link} from 'react-router-dom';
 
 const TopBar = () => {
 
@@ -11,25 +12,26 @@ const TopBar = () => {
                 <Link to='/'>
                     <NavLogo src="images/iconalt.png"/>
                 </Link>
-                <Link to='/home'>
+                <LinkContainer>
+                    <TopBarLink to='/home'>
                         Home  
-                </Link>
-                <Link to='/about'>
+                    </TopBarLink>
+                    <TopBarLink to='/about'>
                         About
-                </Link>
-                <Link to='/notes'>
+                    </TopBarLink>
+                    <TopBarLink to='/notes'>
                         Notes
-                </Link>
-                <Link to='/credits'>
+                    </TopBarLink>
+                    <TopBarLink to='/credits'>
                         Credits                    
-                </Link>
-                <Link to='/checklist'>
-                    Checklist
-                </Link>
+                    </TopBarLink>
+                    <TopBarLink to='/checklist'>
+                        Checklist
+                    </TopBarLink>
+                </LinkContainer>
             </StyledTopbar>
             <Outlet />
         </Fragment>
-
     );
 }
 

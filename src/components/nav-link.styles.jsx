@@ -19,6 +19,6 @@ export const NavLink = styled(Link)`
 export const NavLogo = styled.img`
   display: block;
   height: auto;
-  width: 100%;
-  border-bottom: 1px solid white;
+  margin: auto;
+  width: 50%;
 `
