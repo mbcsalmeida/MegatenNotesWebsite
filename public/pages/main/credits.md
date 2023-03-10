@@ -172,5 +172,3 @@ Devil Children: Fire Book
 Routed By
 
 [me](https://www.twitch.tv/sioneus)
-
-sizeMain(); window.addEventListener('resize', sizeMain);

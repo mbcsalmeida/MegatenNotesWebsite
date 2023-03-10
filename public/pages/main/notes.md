@@ -7,7 +7,7 @@ If you have any questions or advice, please feel free to let me know.
 
 ### [Shin Megami Tensei (SFC)](smt1.html)
 
-[Law](smt1law.html)
+[Law](notes/smt1)
 
 [Neutral](smt1neutral.html)
 

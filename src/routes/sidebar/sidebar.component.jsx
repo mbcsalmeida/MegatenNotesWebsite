@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 import {StyledSideBar} from './sidebar.styles.jsx';
-import {NavLink, NavLogo} from '../../components/nav-link.styles.jsx'
+import {NavLink, NavLogo} from '../../components/nav-link/nav-link.styles.jsx'
 
 const SideBar  = () => {
 

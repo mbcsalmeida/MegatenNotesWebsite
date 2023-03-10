@@ -3,15 +3,9 @@
 
 This website is a collection of speedrun notes of games I've run, interesting information about said games and a list of my personal bests. Every router and person involved with each game are mentioned in the Credits page.
 
-### "Isn't this the same as what's available on speedrun.com?"
+You can download the notes off of the website as well, if you'd prefer having them offline. The notes on this website are my personal ones, with strats I developed, and which I use to run myself. Please, go to speedrun.com for other resources, as the notes alone might not be sufficient to learn the speedrun.
 
-Short answer: yes.
-
-Long answer: I created this website in order to learn the webdev trifecta (HTML+CSS+Javascript). Between waiting to do a boring project for some class I decided to take that dealt with this and making something myself that interested me and that I'd personally find purposeful, I decided to make this. Did I succeed? Somewhat.
-
-Now, most of the notes available here are too available on each respective game's speedrun.com page. However, I felt like I had more creative freedom making them available on a website and some future notes may only be made available here.
-
-Profile
+## Profile
 
 I'm Sion and I'm a portuguese speedrunner who mostly focus on JRPGs, specifically megaten games. I most enjoy running games and categories that haven't been run before and making them more easily runnable by making overly detailed notes and resources for them, and then peer-pressuring every speedrunner I know into running them.
 
