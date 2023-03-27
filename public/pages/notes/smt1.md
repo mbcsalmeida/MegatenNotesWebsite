@@ -76,47 +76,73 @@ Get Money chest and MAG Incense chest.
 ---
 ## Kongo Shinkai
 ---
+Talk to En-no-Ouzo and reunite with all the demons and allies.
+Get the 2 somas from the fountain.
+SAFETY: Save before talking to En-no-Ouzo the second time and leaving LH and CH.
 
-Red Phantom: Azumi, Goblin, Hero, Pyro Jack
-After the 1st turn of using Makakaja, use Hamayas with Hero.
-Hero - INT
+Red Phantom: 
+- First turn: Azumi - Zio; Goblin - Makakaja; Hero - Guard; Pyro Jack - Agilao
+- Remaining turns: Azumi - Zio; Goblin - Makakaja; Hero - Hamaya; Pyro Jack - Agilao
+1. Hero - INT
 
-Zenki and Goki: Hero - INT
-		Law Hero - MAG til 39, VIT til 6, SPD til 18
-		Chaos Hero - INT
+Zenki and Goki: 
+- Azumi - Zio; Goblin - Makakaja; Hero - Guard; Pyro Jack - Agilao; LH - Zanma; CH - Agilao
+1. Hero - INT
+2. Law Hero - MAG til 39, VIT til 6, SPD til 18
+3. Chaos Hero - INT
+---
+## Shinjuku
+---
 
-BEFORE TALKING TO HOMELESS MAN, RIGHT AFTER ENTERING THE POST APOCALYPTICAL WORLD:
+Return to the real world. If necessary, heal with Samarecarm.
 Return Pyro Jack and use Cu Sith, use estoma, change party order:
-Azumi, Goblin, Chaos Hero, Law Hero, Hero, Cu Sith
+- Azumi, Goblin, Chaos Hero, Law Hero, Hero, Cu Sith
 
-Sell weapons and buy Hinraya. If you got any good drops like the 1k sword or 1.25k Machine Gun you can sell them and skip exchanging the cash at the Old Man and go straight to the disco.
-
+Enter Shinjuku.
+Sell weapons, item drops and buy `1x Hinraya`.
 After talking to Ozawa for the first time, go to the Gaia:
-4x こどくのざら (2nd option from the top), 1x Amulet (2x option from the bottom)
+- `4x Poison Plates (2nd option from the top)`
+- `1x Amulet`
 
-Ozawa: Remember to throw a charm!
-	Hero - SPD
-	Law Hero - VIT
-Traestro, Shibuya. Summon Kushinada-Hime at the bottom.
+Ozawa:
+- Azumi - Zio; Goblin - Makakaja; Hero - Guard; Pyro Jack - Agilao; LH - Zanma; CH - Agilao
+or 
+- Azumi - Zio; Goblin - Makakaja; Hero - Guard; Agilao; LH - Zanma; CH - Agilao; Cu Sith - Guard;
+1.	Hero - SPD
+2.	Law Hero - VIT
+
+Traesto.
+
+---
+Shibuya
+---
 
 Go to the healer, heal up Goblin and Cu Sith and buy 1x Tamagaeri and 3x Hamayas.
+Fuse:
+- Pyro Jack x Dryad x Azumi = Kushinada-Hime
 
-Don't get INT incense, after talking to the heroine get the MAG incense (door right at the end of the corridor to the left).
+Talk to the Heroine and traesto outside, to re-enter. Transfer to Shinjuku.
 
-Wendingo: Hero - Holy Water
+Wendingo: 
+- Hero - Holy Water; Rest - Guard
 
-Arachne !!IMPORTANT FOLLOW EXACTLY!!
-1st turn - Makakaja, Charm
-2nd turn - Makakaja, Hamaya
-3rd turn - Makakaja, Hamaya 
-4th turn - Hamaya
-If all goes well, it goes like this, if not I'm sorry
-Law Hero - STR
-Hero - VIT
+Transfer to Shibuya. Walk to Heroine's mind.
+
+Arachne:
+- First turn - Makakaja, Charm
+- Second turn - Makakaja, Hamaya
+- Third turn - Makakaja, Hamaya 
+- Fourth turn - Hamaya
+1. Law Hero - STR
+2. Hero - VIT
 
 Use the MAG incense on the Heroine and equip the drop from Ozawa if you were lucky to get it. Traestro.
 
+---
+## Roppongi
+---
 
+If all goes well, it goes like this, if not I'm sorry
 Use the amulet instead of the Core Shield in B1F. You'll have to go around later.
 
 Nebiros: Tarukaja, Charm, Return, Attack, Sword
