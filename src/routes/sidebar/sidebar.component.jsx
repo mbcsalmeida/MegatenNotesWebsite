@@ -2,6 +2,7 @@ import { Fragment } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 import {StyledSideBar} from './sidebar.styles.jsx';
 import {NavLink, NavLogo} from '../../components/nav-link/nav-link.styles.jsx'
+import icon from '../../images/icon.png'
 
 const SideBar  = () => {
 
@@ -9,7 +10,7 @@ const SideBar  = () => {
         <Fragment>
           <StyledSideBar>
                 <Link to='/'>
-                    <NavLogo src="images/icon.png"/>
+                    <NavLogo src={icon} />
                 </Link>
                 <NavLink  to='/home'>
                         Home  

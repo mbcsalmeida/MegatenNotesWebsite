@@ -3,6 +3,7 @@ import {NavLogo} from '../../components/nav-link/nav-link.styles.jsx'
 import { Outlet} from 'react-router-dom';
 import {StyledTopbar, TopBarLink, LinkContainer, TopBarLogo} from './topbar.styles.jsx';
 import {Link} from 'react-router-dom';
+import icon from '../../images/iconalt.png'
 
 const TopBar = () => {
 
@@ -10,7 +11,7 @@ const TopBar = () => {
         <Fragment>
               <StyledTopbar>
                 <Link to='/'>
-                    <NavLogo src="images/iconalt.png"/>
+                    <NavLogo src={icon} />
                 </Link>
                 <LinkContainer>
                     <TopBarLink to='/home'>

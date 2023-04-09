@@ -16,7 +16,7 @@ const App = () => {
           <Route path="credits" key="credits" element={<MainContainer location={location} pageURL={"main/credits.md"} />} />
           <Route path="notes" key="notes" element={<MainContainer location={location} pageURL={"main/notes.md"} />} />
           <Route path="checklist" key="checklist" element={<MainContainer location={location} pageURL={"main/notes.md"} />} />
-          <Route path="notes/smt1" key="notes/smt1" element={<MainContainer location={location} pageURL={"notes/smt1.md"} />} />
+          <Route exact path="notes/smt1" key="notes/smt1" element={<MainContainer location={location} pageURL={"notes/smt1.md"} />} />
         </Route>
       </Routes>
     );

@@ -21,9 +21,8 @@ export default class MainContainer extends Component {
     }
 
     updatePage(){
-        const page = "pages/" + this.props.pageURL
-        console.log(page)
-         fetch(page)
+        const page = `${process.env.PUBLIC_URL}/pages/${this.props.pageURL}`
+        fetch(page)
             .then((response) => response.text())
             .then((text) => {this.setState({content : text })})  
     }
@@ -42,6 +41,8 @@ export default class MainContainer extends Component {
                 children={this.state.content}
                 remarkPlugins={[remarkGfm]}
                 rehypePlugins={[rehypeSlug]}
+                transformImageUri={ uri => 
+                  `${process.env.PUBLIC_URL}${uri}`}
                 />
                 <FloatingActionButton />
             </MarkdownContainer>

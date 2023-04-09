@@ -142,6 +142,8 @@ Use the MAG incense on the Heroine and equip the drop from Ozawa if you were luc
 ## Roppongi
 ---
 
+![Roppongi Maps](/images/smt1maps/2D/10-Roppongi.png "Roppongi")
+
 If all goes well, it goes like this, if not I'm sorry
 Use the amulet instead of the Core Shield in B1F. You'll have to go around later.
 
