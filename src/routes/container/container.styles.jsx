@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import {Link} from 'react-router-dom';
 
 
 export const MarkdownContainer = styled.div`
@@ -16,12 +15,21 @@ export const MarkdownContainer = styled.div`
     margin-left: 0;
     margin-right: 0;
     width: inherit;
+
+    h2 {
+      scroll-margin-top: 100px;
+      scroll-snap-margin-top: 100px; /* iOS 11 and older */
+    }
+
+    img{
+      width: 50% !important;
+    }
   }
 
   .main-container-notes{
     width: inherit !important;
     margin-right: auto;
-  }  
+  } 
 
   code{
     font-weight: bold;
@@ -31,5 +39,22 @@ export const MarkdownContainer = styled.div`
     padding-bottom: 2px;
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  h2 {
+    scroll-margin-top: 200px;
+    scroll-snap-margin-top: 200px; /* iOS 11 and older */
+  }
+
+  img{
+    border: 1px solid;
+    display: block;
+    margin: auto;
+    width: initial;
+
+    &:hover{
+      width: 80%;
+      transition: all 2s;
+    }
   }
 `

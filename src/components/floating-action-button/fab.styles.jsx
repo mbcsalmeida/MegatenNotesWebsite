@@ -1,13 +1,13 @@
 import styled from 'styled-components';
 
 export const FloatingActionBar = styled.div`
-  width: 10%;
-  height: auto;
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
+  display: inline-flex;
+  bottom: 16px;
+  left: 85%;
+  align-items: center;
+  position: sticky;
+  flex-direction: row-reverse;
+  align-items: inherit;
 `
 
 export const FloatingActionBarIcon = styled.div`
@@ -19,14 +19,15 @@ export const FloatingActionBarIcon = styled.div`
   flex-grow: 1;
 `
 
-export const FloatingActionBarBlock = styled.ul`
+export const FloatingActionBarBlock = styled.div`
   display: flex;
   flex-direction: column;
-  margin-bottom: 3px;
+  margin-bottom: 40px;
   flex-grow: 1;
+  margin-right: 10px;
 `
 
-export const FloatingActionBarText = styled.li`
+export const FloatingActionBarText = styled.a`
 	text-align: center;
 	font-size: 15px;
 	color: white;
@@ -34,4 +35,11 @@ export const FloatingActionBarText = styled.li`
 	margin-bottom: 2px;
 	background: black;
 	word-wrap: break-word;
+  cursor: pointer;
+  padding: 3px;
+  text-decoration: none;
+
+  &:hover{
+    background-color: #006666
+  }
 `
