@@ -10,11 +10,14 @@ export const MarkdownContainer = styled.div`
   box-shadow: 0 0 10px #000;
 	margin-top: 1px;
   margin-left: auto;
+  margin-right: 1%;
+  font-size: x-large;
 
   @media (max-width: 700px){
     margin-left: 0;
     margin-right: 0;
     width: inherit;
+    font-size: large;
 
     h2 {
       scroll-margin-top: 100px;
@@ -52,9 +55,39 @@ export const MarkdownContainer = styled.div`
     margin: auto;
     width: initial;
 
-    &:hover{
+    &::selection{
       width: 80%;
-      transition: all 2s;
+      transition: all 1s;
+      position: relative;
+      z-index: 3;
+      box-shadow: 0 0 20px white;
     }
+  }
+
+  table{
+    width: 100%;
+
+    &:hover{
+      width: 120%;
+      box-shadow: 0 0 20px white;
+      transition: all 1s;
+      z-index: 3;
+      position: relative;
+    }
+  }
+
+  td{
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 5px;
+
+    &:hover{
+      background-color: white;
+      color: black;
+    }
+  }
+
+  a{
+    text-decoration: none;
   }
 `

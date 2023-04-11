@@ -61,11 +61,13 @@ export default class FloatingActionButton extends Component {
             left: "85%",
             border: 2
           }}>
+          <FloatingActionBarIcon />
         </Fab>
         {this.state.showOptions &&
           <FloatingActionBarBlock>
             <FloatingActionBarText onClick={this.toggleImages}>{this.state.showImg ? "Show Images" : "Hide Images"}</FloatingActionBarText>
             <FloatingActionBarText onClick={this.toggleAnchors}>Anchors</FloatingActionBarText>
+            <FloatingActionBarText href={"https://mbcsalmeida.github.io/MegatenNotesWebsite/public/pages/" +this.props.anchor} target="_blank">Download</FloatingActionBarText>
           </FloatingActionBarBlock>
         }
         {this.state.showAnchors &&

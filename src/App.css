@@ -6,8 +6,8 @@ background-color: #1f1f1f;
 }
 
 .main-container-notes{
-  width: 95%;
-  margin-right: auto;
+  width: 95% !important;
+  margin-right: auto !important;
 }
 
 .no-images img{

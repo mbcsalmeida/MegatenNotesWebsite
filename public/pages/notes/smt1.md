@@ -158,6 +158,9 @@ Devil Summoner 1: 	1st - Tamagaeri
 
 Change party order to Cu Sith, Kushinada Hime, Heroine, Hero
 
+## Shinagawa
+---
+
 Enter Shinagawa and turn back around to the YES/NO screen and press No. This makes it so after using traestro instead of standing on top of the building you stand in front of it, avoiding that 1 tile of encounters.
 
 Bookmark the terminal, go to Healer, heal Cu Sith and buy 2x Tamagaeri and 1x Hamaya
@@ -166,13 +169,16 @@ Devil Summoner 2:	1st - Hamaya
 			2nd - Tamagaeri
 			3rd - Tamagaeri
 
-Traestro and re-enter, go to the Messia (if they kick you out, heal someone again at healer), buy like 6 charms and 2x せがきまい 
+Traestro and re-enter, go to the Messia (if they kick you out, heal someone again at healer), buy like 6 charms and 2x せがきまい
 
 Transfer to Ginza. Go to Ikebukuro and do the skip.
 
 In Bishamonten's lair, return Cu Sith after casting estoma.
 Bishamonten: Defend, Mazio, Holy Water/せがきまい
 		Both - VIET
+
+## Ueno
+---
 
 Enter Ueno through the top, normally. Make sure you remember the way to the fight without talking to Lucifer. Summon Goblin before Ladon. 
 Ladon: Both - VIT
@@ -181,6 +187,9 @@ Summon Cu Sith and get out, get Magician Mask.
 
 Jikoukuten: Defend, Defend, Defend, Holy Water/せがきまい
 
+
+## TDL
+---
 Enter TDL, turn back around to the YES/NO screen and press No. Cast TRAPORT to Ginza.
 Do shopping normally, watch out for money. 
 

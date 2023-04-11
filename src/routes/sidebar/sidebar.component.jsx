@@ -1,8 +1,8 @@
 import { Fragment } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 import {StyledSideBar} from './sidebar.styles.jsx';
-import {NavLink, NavLogo} from '../../components/nav-link/nav-link.styles.jsx'
-import icon from '../../images/icon.png'
+import {NavLink, NavLogo, NavLinkText} from '../../components/nav-link/nav-link.styles.jsx'
+import icon from '../../res/icon.png'
 
 const SideBar  = () => {
 
@@ -13,19 +13,19 @@ const SideBar  = () => {
                     <NavLogo src={icon} />
                 </Link>
                 <NavLink  to='/home'>
-                        Home  
+                        <NavLinkText>Home</NavLinkText>  
                 </NavLink>
                 <NavLink to='/about'>
-                        About
+                        <NavLinkText>About</NavLinkText>
                 </NavLink>
-                <NavLink to='/notes'>
-                        Notes
+                <NavLink to='/games'>
+                        <NavLinkText>Notes</NavLinkText>
                 </NavLink>
                 <NavLink to='/credits'>
-                        Credits                    
+                        <NavLinkText>Credits</NavLinkText>                    
                 </NavLink>
                 <NavLink to='/checklist'>
-                    Checklist
+                    <NavLinkText>Checklist</NavLinkText>
                 </NavLink>
           </StyledSideBar>
           <Outlet />

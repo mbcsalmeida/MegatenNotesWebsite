@@ -18,6 +18,14 @@ export const LinkContainer = styled.div`
     border-top: 1px solid white;
 `
 
+export const TopBarLogo = styled.img`
+  display: block;
+  height: auto;
+  margin: auto;
+  width: 50%;
+`
+
+
 export const TopBarLink = styled(Link)`
     text-decoration: none;
     color: white;

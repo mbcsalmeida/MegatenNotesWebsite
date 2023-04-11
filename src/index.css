@@ -1,7 +1,7 @@
 body {
   font-family: "ProggyCleanTT CE Nerd Font","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック";
 	font-size: 18px;
-	background: #3c3c3c url(images/background.jpg) no-repeat center center fixed;
+	background: #3c3c3c url(res/background.jpg) no-repeat center center fixed;
 	color: #ffffff;
 	overflow-x: hidden; 
 	margin: 0;

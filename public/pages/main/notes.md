@@ -5,15 +5,12 @@ Here is the list of notes I've made so far. The game title has a page with gener
 
 If you have any questions or advice, please feel free to let me know.
 
-### [Shin Megami Tensei (SFC)](smt1.html)
-
-[Law](notes/smt1)
-
-[Neutral](smt1neutral.html)
-
-[Chaos](smt1chaos.html)
-
-[All Bosses](smt1bosses.html)
+| [Shin Megami Tensei (SFC)](smt1.html) |
+|:-:|
+| [Law](notes/smt1) |
+| [Neutral](smt1neutral.html) |
+| [Chaos](smt1chaos.html) |
+| [All Bosses](smt1bosses.html) |
 
 ### [Shin Megami Tensei (GBA)](smt1.html)
 

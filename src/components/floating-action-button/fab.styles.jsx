@@ -11,12 +11,7 @@ export const FloatingActionBar = styled.div`
 `
 
 export const FloatingActionBarIcon = styled.div`
-	width: 40px;
-	height: 60px;
-	background-color: orange;
-	border-radius: 100%;
-  margin-left: auto;
-  flex-grow: 1;
+  background: url(../../res/icon.png) no-repeat center center fixed;	
 `
 
 export const FloatingActionBarBlock = styled.div`
