@@ -8,8 +8,7 @@ export const NavBar = () => {
   const bar_titles = {
       "Home" : "/",
       "About" : "/about",
-      "Notes" : "/notes",
-      "Checklist" : "/checklist",
+      "Notes" : "/games",
       "Credits" : "/credits"
   } 
 

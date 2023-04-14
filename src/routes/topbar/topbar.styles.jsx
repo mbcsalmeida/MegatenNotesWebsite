@@ -1,14 +1,16 @@
 import styled from 'styled-components';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
+import '../../App.css'
 
 export const StyledTopbar = styled.div`
     margin: 0px;
     display: block;
     position: sticky;
-    top: 0;
+    top: -8vw;
     border: 2px solid white;
     background-color: black;
     margin-bottom: 10px;
+    z-index: 5;
 `
 
 
@@ -16,6 +18,8 @@ export const LinkContainer = styled.div`
 	display: flex;
 	text-align: center;
     border-top: 1px solid white;
+    animation-name: slide-in;
+    animation-duration: 1s;
 `
 
 export const TopBarLogo = styled.img`
@@ -23,6 +27,8 @@ export const TopBarLogo = styled.img`
   height: auto;
   margin: auto;
   width: 50%;
+  animation-name: slide-in;
+  animation-duration: 1.5s;
 `
 
 

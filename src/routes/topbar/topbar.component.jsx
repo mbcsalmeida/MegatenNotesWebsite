@@ -5,7 +5,7 @@ import {StyledTopbar, TopBarLink, LinkContainer, TopBarLogo} from './topbar.styl
 import {Link} from 'react-router-dom';
 import icon from '../../res/iconalt.png'
 
-const TopBar = () => {
+const TopBar = (props) => {
 
     return (
         <Fragment>
@@ -14,21 +14,13 @@ const TopBar = () => {
                     <TopBarLogo src={icon} />
                 </Link>
                 <LinkContainer>
-                    <TopBarLink to='/home'>
-                        Home  
-                    </TopBarLink>
-                    <TopBarLink to='/about'>
-                        About
-                    </TopBarLink>
-                    <TopBarLink to='/games'>
-                        Notes
-                    </TopBarLink>
-                    <TopBarLink to='/credits'>
-                        Credits                    
-                    </TopBarLink>
-                    <TopBarLink to='/checklist'>
-                        Checklist
-                    </TopBarLink>
+                    {
+                    Object.keys(props.titles).map((title) => {
+                        return (<TopBarLink key={title} to={props.titles[title]}>
+                            {title} 
+                        </TopBarLink>);
+                    })
+                }
                 </LinkContainer>
             </StyledTopbar>
             <Outlet />

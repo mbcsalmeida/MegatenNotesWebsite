@@ -3,6 +3,8 @@
 
 ### [SMT/Persona Speedrunners Twitch Team](https://www.twitch.tv/team/smtspeedrunning)
 
+**** - Added UI improvements to the website, option to download notes, option to display notes without pictures
+
 **05/11/2022** - Moved tabs to tumblr blog, fixed broken img links
 
 **25/08/2022** - Updated Another Bible notes, added megaten games checklist

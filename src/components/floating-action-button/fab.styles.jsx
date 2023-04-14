@@ -10,8 +10,7 @@ export const FloatingActionBar = styled.div`
   align-items: inherit;
 `
 
-export const FloatingActionBarIcon = styled.div`
-  background: url(../../res/icon.png) no-repeat center center fixed;	
+export const FloatingActionBarIcon = styled.img`	
 `
 
 export const FloatingActionBarBlock = styled.div`

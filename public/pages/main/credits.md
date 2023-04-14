@@ -1,174 +1,26 @@
 # Credits
 ---
 
-Shin Megami Tensei I (SFC)
---------------------------
+Thank you to **[masaya](https://www.nicovideo.jp/user/22877929)** for his incessant ground-breaking work in SMT1 speedrunning, having found many glitches that became Any% routes and optimizations for the NMG routes as well. 
 
-Any%
+Thank you, as well, to **[mizusima40](https://mizusima40.seesaa.net/)**, the current WR holder for many Megaten records, for making his notes available to the public and continuously working hard at achieving good times.
 
-Routed By
+Thank you to [Symm\_](https://www.twitch.tv/symm_), one of the first english-speaking runners to run most of the classic megaten games; [lradial](https://www.twitch.tv/lradial), one of the people who most cheered me on and gave me motivation to continue speedrunning; [filthyblasphemer](https://www.twitch.tv/filthyblasphemer), my SMT1 race partner, whom I share one of my most fun gaming memories with.
 
-[masaya](https://www.nicovideo.jp/user/22877929)
+SMT I, SMT II and SMT If... maps were taken from [atwiki](https://w.atwiki.jp/shinmegamitensei1/pages/383.html).
 
-Law/Neutral/Chaos
 
-Routed By
+Thank you to [futarime](https://www.nicovideo.jp/user/805701) for the Megami Tensei Gaiden: Last Bible I route.
 
-[mizusima40](https://mizusima40.seesaa.net/)
+Last Bible maps were taken from [Pidlio](https://pidlio.com/lb1/map/index.html). Extra information was taken from [Outsider](http://mugi.parfe.jp/lb/lbtop.html).
 
-All Bosses
 
-Routed By
+Thank you to [Otogitune](https://www.twitch.tv/otogitune) for routing Devil Children: Red Book and SMT: Synchronicity Prologue.
 
-[me](https://www.twitch.tv/sioneus)
+Devil Children Red/Black/White Book were provided by [bman](https://www.twitch.tv/therealbmanbeast).
 
-Maps
 
-Info
 
-Special thanks
+Thank you to the mysterious writer of [this blog](http://blog.livedoor.jp/hirosue_peer/archives/cat_50051892.html) for routing Devil Summoner.
 
-[atwiki](https://w.atwiki.jp/shinmegamitensei1/pages/383.html)
-
-[SMT Lab](https://smtlab.web.fc2.com/)
-
-[Symm\_](https://www.twitch.tv/symm_), [lradial](https://www.twitch.tv/lradial), [filthyblasphemer](https://www.twitch.tv/filthyblasphemer)
-
-Shin Megami Tensei II (SFC)
----------------------------
-
-Law
-
-Routed By
-
-[mizusima40](https://mizusima40.seesaa.net/)
-
-Chaos/Neutral/All Bosses
-
-Routed By
-
-[me](https://www.twitch.tv/sioneus)
-
-Maps
-
-Manipped By
-
-Special thanks
-
-[atwiki](https://w.atwiki.jp/shinmegamitensei2/171.html)
-
-[me](https://www.twitch.tv/sioneus)
-
-[lradial](https://www.twitch.tv/lradial), [Symm\_](https://www.twitch.tv/symm_)
-
-Shin Megami Tensei If... (SFC)
-------------------------------
-
-Yumi Route
-
-Routed By
-
-[mizusima40](https://mizusima40.seesaa.net/)
-
-Maps
-
-Manipped By
-
-[atwiki](https://w.atwiki.jp/shinmegamitenseiif/pages/196.html)
-
-[Symm\_](https://www.twitch.tv/symm_)
-
-Megami Tensei Gaiden: Last Bible I
-----------------------------------
-
-Routed By
-
-[futarime](https://www.nicovideo.jp/user/805701)
-
-Maps
-
-Info
-
-Special thanks
-
-[Pidlio](https://pidlio.com/lb1/map/index.html)
-
-[Outsider](http://mugi.parfe.jp/lb/lbtop.html)
-
-[Symm\_](https://www.twitch.tv/symm_), [soma](https://www.twitch.tv/soma_nx), [filthyblasphemer](https://www.twitch.tv/filthyblasphemer)
-
-Megami Tensei Gaiden: Last Bible II
------------------------------------
-
-Routed By
-
-[mizusima40](https://mizusima40.seesaa.net/)
-
-Maps
-
-Info
-
-[Pidlio](https://pidlio.com/lb2/map/index.html)
-
-[Outsider](http://mugi.parfe.jp/lb2/lb2top.html)
-
-Another Bible
--------------
-
-Routed By
-
-[me](https://www.twitch.tv/sioneus)
-
-Maps
-
-[Outsider](http://mugi.parfe.jp/ab/abtop.html)
-
-Devil Children Red/Black Book (PSX)
------------------------------------
-
-Red Book
-
-Black Book
-
-Routed By
-
-[Otogitune](https://www.twitch.tv/otogitune)
-
-[Sioneus](https://www.twitch.tv/sioneus)
-
-Maps
-
-[bman](https://www.twitch.tv/therealbmanbeast)
-
-Devil Summoner (PSP)
---------------------
-
-Routed By
-
-[Here](http://blog.livedoor.jp/hirosue_peer/archives/cat_50051892.html)
-
-Maps
-
-[atwiki](https://w.atwiki.jp/devilsummoner/)
-
-Shin Megami Tensei V
---------------------
-
-Safety - Any%
-
-Safety - TNE
-
-Routed By
-
-[me](https://www.twitch.tv/sioneus)
-
-Maps
-
-SMT Discord
-
-Devil Children: Fire Book
--------------------------
-
-Routed By
-
-[me](https://www.twitch.tv/sioneus)
+Devil Summoner maps were taken from [atwiki](https://w.atwiki.jp/devilsummoner/).

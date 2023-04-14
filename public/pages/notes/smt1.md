@@ -7,12 +7,33 @@ First dream sequence:
 - Chaos Hero - All MAG
 - Heroine - SPD til 9, STR til 19
 
+![Overworld Kichijoji](/images/smt1maps/2D/02-InokashiraPark.png "Kichijoji") ![Inokashira Park](/images/smt1maps/3D/INOKASHIRA-PARK-1F.png "Inokashira Park")
+
 Buy 3 *Hamayas*, get the 400 mag.
+
+![Hospital](/images/smt1maps/3D/HOSPITAL-1F.png "Hospital") ![Hospital 2F](/images/smt1maps/3D/HOSPITAL-2F.png "Hospital 2F")
 
 **Orias**: 
 - Hero - Guard; LH - Hamaya
 1. Law Hero - All SPD
 2. Protag - All INT
+
+Sell `うる`: Total 32580¥
+- Attack Knife `アタックナイフ`
+- Machette `マチェット`
+- Beretta `92Fベレッタ９２Ｆ`
+- Spike Rod `スパイクロッド`
+- MPS Machine Gun `ＭＰＳマシンガン`
+- Combat Boots `コンバットブツ`
+- Rebetta Knuckle `レベットナックル`
+
+Buy `かう`
+- Head Gear `ヘッドギア`
+- Survival Vest `サバイバーベスト`
+
+Equip `そうび`
+- Chaos Hero - Head Gear `ヘッドギア` and Survival Vest `サバイバーベスト`
+- Hero - Cerbera Vest `ケルブラーベスト` and Full Helm `フルヘルム`
 
 **Mother**: 
 - Hero - Guard; LH - Guard; CH - Hamaya
@@ -20,7 +41,9 @@ Buy 3 *Hamayas*, get the 400 mag.
 2. Law Hero - MAG
 3. Chaos Hero - MAG
 
-Buy `6 Hamayas` and `1 Tamagaeri`.
+Inokashira Park again. Buy `6 Hamayas` and `1 Tamagaeri`.
+
+![Echo Building](/images/smt1maps/3D/ECHO-BILL-1F.png "Echo Building") ![Echo Building 5F](/images/smt1maps/3D/ECHO-BILL-5F.png "Echo Building 5F")
 
 **Douman**:
 - Hero - Guard; LH - Hamaya; CH - Hamaya
@@ -28,10 +51,11 @@ Buy `6 Hamayas` and `1 Tamagaeri`.
 2. Law Hero - SPD
 3. Chaos Hero - MAG
    
-
 ---
 ## Shinjuku
 ---
+
+![Lab 2F](/images/smt1maps/3D/LABORATORY-2F.png) ![Lab 1F](/images/smt1maps/3D/LABORATORY-1F.png)
 
 Recruits in this area:
 - Goblin
@@ -41,6 +65,8 @@ Recruits in this area:
 - Azumi
 - Cu Sith
   
+![Shinjuku Underground Mall](/images/smt1maps/2D/04-Shinjuku-Mall.png) ![Shinjuku Underground Mall B1F](/images/smt1maps/3D/SHINJUKU-B1F.png)
+
 Get the Bar Matchbook, answers: NO -> YES -> NO.
 
 Bookmark terminal after talking to heroine. 
@@ -56,7 +82,10 @@ Buy `2x Holy Waters`.
 2. Law Hero - MAG
 3. Chaos Hero - MAG
 
-Grab 1400MAG chest at Ozawa's lair.
+Grab 1400MAG chest at Ozawa's lair. After selling Heroine's gun, get a total of `4x Holy Waters` and buy `Charms` until you have around 6,000 yen left.
+
+![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU-B1F.png) ![Path to Ichigaya Garrison](/images/smt1maps/2D/07-Ichigaya.png)
+![Ichigaya Garrison 1F](/images/smt1maps/3D/ICHIGAYA-1F.png) ![Ichigaya Garrison 3F](/images/smt1maps/3D/ICHIGAYA-3F.png)
 
 **Ozawa**:
 - First turn: Hero - Guard; LH - Holy Water; CH - Agilao
@@ -64,7 +93,8 @@ Grab 1400MAG chest at Ozawa's lair.
 2. Law Hero - MAG
 3. Chaos Hero - MAG
 
-After selling Heroine's gun, get a total of `4x Holy Waters` and buy `Charms` until you have around 6,000 yen left.
+![Path to American Embassy](/images/smt1maps/2D/08-American-Embassy.png) ![American Embassy B1F](/images/smt1maps/3D/TAISHIKAN-B1F_YOTSUYA-UNDERPASS.png)
+![American Embassy 1F](/images/smt1maps/3D/TAISHIKAN-1F.png) ![American Embassy 2F](/images/smt1maps/3D/TAISHIKAN-2F.png)
 
 **Thor**: 
 - 
@@ -76,16 +106,19 @@ Get Money chest and MAG Incense chest.
 ---
 ## Kongo Shinkai
 ---
+
+![Kongo Shinkai](/images/smt1maps/3D/KONGOU-SHINKAI.png)
+
 Talk to En-no-Ouzo and reunite with all the demons and allies.
 Get the 2 somas from the fountain.
 SAFETY: Save before talking to En-no-Ouzo the second time and leaving LH and CH.
 
-Red Phantom: 
+**Red Phantom**: 
 - First turn: Azumi - Zio; Goblin - Makakaja; Hero - Guard; Pyro Jack - Agilao
 - Remaining turns: Azumi - Zio; Goblin - Makakaja; Hero - Hamaya; Pyro Jack - Agilao
 1. Hero - INT
 
-Zenki and Goki: 
+**Zenki and Goki**: 
 - Azumi - Zio; Goblin - Makakaja; Hero - Guard; Pyro Jack - Agilao; LH - Zanma; CH - Agilao
 1. Hero - INT
 2. Law Hero - MAG til 39, VIT til 6, SPD til 18
@@ -98,13 +131,16 @@ Return to the real world. If necessary, heal with Samarecarm.
 Return Pyro Jack and use Cu Sith, use estoma, change party order:
 - Azumi, Goblin, Chaos Hero, Law Hero, Hero, Cu Sith
 
+![Path to Shinjuku](/images/smt1maps/2D/09-Shinjuku.png) ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU2-B1F.png)
+![Shinjuku Disco](/images/smt1maps/3D/SHINJUKU2-B2F_DISCO.png) ![Shinjuku 2F](/images/smt1maps/3D/SHINJUKU2-2F_YAKUZA-BILL.png)
+
 Enter Shinjuku.
 Sell weapons, item drops and buy `1x Hinraya`.
 After talking to Ozawa for the first time, go to the Gaia:
 - `4x Poison Plates (2nd option from the top)`
 - `1x Amulet`
 
-Ozawa:
+**Ozawa**:
 - Azumi - Zio; Goblin - Makakaja; Hero - Guard; Pyro Jack - Agilao; LH - Zanma; CH - Agilao
 or 
 - Azumi - Zio; Goblin - Makakaja; Hero - Guard; Agilao; LH - Zanma; CH - Agilao; Cu Sith - Guard;
@@ -117,18 +153,24 @@ Traesto.
 Shibuya
 ---
 
+![Shibuya 1F](/images/smt1maps/3D/SHIBUYA-1F.png) ![Shibuya 2F](/images/smt1maps/3D/SHIBUYA-2F.png)
+
 Go to the healer, heal up Goblin and Cu Sith and buy 1x Tamagaeri and 3x Hamayas.
 Fuse:
 - Pyro Jack x Dryad x Azumi = Kushinada-Hime
 
 Talk to the Heroine and traesto outside, to re-enter. Transfer to Shinjuku.
 
-Wendingo: 
+![Shinjuku Mall](/images/smt1maps/3D/SHINJUKU2-B1F-2.png) ![Shinjuku Underground](/images/smt1maps/3D/SHINJUKU2-B2F_AGITATION-POINT.png)
+
+**Wendingo**: 
 - Hero - Holy Water; Rest - Guard
 
 Transfer to Shibuya. Walk to Heroine's mind.
 
-Arachne:
+![Heroine's Mind](/images/smt1maps/3D/SEISHIN-SEKAI-1F.png)
+
+**Arachne**:
 - First turn - Makakaja, Charm
 - Second turn - Makakaja, Hamaya
 - Third turn - Makakaja, Hamaya 
@@ -144,39 +186,61 @@ Use the MAG incense on the Heroine and equip the drop from Ozawa if you were luc
 
 ![Roppongi Maps](/images/smt1maps/2D/10-Roppongi.png "Roppongi")
 
-If all goes well, it goes like this, if not I'm sorry
+![Roppongi 1F](/images/smt1maps/3D/ROPPONGI-1F.png) ![Roppongi B1F](/images/smt1maps/3D/ROPPONGI-B1F.png)
+
 Use the amulet instead of the Core Shield in B1F. You'll have to go around later.
 
-Nebiros: Tarukaja, Charm, Return, Attack, Sword
+![Roppongi 3F](/images/smt1maps/3D/ROPPONGI-3F.png) ![Roppongi B1F](/images/smt1maps/3D/ROPPONGI-B1F-2.png)
+
+**Nebiros**: 
+- Tarukaja, Charm, Return, Attack, Sword
+1. Hero - VIT
 Summon Cu Sith back on the first slot.
+
+![Ginza Underpass B1F](/images/smt1maps/3D/GINZA-UNDERPASS-B1F-ROPPONGI.png) ![Ginza Underpass B2F](/images/smt1maps/3D/GINZA-UNDERPASS-B2F-ROPPONGI.png)
+
+![Ginza Underpass B3F](/images/smt1maps/3D/GINZA-UNDERPASS-B3F.png) ![Ginza Underpass to Ginza](/images/smt1maps/3D/GINZA-UNDERPASS-B2F-GINZA.png)
 
 Save at Ginza and go to Shinagawa.
 
-Devil Summoner 1: 	1st - Tamagaeri
-			2nd - Tamagaeri
-			3rd - ドルミナーDormina with Cu Sith, こどくざら, Dormina with 									Heroine
+**Devil Summoner 1**: 	
+- 1st - Tamagaeri
+- 2nd - Tamagaeri
+- 3rd - `ドルミナー` Dormina with Cu Sith, Poison Plates (`こどくざら`), Dormina with Heroine
 
 Change party order to Cu Sith, Kushinada Hime, Heroine, Hero
 
+![Shinagawa Underpass](/images/smt1maps/3D/SHINAGAWA-UNDERPASS-B1F.png) ![Path to Shinagawa](/images/smt1maps/2D/11-Shinagawa.png)
+
+---
 ## Shinagawa
 ---
+
+![SHINAGAWA 1F](/images/smt1maps/3D/SHINAGAWA-1F.png) ![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F.png)
+![SHINAGAWA 3F](/images/smt1maps/3D/SHINAGAWA-3F.png) ![SHINAGAWA 4F](/images/smt1maps/3D/SHINAGAWA-4F.png)
 
 Enter Shinagawa and turn back around to the YES/NO screen and press No. This makes it so after using traestro instead of standing on top of the building you stand in front of it, avoiding that 1 tile of encounters.
 
 Bookmark the terminal, go to Healer, heal Cu Sith and buy 2x Tamagaeri and 1x Hamaya
 
-Devil Summoner 2:	1st - Hamaya
-			2nd - Tamagaeri
-			3rd - Tamagaeri
+**Devil Summoner 2**:	
+- 1st - Hamaya
+- 2nd - Tamagaeri
+- 3rd - Tamagaeri
 
-Traestro and re-enter, go to the Messia (if they kick you out, heal someone again at healer), buy like 6 charms and 2x せがきまい
+Traestro and re-enter, go to the Messia (if they kick you out, heal someone again at healer), buy like 6 charms and 2x `せがきまい`
 
 Transfer to Ginza. Go to Ikebukuro and do the skip.
 
 In Bishamonten's lair, return Cu Sith after casting estoma.
-Bishamonten: Defend, Mazio, Holy Water/せがきまい
-		Both - VIET
 
+![BISHAMONTEN](/images/smt1maps/3D/BISHAMONTEN.png)
+
+**Bishamonten**: 
+- Defend, Mazio, Holy Water/せがきまい
+- Both - VIT
+
+---
 ## Ueno
 ---
 
@@ -185,18 +249,124 @@ Ladon: Both - VIT
 
 Summon Cu Sith and get out, get Magician Mask.
 
-Jikoukuten: Defend, Defend, Defend, Holy Water/せがきまい
+![JIKOUKUTEN](/images/smt1maps/3D/JIKOUKUTEN.png)
 
 
+Jikoukuten: Defend, Defend, Defend, Holy Water/`せがきまい`
+
+---
 ## TDL
 ---
+
+![GINZA-B1F](/images/smt1maps/3D/GINZA-B1F.png)
+
 Enter TDL, turn back around to the YES/NO screen and press No. Cast TRAPORT to Ginza.
-Do shopping normally, watch out for money. 
+**Sellうる**
+- Magician's Mask `まどうのマスク`
+- Any weapon drops.
+**Buyかう**
+- Pauza P50パウザＰ５０ ~ 28,000
+- SPAS-12SPAS-12 ~ 10,000
+
+Head to the Armor stores.
+
+**Buyかう**
+- Dark Crown `ダーククラウン` ~ 2,200
+- 2x Tetrajama `テトラジャマー` ~ 5,000 each
+- Atlas Glove `アトラスのこて` ~2,300
+- Kishin Glove `きしんのこて` ~ 4,500
+- Metal Boots `メタルブーツ` ~ 5,000
 
 Summon Goblin on top after equipping everything after getting the bullets.
 
-Echidna: 
-Tarukaja, Return (Kushinada), Mazio, Charm - THIS WORKS SOMEHOW BELIEVE ME
-If Charm misses, repeat, if not:
-Tarukaja, Gun, Gun
-After ~4 tarukaja, return Goblin
+Head inside, enter the Gaia and buy 1x Pentagram `ペンタグラム` (400) and Amulet `アムレット` (480).
+
+**Buyかう**
+- 2x Flash Bullets `せんこうだん` - 10,000
+**Equipそうび**
+- Hero - Pauza P50 `パウザＰ５０`, Tetrajama `テトラジャマー`, Dark Crown `ダーククラウン`, Atlas Glove `アトラスのこて`, Metal Boots `メタルブーツ`, Flash Bullets `せんこうだん`
+- Heroine - SPAS-12,Tetrajama `テトラジャマー`,Kishin Glove `きしんのこて`, Flash Bullets `せんこうだん`
+
+![TDL-1F](/images/smt1maps/3D/TDL-1F.png) ![TDL-2F](/images/smt1maps/3D/TDL-2F.png) 
+![TDL-3F](/images/smt1maps/3D/TDL-3F.png) ![TDL-4F](/images/smt1maps/3D/TDL-4F.png)
+
+
+**Echidna:**
+- Tarukaja, Return (Kushinada), Mazio, Charm - THIS WORKS SOMEHOW BELIEVE ME
+- If Charm misses, repeat, if not:
+- Tarukaja, Gun, Gun
+- After ~4 tarukaja, return Goblin
+Use Traport `トラポート`. Head out.
+    
+Head outside.
+    
+![GINZA-B1F](/images/smt1maps/3D/GINZA-B1F.png) ![POLICE](/images/smt1maps/2D/POLICE.png)
+
+Enter the lower building at any Moon, except New Moon - left chest. Enter the upper building at 2/8 Moon - left chest. Then re-enter Ginza and Traport `トラポート` and transfer to Shinagawa.
+
+![SHINAGAWA-1F](/images/smt1maps/3D/SHINAGAWA-1F.png) ![SHINAGAWA-2F](/images/smt1maps/3D/SHINAGAWA-2F.png)
+
+![SHINAGAWA-3F](/images/smt1maps/3D/SHINAGAWA-3F.png) 
+    
+Bookmark the exit and go to Law Hero, say Yes to Haniel. Re-summon Cu Sith and traestro to head to the Cathedral.
+
+---
+Upper Cathedral
+---
+
+Talk to Law Hero to trigger the flood, get the Octopus and traestro to head to the Chaos Side. Heal up if needed at the Gaia, save at terminal on Chaos side.
+
+Grab the angels in floors 2F, 3F and 4F.
+
+![CATHEDRAL-1F](/images/smt1maps/3D/CATHEDRAL-1F.png) ![CATHEDRAL-B1F](/images/smt1maps/3D/CATHEDRAL-B1F.png)
+
+![CATHEDRAL-2F](/images/smt1maps/3D/CATHEDRAL-2F.png) ![CATHEDRAL-3F](/images/smt1maps/3D/CATHEDRAL-3F.png)
+
+![CATHEDRAL-4F](/images/smt1maps/3D/CATHEDRAL-4F.png) ![CATHEDRAL-5F](/images/smt1maps/3D/CATHEDRAL-5F.png)
+
+![CATHEDRAL-6F](/images/smt1maps/3D/CATHEDRAL-6F.png) ![CATHEDRAL-7F](/images/smt1maps/3D/CATHEDRAL-7F.png)
+
+![CATHEDRAL-8F](/images/smt1maps/3D/CATHEDRAL-8F.png)
+
+In 7F there is another Soma `ソーマ` (18) you can get for safety.
+
+After talking to Law Hero at the top of the cathedral, Traport and head oustside to go fuse the Angel Ring in Ikebukuro.
+
+Traport `トラポート` and swim to Ikebukuro.
+
+![SUGAMO-PRISON-45F](/images/smt1maps/3D/SUGAMO-PRISON-45F.png)
+
+Traport `トラポート`.
+    
+---
+Lower Cathedral
+---
+
+![CATHEDRAL-1F](/images/smt1maps/3D/CATHEDRAL-1F.png)
+
+![CATHEDRAL-B1F](/images/smt1maps/3D/CATHEDRAL-B1F.png) ![CATHEDRAL-B2F](/images/smt1maps/3D/CATHEDRAL-B2F.png)
+
+![CATHEDRAL-B3F](/images/smt1maps/3D/CATHEDRAL-B3F.png) ![CATHEDRAL-B4F](/images/smt1maps/3D/CATHEDRAL-B4F.png)
+
+![CATHEDRAL-B5F](/images/smt1maps/3D/CATHEDRAL-B5F.png) ![CATHEDRAL-B6F](/images/smt1maps/3D/CATHEDRAL-B6F.png)
+
+![CATHEDRAL-B7F](/images/smt1maps/3D/CATHEDRAL-B7F.png) ![CATHEDRAL-B8F](/images/smt1maps/3D/CATHEDRAL-B8F.png)
+
+Use an Amulet `アムレット` in B6F. You can grab a back-up Soma `ソーマ` in B7F.
+
+Equip the Magician's Mask `まどうのマスク` and Lotus Wand `ロタスウアンド` on Heroine before the fight.
+
+Fight Chaos Hero and Lilith.
+
+*   Return Kushinada, GUN with Hero and SWORD with Heroine.
+*   AUTO. Stop to heal if necessary.
+
+Finally, at B8F fight Tenma Lord Asura.
+
+*   AUTO until Bind
+*   Summon `ナカマをよびだす` Goblin `ゴブリン`
+*   Goblin uses Tarukajaタルカジャ until he runs out of MP
+*   AUTO
+*   Keep HP above 200 with Diarahan `ディアラハン`
+
+Walk forward to finish the game

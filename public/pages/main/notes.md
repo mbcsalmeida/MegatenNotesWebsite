@@ -5,63 +5,44 @@ Here is the list of notes I've made so far. The game title has a page with gener
 
 If you have any questions or advice, please feel free to let me know.
 
-| [Shin Megami Tensei (SFC)](smt1.html) |
+| Shin Megami Tensei (SFC)| Shin Megami Tensei (GBA) | Shin Megami Tensei (PSX) |
+|:-:| :-: | :-: |
+| [Law](notes/smt1) | [Law](smt1gbal.html) | [Law]()|
+| - | [Neutral](smt1gban.html) | -|
+| - | [Chaos](smt1gbac.html) | -|
+| [All Bosses](notes/smt1bosses) | - | -|
+
+|Shin Megami Tensei II (SFC)|
+| :-: |
+|[Law](notes/smt2law)|
+|[Neutral](notes/smt2neutral)|
+|[Chaos](notes/smt2chaos)|
+|[All Bosses](notes/smt2bosses)|
+
+|Shin Megami Tensei If... (SFC)|
 |:-:|
-| [Law](notes/smt1) |
-| [Neutral](smt1neutral.html) |
-| [Chaos](smt1chaos.html) |
-| [All Bosses](smt1bosses.html) |
+|[Yumi](notes/ifyumi)|
 
-### [Shin Megami Tensei (GBA)](smt1.html)
+| Megami Tensei Gaiden: Last Bible |Megami Tensei Gaiden: Last Bible II | 
+| :-: | :-: |
+|[GB](notes/lbgb)| - |
+|[GBC](notes/lbgbc)| [GBC](notes/lb2gbc) |
 
-[Law](smt1gbal.html)
+|Another Bible|
+|:-:|
+|[Any%](notes/ab)|
 
-[Neutral](smt1gban.html)
+|Devil Children: Black Book and Red Book (PSX)|Devil Children: Fire Book and Ice Book|
+|:-:|:-:|
+|[Red Book](notes/red)|[Fire Book](notes/fire)|
+|[Black Book](notes/black)| - |
 
-[Chaos](smt1gbac.html)
+|Devil Summoner (PSP)|Devil Summoner: Soul Hackers (3ds)|
+|:-:|:-:|
+|[Any%](notes/devsum)|[NG ENDING](notes/sh)|
 
-### [Shin Megami Tensei II (SFC)](smt2.html)
+|Shin Megami Tensei V|
+|:-:|
+|[Safety - Any&](notes/smt5s)|
 
-[Law](smt2law.html)
 
-[Neutral](smt2neutral.html)
-
-[Chaos](smt2chaos.html)
-
-[All Bosses](smt2bosses.html)
-
-### [Shin Megami Tensei If... (SFC)](smtif.html)
-
-[Yumi](smtifYumi.html)
-
-### [Megami Tensei Gaiden: Last Bible](lb1.html)
-
-[GB](lb1notes.html)
-
-[GBC](lb1notes2.html)
-
-### [Megami Tensei Gaiden: Last Bible II](lb2.html)
-
-[GBC](lb2notes.html)
-
-### Another Bible
-
-[Any%](ab.html)
-
-### Devil Children: Black Book and Red Book (PSX)
-
-[Red Book](red.html)
-
-[Black Book](black.html)
-
-### Devil Summoner (PSP)
-
-[Any%](devsum1.html)
-
-### Shin Megami Tensei V
-
-[Safety - Any&](smt5s.html)
-
-### Devil Children: Fire Book and Ice Book
-
-[Fire Book](fire.html)
