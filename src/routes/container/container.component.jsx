@@ -31,7 +31,6 @@ export default class MainContainer extends Component {
 
     updatePage(){
         const page = `${process.env.PUBLIC_URL}/pages/${this.props.pageURL}`
-        console.log(page)
         fetch(page)
             .then((response) => response.text())
             .then((text) => {this.setState({content : text })})  
@@ -50,7 +49,6 @@ export default class MainContainer extends Component {
     }
 
     changeMarkdownContainerClass(){
-        //return this.state.imgs ? this.className : `${this.className} no-images`
         return this.state.imgs ? "Markdown-Container"  : "Markdown-Container no-images" 
     }
 

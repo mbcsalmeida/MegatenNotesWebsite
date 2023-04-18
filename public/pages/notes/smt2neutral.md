@@ -5,31 +5,31 @@ Mash through text, reply Yesはい to Okamoto. Choose Training `トレーニン�
 
 Change settings to Text Speed to Tab(なし) and Auto Battle to Repeat `リピート`. You can also choose to change status effects to Words `ワード` if you'd prefer.
 
-![VIRTUALGYM](//images/smt2maps/VIRTUALGYM.png)
+![VIRTUALGYM](/images/smt2maps/VIRTUALGYM.png)
 
 Stand on the first door transition to spawn encounters and grind to level 8. Put points into SPD `すばやさ`. Talk to Okamoto to leave the Gym and then leave, receiving the ¥100.
 
-![Town](//images/smt2maps/TOWN1.png) ![Town](//images/smt2maps/TOWN2.png)
+![Town](/images/smt2maps/TOWN1.png) ![Town](/images/smt2maps/TOWN2.png)
 
 Head east to the last room and name Zain.
 
 Head into the Virtual Battler and choose Virtual Battler `ヴァーチャル・バトル` -> Level 1 `レベル1`. Talk to Steven, say Yes `はい` and receive the Demon Summoning Program.
 
-![Town](//images/smt2maps/TOWN3.png) ![Town](//images/smt2maps/TOWN4.png)
+![Town](/images/smt2maps/TOWN3.png) ![Town](/images/smt2maps/TOWN4.png)
 
 Enter the Fortune Teller and tell her No `いいえ` about remembering the Heroine's name. You'll learn her name is Hiroko `ヒロコ`.
 
 Head back to the gym to talk to Okamoto and receive ¥200 more. Return to the Virtual Battler and, again, choose Virtual Battler `ヴァーチャル・バトル` -> Level 1 `レベル1`. Head straight forward and name Gimmel. Afterwards, turns back and leave.
 
-![Town](//images/smt2maps/TOWN5.png) ![Town](//images/smt2maps/TOWN6.png)
+![Town](/images/smt2maps/TOWN5.png) ![Town](/images/smt2maps/TOWN6.png)
 
 Head to the gym and save. Leave the town and walk to the Colosseum.
 
 ### Colosseum
 
-![Valhalla - World Map](//images/smt2maps/VALHALLA1.png) ![Colosseum](//images/smt2maps/COLOSSEUM1.png)
+![Valhalla - World Map](/images/smt2maps/VALHALLA1.png) ![Colosseum](/images/smt2maps/COLOSSEUM1.png)
 
-![Colosseum](//images/smt2maps/COLOSSEUM2.png) ![HANEDABUILDING](//images/smt2maps/HANEDABUILDING.png)
+![Colosseum](/images/smt2maps/COLOSSEUM2.png) ![HANEDABUILDING](/images/smt2maps/HANEDABUILDING.png)
 
 Take the stairs up and mash through the announcer's speech.
 
@@ -43,19 +43,19 @@ Talk to Hiroko and say: NO -> NO. Head east to leave.
 
 ### Slum City
 
-![Valhalla - World Map](//images/smt2maps/VALHALLA2.png) ![Messian Church](//images/smt2maps/MESSIAHCHURCH.png)
+![Valhalla - World Map](/images/smt2maps/VALHALLA2.png) ![Messian Church](/images/smt2maps/MESSIAHCHURCH.png)
 
 Leave the HANEDABUILDING and walk into the Messia Church to bookmark the Valhallla terminal. Leave and head to Madame's Mansion.
 
-![Way to Mansion](//images/smt2maps/VALHALLA3.png) ![Madame Mansion](//images/smt2maps/MADAMEMANSIONVALHALLA.png)
+![Way to Mansion](/images/smt2maps/VALHALLA3.png) ![Madame Mansion](/images/smt2maps/MADAMEMANSIONVALHALLA.png)
 
 Name Beth. Say Yesはい and get Cerberus. Leave.
 
 Near the entrance to the bridge, recruit Fairy High Pixie `ヨウセイ ハイピクシー` and Jirae Knocker `ジラエ ノッカー`. AUTO any other enemy. Head inside the bridge and head to the Slum City.
 
-![Valhalla - World Map](//images/smt2maps/VALHALLA4.png) ![Slum City](//images/smt2maps/SLUMCITY-1.png)
+![Valhalla - World Map](/images/smt2maps/VALHALLA4.png) ![Slum City](/images/smt2maps/SLUMCITY-1.png)
 
-![Slum City](//images/smt2maps/SLUMCITY-2.png)
+![Slum City](/images/smt2maps/SLUMCITY-2.png)
 
 In the Slum City, fight Mercurius:
 
@@ -77,13 +77,13 @@ Unequip Hiroko's Sword, Gun and Bullets and enter the Mansion. Name the interest
 ## Holy Town
 ---
 
-![Center](//images/smt2maps/CENTER-21.png) ![Center](//images/smt2maps/CENTER-20.png)
+![Center](/images/smt2maps/CENTER-21.png) ![Center](/images/smt2maps/CENTER-20.png)
 
 Save at terminal and leave the center.
 
 ### Basilisk
 
-![Center](//images/smt2maps/CENTER-1.png) ![Holy Town Passage](//images/smt2maps/PASSAGE-HT.png)
+![Center](/images/smt2maps/CENTER-1.png) ![Holy Town Passage](/images/smt2maps/PASSAGE-HT.png)
 
 Grab the chest - a Gold Pill `きんだん`. Put code (0352). Summon Heqet and Cait Sith.
 
@@ -91,7 +91,7 @@ Formation: Messian, Hawk, -, Cait Sith, Heqet, -.
 
 Unequip Gun and Bullets on Beth and equip the whip `さそりムチ`. Leave.
 
-![Holy Town](//images/smt2maps/HOLYTOWN-1.png) ![Grand Church](//images/smt2maps/GRANDCHURCH.png)
+![Holy Town](/images/smt2maps/HOLYTOWN-1.png) ![Grand Church](/images/smt2maps/GRANDCHURCH.png)
 
 Recruit Jack Frost. Defeat Basilisk whenever possible. If you get poisoned, it's preferrable (though more dangerous) to heal in Battle. Use a Dis-Poison or Heqet's Posumudi `ポスムディ` to heal Aleph and Beth because the poison status reduces attack power.
 
@@ -118,13 +118,13 @@ Return Jack Frost and use Traport with Heqet. Heal at the Messiah if needed. Go 
 ## Factory
 ---
 
-![Way to the Factory](//images/smt2maps/PASSAGE-F.png) ![Center](//images/smt2maps/CENTER-2.png)
+![Way to the Factory](/images/smt2maps/PASSAGE-F.png) ![Center](/images/smt2maps/CENTER-2.png)
 
 Put code (6191). Leave to Factory.
 
-![Factory](//images/smt2maps/FACTORY-1.png) ![Factory Town](//images/smt2maps/FACTORYTOWN-1.png)
+![Factory](/images/smt2maps/FACTORY-1.png) ![Factory Town](/images/smt2maps/FACTORYTOWN-1.png)
 
-![Messian Church](//images/smt2maps/MESSIAHCHURCH.png)
+![Messian Church](/images/smt2maps/MESSIAHCHURCH.png)
 
 Stop by Factory Town, enter Weapon store.
 
@@ -142,9 +142,9 @@ Head to the underground to make way to the Betelgeuse fight.
 
 Get Cu Sith before entering the E building. After you defeat Betelgeuse, the encounters change so you need to get it before. Enter on Full MOON - the Sapphire in B3F only appears on Full Moon. Resummon Jack Frost.
 
-![Factory](//images/smt2maps/FACTORY-2.png) ![Factory](//images/smt2maps/FACTORY-B.png)
+![Factory](/images/smt2maps/FACTORY-2.png) ![Factory](/images/smt2maps/FACTORY-B.png)
 
-![Underground Passage](//images/smt2maps/FACTORY-D.png)
+![Underground Passage](/images/smt2maps/FACTORY-D.png)
 
 Fight Betelgeuse:
 
@@ -157,17 +157,17 @@ If you still don't have the Sapphire, use Traestro, advance moon to Full Moon an
 ## Arcadia
 ---
 
-![Center](//images/smt2maps/CENTER-21.png) ![Center](//images/smt2maps/CENTER-20.png)
+![Center](/images/smt2maps/CENTER-21.png) ![Center](/images/smt2maps/CENTER-20.png)
 
 Go back and talk to the sage. Traport and leave the building.
 
-![Center](//images/smt2maps/CENTER-3.png) ![Way to Arcadia](//images/smt2maps/PASSAGE-A.png)
+![Center](/images/smt2maps/CENTER-3.png) ![Way to Arcadia](/images/smt2maps/PASSAGE-A.png)
 
 Put code (9103).
 
-![Arcadia](//images/smt2maps/ARCADIA-1.png) ![Messia Church](//images/smt2maps/MESSIAHCHURCH.png)
+![Arcadia](/images/smt2maps/ARCADIA-1.png) ![Messia Church](/images/smt2maps/MESSIAHCHURCH.png)
 
-![Gimmel](//images/smt2maps/GIMEL.png)
+![Gimmel](/images/smt2maps/GIMEL.png)
 
 Head into the terminal to bookmark it. Leave and head to Gimel's house to talk to him.
 
@@ -179,7 +179,7 @@ Head into the terminal to bookmark it. Leave and head to Gimel's house to talk t
 
 Traport back to the Center. Talk to the elder. Traport and enter the terminal to transfer to Valhalla. Save. Heal at the Messiah if necessary.
 
-![Passage to Valhalla](//images/smt2maps/PASSAGE-V.png)
+![Passage to Valhalla](/images/smt2maps/PASSAGE-V.png)
 
 Enter the Valhalla Passageway (it's the door right next to the one you just left from). Head to the Mansion.
 
@@ -187,7 +187,7 @@ Fuse Unicorn: Jack Frost x Cu Sith.
 
 Traestro. Head to the Colosseum. If you still don't have a Sudama or Ihika, get one outside.
 
-![Colosseum](//images/smt2maps/COLOSSEUM-B.png)
+![Colosseum](/images/smt2maps/COLOSSEUM-B.png)
 
 Summon Unicorn before the fight.
 
@@ -200,9 +200,9 @@ Say NO. Leave.
 
 ### Slum City
 
-![Valhalla](//images/smt2maps/VALHALLA4.png) ![Slum City](//images/smt2maps/SLUMCITY-3.png)
+![Valhalla](/images/smt2maps/VALHALLA4.png) ![Slum City](/images/smt2maps/SLUMCITY-3.png)
 
-![Way to Valhalla](//images/smt2maps/PASSAGE-V2.png)
+![Way to Valhalla](/images/smt2maps/PASSAGE-V2.png)
 
 Head to Slum City. Talk to Mekata and heal up at the Gaia.
 
@@ -223,7 +223,7 @@ Fight.
 *   Second turn: Gun, Rakukaja, Rakukaja, Media, Tarukaja
 *   AUTO
 
-![Underground](//images/smt2maps/UNDERGROUND-1.png) ![Underground](//images/smt2maps/UNDERGROUND-E.png)
+![Underground](/images/smt2maps/UNDERGROUND-1.png) ![Underground](/images/smt2maps/UNDERGROUND-E.png)
 
 Heal if needed at the Gaia. Put Codes (9192) -> (1213) -> (1834). Pay attention to MP consumption.
 
@@ -238,7 +238,7 @@ Leave.
 
 (Optional) Enter in New or Half Moon.
 
-![Daleth](//images/smt2maps/FACTORY-2.png) ![Zayn](//images/smt2maps/FACTORY-H.png)
+![Daleth](/images/smt2maps/FACTORY-2.png) ![Zayn](/images/smt2maps/FACTORY-H.png)
 
 Fight Zain. Summon all demons.
 
@@ -249,25 +249,25 @@ Fight Zain. Summon all demons.
 
 Rescue Heroine. Go all the way back through the Underground to the Passage.
 
-![Passage](//images/smt2maps/PASSAGE-V3.png) ![Center](//images/smt2maps/CENTER-4.png)
+![Passage](/images/smt2maps/PASSAGE-V3.png) ![Center](/images/smt2maps/CENTER-4.png)
 
 If you're low on money and haven't already grab grab the treasure chest on the other side of the wall southern of the Gaia.
 
-![Passage Holy Town](//images/smt2maps/PASSAGE-HT.png)
+![Passage Holy Town](/images/smt2maps/PASSAGE-HT.png)
 
 Talk to Zain. Turn back around and get Cerberus. If any of the demons are dead, summon it and revive with Samarecarm. Head outside to the center. Take the passage to Holy Town.
 
 ### Holy Town
 
-![Holy Town](//images/smt2maps/HOLYTOWN-2.png) ![Holy Town](//images/smt2maps/HOLYTOWN-TE.png)
+![Holy Town](/images/smt2maps/HOLYTOWN-2.png) ![Holy Town](/images/smt2maps/HOLYTOWN-TE.png)
 
 Watch Zain speak in the TV.
 
-![Holy Town](//images/smt2maps/HOLYTOWN-TE.png) ![Holy Town](//images/smt2maps/HOLYTOWN-3.png)
+![Holy Town](/images/smt2maps/HOLYTOWN-TE.png) ![Holy Town](/images/smt2maps/HOLYTOWN-3.png)
 
 Enter through the west entrance of Holy Town. Recover at the Garage if needed. Bookmark the Terminal. Traestro. Estoma.
 
-![Grand Church](//images/smt2maps/GRANDCHURCH-2.png) ![Grand Church](//images/smt2maps/GRANDCHURCH-23F.png)
+![Grand Church](/images/smt2maps/GRANDCHURCH-2.png) ![Grand Church](/images/smt2maps/GRANDCHURCH-23F.png)
 
 Enter the Grand Church on 7/8 Ascending. If you're low on money grab the the other treasure chest (1) for 738 makka. Get Topaz. Head to 3F. Summon Cerberus and revive any dead demons before the fight.
 

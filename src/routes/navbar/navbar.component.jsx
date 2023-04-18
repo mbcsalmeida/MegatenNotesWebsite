@@ -1,10 +1,11 @@
 import TopBar from '../topbar/topbar.component.jsx'
 import SideBar from '../sidebar/sidebar.component.jsx'
 import { useLocation } from 'react-router-dom';
-import  { useLayoutEffect, useState } from 'react';
+import  { useState } from 'react';
 
 export const NavBar = () => {
-  
+  const [size, setSize] = useState([0, 0]);
+
   const bar_titles = {
       "Home" : "/",
       "About" : "/about",
@@ -13,35 +14,34 @@ export const NavBar = () => {
   } 
 
   const useWindowSize = () => {
-    const [size, setSize] = useState([0, 0]);
-    useLayoutEffect(() => {
-      function updateSize() {
-        setSize([window.innerWidth, window.innerHeight]);
-      }
-      window.addEventListener('resize', updateSize);
-      updateSize();
-      return () => window.removeEventListener('resize', updateSize);
-    }, []);
+    function updateSize() {
+      setSize([window.innerWidth, window.innerHeight]);
+    }
+    window.addEventListener('resize', updateSize);
     return size;
   }
 
   const ShowWindowDimensions = (props) => {
-    const [width, _] = useWindowSize();
+    const [width, _] = useWindowSize()
     return width < 1080;
   }
 
-  let styleOfBar;
-  let location = useLocation();
+  const StyleOfBar = () => {
+    let styleOfBar;
+    let location = useLocation();
+  
+    if(location.pathname.includes("/notes") || ShowWindowDimensions()){
+         styleOfBar = <TopBar titles={bar_titles} />
+    }
+    else{
+         styleOfBar = <SideBar titles={bar_titles}/>
+    }
+    return styleOfBar;
+  }
 
-  if(location.pathname.includes("/notes") || ShowWindowDimensions()){
-       styleOfBar = <TopBar titles={bar_titles} />
-  }
-  else{
-       styleOfBar = <SideBar titles={bar_titles}/>
-  }
   return(
     <div>
-      {styleOfBar}
+      {StyleOfBar()}
     </div>
   )
 }

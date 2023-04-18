@@ -28,18 +28,19 @@ If you have any questions or advice, please feel free to let me know.
 |[GB](notes/lbgb)| - |
 |[GBC](notes/lbgbc)| [GBC](notes/lb2gbc) |
 
-|Another Bible|
-|:-:|
-|[Any%](notes/ab)|
+|Another Bible| 
+|:-:| 
+|[Any%](notes/ab)| 
 
 |Devil Children: Black Book and Red Book (PSX)|Devil Children: Fire Book and Ice Book|
 |:-:|:-:|
 |[Red Book](notes/red)|[Fire Book](notes/fire)|
 |[Black Book](notes/black)| - |
+|[White Book](notes/white)|-|
 
-|Devil Summoner (PSP)|Devil Summoner: Soul Hackers (3ds)|
-|:-:|:-:|
-|[Any%](notes/devsum)|[NG ENDING](notes/sh)|
+|Devil Summoner (PSP)|
+|:-:|
+|[Any%](notes/devsum)|
 
 |Shin Megami Tensei V|
 |:-:|

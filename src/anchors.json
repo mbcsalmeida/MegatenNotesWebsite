@@ -161,5 +161,32 @@
     "forestland",
     "fireland",
     "centraland"
+  ],
+  "notes/red.md":[
+    "real-world",
+    "central-town",
+    "iceland",
+    "marbleland",
+    "sandland",
+    "forestland",
+    "earth",
+    "fireland",
+    "centraland-1"
+  ],
+  "notes/white.md":[
+    "home",
+    "train-station",
+    "sand-land",
+    "wind-land",
+    "ice-land",
+    "school",
+    "ice-land-1",
+    "earth-and-beyond",
+    "angel-world"
+  ],
+  "notes/lb3.md":[
+    "raga-village",
+    "school",
+    "heat-and-doruku-village"
   ]
 }
