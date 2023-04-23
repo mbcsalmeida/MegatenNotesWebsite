@@ -10,7 +10,7 @@ If you have any questions or advice, please feel free to let me know.
 | [Law](notes/smt1) | [Law](notes/smt1gbal) | [Law](notes/smt1psx)|
 | - | Neutral | -|
 | - | Chaos | -|
-| [All Bosses](notes/smt1bosses) | - | -|
+| [All Bosses](notes/smt1bosses) | - | - |
 
 |Shin Megami Tensei II (SFC)|
 | :-: |
