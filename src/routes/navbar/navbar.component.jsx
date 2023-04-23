@@ -23,7 +23,7 @@ export const NavBar = () => {
 
   const ShowWindowDimensions = (props) => {
     const [width, _] = useWindowSize()
-    return width < 1080;
+    return width != 0 ? width < 1080 : false;
   }
 
   const StyleOfBar = () => {
