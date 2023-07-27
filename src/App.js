@@ -30,6 +30,7 @@ const App = () => {
           <Route path="notes/smt2law" key="notes/smt2law" element={<MainContainer location={location} pageURL={"notes/smt2law.md"} />} />
           <Route path="notes/smt2neutral" key="notes/smt2neutral" element={<MainContainer location={location} pageURL={"notes/smt2neutral.md"} />} />
           <Route path="notes/smt2chaos" key="notes/smt2chaos" element={<MainContainer location={location} pageURL={"notes/smt2chaos.md"} />} />
+          <Route path="notes/red" key="notes/red" element={<MainContainer location={location} pageURL={"notes/red.md"} />} />
           <Route path="notes/black" key="notes/black" element={<MainContainer location={location} pageURL={"notes/black.md"} />} />
           <Route path="notes/white" key="notes/white" element={<MainContainer location={location} pageURL={"notes/white.md"} />} />
           <Route path="notes/lb3" key="notes/lb3" element={<MainContainer location={location} pageURL={"notes/lb3.md"} />} />
