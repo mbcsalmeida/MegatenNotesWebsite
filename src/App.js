@@ -25,7 +25,8 @@ const App = () => {
           <Route path="notes/sh" key="notes/sh" element={<MainContainer location={location} pageURL={"notes/sh.md"} />} />
           <Route path="notes/smt5s" key="notes/smt5s" element={<MainContainer location={location} pageURL={"notes/smt5s.md"} />} />
           <Route path="notes/ifyumi" key="notes/ifyumi" element={<MainContainer location={location} pageURL={"notes/ifyumi.md"} />} />
-          <Route path="notes/smt1bosses" key="notes/smt1bosses" element={<MainContainer location={location} pageURL={"notes/smt1bosses.md"} />} />
+          <Route path="notes/smt1sfcbosses" key="notes/smt1sfcbosses" element={<MainContainer location={location} pageURL={"notes/smt1bosses.md"} />} />
+          <Route path="notes/smt1psxbosses" key="notes/smt1psxbosses" element={<MainContainer location={location} pageURL={"notes/smt1psxbosses.md"} />} />
           <Route path="notes/smt2bosses" key="notes/smt2bosses" element={<MainContainer location={location} pageURL={"notes/smt2bosses.md"} />} />
           <Route path="notes/smt2law" key="notes/smt2law" element={<MainContainer location={location} pageURL={"notes/smt2law.md"} />} />
           <Route path="notes/smt2neutral" key="notes/smt2neutral" element={<MainContainer location={location} pageURL={"notes/smt2neutral.md"} />} />

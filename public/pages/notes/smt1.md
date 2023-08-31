@@ -3,7 +3,7 @@
 
 First dream sequence: 
 - Hero - All SPD
-- Law Hero - Int til 8, SPD til 20
+- Law Hero - SPD til 8, Int til 20
 - Chaos Hero - All MAG
 - Heroine - SPD til 9, STR til 19
 
