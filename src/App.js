@@ -37,7 +37,8 @@ const App = () => {
           <Route path="notes/white" key="notes/white" element={<MainContainer location={location} pageURL={"notes/white.md"} />} />
           <Route path="notes/lb3" key="notes/lb3" element={<MainContainer location={location} pageURL={"notes/lb3.md"} />} />
           <Route path="notes/smt1psx" key="notes/smt1psx" element={<MainContainer location={location} pageURL={"notes/smt1psxl.md"} />} />
-          <Route path="notes/smt1gbal" key="notes/smt1gbal" element={<MainContainer location={location} pageURL={"notes/smt1gbal.md"} />} />       
+          <Route path="notes/smt1gbal" key="notes/smt1gbal" element={<MainContainer location={location} pageURL={"notes/smt1gbal.md"} />} />  
+          <Route path="notes/smt1psxalldemons" key="notes/smt1psxalldemons" element={<MainContainer location={location} pageURL={"notes/smt1psxalldemons.md"} />} />            
           <Route path="tracker" key="tracker" element={<Tracker />} /> 
         </Route>
       </Routes>

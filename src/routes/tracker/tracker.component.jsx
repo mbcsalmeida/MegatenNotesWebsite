@@ -7,7 +7,7 @@ function Tracker() {
 
   let handleOnChange = (id) => {
     let checkboxes = Array.from(document.querySelectorAll('input[id='+id+']'));
-    let state = checkboxes[0].checked
+    let state = true
     checkboxes.map((value) => {
       value.checked = state
     })
