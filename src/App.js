@@ -2,6 +2,7 @@ import './App.css';
 import { Routes, Route } from "react-router-dom";
 import {NavBar} from './routes/navbar/navbar.component.jsx';
 import MainContainer from './routes/container/container.component.jsx';
+import Tracker from './routes/tracker/tracker.component.jsx';
 import { useLocation } from 'react-router-dom';
 
 const App = () => {
@@ -37,6 +38,7 @@ const App = () => {
           <Route path="notes/lb3" key="notes/lb3" element={<MainContainer location={location} pageURL={"notes/lb3.md"} />} />
           <Route path="notes/smt1psx" key="notes/smt1psx" element={<MainContainer location={location} pageURL={"notes/smt1psxl.md"} />} />
           <Route path="notes/smt1gbal" key="notes/smt1gbal" element={<MainContainer location={location} pageURL={"notes/smt1gbal.md"} />} />       
+          <Route path="tracker" key="tracker" element={<Tracker />} /> 
         </Route>
       </Routes>
     );

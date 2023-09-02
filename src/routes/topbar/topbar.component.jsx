@@ -9,7 +9,7 @@ const TopBar = (props) => {
 
     return (
         <Fragment>
-              <StyledTopbar>
+              <StyledTopbar className={props.className}>
                 <Link to='/'>
                     <TopBarLogo src={icon} />
                 </Link>
