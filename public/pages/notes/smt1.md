@@ -150,7 +150,7 @@ or
 Traesto.
 
 ---
-Shibuya
+## Shibuya
 ---
 
 ![Shibuya 1F](/images/smt1maps/3D/SHIBUYA-1F.png) ![Shibuya 2F](/images/smt1maps/3D/SHIBUYA-2F.png)

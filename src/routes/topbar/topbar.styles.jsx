@@ -18,8 +18,6 @@ export const LinkContainer = styled.div`
 	display: flex;
 	text-align: center;
     border-top: 1px solid white;
-    animation-name: slide-in;
-    animation-duration: 1s;
 `
 
 export const TopBarLogo = styled.img`

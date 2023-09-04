@@ -1,11 +1,10 @@
 import TopBar from '../topbar/topbar.component.jsx'
 import SideBar from '../sidebar/sidebar.component.jsx'
 import { useLocation } from 'react-router-dom';
-import  { useState } from 'react';
+import  { useEffect, useState } from 'react';
 
 export const NavBar = () => {
-  const [size, setSize] = useState([0, 0]);
-
+  const [size, setSize] = useState([window.innerWidth, window.innerHeight]);
   const bar_titles = {
       "Home" : "/",
       "About" : "/about",
@@ -23,7 +22,6 @@ export const NavBar = () => {
 
   const ShowWindowDimensions = (props) => {
     const [width, height] = useWindowSize()
-    console.log(width > height);
     return width !== 0? width <= height: false
   }
 
@@ -31,7 +29,7 @@ export const NavBar = () => {
     let styleOfBar;
     let location = useLocation();
   
-    if(location.pathname.includes("/notes") || ShowWindowDimensions()){
+    if(ShowWindowDimensions() || location.pathname.includes("/notes")){
          styleOfBar = <TopBar titles={bar_titles} />
     }
     else if(location.pathname.includes("tracker")){
@@ -39,7 +37,7 @@ export const NavBar = () => {
     }
     else{
          styleOfBar = <SideBar titles={bar_titles}/>
-    }
+    } 
     return styleOfBar;
   }
 

@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { FloatingActionBar, FloatingActionBarBlock, FloatingActionBarIcon, FloatingActionBarText } from './fab.styles';
 import { Fab } from '@mui/material';
-import anchors from '../../anchors.json';
+import anchors from '../../res/anchors.json';
 import Draggable from "react-draggable";
 import icon from '../../res/iconfab.png'
 

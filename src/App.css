@@ -25,11 +25,11 @@ margin-left: auto;
 .no-images img{
   display: none !important;
 }
-
+/* 
 .Markdown-Container p{
 	display: flex;
 	flex-wrap: wrap;
-}
+} */
 
 @keyframes slide-in{
 	0% {transform: translateY(-200px)}

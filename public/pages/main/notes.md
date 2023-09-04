@@ -7,10 +7,11 @@ If you have any questions or advice, please feel free to let me know.
 
 | Shin Megami Tensei (SFC)| Shin Megami Tensei (GBA) | Shin Megami Tensei (PSX) |
 |:-:| :-: | :-: |
+| - | - | [Any%](notes/smt1psxany)|
 | [Law](notes/smt1) | [Law](notes/smt1gbal) | [Law](notes/smt1psx)|
 | - | Neutral | -|
 | - | Chaos | -|
-| [All Bosses](notes/smt1sfcbosses) | [All Bosses](notes/smt1psxbosses) | - |
+| [All Bosses](notes/smt1sfcbosses) | - | [All Bosses](notes/smt1psxbosses)  |
 
 |Shin Megami Tensei II (SFC)|
 | :-: |

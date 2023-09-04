@@ -203,5 +203,30 @@
     "upper-cathedral",
     "tokyo-building",
     "lower-cathedral"
+  ],
+  "notes/smt1psxany.md":[
+    "kichijoji",
+    "shinjuku",
+    "kongo-shinkai",
+    "new-shinjuku",
+    "shibuya",
+    "roppongi",
+    "ueno",
+    "tokyo-building",
+    "cathedral"
+  ],
+  "notes/smt1psxbosses.md":[
+    "kichijoji",
+    "shinjuku",
+    "kongo-shinkai",
+    "new-shinjuku",
+    "shibuya",
+    "roppongi",
+    "ueno",
+    "ginza",
+    "shinagawa",
+    "bosses",
+    "lower-cathedral",
+    "upper-cathedral"
   ]
 }
