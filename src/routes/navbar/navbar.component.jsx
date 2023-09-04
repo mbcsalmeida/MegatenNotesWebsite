@@ -22,8 +22,9 @@ export const NavBar = () => {
   }
 
   const ShowWindowDimensions = (props) => {
-    const [width, _] = useWindowSize()
-    return width != 0 ? width < 1080 : false;
+    const [width, height] = useWindowSize()
+    console.log(width > height);
+    return width !== 0? width <= height: false
   }
 
   const StyleOfBar = () => {
@@ -32,6 +33,9 @@ export const NavBar = () => {
   
     if(location.pathname.includes("/notes") || ShowWindowDimensions()){
          styleOfBar = <TopBar titles={bar_titles} />
+    }
+    else if(location.pathname.includes("tracker")){
+         styleOfBar = <TopBar titles={bar_titles} className="tracker-bar" />
     }
     else{
          styleOfBar = <SideBar titles={bar_titles}/>

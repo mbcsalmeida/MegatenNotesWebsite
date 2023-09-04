@@ -2,12 +2,24 @@
 width: 85%;
 margin-right: auto;
 margin-left: auto;
-background-color: #1f1f1f;
 }
 
 .main-container-notes{
   width: 95% !important;
   margin-right: auto !important;
+}
+
+.main-page-background{
+	background: #3c3c3c url(res/background.jpg) no-repeat center center fixed;
+}
+
+.tracker-bar{
+	display: none !important;
+}
+
+.tracker-fields{
+	display: none;
+	transition: display 1s;
 }
 
 .no-images img{

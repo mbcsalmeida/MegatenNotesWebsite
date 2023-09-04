@@ -54,8 +54,10 @@ export default class MainContainer extends Component {
 
     render() {
         return (
-            <div>
-                <MarkdownContainer className={this.className}>
+            <div className='main-page-background'>
+                <MarkdownContainer 
+                className={this.className}
+                >
                     <ReactMarkdown 
                     className={this.changeMarkdownContainerClass()}
                     children={this.state.content}
