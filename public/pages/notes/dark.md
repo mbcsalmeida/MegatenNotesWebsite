@@ -54,10 +54,15 @@ Buy:
 Leave west.
 
 Pick up the first chest (Troll Seed). Fight encounters with Dark Howl and heal with Heal mid-battle. In between battles, heal with Energy Pills and Mana Juice. Fight until level 6, then switching to using smoke bombs.
-Head inside cave. Pick up *Smoke Bomb* chest. Recruit Two-Tail (try to get an extra one, might be okay if you dont but it needs testing). Pick up the two chests side-by-side.
-Leave cave then head east, north on the intersection then east again. Recruit Garum. Talk to the set of rocks before entering the cave to recruit Chot (password: Atlus). Grab the chest and head inside the cave.
 
-Arrange the party with Garum on top. Use *Attack Gums* on Gale.
+Head inside cave. Pick up *Smoke Bomb* chest and *Attack Gum*. Recruit Two-Tail (try to get an extra one, might be okay if you dont but it needs testing). Pick up the *Luck Gum* chest and *Revival Orb* chest side-by-side.
+
+Leave cave then head east, north on the intersection, pick up the *Resist Gum* chest then east again. 
+Recruit Garum. After getting Garum, use a Repel Charm. Arrange the party with Garum on top. Use *Attack Gums* on Gale and heal up.
+
+Talk to the set of rocks before entering the cave to recruit Chot (password: Atlus). Pick up *Magic Gum* chest and head inside the cave.
+
+
 Ring the bell 3x times.
 
 Fight **Tupon**:
@@ -66,6 +71,13 @@ Fight **Tupon**:
 - Heal when necessary with Gale (Heal All)
 
 Head outside the cave and Angel Wing back to town. Revive anyone if necessary. 
+
+Sell:
+- Gums
+Buy:
+- Demon Relic
+- Talon Relic
+
 Summon Two-Tail and Aminoz.  Head inside the Heretic Mansion.
 
 Fuse:
@@ -76,7 +88,7 @@ Leave South and use Repel Charm. Trigger cutscene.
 
 ### Center Town
 
-Head west to Center Town. Pick up chest with Macca. Then head east to enter beyond the bushes to the hidden house. Talk to Wyregg to recruit it.
+Head west to Center Town. Pick up chest with Macca. Recruit one random demon to fuse into Gale, it can really be any of them. Any other demons, fight with Dark Howl and heal. Get to at least level 8. Then head east to enter beyond the bushes to the hidden house. Talk to Wyregg to recruit it.
 Head west again to Center Town.
 
 Enter Virtual Network (VN) building and take demonary quiz from the Quiz Master.
@@ -85,48 +97,48 @@ Answers:
 - Second quiz: 2, 3, 1, 3, 2
 - Third quiz:  3, 2, 1, 3, 2
 
-Head to the mansion. Summon Chot, Wyregg and any other extra demon.
-Fuse:
-- Gale x Chot
-- Gale x Wyregg
-Summon Windlord again.
-
-Leave North and save. It is easier to reload then to waste money reviving Gale if he suddenly dies. 
-Recruit Midion, Arakneus and Windlord. Use distract before talking to the demons with Gale, for a higher chance of success. 
-Any other demons, fight with Dark Howl and heal. Get to at least level 8, but keep fighting encounters afterwards..
-
-Afterwards, head back to town, to the Heretic Mansion. Summon both Windlords and Arakneus. Use an *Attack Gum* on Gale and save (in case of a fusion accident).
-Fuse:
-- Windlord (with distract) x Windlord -> (Inherit Revive)
-- Arakneus x Windlord = Talos (Powerboost, Revive, Distract).
-
-
-Arrange party with Talos on top.
-
-Leave North and possibly save before the top of the area, heal up.
- 
-Fight **Grevir**:
-- Crush Claw, Powerboost
-- Heal All, Powerboost
-- When everyone is at full HP, use a Mana Juice on Gale
-- After 4x Powerboost, use Powercharge with Talos and then attack
-- Boss should die in few hits but it takes a while.
- 
-Heal up. Fight encounters on the way. Continue North and go West to chest for *Alarm*. Then head further north for Lucifer's Palace.
-Go up the stairs and north beyond the teleporter. Talk to Lucifer and receive the Kingloc. Set Alarm on the Demiloc.
-
-Continue north. Fight random encounters with Dark Howl and Frenzy, remember to heal between battles. 
-Watch the cutscene and talk to the leftmost Time Maiden (Verdandi). Angel Wing back to Center Town.
-Head north and grind right outside of the town until level 11.
-
 Go to the shop.
 Sell:
-- Gums
+- Gums (except Attack Gum)
+Buy:
+- Heavy Relic
 Buy:
 - 21 Energy Pills
 - 11 Mana Juice
 - 1 Revive Orb
 - 21x Angel Wing
+
+Head to the mansion, talk to the left demon. Save
+Fuse with Relics:
+- Random -> Cait Sith
+
+Summon Chot, Wyregg and any other extra demon.
+Fuse:
+- Gale x Chot
+- Gale x Wyregg
+- Gale x Random Demon
+Summon Windlord again.
+Fuse:
+- Windlord x Cait Sith = Speedy (Heal All, Powerboost, Distract)
+
+Leave North and save. It is easier to reload then to waste money reviving Gale if he suddenly dies. 
+Keep taking encounterrs on the way to the boss fight.
+
+Leave North and possibly save before the top of the area, heal up.
+ 
+Fight **Grevir**:
+- Crush Claw, Powerboost
+- Attack with Gale and Powerboost if HP is up, if not Heal All with Speedy or with Gale
+- After 3x Powerboost, attack with both if HP isn't low
+- If you get Mystic Bind without hitting Crush Claw or Powerboost, it might be worth resetting
+- Make sure to keep HP up
+ 
+Heal up. Fight encounters on the way. Continue North and go West to chest for *Alarm*. Then head further north for Lucifer's Palace.
+Go up the stairs and north beyond the teleporter. Talk to Lucifer and receive the Kingloc. Set Alarm on the Demiloc.
+
+Continue north. Fight random encounters with Dark Howl, remember to heal between battles. 
+Watch the cutscene and talk to the leftmost Time Maiden (Verdandi). Angel Wing back to Center Town.
+Head north and grind right outside of the town until level 11.
 
 When you're done, re-enter the town and leave West.
 
@@ -134,19 +146,17 @@ When you're done, re-enter the town and leave West.
  
 Avoid encounters by opening and closing the map (this will be referred in notes as simply "avoiding encounters"). Follow the path to Frostyville.
 
-Pick up gem from the well, go up the staircase to the left and beyond the shop to the house. Press A inbetween bookshelves and answer "Light Ikonda". Summon Ikonda on the Kingloc.
-Leave and go to the right side of town. Heal party. Talk to the barrel in front of the healer for an *Attack Gum*. Head inside the house and talk to the doll, give it the gem.
+Go up the staircase to the left and beyond the shop to the house. Press A inbetween bookshelves and answer "Ikonda". Summon Ikonda on the Kingloc.
+Leave and go to the right side of town. Heal party. Talk to the barrel in front of the healer for an *Attack Gum*.
 
 Leave north to the town and head left up the stairs. Follow north to the Ice Temple. Avoid encounters this entire section.
  
 Fight **Harborim**:
-- Crush Claw With Gale, Powerburst with Talos, Polarburst with Ikonda
-- Polarburst with Gale, Frenzy with Talos, Polarburst with Ikonda
-- Switch to healing with Gale if necessary.
+- Crush Claw With Gale, Powerburst with Speedy, Polarburst with Ikonda
+- Crush Claw with Gale, Heal All with Speedy, Polarburst with Ikonda
 
 Watch Gale's transformation. Choose the **2nd option**.
-Grind to level 16. Use Terror Gaze with Gale and Frenzy, then heal. 
-Recruit Fairy then put her on top of Ikonda. She'll become the main healer so try to get her as fast as possible.
+Grind to level 16. Use Terror Gaze with Gale. Once you're level 14, summon Hydra on the top slot of the Kingloc. 
 
 Walk through the Ice Temple. On the puzzle, remember you can move diagonally. Go through the time portal to the Time Tower.
 
@@ -156,11 +166,7 @@ Continue downstairs. On the two chests side-by-side, get the rightmost one to ge
 
 Follow the path and avoid encounters. Talk to Judy in the house at the right then continue North outside the town. Follow the path to Hydraville, avoid encounters.
 
-In Hydraville, head inside the Heretic Mansion. Summon Coperia.
-Fuse:
-- Talos x Fairy = Sylph (Powerboost, Revive, Healmore All).
-- Gale x Cooperia
-- Gale x Ikonda
+In Hydraville
 Go to the shop. Buy:
 - Guard Chip
 Set it on the Kingloc.
@@ -168,8 +174,8 @@ Set it on the Kingloc.
 Head up the stairs and go to the rightmost door for a cutscene. Then grab a *Holy Orb* from the shelf.
 
 Enter the mine.
-Grind to level 16 with Terror Gaze, Attack and Healmore All. Remember to heal MP between fights with Mana Juices.
-Recruit 2x Osiris and Dredogg, use distract. Head into the middle room and open chest with 5000 Macca. Then talk to the NPC mining and get Roksaur.
+Grind to level 16 with Terror Gaze, Heal All and Distract. Remember to heal MP between fights with Mana Juices.
+Recruit 2x Osiris (16) and Dredogg (15), use distract. Head into the middle room and open chest with 5000 Macca. Then talk to the NPC mining and get Roksaur.
 
 Arrange party with the two Osiris one behind another in the Demiloc, Dredogg and Hydra in Kingloc.
 
@@ -183,7 +189,7 @@ Watch Gale's transformation. Choose the **2nd option**.
 ### Future Rem
  
 Angel Wing back to Hydraville and head to the northmost house, talk to Naomi (the piano player).
-Angel Wing to Hermit and leave West. Fight encounters with Death Breath, heal with Healmore All. Heal MP in between fights. When Osiris is out of MP, switch the other one to the top. Take fights until level 20. 
+Angel Wing to Hermit and leave West. Use a Love Charm. Fight encounters with Death Breath, heal with Healmore All. Heal MP in between fights. When Osiris is out of MP, switch the other one to the top. Take fights until level 20. Then repel again.
 
 Go beyond the waterfall to the hidden HQ. Take the stairs to the right and watch the cutscene. Then talk to the barrel for the *Attack Gum*.
 Leave and Angel Wing to Time Tower. Go back up and head to future Rem (middle door of the three red ones).
@@ -240,7 +246,7 @@ Fight **Bifronz**:
 
 Watch Gale transform. Choose the **2nd option**.
 
-### Endgame
+### Endgamebbb
 
 Use an Angel Wing back to Hydraville and leave South. Go West and do the Primus skip. The encounters are very high-levelled from now on, be careful to avoid them. If you get caught, use a smoke bomb.
 
