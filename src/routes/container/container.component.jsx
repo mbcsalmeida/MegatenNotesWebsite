@@ -1,14 +1,14 @@
 import '../../App.css';
 import ReactMarkdown from 'react-markdown';
-import { Component } from 'react';
 import {MarkdownContainer} from './container.styles.jsx'
 import FloatingActionButton from '../../components/floating-action-button/fab.component';
 import remarkGfm from 'remark-gfm'
 import rehypeSlug from 'rehype-slug'
-import {getPage} from "../../api/axios";
+import {fetchPage} from "../../api/axios";
+import {useQuery} from "react-query";
 
 
-export default class MainContainer extends Component {
+/*export default class MainContainer extends Component {
     
     constructor(props) {
         super(props)
@@ -20,17 +20,11 @@ export default class MainContainer extends Component {
 
         getPage(this.props.pageURL).then(
         )
-        
-        if(this.props.location.pathname.includes("/notes")){
-            this.className = "main-container-notes"
-            this.fabStyle = {
-                display: "inline-flex"}
-       }else{
-            this.fabStyle = {display: "none"}
-       }
        
        this.changeImageDisplay = this.changeImageDisplay.bind(this)
     }
+
+
 
     updatePage(){
         const page = `https://github.com/mbcsalmeida/MegatenNotesWebsite/tree/main/public/pages/${this.props.pageURL}`
@@ -72,5 +66,36 @@ export default class MainContainer extends Component {
             </div>
       )
     }
+}*/
+
+export const MainContainer = (props) => {
+
+    const {data: page, isLoading, isError, isSuccess} = useQuery('page', ()=>fetchPage(props.pageURL))
+
+    const changeImageDisplay = (e) => {
+
+    }
+
+    const changeMarkdownContainerClass = () => {
+
+    }
+
+    return (<>
+        {isLoading && <></>}
+        <div className='main-page-background'>
+            <MarkdownContainer
+            >
+                <ReactMarkdown
+                    className={changeMarkdownContainerClass()}
+                    children={page}
+                    remarkPlugins={[remarkGfm]}
+                    rehypePlugins={[rehypeSlug]}
+                />
+            </MarkdownContainer>
+            <FloatingActionButton anchor={props.pageURL} imgFun={changeImageDisplay}/>
+        </div>
+        {isError && <></>}
+        </>
+    )
 }
 
