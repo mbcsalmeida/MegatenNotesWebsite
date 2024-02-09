@@ -5,6 +5,7 @@ import {MarkdownContainer} from './container.styles.jsx'
 import FloatingActionButton from '../../components/floating-action-button/fab.component';
 import remarkGfm from 'remark-gfm'
 import rehypeSlug from 'rehype-slug'
+import {getPage} from "../../api/axios";
 
 
 export default class MainContainer extends Component {
@@ -16,7 +17,9 @@ export default class MainContainer extends Component {
             content : null, 
             imgs: true
         }
-        this.updatePage()
+
+        getPage(this.props.pageURL).then(
+        )
         
         if(this.props.location.pathname.includes("/notes")){
             this.className = "main-container-notes"
@@ -30,7 +33,7 @@ export default class MainContainer extends Component {
     }
 
     updatePage(){
-        const page = `${process.env.PUBLIC_URL}/pages/${this.props.pageURL}`
+        const page = `https://github.com/mbcsalmeida/MegatenNotesWebsite/tree/main/public/pages/${this.props.pageURL}`
         fetch(page)
             .then((response) => response.text())
             .then((text) => {this.setState({content : text })})  
@@ -38,7 +41,7 @@ export default class MainContainer extends Component {
 
     componentDidUpdate(prevProps, prevState){
         if(prevProps.pageURL !== this.props.pageURL || prevState.content !== this.state.content){
-            this.updatePage()
+
         }
     }
 
