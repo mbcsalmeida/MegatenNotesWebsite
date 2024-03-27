@@ -6,96 +6,51 @@ import remarkGfm from 'remark-gfm'
 import rehypeSlug from 'rehype-slug'
 import {fetchPage} from "../../api/axios";
 import {useQuery} from "react-query";
+import {useEffect, useState} from "react";
+import {Loading} from "../../components/loading/loading";
+import {Error} from "../../components/error/error";
 
+export const MainContainer = (props) => {
 
-/*export default class MainContainer extends Component {
-    
-    constructor(props) {
-        super(props)
+    const [initialFetchDone, setInitialFetchDone] = useState(false);
+    const { data: page, isLoading, isError, isSuccess, refetch } = useQuery('page', () => fetchPage(props.pageURL), {
+        enabled: initialFetchDone  // Disable the initial fetch until the flag is set to true
+    });
 
-        this.state = {
-            content : null, 
-            imgs: true
+    useEffect(() => {
+        if (!initialFetchDone) {
+            // Set the flag to true after the first render
+            setInitialFetchDone(true);
+        } else {
+            // This effect will be triggered whenever props.pageURL changes after initial fetch
+            refetch();
         }
-
-        getPage(this.props.pageURL).then(
-        )
-       
-       this.changeImageDisplay = this.changeImageDisplay.bind(this)
-    }
-
-
-
-    updatePage(){
-        const page = `https://github.com/mbcsalmeida/MegatenNotesWebsite/tree/main/public/pages/${this.props.pageURL}`
-        fetch(page)
-            .then((response) => response.text())
-            .then((text) => {this.setState({content : text })})  
-    }
-
-    componentDidUpdate(prevProps, prevState){
-        if(prevProps.pageURL !== this.props.pageURL || prevState.content !== this.state.content){
-
-        }
-    }
-
-    changeImageDisplay(e){
+    }, [props.pageURL, refetch, initialFetchDone]);
+    const changeImageDisplay = (e) => {
         this.setState(prevState => ({
             imgs: !prevState.imgs
         }))
     }
 
-    changeMarkdownContainerClass(){
-        return this.state.imgs ? "Markdown-Container"  : "Markdown-Container no-images" 
-    }
-
-    render() {
-        return (
-            <div className='main-page-background'>
-                <MarkdownContainer 
-                className={this.className}
-                >
-                    <ReactMarkdown 
-                    className={this.changeMarkdownContainerClass()}
-                    children={this.state.content}
-                    remarkPlugins={[remarkGfm]}
-                    rehypePlugins={[rehypeSlug]}
-                    />
-                </MarkdownContainer>
-                <FloatingActionButton style={this.fabStyle} anchor={this.props.pageURL} imgFun={this.changeImageDisplay}/>
-            </div>
-      )
-    }
-}*/
-
-export const MainContainer = (props) => {
-
-    const {data: page, isLoading, isError, isSuccess} = useQuery('page', ()=>fetchPage(props.pageURL))
-
-    const changeImageDisplay = (e) => {
-
-    }
-
-    const changeMarkdownContainerClass = () => {
-
-    }
-
-    return (<>
-        {isLoading && <></>}
-        <div className='main-page-background'>
-            <MarkdownContainer
-            >
+    return (<div className='main-page-background'>
+        <MarkdownContainer className={props.notes ? "main-container-notes" : ""}
+        >
+            {isLoading && <>
+                <Loading />
+            </>}
+            {isSuccess && <div>
                 <ReactMarkdown
-                    className={changeMarkdownContainerClass()}
                     children={page}
                     remarkPlugins={[remarkGfm]}
                     rehypePlugins={[rehypeSlug]}
                 />
-            </MarkdownContainer>
-            <FloatingActionButton anchor={props.pageURL} imgFun={changeImageDisplay}/>
+                <FloatingActionButton anchor={props.pageURL} imgFun={changeImageDisplay}/>
+            </div>}
+            {isError && <>
+                <Error />
+            </>}
+        </MarkdownContainer>
         </div>
-        {isError && <></>}
-        </>
     )
 }
 

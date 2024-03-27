@@ -1,50 +1,39 @@
 import TopBar from '../topbar/topbar.component.jsx'
 import SideBar from '../sidebar/sidebar.component.jsx'
-import { useLocation } from 'react-router-dom';
-import  { useEffect, useState } from 'react';
+import {Fragment, useEffect, useState} from 'react';
+import {titles} from "../titles";
 
-export const NavBar = () => {
-  const [size, setSize] = useState([window.innerWidth, window.innerHeight]);
-  const bar_titles = {
-      "Home" : "/",
-      "About" : "/about",
-      "Notes" : "/games",
-      "Credits" : "/credits"
-  } 
+export const NavBar = ({ children }) => {
+  const [isTouchDevice, setIsTouchDevice] = useState(false);
 
-  const useWindowSize = () => {
-    function updateSize() {
-      setSize([window.innerWidth, window.innerHeight]);
-    }
-    window.addEventListener('resize', updateSize);
-    return size;
-  }
+  useEffect(() => {
+    const onTouchStart = () => setIsTouchDevice(true);
+    const onMouseMove = () => setIsTouchDevice(window.innerWidth <= window.innerHeight);
 
-  const ShowWindowDimensions = (props) => {
-    const [width, height] = useWindowSize()
-    return width !== 0? width <= height: false
-  }
+    window.addEventListener('touchstart', onTouchStart);
+    window.addEventListener('mousemove', onMouseMove);
 
-  const StyleOfBar = () => {
-    let styleOfBar;
-    let location = useLocation();
-  
-    if(ShowWindowDimensions() || location.pathname.includes("/notes")){
-         styleOfBar = <TopBar titles={bar_titles} />
-    }
-    else if(location.pathname.includes("tracker")){
-         styleOfBar = <TopBar titles={bar_titles} className="tracker-bar" />
-    }
-    else{
-         styleOfBar = <SideBar titles={bar_titles}/>
-    } 
-    return styleOfBar;
-  }
+    return () => {
+      window.removeEventListener('touchstart', onTouchStart);
+      window.removeEventListener('mousemove', onMouseMove);
+    };
+  }, []);
 
-  return(
-    <div>
-      {StyleOfBar()}
-    </div>
-  )
-}
+  const handleResize = () => {
+    setIsTouchDevice(window.innerWidth <= 1200);
+  };
+
+  useEffect(() => {
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  return (
+      <Fragment>
+        {isTouchDevice ? <TopBar titles={titles} />: <SideBar titles={titles} />}
+        {children}
+      </Fragment>
+  );
+};
+
 

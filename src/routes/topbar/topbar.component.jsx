@@ -8,23 +8,20 @@ import icon from '../../res/iconalt.png'
 const TopBar = (props) => {
 
     return (
-        <Fragment>
-              <StyledTopbar className={props.className}>
-                <Link to='/'>
-                    <TopBarLogo src={icon} />
-                </Link>
-                <LinkContainer>
-                    {
+        <StyledTopbar className={props.className}>
+            <Link to='/'>
+                <TopBarLogo src={icon} />
+            </Link>
+            <LinkContainer>
+                {
                     Object.keys(props.titles).map((title) => {
                         return (<TopBarLink key={title} to={props.titles[title]}>
-                            {title} 
+                            {title}
                         </TopBarLink>);
                     })
                 }
-                </LinkContainer>
-            </StyledTopbar>
-            <Outlet />
-        </Fragment>
+            </LinkContainer>
+        </StyledTopbar>
     );
 }
 

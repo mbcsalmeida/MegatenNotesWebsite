@@ -25,8 +25,6 @@ export const TopBarLogo = styled.img`
   height: auto;
   margin: auto;
   width: 50%;
-  animation-name: slide-in;
-  animation-duration: 1.5s;
 `
 
 

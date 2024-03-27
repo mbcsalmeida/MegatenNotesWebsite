@@ -5,18 +5,9 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "test": "jest",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
-    "@mui/material": "^5.11.12",
-    "@mui/styled-engine-sc": "^5.11.11",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "@vitejs/plugin-react": "^4.2.1",
     "axios": "^1.6.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -27,9 +18,18 @@
     "react-router-dom": "^6.8.1",
     "rehype-slug": "^5.1.0",
     "remark-gfm": "^3.0.1",
-    "styled-components": "^5.3.8",
+    "styled-components": "^5.3.8"
+  },
+  "devDependencies": {
     "vite": "^5.1.1",
     "vite-tsconfig-paths": "^4.3.1",
-    "web-vitals": "^2.1.4"
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.12",
+    "@mui/styled-engine-sc": "^5.11.11",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3"
   }
 }
