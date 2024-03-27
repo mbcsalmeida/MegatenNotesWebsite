@@ -73,6 +73,7 @@ Recruit Garum. After getting Garum, avoid encounters. Arrange the party with Gar
 Talk to the set of rocks before entering the cave to recruit Chot (password: Atlus). Pick up *Magic Gum* chest and head inside the cave.
 
 
+
 Ring the bell 3x times.
 
 Fight **Tupon**:
@@ -134,7 +135,10 @@ Fuse:
 - Gale x Chot
 - Gale x Wyregg
 - Gale x Random Demon
+- Gale x Random Demon
 Summon Windlord again.
+Fuse:
+- Windlord x Cait Sith = Speedy (Heal All, Powerboost, Distract)
 Fuse:
 - Windlord x Cait Sith = Speedy (Heal All, Powerboost, Distract)
 
@@ -155,10 +159,15 @@ Fight **Grevir**:
 - After 3x Powerboost, attack with both if HP isn't low
 - If you get Mystic Bind without hitting Crush Claw or Powerboost, it might be worth resetting
 - Make sure to keep HP up
+- Attack with Gale and Powerboost if HP is up, if not Heal All with Speedy or with Gale
+- After 3x Powerboost, attack with both if HP isn't low
+- If you get Mystic Bind without hitting Crush Claw or Powerboost, it might be worth resetting
+- Make sure to keep HP up
  
 Heal up. Fight encounters on the way. Continue North and go West to chest for *Alarm*. Then head further north for Lucifer's Palace.
 Go up the stairs and north beyond the teleporter. Talk to Lucifer and receive the Kingloc. Set Alarm on the Demiloc.
 
+Continue north. Fight random encounters with Dark Howl, remember to heal between battles. 
 Continue north. Fight random encounters with Dark Howl, remember to heal between battles. 
 Watch the cutscene and talk to the leftmost Time Maiden (Verdandi). Angel Wing back to Center Town.
 Head north and grind right outside of theb town until level 11.
@@ -295,6 +304,7 @@ Fight **Bifronz**:
 
 Watch Gale transform. Choose the **2nd option**.
 
+### Endgamebbb
 ### Endgamebbb
 
 Use an Angel Wing to Ice Temple, go through the portal and then back to Hydraville and leave South. Go West and do the Primus skip. The encounters are very high-levelled from now on, be careful to avoid them. If you get caught, use a smoke bomb.

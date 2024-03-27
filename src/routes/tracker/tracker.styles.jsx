@@ -36,7 +36,7 @@ export const TrackerRootContainer = styled.div`
 `
 
 export const TrackerListContainer = styled.div`
-    max-height: 550px;
+    max-height: 450px;
     overflow-y: scroll;
 `
 

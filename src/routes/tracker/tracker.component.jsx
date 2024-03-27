@@ -53,7 +53,7 @@ function Tracker() {
       </TrackerListContainer>
       <br></br>
       <footer>
-        <h3>Total: {total} / 155</h3>
+        <h3>Total: {total} / 185</h3>
       </footer>
     
     </TrackerRootContainer>
