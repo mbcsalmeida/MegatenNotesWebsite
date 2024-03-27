@@ -26,7 +26,7 @@ export const MainContainer = (props) => {
             refetch();
         }
     }, [props.pageURL, refetch, initialFetchDone]);
-    const changeImageDisplay = (e) => {
+    const changeImageDisplay = () => {
         this.setState(prevState => ({
             imgs: !prevState.imgs
         }))
