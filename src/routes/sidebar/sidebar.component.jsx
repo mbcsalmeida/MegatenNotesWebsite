@@ -6,22 +6,18 @@ import icon from '../../res/icon.png'
 
 const SideBar  = (props) => {
     return (
-        <Fragment>
-          <StyledSideBar>
-                <Link to='/'>
-                    <NavLogo src={icon} />
-                </Link>
-                {
-                    Object.keys(props.titles).map((title) => {
-                        return (<NavLink key={title}  to={props.titles[title]}>
-                            <NavLinkText>{title}</NavLinkText>  
-                        </NavLink>);
-                    })
-                }
-          </StyledSideBar>
-          <Outlet />
-        </Fragment>
-
+        <StyledSideBar>
+            <Link to='/'>
+                <NavLogo src={icon} />
+            </Link>
+            {
+                Object.keys(props.titles).map((title) => {
+                    return (<NavLink key={title}  to={props.titles[title]}>
+                        <NavLinkText>{title}</NavLinkText>
+                    </NavLink>);
+                })
+            }
+        </StyledSideBar>
     );
 }
 

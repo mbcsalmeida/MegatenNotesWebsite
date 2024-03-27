@@ -52,7 +52,7 @@ export default class FloatingActionButton extends Component {
 
   render() {
     return (
-      <Draggable>
+      <Draggable cancel={"Fab"}>
         <FloatingActionBar>
           <Fab color="primary" aria-label="add"
             onClick={this.toggleFab}
