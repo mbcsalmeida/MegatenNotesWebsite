@@ -1,73 +1,56 @@
 import '../../App.css';
 import ReactMarkdown from 'react-markdown';
-import { Component } from 'react';
 import {MarkdownContainer} from './container.styles.jsx'
 import FloatingActionButton from '../../components/floating-action-button/fab.component';
 import remarkGfm from 'remark-gfm'
 import rehypeSlug from 'rehype-slug'
+import {fetchPage} from "../../api/axios";
+import {useQuery} from "react-query";
+import {useEffect, useState} from "react";
+import {Loading} from "../../components/loading/loading";
+import {Error} from "../../components/error/error";
 
+export const MainContainer = (props) => {
 
-export default class MainContainer extends Component {
-    
-    constructor(props) {
-        super(props)
+    const [initialFetchDone, setInitialFetchDone] = useState(false);
+    const { data: page, isLoading, isError, isSuccess, refetch } = useQuery('page', () => fetchPage(props.pageURL), {
+        enabled: initialFetchDone  // Disable the initial fetch until the flag is set to true
+    });
 
-        this.state = {
-            content : null, 
-            imgs: true
+    useEffect(() => {
+        if (!initialFetchDone) {
+            // Set the flag to true after the first render
+            setInitialFetchDone(true);
+        } else {
+            refetch();
+            console.log(isError)
         }
-        this.updatePage()
-        
-        if(this.props.location.pathname.includes("/notes")){
-            this.className = "main-container-notes"
-            this.fabStyle = {
-                display: "inline-flex"}
-       }else{
-            this.fabStyle = {display: "none"}
-       }
-       
-       this.changeImageDisplay = this.changeImageDisplay.bind(this)
-    }
-
-    updatePage(){
-        const page = `${process.env.PUBLIC_URL}/pages/${this.props.pageURL}`
-        fetch(page)
-            .then((response) => response.text())
-            .then((text) => {this.setState({content : text })})  
-    }
-
-    componentDidUpdate(prevProps, prevState){
-        if(prevProps.pageURL !== this.props.pageURL || prevState.content !== this.state.content){
-            this.updatePage()
-        }
-    }
-
-    changeImageDisplay(e){
+    }, [props.pageURL, refetch, initialFetchDone]);
+    const changeImageDisplay = () => {
         this.setState(prevState => ({
             imgs: !prevState.imgs
         }))
     }
 
-    changeMarkdownContainerClass(){
-        return this.state.imgs ? "Markdown-Container"  : "Markdown-Container no-images" 
-    }
-
-    render() {
-        return (
-            <div className='main-page-background'>
-                <MarkdownContainer 
-                className={this.className}
-                >
-                    <ReactMarkdown 
-                    className={this.changeMarkdownContainerClass()}
-                    children={this.state.content}
+    return (<div className='main-page-background'>
+        <MarkdownContainer className={props.notes ? "main-container-notes" : ""}
+        >
+            {isLoading && <>
+                <Loading />
+            </>}
+            {isSuccess && <div>
+                <ReactMarkdown
+                    children={page}
                     remarkPlugins={[remarkGfm]}
                     rehypePlugins={[rehypeSlug]}
-                    />
-                </MarkdownContainer>
-                <FloatingActionButton style={this.fabStyle} anchor={this.props.pageURL} imgFun={this.changeImageDisplay}/>
-            </div>
-      )
-    }
+                />
+                <FloatingActionButton anchor={props.pageURL} imgFun={changeImageDisplay}/>
+            </div>}
+            {isError && <>
+                <Error />
+            </>}
+        </MarkdownContainer>
+        </div>
+    )
 }
 

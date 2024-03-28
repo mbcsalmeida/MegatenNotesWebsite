@@ -39,6 +39,10 @@ If you have any questions or advice, please feel free to let me know.
 |[Black Book](notes/black)| - |
 |[White Book](notes/white)|-|
 
+|          DemiKids          |
+|:--------------------------:|
+| [Dark Version](notes/dark) |
+
 |Devil Summoner (PSP)|
 |:-:|
 |[Any%](notes/devsum)|
@@ -46,5 +50,9 @@ If you have any questions or advice, please feel free to let me know.
 |Shin Megami Tensei V|
 |:-:|
 |[Safety - Any&](notes/smt5s)|
+
+|Looney-Tunes: Twouble|
+|::|
+|[Any%](notes/twouble)|
 
 

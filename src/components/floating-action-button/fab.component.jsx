@@ -26,21 +26,21 @@ export default class FloatingActionButton extends Component {
     this.anchors = anchors[this.props.anchor]
   }
 
-  toggleFab(e) {
+  toggleFab() {
     this.setState(prevState => ({
       showOptions: !prevState.showOptions,
       showAnchors: false
     }));
   }
 
-  toggleImages(e) {
+  toggleImages() {
     this.setState(prevState => ({
       showImg: !prevState.showImg
     }));
     this.props.imgFun();
   }
 
-  toggleAnchors(e) {
+  toggleAnchors() {
     this.setState(prevState => ({
       showAnchors: !prevState.showAnchors
     }));
@@ -52,7 +52,7 @@ export default class FloatingActionButton extends Component {
 
   render() {
     return (
-      <Draggable>
+      <Draggable cancel={"Fab"}>
         <FloatingActionBar>
           <Fab color="primary" aria-label="add"
             onClick={this.toggleFab}
