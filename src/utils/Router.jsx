@@ -3,6 +3,7 @@ import {Base} from "../layouts/base";
 import {Notes} from "../layouts/notes";
 import {MainContainer} from "../routes/container/container.component";
 import {Page404} from "../components/error/404";
+import {TrackerLayout} from "../layouts/tracker/tracker-layout.component";
 export default function Router() {
 
     const router = createBrowserRouter([
@@ -48,7 +49,10 @@ export default function Router() {
 
             ]
         },
-        {path: "*", element: <Page404 />} //change to not found
+        {
+            path: "/tracker", element: <TrackerLayout />
+        },
+        {path: "*", element: <Page404 />}
     ])
 
     return <RouterProvider router={router}/>
