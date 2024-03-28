@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import '../../App.css'
 
 export const StyledTopbar = styled.div`
-    margin: 0px;
+    margin: 0;
     display: block;
     position: sticky;
     top: -8vw;
@@ -25,8 +25,6 @@ export const TopBarLogo = styled.img`
   height: auto;
   margin: auto;
   width: 50%;
-  animation-name: slide-in;
-  animation-duration: 1.5s;
 `
 
 

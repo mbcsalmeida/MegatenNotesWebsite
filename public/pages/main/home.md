@@ -3,6 +3,8 @@
 
 ### [SMT/Persona Speedrunners Twitch Team](https://www.twitch.tv/team/smtspeedrunning)
 
+**27/03/2024** - Resolved performance issues, published DemiKids Dark and Looney-Tunes: Twouble notes
+
 **04/09/2023** - Published SMT1 PSX Any% and SMT1 PSX All Bosses notes
 
 **23/04/2023** - Added UI improvements to the website, option to download notes, option to display notes without pictures
