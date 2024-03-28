@@ -51,8 +51,8 @@ If you have any questions or advice, please feel free to let me know.
 |:-:|
 |[Safety - Any&](notes/smt5s)|
 
-|Looney-Tunes: Twouble|
-|::|
-|[Any%](notes/twouble)|
+| Looney-Tunes: Twouble |
+|:---------------------:|
+| [Any%](notes/looneytunes) |
 
 
