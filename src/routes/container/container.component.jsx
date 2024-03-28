@@ -22,8 +22,8 @@ export const MainContainer = (props) => {
             // Set the flag to true after the first render
             setInitialFetchDone(true);
         } else {
-            // This effect will be triggered whenever props.pageURL changes after initial fetch
             refetch();
+            console.log(isError)
         }
     }, [props.pageURL, refetch, initialFetchDone]);
     const changeImageDisplay = () => {
