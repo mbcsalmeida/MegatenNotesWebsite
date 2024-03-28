@@ -2,6 +2,7 @@ import {createBrowserRouter, Navigate, RouterProvider} from "react-router-dom";
 import {Base} from "../layouts/base";
 import {Notes} from "../layouts/notes";
 import {MainContainer} from "../routes/container/container.component";
+import {TrackerLayout} from "../layouts/tracker/tracker-layout.component";
 export default function Router() {
 
     const router = createBrowserRouter([
@@ -24,6 +25,9 @@ export default function Router() {
                 {path: "/notes/lb2gbc", element: <MainContainer notes={true}  pageURL={"notes/lb2gbc.md"} />},
 
             ]
+        },
+        {
+            path: "/tracker", element: <TrackerLayout />
         },
         {path: "*", element: <Navigate to={"/"}/>} //change to not found
     ])
