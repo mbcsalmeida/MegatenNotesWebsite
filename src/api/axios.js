@@ -8,12 +8,15 @@ export const demonsAPI = axios.create({
     baseURL: "https://api.github.com/repos/mbcsalmeida/smt1-demon-tracker/contents/public/"
 })
 
+const base64Decode = base64EncodedString =>
+  new TextDecoder().decode(Uint8Array.from(atob(base64EncodedString), m => m.charCodeAt(0)));
+
 export const fetchPage = async (page) => {
     try {
         const response = await api.get(page);
         const base64Content = response.data.content;
          // Decode base64 content
-        return atob(base64Content);
+        return base64Decode(base64Content);
     } catch (error) {
         throw error;
     }

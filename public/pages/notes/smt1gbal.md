@@ -9,7 +9,9 @@ First dream sequence starts:
 
 Mash B to leave the house (1) then head to the Arcade (3) and go to (B) to get attacked by Haunt Preta.
 
-![ ](/images/smt1maps/2D/01-Arcade.png) ![ ](/images/smt1maps/3D/ARCADE-1F.png)
+![Kichijoji](/images/smt1maps/2D/GBA-01-Arcade.png) 
+
+![Arcade](/images/smt1maps/3D/ARCADE-1F.png)
 
 Return home and go to bed (Up x2 - Sleep `すいみんを とる`)
 
@@ -22,7 +24,9 @@ Second dream sequence:
 
 Go to Inokashira Park (4) and watch the cutscene. Buy 3x Hamaya `破魔矢` at KAIFUKU and get the 400 MAG chest (1).
 
-![ ](/images/smt1maps/2D/02-InokashiraPark.png) ![ ](/images/smt1maps/3D/INOKASHIRA-PARK-1F.png)
+![Kichijoji](/images/smt1maps/2D/GBA-02-InokashiraPark.png) 
+
+![Inokashira Park](/images/smt1maps/3D/INOKASHIRA-PARK-1F.png)
 
 Return home to get arrested.
 
@@ -30,16 +34,22 @@ Return home to get arrested.
 
 Recruit Law Hero (A) and go talk to STEVEN (B) (Yes → No).
 
-![ ](/images/smt1maps/3D/HOSPITAL-1F.png) ![ ](/images/smt1maps/3D/HOSPITAL-2F.png)
+![Hospital 1F](/images/smt1maps/3D/HOSPITAL-1F.png) 
+
+![Hospital 2F](/images/smt1maps/3D/HOSPITAL-2F.png)
 
 Head upstairs to fight Fallen Orias(C):
 
 *   Hero defends and Law Hero uses Hamaya `破魔矢`.
 *   Hero levels Intelligence `知` and Law Hero puts 4 points to Magic `魔` and 1 point to Speed `速`.
 
+![Hospital](/images/smt1maps/3D/HOSPITAL-1F-2.png "Hospital")
+
 Leave the hospital and go to the Arcade again.
 
-![ ](/images/smt1maps/2D/03-Arcade.png) ![ ](/images/smt1maps/3D/ARCADE-1F.png)
+![Kichijoji](/images/smt1maps/2D/GBA-03-Arcade.png) 
+
+![Arcade](/images/smt1maps/3D/ARCADE-1F-2.png "Arcade")
 
 Once in the Arcade recruit Chaos Hero (A) and enter SURVIVAL:
 
@@ -59,13 +69,17 @@ Go home and fight Jaki Ama no Sakugami:
 *   Hero levels Intelligence`知`, Law Hero levels Speed `速`, and Chaos Hero levels Magic `魔`.
 *   If Chaos Hero is CLOSE, go to your room ``じぶんの へやに いく`` and Sleep ``すいみんを とる``.
 
+[Inokashira Park](/images/smt1maps/3D/INOKASHIRA-PARK-1F-2.png "Inokashira Park")
+
 Go to Inokashira Park and buy 9x Hamaya`破魔矢` and head to Echo Building.
 
 ### Echo Building
 
 From now on it's possible to recruit the demons needed but it's not necessary to force a recruit here, as all the demons available here are also present in the next few areas.
 
-![ ](/images/smt1maps/3D/ECHO-BILL-1F.png) ![ ](/images/smt1maps/3D/ECHO-BILL-5F.png)
+![Echo Building](/images/smt1maps/3D/ECHO-BILL-1F.png "Echo Building") 
+
+![Echo Building 5F](/images/smt1maps/3D/ECHO-BILL-5F-1.png "Echo Building 5F")
 
 Take the elevator to 5F and go fight Douman:
 
@@ -82,7 +96,9 @@ Enter the Terminal room and transfer `てんそう` to Shinjuku Lab.
 
 You may choose to save `きろく` at the terminals as failing to escape a group of Harpies can kill one or all party members.
 
-![ ](/images/smt1maps/3D/LABORATORY-2F.png) ![ ](/images/smt1maps/3D/LABORATORY-1F.png)
+![Lab 2F](/images/smt1maps/3D/LABORATORY-2F.png) 
+
+![Lab 1F](/images/smt1maps/3D/LABORATORY-1F.png)
 
 Events (A) and (B) are fixed Jaki Orc encounters in which Chaos Hero uses Agi `アギ` and the others defend.
 
@@ -90,15 +106,21 @@ Events (A) and (B) are fixed Jaki Orc encounters in which Chaos Hero uses Agi `�
 
 After leaving the Lab, head to the Underground Mall. The exp from just fixed fights is not enough to level Chaos Hero to 13 by the time recruits could be over, so fighting an encounter is required: Haunt Oshichi dies to Zan ``ザン``, Night Imp and Jaki Orc die to Agi ``アギ``.
 
-![ ](/images/smt1maps/2D/04-Shinjuku-Mall.png) ![ ](/images/smt1maps/3D/SHINJUKU-B1F.png)
+![Shinjuku](/images/smt1maps/2D/GBA-04-Shinjuku-Mall.png) 
+
+![Shinjuku Underground Mall B1F](/images/smt1maps/3D/SHINJUKU-B1F.png)
 
 This is where most recruits can be done with the exception of Fairy Dryad, but it's also not the last place these demons can be found. Make sure to talk away encounters with demons already recruited as they may give money, magnetite, and Life Stones ``ませき`` that can be used for negotiations.
 
 Head to the southernmost bar and talk to the barman: talk to him → yes → no → yes. Head downstairs on the northeastern set of stairs.
 
-![ ](/images/smt1maps/3D/SHINJUKU-B2F_AGITATION-POINT.png)
+![Shinjuku Underground Mall B1F](/images/smt1maps/3D/SHINJUKU-B1F-2.png)
+
+![Shinjuku Underground Mall B2F](/images/smt1maps/3D/SHINJUKU-B2F.png)
 
 Talk to the Heroine (B) and go back upstairs to meet the Resistance Man (A) and head out to the western exit.
+
+![Shinjuku Underground Mall B1F](/images/smt1maps/3D/SHINJUKU-B1F-4.png)
 
 For safety, go to the Messian Church and buy 3x Holy Waters ```聖水```.
 
@@ -106,7 +128,9 @@ For safety, go to the Messian Church and buy 3x Holy Waters ```聖水```.
 
 From the Underground Mall head south for the public execution.
 
-![ ](/images/smt1maps/2D/05-Tokyo-Government.png) ![ ](/images/smt1maps/3D/METROPOLITAN-OFFICE-1F.png)
+![Tokyo](/images/smt1maps/2D/GBA-05-Tokyo-Government.png) 
+
+![Metropolitan Office](/images/smt1maps/3D/METROPOLITAN-OFFICE-1F.png)
 
 Enter the building at 3/8 ascending and fight the hordes (A):
 
@@ -118,7 +142,9 @@ Enter the building at 3/8 ascending and fight the hordes (A):
 
 Hero should hit Level 12, so every recruit is possible from now on. Go out and head north to Ozawa's Hideout.
 
-![ ](/images/smt1maps/2D/06-Ozawa-Hideout.png) ![ ](/images/smt1maps/3D/BULLDING-1F.png)
+![Ozawa Hideout](/images/smt1maps/2D/GBA-06-Ozawa-Hideout.png) 
+
+![ ](/images/smt1maps/3D/BULLDING-1F.png)
 
 Get the 1360MAG chest (1) and go fight Haunt Baykok (A):
 

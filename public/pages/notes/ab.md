@@ -21,7 +21,7 @@ Head to the Resistance town (5) with Hero.
 
 ![ ](/images/abmaps/MAP5.png)
 
-*   Party: Hero, Heroine, Stras
+Party: Hero, Heroine, Stras
 
 Escort the Heroine with Stras to talk to Alta (9). Head to the Village (3) with Hero at the same time and make sure to level him up to 11.
 
@@ -39,7 +39,7 @@ Head to the upper right corner, where the trigger for the end of the chapter is.
 
 ![ ](/images/abmaps/MAP8.png)
 
-Grab the Float Ringひみつのつばさ (8) then grab the Fire Magnes (2) and head to the exit (17).
+Grab the Float Ring (``ひみつのつばさ``) (8) then grab the Fire Magnes (2) and head to the exit (17).
 
 ![ ](/images/abmaps/MAP9-1.png) ![ ](/images/abmaps/MAP9-2.png)
 
