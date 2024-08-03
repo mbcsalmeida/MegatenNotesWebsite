@@ -109,8 +109,10 @@ Get to at least level 8. Heal between fights. Defeating demons in this area:
 
 Once you hit level 8 and have gotten the extra demon, avoid encounters.
 
-Then head east, pick up chest with Macca and enter beyond the bushes to the hidden house. Talk to Wyregg to recruit it.
+Then head east, pick up chest with Macca, pick up the *Love Charm* and enter beyond the bushes to the hidden house. Talk to Wyregg to recruit it.
 Head west again to Center Town.
+
+Grab *Resist Gum* from house on the way to VN.
 
 Enter Virtual Network (VN) building and take demonary quiz from the Quiz Master.
 
@@ -153,7 +155,7 @@ Fuse:
 - Windlord x Cait Sith = Speedy (Heal All, Powerboost, Distract)
 
 Leave North and save. It is easier to reload then to waste money reviving Gale if he suddenly dies. 
-Keep taking encounterrs on the way to the boss fight.
+Keep taking encounters on the way to the boss fight.
 
 Fighting demons:
 - Cait Sith - Dark Howl, Attack/Heal
@@ -202,6 +204,8 @@ Take the left chest to get Dredfang. Use Terror Gaze in any fight in the ice puz
 
 Continue downstairs. On the two chests side-by-side, get the rightmost one to get a *Guard Gum*. 
 
+Use a Love Charm.
+
 Follow the path and fight: 
 - Demipyre : Ice Breath - Gale & Ikonda, Heal All
 - Horus - Cycloburst (Speedy)
@@ -227,9 +231,9 @@ Head up the stairs and go to the rightmost door for a cutscene. Then grab a *Hol
 Enter the mine.
 
 Grind to level 16 with Ice Breath, Heal All and Distract. Remember to heal MP between fights with Mana Juices.
-Recruit 1x Osiris (16), use distract. Head into the middle room and open chest with 5000 Macca. Optionally, recruit Dredogg.
+Recruit 1x Osiris (16), use distract. There is a chest with an Osiris and an Incubus right before the door to Limbo. Head into the middle room and open chest with 5000 Macca. Optionally, recruit Dredogg.
 
- Put both Osiris on top of the Demiloc and Kokatris on top of the Kingloc.
+Put both Osiris on top of the Demiloc and Kokatris on top of the Kingloc.
 
 Avoid encounters. Any encounters escape with smoke bomb. 
  
@@ -250,7 +254,7 @@ Make sure you have at least 3000 macca left. Head to Elysium, grab *Speed Gum* o
 
 Talk to the trainer guide and learn both skills. 
 
- Leave and angel Wing to Hermit and leave West. Use a Love Charm. 
+Leave and angel Wing to Hermit and leave West. Use a Love Charm. 
 
 Fight:
 - Virtue: Death Breath

@@ -17,7 +17,7 @@ Type Weaknesses:
 ### School
 
 First battle:
-- Auto -> Attack
+- Defend -> Auto Repeat
 
 Go to the library. Check the leftmost bookcase for the Love Charm and the stairs for a Voodoo Doll.
 Then talk to Lena and then Akira.
@@ -43,15 +43,15 @@ Grab chest closest to the stairs for a Revive Orb.
 
 Walk to Hermit. Ideally, recruit one demon to be fused into Rand, any works. Fight random encouters with Shining Howl and Heal and heal between battles. Grind to level 5.
 
-Grab the chest on the way for a Revive Orb. Check the walk and recruit Chot, say the password "Atlus".
+Grab the chest on the way for a Revive Orb. Check the wall and recruit Chot, say the password "Atlus".
 
-Enter the town. Summon Chot over Aminoz. Go to the fusion mansion:
+Enter the town. Summon Chot over Aminoz. Go to the fusion mansion, grab *Attack Gum* in barrel outside:
 - Lava Rat x Windling - Undine (Pyro)
-- Undine x Chot - Arakneus (Pyro)
+- Undine x Chot - Arakneus (Pyro, Heal All)
 - Gale x Aminoz
 - Gale x Spare Demon
 
-Talk to the angel twice. Then head to the house, talk to the potted plant and talk to Judy. Examine the right bookcase for a Speed Gum. 
+Talk to the angel. Then head to the house, talk to the potted plant and talk to Judy twice. Examine the right bookcase for a Speed Gum. 
 
 Talk to Ludra and choose the first option.
 
@@ -90,16 +90,19 @@ Grind to level 8. Fight encounters:
 
 Grab chest with 1000 Macca. Grab chest with Attack Gum. Recruit Ludra.
 
-Head inside the HQ. Talk to Lena.
-
-Head further inside and talk to Shin. Grab the chest with the Dredfang, Angel Wing and Revive Orb. On the other side, grab Fist Relic and Luck Gum.
-
-Arrange the Demiloc to Arakneus, Ludra, and summon Iceraith at the bottom.
-
-Talk to the middle demon to begin the fight.
+Head inside the HQ. 
 
 Fuse:
-- Arakneus x Ludra - Vampire (Heal All, Pyro, Cyclone)
+- Arakneus x Ludra - Vampire (Pyro, Heal All, Cyclone)
+
+Talk to Lena.
+
+Head further inside and talk to Shin. Grab the chest with the Dredfang, crates on the left for Blast Box, Angel Wing and Revive Orb. On the other side, grab Fist Relic and Luck Gum.
+
+Arrange the Demiloc with Vampire, and summon Iceraith at the bottom.
+
+
+Talk to the middle demon to begin the fight.
 
 Fight Ice Baby x2 + Kanos:
 - Dredfang + Pyro
@@ -114,7 +117,7 @@ Fight Windlord + Unicorn:
 - Use Magic Drain on Unicorn
 - If Vampire dies, use Chomp with Iceraith
 
-Angel Wing back to Hermit. Put Iceraith in the Kingloc. Leave north. Grind to level 11.
+Angel Wing back to Hermit. Put Iceraith in the Kingloc. Leave north. Grind to level 11. Stop by Hydraville.
 
 Fight:
 - Unicorn - Magic Drain
@@ -125,19 +128,19 @@ Fight:
 
 ### Mine
 
-Go to Avalon. Enter the house and inspect the table for a Resist Gum. Inspect the well for an Attack Gum. 
+Go to Avalon. Enter the house and inspect the table on the left corner for a Resist Gum. Inspect the well for an Attack Gum. 
 
 Exit and continue north to Elysium. After the first stairs, grab the chests to the right for a Magic Gum and Holy Orb.
 In Elysium, enter the house on the left and inspect the pot on the top right for a Revive Gem. 
 
-Angel Wing back to Hermit. Go north to Hydraville.
+Angel Wing back to Hydraville.
 
-Inspect the barrels to the right for a Bubble Oil. Go down the stairs and inspect the well/barrel for a Guard Gum. Go to the HQ (right door) and talk to Drail. Then leave and enter the door on the left and talk to Naomi,the piano player. Go back to the other room and talk to Drail. Head to the mine.
+Inspect the barrels to the right for a Bubble Oil. Go up the stairs and inspect the barrel for a Guard Gum. Go to the HQ (right door) and talk to Drail. Then leave and enter the door on the left and talk to Naomi,the piano player. Go back to the other room and talk to Drail. Head to the mine.
 
 Go left down the narrow passage and open two leftmost chests for gums. 
-Then go north and enter the middle room, open the left chest for a Gale Bag.
+Then go north and go to the left room and open both chests. Inspect the pot right next to the chests for a Hex Relic. Then inspect the pots to the right of the character for a Revive Gem.
 
-Go to the left room and open both chests. Inspect the pot right next to the chests for a Hex Relic. Then inspect the pots to the right of the character for a Revive Gem.
+Enter the middle room, open the left chest for a Gale Bag.
 
 Leave and go to the right room. Open chest for a Mana Shake and inspect the top left corner for Skyfish. Head to the passage to talk to guy and get a Hex Relic.
 
@@ -159,8 +162,8 @@ Buy:
 - 31 Energy Cubes
 - 21 Mana Sundae
 
-Go to the mansion and fuse:
-- Vampire x Skare - Irontaur (Cyclone? Pyro)
+Summon Skare. Go to the mansion and fuse:
+- Vampire x Skare - Irontaur (Shock? Pyro)
 
 Relic fuse:
 - Hex + Beast + Lion - Sylph
@@ -169,8 +172,9 @@ Summon Irontaur on the Kingloc, Sylph and Iceraith in the Demiloc. Exit. Angel W
 
 Go to mansion, right demon:
 - Sylph x Bubble Oil - Chaos Foam
+- Sylph x Blast Box - Pyro Bomb
 
-Exit north and head east.
+Angel Wing to Hermit. Exit north and head east.
 
 Talk to Judy. Grab chest with Smoke Bomb.
 
@@ -178,17 +182,17 @@ Talk to Judy. Grab chest with Smoke Bomb.
 - Shining Howl, Petra, Chaos Foam
 - Rand will inevitably die, just heal Irontaur and Sylph's HP with each's Heal All
 
-Heal up. Put Iceraith in front of Irontaur.
+Heal up, revive Rand. Put Iceraith in front of Irontaur.
 
 Irontaur fight:
-- Gale Bag/First Strike + Cold Voice + Windburst
+- Gale Bag/First Strike + Polar + Windburst
 - With Irontaur use Cyclone/Glow
 - Heal with Heal All
 - Kill one at a time, they like using Heal All
 
 Use a revive orb on Rand but don't heal it. Return all demons (Access -> Send). Make sure to correctly avoid all encounters, otherwise you'll wipe and have to backtrack all the way.
 
-Keep going left. Head up to start the cutscene.
+Keep going right. Head up to start the cutscene.
 
 Fight 2x Irontaur + Sea Ram:
 - Auto -> Attack to die
@@ -205,6 +209,7 @@ Go up all the stairs. Grab the chests on either side of the highest floor. Use A
 
 Fight Andromus:
 - Ice Breath + Windburst/Snow Comb + Heal All
+- Focus on healing Rand with Energy Cubes for speed
 - Recover Irontaur's MP with a Mana Sundae
 - If any character get hit with Bomb, use Sylph's Cure
 - Fight takes a while but you'll get it eventually
