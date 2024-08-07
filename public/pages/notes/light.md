@@ -95,12 +95,11 @@ Head inside the HQ.
 Fuse:
 - Arakneus x Ludra - Vampire (Pyro, Heal All, Cyclone)
 
-Talk to Lena.
+Talk to Lena. Grab Big Wing from the left barrel.
 
 Head further inside and talk to Shin. Grab the chest with the Dredfang, crates on the left for Blast Box, Angel Wing and Revive Orb. On the other side, grab Fist Relic and Luck Gum.
 
 Arrange the Demiloc with Vampire, and summon Iceraith at the bottom.
-
 
 Talk to the middle demon to begin the fight.
 
@@ -109,7 +108,7 @@ Fight Ice Baby x2 + Kanos:
 - Shining Howl + Heal All
 
 Fight Ice Baby + Arakneus + Ice Baby:
-- Pyro for Ice Baby, Kirin's Horn
+- Pyro for Ice Baby, Heal All
 - Cyclone to Arakneus, Mana Juice to Vampire
 
 Fight Windlord + Unicorn:
@@ -117,7 +116,7 @@ Fight Windlord + Unicorn:
 - Use Magic Drain on Unicorn
 - If Vampire dies, use Chomp with Iceraith
 
-Angel Wing back to Hermit. Put Iceraith in the Kingloc. Leave north. Grind to level 11. Stop by Hydraville.
+Angel Wing back to Hermit. Put Iceraith in the Kingloc. Leave north, recruit Ikonda. Grind to level 11. Stop by Hydraville.
 
 Fight:
 - Unicorn - Magic Drain
@@ -149,7 +148,7 @@ Angel Wing back to Hydraville. Go to the healer. Inspect the barrel near the hea
 Go to shop.
 
 Sell:
-- Gums (Except magic/attack)
+- Gums (Except attack)
 
 Buy:
 - Blood Relic
@@ -161,6 +160,9 @@ Angel wing to Avalon. Go to shop.
 Buy:
 - 31 Energy Cubes
 - 21 Mana Sundae
+- 11 Angel Wing
+
+Deposit the rest of your money.
 
 Summon Skare. Go to the mansion and fuse:
 - Vampire x Skare - Irontaur (Shock? Pyro)
@@ -168,11 +170,11 @@ Summon Skare. Go to the mansion and fuse:
 Relic fuse:
 - Hex + Beast + Lion - Sylph
 
-Summon Irontaur on the Kingloc, Sylph and Iceraith in the Demiloc. Exit. Angel Wing to Hydraville. 
+Summon Irontaur and Ikonda on the Kingloc, Sylph and Iceraith in the Demiloc. Exit. Angel Wing to Hydraville. 
 
 Go to mansion, right demon:
 - Sylph x Bubble Oil - Chaos Foam
-- Sylph x Blast Box - Pyro Bomb
+- Ikonda x Big Wing - Big Wing
 
 Angel Wing to Hermit. Exit north and head east.
 
@@ -182,10 +184,10 @@ Talk to Judy. Grab chest with Smoke Bomb.
 - Shining Howl, Petra, Chaos Foam
 - Rand will inevitably die, just heal Irontaur and Sylph's HP with each's Heal All
 
-Heal up, revive Rand. Put Iceraith in front of Irontaur.
+Heal up, revive Rand. Put Ikonda in front of Irontaur.
 
 Irontaur fight:
-- Gale Bag/First Strike + Polar + Windburst
+- Gale Bag/First Strike + Windburst + Big Wing
 - With Irontaur use Cyclone/Glow
 - Heal with Heal All
 - Kill one at a time, they like using Heal All
@@ -197,13 +199,15 @@ Keep going right. Head up to start the cutscene.
 Fight 2x Irontaur + Sea Ram:
 - Auto -> Attack to die
 
-Summon characters and revive/heal at the healers. Check pots on the left for a revive orb.
+Summon Ikonda and Sylph on demiloc, Irontaur and Iceraith on the Kingloc and revive/heal at the healers. Check pots on the left for a revive orb.
 
 Watch Rand transform, ignore it (2nd option). Inherit Heal All.
 
 Grind to level 13. Fight:
-- Bearlord: Chaos Foam + Double Nova + Ram
+- Bearlord: Ice Breath + Ice Breath
 - Sandman: Double Nova + Ram
+- Sylph: Petra
+- Shogun: Ice Breath
 
 Go up all the stairs. Grab the chests on either side of the highest floor. Use Attack Gums on Rand. Summon Skyfish in front of Irontaur.
 
@@ -277,7 +281,16 @@ Grab the *Magic Gum* in the fireplace in the north house and the *Speed Gum* in 
 
 Leave South and head to the center. Grab the chests with *Guard Gum* and *Attack Gum*.
 
-Grab the *Attack Gum* in the house just below the casino.
+Grab the *Attack Gum* in the house just below the casino, top left.
+
+Sell:
+- Gums
+
+Buy:
+- 21x Smoke Bombs
+- 3 Revive Gems
+
+Withdraw money from the bank.
 
 Leave north and avoid encounters. Talk to Forlo. 
 
@@ -293,9 +306,10 @@ Take the portal to your left. Head in and talk to Lucifer's tomb to get the Luci
 
 Head back to the time tower, take the blue door to the right, take the portal back to Hueyville and Angel Wing to the center.
 
+Heal. Outside (east) of Center, grind to level 16. Recruit 2x Osiris once you're level 16, keep taking fights otherwise. Heal out of battle with Healmore All.
 
-
-Outside (east) of Center, grind to level 16. Recruit 2x Osiris once you're level 16, keep taking fights otherwise.
+Once you're level 15, fuse:
+- Sylph x Irontaur - Pegasus (Petra, Pyro)
 
 Fights:
 - Ice Maid - Gaia Crush
@@ -303,7 +317,17 @@ Fights:
 - Bifrius - TNT Chain
 - Osiris - TNT Chain
 
-Head north and keep taking encounters (goal is level 20). Enter Lucifer's palace and head north. Talk to Urd and choose "Send me there".
+If there's 3 enemies, always Gaia Crush first.
+
+Head north and keep taking encounters (goal is level 20, you can stop at 18 with 400exp to until 19). 
+
+Fights:
+- Lord Ton - Gaia Crush
+- Lord Nan - TNT Chain
+- Airavata - Gaia Crush
+- Virgo - TNT Chain
+
+Enter Lucifer's palace and head north. Talk to Urd and choose "Send me there".
 
 Fight Hydra, Tiamat, Harpy:
 - Gaia Crush, Healmore All, Petraburst on Hydra
@@ -313,7 +337,15 @@ Fight Hydra, Tiamat, Harpy:
 Fight Forlo:
 - TNT Chain, Heal
 
-Head back to Center Town and talk to Lucifer. Head through the Ice Temple and back to the portal to the Time Tower.
+Talk to Lucifer. Angel Wing to Center Town. 
+
+You should already be level 20, if not grind until.
+
+Fuse:
+- Fist Relic x Hex Relic x Blood Relic - Airavara
+- Skyfish x Pandora - Virgo (Healmore All)
+
+Head through the Ice Temple and back to the portal to the Time Tower.
 
 ---
 ## Light Temple
@@ -322,13 +354,6 @@ Head back to Center Town and talk to Lucifer. Head through the Ice Temple and ba
 Talk to Amy. Head to the leftmost blue door. Overhear Lucifer and then open the left chest to grab the Time Key.
 
 Head back to Center Town and talk to Lucifer. Teleport to Center Town.
-
-You should already be level 20, if not grind until.
-
-Fuse:
-- Sylph x Irontaur - Pegasus
-- Fist Relic x Hex Relic x Blood Relic - Airavara
-- Skyfish x Pandora - Virgo
 
 Head south from the sand area until the Light Temple.
 

@@ -17,7 +17,7 @@ export const MarkdownContainer = styled.div`
   animation-duration: 1.5s;
   scroll-behavior: smooth;
 
-  @media (max-width: 1200px){
+  @media (max-width: 1199px){
     margin-left: 0 !important;
     margin-right: 0 !important;
     width: inherit !important;

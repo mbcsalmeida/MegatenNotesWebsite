@@ -20,7 +20,7 @@ export const NavBar = ({ children }) => {
   }, []);
 
   const handleResize = () => {
-    setIsTouchDevice(window.innerWidth <= 1200);
+    setIsTouchDevice(window.innerWidth < 1200);
   };
 
   useEffect(() => {
