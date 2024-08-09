@@ -1,7 +1,8 @@
 {
   "name": "megaten-notes-website-react",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "private": true,
+  "type": "module",
   "scripts": {
     "start": "vite",
     "build": "vite build",

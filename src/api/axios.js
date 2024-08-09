@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-    baseURL: "https://api.github.com/repos/mbcsalmeida/MegatenNotesWebsite/contents/public/pages",
+    baseURL: "https://api.github.com/repos/mbcsalmeida/MegatenNotesPages/contents/public/pages",
 });
 
 export const demonsAPI = axios.create({
