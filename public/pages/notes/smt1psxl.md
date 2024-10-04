@@ -303,8 +303,6 @@ Traport and leave.
 
 Save at Ginza and go to Shinagawa.
 
-Save at Ginza and go to Shinagawa.
-
 **Devil Summoner 1**: 	
 - 1st - Heroine - Tamagaeri, rest defend
 - 2nd - AUTO
@@ -317,7 +315,7 @@ Book the terminal.
 Messiah Church:
 - 3x Holy Waters
 
-![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F.png)
+![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F-2.png)
 
 ![SHINAGAWA 3F](/images/smt1maps/3D/SHINAGAWA-3F.png) 
 
@@ -382,9 +380,9 @@ Go to the Rags Store and exchange:
 ![UENO 1F](/images/smt1maps/3D/UENO-AKIHABARA-1F-PSX-3.png)
 
 Traport. Head to the Heretic Mansion and do Sword Fusion:
-- Nameless Blade x Sylph -
-- x Undyne - Murakumo
-- Murakumo x Salamnder - Hinokagutsuchi
+- Kusanagi no Tsurugi x Sylph - Futsu no Mitama
+- Futsu no Mitama x Undyne - Ame no Murakumo 
+- Ame no Murakumo  x Salamnder - Hinokagutsuchi
 
 Equip the Hinokagutsuchi to the Hero.
 
@@ -433,7 +431,7 @@ Climb up to Echidna.
 
 ![TDL-4F](/images/smt1maps/3D/TDL-4F.png)
 
-Talk to Echidna and say NO -> YES.
+Talk to Echidna and say NO -> NO.
 
 **Echidna:**
 - AUTO

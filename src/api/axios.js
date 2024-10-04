@@ -1,11 +1,14 @@
 import axios from "axios";
 
+const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+const DEMONS_API = import.meta.env.VITE_DEMONS_API;
+
 export const api = axios.create({
-    baseURL: "https://api.github.com/repos/mbcsalmeida/MegatenNotesPages/contents/public/pages",
+    baseURL: BASE_URL,
 });
 
 export const demonsAPI = axios.create({
-    baseURL: "https://api.github.com/repos/mbcsalmeida/smt1-demon-tracker/contents/public/"
+    baseURL: DEMONS_API
 })
 
 const base64Decode = base64EncodedString =>

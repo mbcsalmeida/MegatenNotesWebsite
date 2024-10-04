@@ -20,7 +20,7 @@ export const MainContainer = (props) => {
     const imageRenderer = {
         img: ({ alt, src }) => (
             <div style={{textAlign: "center"}}>
-                <img src={src} alt={alt} style={{maxWidth: '200px', maxHeight: '200px'}}/>
+                <img src={src} alt={alt} style={{maxWidth: '200px', maxHeight: '200px'}} loading='lazy'/>
                 {alt && <h5>{alt}</h5>}
             </div>
         )
