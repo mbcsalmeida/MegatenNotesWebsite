@@ -32,7 +32,6 @@ export const MainContainer = (props) => {
             setInitialFetchDone(true);
         } else {
             refetch();
-            console.log(isError)
         }
     }, [props.pageURL, refetch, initialFetchDone]);
     const changeImageDisplay = () => {

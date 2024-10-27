@@ -1,5 +1,6 @@
 import axios from "axios";
 
+const branch = import.meta.env.MODE === 'development' ? 'dev' : 'main';
 const BASE_URL = import.meta.env.VITE_API_BASE_URL;
 const DEMONS_API = import.meta.env.VITE_DEMONS_API;
 
@@ -16,7 +17,11 @@ const base64Decode = base64EncodedString =>
 
 export const fetchPage = async (page) => {
     try {
-        const response = await api.get(page);
+        const response = await api.get(page, {
+            params: {
+                ref: branch
+            }
+        });
         const base64Content = response.data.content;
          // Decode base64 content
         return base64Decode(base64Content);
@@ -27,7 +32,11 @@ export const fetchPage = async (page) => {
 
 export const fetchDemons = async (data) => {
     try {
-        const response = await demonsAPI.get(data);
+        const response = await demonsAPI.get(data, {
+            params: {
+                ref: branch  
+            }
+        });;
         const base64Content = response.data.content;
         const decodedContent = atob(base64Content); // Decode base64 content
 
