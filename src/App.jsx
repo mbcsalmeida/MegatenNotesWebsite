@@ -5,6 +5,8 @@ import {QueryClient, QueryClientProvider} from "react-query";
 
 const queryClient = new QueryClient()
 const App = () => {
+  console.log(`Running in ${import.meta.env.MODE} mode`);
+
     return (
       <QueryClientProvider client={queryClient}>
           <Router />

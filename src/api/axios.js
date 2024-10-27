@@ -1,19 +1,30 @@
 import axios from "axios";
 
+const branch = import.meta.env.MODE === 'development' ? 'dev' : 'main';
+const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+const DEMONS_API = import.meta.env.VITE_DEMONS_API;
+
 export const api = axios.create({
-    baseURL: "https://api.github.com/repos/mbcsalmeida/MegatenNotesWebsite/contents/public/pages",
+    baseURL: BASE_URL,
 });
 
 export const demonsAPI = axios.create({
-    baseURL: "https://api.github.com/repos/mbcsalmeida/smt1-demon-tracker/contents/public/"
+    baseURL: DEMONS_API
 })
+
+const base64Decode = base64EncodedString =>
+  new TextDecoder().decode(Uint8Array.from(atob(base64EncodedString), m => m.charCodeAt(0)));
 
 export const fetchPage = async (page) => {
     try {
-        const response = await api.get(page);
+        const response = await api.get(page, {
+            params: {
+                ref: branch
+            }
+        });
         const base64Content = response.data.content;
          // Decode base64 content
-        return atob(base64Content);
+        return base64Decode(base64Content);
     } catch (error) {
         throw error;
     }
@@ -21,7 +32,11 @@ export const fetchPage = async (page) => {
 
 export const fetchDemons = async (data) => {
     try {
-        const response = await demonsAPI.get(data);
+        const response = await demonsAPI.get(data, {
+            params: {
+                ref: branch  
+            }
+        });;
         const base64Content = response.data.content;
         const decodedContent = atob(base64Content); // Decode base64 content
 

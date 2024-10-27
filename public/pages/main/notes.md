@@ -9,8 +9,8 @@ If you have any questions or advice, please feel free to let me know.
 |:-:| :-: | :-: |
 | - | - | [Any%](notes/smt1psxany)|
 | [Law](notes/smt1) | [Law](notes/smt1gbal) | [Law](notes/smt1psx)|
-| - | Neutral | -|
-| - | Chaos | -|
+| - | [Neutral](notes/smt1gban) | -|
+| - | [Chaos](smt1gbac) | -|
 | [All Bosses](notes/smt1sfcbosses) | - | [All Bosses](notes/smt1psxbosses)  |
 
 |Shin Megami Tensei II (SFC)|

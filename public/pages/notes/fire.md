@@ -1,6 +1,6 @@
-Names of the demons are in english but the game is in japanese. I apologise for that. I can read both. I'm sorry if you can't.
+Names of the demons are in english but the game is in japanese.
 
-You get estoma pretty early on. It's implied that you should keep estoma up at all times except when grinding. Please don't send angry letters to my house about it.
+You get estoma pretty early on. It's implied that you should keep estoma up at all times except when grinding. 
 
 When you're hunting for a specific demon to recruit, it can be faster to just save and soft reset until you get the encounter you want. Most of the times, it takes 3 attempts until you can successfully run away and you'll want to be conservative with Smoke Bomb usage so they last you until the last dungeons, where they are specifically important.
 
@@ -11,8 +11,7 @@ When you're hunting for a specific demon to recruit, it can be faster to just sa
 Pick up items in the room and living room. Set options.
 
 Go outside and fight the tutorial fight.
-
-*   Special attack with Rand, Normal attack (middle)
+-  Special attack with Rand, Normal attack (middle)
 
 RECRUIT: Pixie, Sheep
 
@@ -29,8 +28,7 @@ RECRUIT: Windfrag, Lava Rat, extras to fuse into Rand
 Go up the right stairs first, press the button.
 
 Fight the chicken guy at the top:
-
-*   Special with Rand, heal with dia with others.
+- Special with Rand, heal with dia with others.
 
 ---
 ## Lakshmi

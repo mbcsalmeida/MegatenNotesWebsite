@@ -17,13 +17,21 @@ export const MainContainer = (props) => {
         enabled: initialFetchDone  // Disable the initial fetch until the flag is set to true
     });
 
+    const imageRenderer = {
+        img: ({ alt, src }) => (
+            <div style={{textAlign: "center"}}>
+                <img src={src} alt={alt} style={{maxWidth: '200px', maxHeight: '200px'}} loading='lazy'/>
+                {alt && <h5>{alt}</h5>}
+            </div>
+        )
+    };
+
     useEffect(() => {
         if (!initialFetchDone) {
             // Set the flag to true after the first render
             setInitialFetchDone(true);
         } else {
             refetch();
-            console.log(isError)
         }
     }, [props.pageURL, refetch, initialFetchDone]);
     const changeImageDisplay = () => {
@@ -43,8 +51,13 @@ export const MainContainer = (props) => {
                     children={page}
                     remarkPlugins={[remarkGfm]}
                     rehypePlugins={[rehypeSlug]}
+                    components={imageRenderer}
                 />
-                <FloatingActionButton anchor={props.pageURL} imgFun={changeImageDisplay}/>
+                {
+                    props.notes &&
+                        <FloatingActionButton anchor={props.pageURL} imgFun={changeImageDisplay}/>
+                }
+                
             </div>}
             {isError && <>
                 <Error />
