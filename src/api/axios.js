@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const branch = import.meta.env.MODE === 'development' ? 'dev' : 'main';
-const BASE_URL = import.meta.env.VITE_API_BASE_URL;
-const DEMONS_API = import.meta.env.VITE_DEMONS_API;
+const BASE_URL = "https://api.github.com/repos/mbcsalmeida/MegatenNotesWebsite/contents/public/pages";
+const DEMONS_API = "https://api.github.com/repos/mbcsalmeida/smt1-demon-tracker/contents/public/";
 
 export const api = axios.create({
     baseURL: BASE_URL,
