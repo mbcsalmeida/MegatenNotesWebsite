@@ -650,17 +650,25 @@ Traport `トラポート`, go to the junks and buy as many Smoke Bombs as possib
 
 Go through the lower cathedral once and then talk to Asura who'll tell you to go talk to the tyrants now. Traport `トラポート` again.
 
-Grab the tyrants the second time around in floors 2F, 3F and 4F.
+![CATHEDRAL-1F](/images/smt1maps/3D/CATHEDRAL-1F-CHAOS.png)
 
-![ ](images/smt1maps/3D/CATHEDRAL-1F.png)
+Follow the red line and then the yellow line.
 
-![ ](images/smt1maps/3D/CATHEDRAL-B1F.png) ![ ](images/smt1maps/3D/CATHEDRAL-B2F.png)
+![CATHEDRAL-B1F](/images/smt1maps/3D/CATHEDRAL-B1F-LAW.png) 
 
-![ ](images/smt1maps/3D/CATHEDRAL-B3F.png) ![ ](images/smt1maps/3D/CATHEDRAL-B4F.png)
+![CATHEDRAL-B2F](/images/smt1maps/3D/CATHEDRAL-B2F-LAW.png)
 
-![ ](images/smt1maps/3D/CATHEDRAL-B5F.png) ![ ](images/smt1maps/3D/CATHEDRAL-B6F.png)
+![CATHEDRAL-B3F](/images/smt1maps/3D/CATHEDRAL-B3F-LAW.png) 
 
-![ ](images/smt1maps/3D/CATHEDRAL-B7F.png) ![ ](images/smt1maps/3D/CATHEDRAL-B8F.png)
+![CATHEDRAL-B4F](/images/smt1maps/3D/CATHEDRAL-B4F-LAW.png)
+
+![CATHEDRAL-B5F](/images/smt1maps/3D/CATHEDRAL-B5F-LAW.png) 
+
+![CATHEDRAL-B6F](/images/smt1maps/3D/CATHEDRAL-B6F.png)
+
+![CATHEDRAL-B7F](/images/smt1maps/3D/CATHEDRAL-B7F.png) 
+
+![CATHEDRAL-B8F](/images/smt1maps/3D/CATHEDRAL-B8F.png)
 
 Traport `トラポート`.
 
@@ -668,15 +676,33 @@ Traport `トラポート`.
 ## Upper Cathedral
 ----
 
-![ ](images/smt1maps/3D/CATHEDRAL-1F.png) ![ ](images/smt1maps/3D/CATHEDRAL-B1F.png)
+Climb up the cathedral.
 
-![ ](images/smt1maps/3D/CATHEDRAL-2F.png) ![ ](images/smt1maps/3D/CATHEDRAL-3F.png)
+![CATHEDRAL-1F](/images/smt1maps/3D/CATHEDRAL-1F-CHAOS-2.png) 
 
-![ ](images/smt1maps/3D/CATHEDRAL-4F.png) ![ ](images/smt1maps/3D/CATHEDRAL-5F.png)
+![CATHEDRAL-1F](/images/smt1maps/3D/CATHEDRAL-1F-LAW-2.png)
 
-![ ](images/smt1maps/3D/CATHEDRAL-5F.png) ![ ](images/smt1maps/3D/CATHEDRAL-6F.png)
+![CATHEDRAL-B1F](/images/smt1maps/3D/CATHEDRAL-B1F-CHAOS.png)
 
-![ ](images/smt1maps/3D/CATHEDRAL-8F.png)
+Follow the red line to the heart and then the pink line to ascend. Grab the angels in floors 2F, 3F and 4F.
+
+![CATHEDRAL-1F](/images/smt1maps/3D/CATHEDRAL-1F-STAIRS.png)
+
+![CATHEDRAL-2F](/images/smt1maps/3D/CATHEDRAL-2F-CHAOS.png) 
+
+![CATHEDRAL-3F](/images/smt1maps/3D/CATHEDRAL-3F-CHAOS.png)
+
+![CATHEDRAL-4F](/images/smt1maps/3D/CATHEDRAL-4F-CHAOS.png) 
+
+![CATHEDRAL-5F](/images/smt1maps/3D/CATHEDRAL-5F.png)
+
+![CATHEDRAL-6F](/images/smt1maps/3D/CATHEDRAL-6F.png) 
+
+In 7F there is another Soma (18) you can get for safety.
+
+![CATHEDRAL-7F](/images/smt1maps/3D/CATHEDRAL-7F.png)
+
+![CATHEDRAL-8F](/images/smt1maps/3D/CATHEDRAL-8F.png)
 
 In 7F there is another Soma `ソーマ` (18) you can get for safety. 
 

@@ -163,7 +163,7 @@ Use Estoma `エストマ`. Unequip Chaos Hero's equipment and equip it on Hero. 
 
 ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU-B1F.png) 
 
-![Path to Ichigaya](/images/smt1maps/2D/07-Ichigaya.png)
+![Path to Ichigaya](/images/smt1maps/2D/GBA-07-Ichigaya.png)
 
 Once you enter the building, take the elevator to B1F and get the Aquamarine, and take the elevator to 3F. Talk to Gotou and leave the building for the American Embassy. Make sure Brute Azumi and Night Imp are recruited before leaving.
 
@@ -177,7 +177,7 @@ Once you enter the building, take the elevator to B1F and get the Aquamarine, an
 
 Go south to the Embassy.
 
-![Path to American Embassy](/images/smt1maps/2D/08-American-Embassy.png) 
+![Path to American Embassy](/images/smt1maps/2D/GBA-08-American-Embassy.png) 
 
 ![American Embassy B1F](/images/smt1maps/3D/TAISHIKAN-B1F_YOTSUYA-UNDERPASS.png)
 
