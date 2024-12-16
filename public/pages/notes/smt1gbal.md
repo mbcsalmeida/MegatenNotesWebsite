@@ -22,7 +22,7 @@ Second dream sequence:
 
 ### Inokashira Park
 
-Go to Inokashira Park (4) and watch the cutscene. Buy 3x Hamaya `破魔矢` at KAIFUKU and get the 400 MAG chest (1).
+Go to Inokashira Park (4) and watch the cutscene. Buy 3x Holy Shaft `破魔矢` at KAIFUKU and get the 400 MAG chest (1).
 
 ![Kichijoji](/images/smt1maps/2D/GBA-02-InokashiraPark.png) 
 
@@ -40,7 +40,7 @@ Recruit Law Hero (A) and go talk to STEVEN (B) (Yes → No).
 
 Head upstairs to fight Fallen Orias(C):
 
--   Hero defends and Law Hero uses Hamaya `破魔矢`.
+-   Hero defends and Law Hero uses Holy Shaft `破魔矢`.
 -   Hero levels Intelligence `知` and Law Hero puts 4 points to Magic `魔` and 1 point to Speed `速`.
 
 ![Hospital](/images/smt1maps/3D/HOSPITAL-1F-2.png "Hospital")
@@ -71,7 +71,7 @@ Go home and fight Jaki Ama no Sakugami:
 
 [Inokashira Park](/images/smt1maps/3D/INOKASHIRA-PARK-1F-2.png "Inokashira Park")
 
-Go to Inokashira Park and buy 9x Hamaya`破魔矢` and head to Echo Building.
+Go to Inokashira Park and buy 9x Holy Shaft`破魔矢` and head to Echo Building.
 
 ### Echo Building
 
@@ -83,7 +83,7 @@ From now on it's possible to recruit the demons needed but it's not necessary to
 
 Take the elevator to 5F and go fight Douman:
 
--   Hero defends and the others use Hamaya `破魔矢`.
+-   Hero defends and the others use Holy Shaft `破魔矢`.
 -   Chaos Hero uses Patra ``パトラ`` to cure BIND.
 -   Heal Chaos Hero or Law Hero with Dia ``ディア`` if needed.
 -   Hero levels up Intelligence `知`, Law hero levels up Magic`魔`, and Chaos Hero levels up Magic`魔`.
@@ -135,7 +135,7 @@ From the Underground Mall head south for the public execution.
 Enter the building at 3/8 ascending and fight the hordes (A):
 
 -   Undead Zombie Cop ``シキ ゾンビコップ`` - Chaos Hero uses Maragi `マハラギ`
--   Undead Zombie Army ``シキ ゾンビアーミー`` - Chaos Hero uses Maragi `マハラギ`. Law Hero can use Hamaya`破魔矢` for safety.
+-   Undead Zombie Army ``シキ ゾンビアーミー`` - Chaos Hero uses Maragi `マハラギ`. Law Hero can use Holy Shaft`破魔矢` for safety.
 -   AUTO
 -   Spirit Lemures ``アクリョウ レムルース`` and Haunt Ghoul ``ユウキ グール`` - Law Hero uses Holy Waters`聖水` on the left and Chaos Hero uses Maragi`マハラギ` on the right.
 -   Level Intelligence`知` for Hero and Magic`魔` for Law and Chaos Hero.
@@ -152,7 +152,7 @@ Get the 1360MAG chest (1) and go fight Haunt Baykok (A):
 -   Level Magic `魔` for Chaos Hero.
 
 Fairy Goblin and Fairy Pyro Jack are available in this dungeon and ideally should have already been recruited. Fairy Dryad and Night Imp can also be found here.
-
+ 
 Before you leave to Ichigaya Garrison, you should have Pyro Jack, Goblin, and Andras/Kobold/Jack Frost.
 
 If recruits are over or when leaving the building, use Estoma `エストマ` with Chaos Hero (Lv 13). Go back to Shinjuku Underground Mall (3).
@@ -185,7 +185,7 @@ Go south to the Embassy.
 
 ![American Embassy 2F](/images/smt1maps/3D/TAISHIKAN-2F.png)
 
-Before fighting Thor, recruit Fairy Dryad if you haven't back in Ozawa's Hideout and Beast Cu Sith.
+Before fighting Thor, recruit Fairy Dryad if you haven't back in Ozawa's Hideout.
 
 Go upstairs and before talking to Thorman (B) summon `ナカマを よびだす` your demons:
 
@@ -226,7 +226,7 @@ Summon`ナカマを よびだす` demons into the formation:
 
 Fight Red Phantom:
 
--   First Turn: Zio `ジオ`, Makakaja `マカカジャ`, Hamaya `破魔矢`, Agilao `アギラオ`
+-   First Turn: Zio `ジオ`, Makakaja `マカカジャ`, Holy Shaft `破魔矢`, Agilao `アギラオ`
 -   Rest: AUTO
 -   Level Intelligence`知`
 
@@ -243,7 +243,7 @@ Go back to En-no-Ozuno (A) and, if needed, heal with Goki (C). Then leave for th
 
 After leaving Kongou Shinkai, give the man some money - but he'll complain it isn't worth anything anymore. Go north to Shinjuku.
 
-![Path to Shinjuku](/images/smt1maps/2D/09-Shinjuku.png) 
+![Path to Shinjuku](/images/smt1maps/2D/GBA-09-Shinjuku.png) 
 
 ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU2-B1F.png)
 
@@ -261,7 +261,16 @@ Sell:
 Buy ``かう``:
 - Hinraya ``ヒンラヤ``
 
-Head to the first bar to receive some Macca from the old man (A), then go to the Disco basement to receive some info (B). Finally head to 2F to meet Ozawa (C). Go back downstairs and let Chaos Hero fuse with a demon at the JAKYOU. If available, he will pick a Chaos aligned demon to fuse, which is the reason for having recruited Imp. Go to KAIFUKU and heal. Return to Ozawa's Office.
+Heal at the messian.
+
+Head to the first bar to receive some Macca from the old man (A), then go to the Disco basement to receive some info (B). Finally head to 2F to meet Ozawa (C). Go back downstairs and let Chaos Hero fuse with a demon at the JAKYOU. If available, he will pick a Chaos aligned demon to fuse, which is the reason for having recruited Imp. 
+
+Heal with Auto Recover.
+
+Buy: 
+- 10x Holy Shaft `破魔矢`
+
+Return to Ozawa's Office.
 
 Formation:
 
@@ -284,6 +293,8 @@ Leave the building.
 ## Shibuya
 ---
 
+![Shibuya 1F](/images/smt1maps/2D/GBA-10-Roppongi.png) 
+
 Head south to Shibuya.
 
 ![Shibuya 1F](/images/smt1maps/3D/SHIBUYA-1F.png) 
@@ -305,10 +316,6 @@ Do the random fusion to get Sylph.
 -   Messian Human
 -   Extra demon (not Kushinada or Goblin)
 
-Buy ``かう``: 
-- 4x Tamagaeri `たまがえり` 
-- 15x Hamaya`破魔矢`. 
-
 Transfer to Shinjuku.
 
 ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU2-B1F-2.png) 
@@ -326,24 +333,28 @@ Summon `ナカマを よびだす` demons
 -   Sylph `シルフ`
 
 Fight:
--   Turns: Holy Waters `聖水`, Makakaja `マカカジャ`, Defend, Zanma `ザンマ`, Mazio `マハジオ`
+-   Turns: Holy Waters `聖水`, Makakaja `マカカジャ`, Holy Shaft `破魔矢`, Defend, Mazio `マハジオ`
 
-Talk to Psycho Diver at the same place you met the Heroine before the ICBM, and head back to the terminal. Transfer `てんそう` to Shibuya `シブヤ`. Go back to the Heroine to enter her spiritual world.
+Talk to Psycho Diver at the same place you met the Heroine before the ICBM, and head back to the terminal. Transfer `てんそう` to Shibuya `シブヤ` and SAVE. Go back to the Heroine to enter her spiritual world.
 
 ![Heroine's Mind](/images/smt1maps/3D/SEISHIN-SEKAI-1F.png)
 
 Estoma. Go to (D) to fight Femme Arachne:
 
--   First turn: Hamaya `破魔矢`, Makakaja `マカカジャ`, Hamaya `破魔矢`, Mazio `マハジオ`, Defend
+-   First turn: AUTO
 -   Hero levels Intelligence `知` and Law Hero levels Vitality `体`
 
-Leave.
+Traport. Leave.
+
+Buy ``かう``: 
+- 5x Tamagaeri `たまがえり` 
+- 8x Holy Shaft`破魔矢`. 
 
 ---
 ## Roppongi
 ---
 
-![Path to Roppongi](/images/smt1maps/2D/10-Roppongi.png)
+![Path to Roppongi](/images/smt1maps/2D/GBA-10-Roppongi.png)
 
 Talk to Alice and head downstairs.
 
@@ -359,14 +370,8 @@ Once in B1F, use the Core Shield `コアシールド`. Get the Jar (6) and take 
 
 Make Alice (C) cry by refusing her requests and say **yes** to Yuriko. Go back to B1F to fight Fallen Nebiros.
 
-Formation:
--   Kushinada-Hime クシナダヒメ
--   Goblin`ゴブリン`
--   Hero
--   Cu Sithカーシー
-
 Fight:
--   Heroine Hamaya`破魔矢`, Makakaja`マカカジャ`, Hamaya`破魔矢`, Mazio`マハ`ジオ``, Defend
+-   Heroine Holy Shaft`破魔矢`, Makakaja`マカカジャ`, Defend, Mazio`マハジオ`, Defend
 -   Hero puts 1 point into Intelligence`知`
 
 Cast Traport`トラポート` and head northeast to Ginza Underpass.
@@ -395,7 +400,7 @@ Head to the Devil Summoner. Tell him: **No -> Yes**.
 
 -   First turn: Tamagaeri `たまがえり`
 -   AUTO
--   Third: Hero - Hamaya`破魔矢`, Heroine - Hamaya`破魔矢`, Mazio `マジオ` with Sylph
+-   Third: Hero - Holy Shaft`破魔矢`, Heroine - Holy Shaft`破魔矢`, Mazio `マジオ` with Sylph
 
 ---
 ## Shinagawa
@@ -416,6 +421,9 @@ Enter Shinagawa.
 ![SHINAGAWA 1F](/images/smt1maps/3D/SHINAGAWA-1F.png)
 
 Bookmark the terminal. Heal at the Messiah if necessary.
+
+Buy:
+- 3x Ghost Rice
 
 ![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F-2.png)
 
@@ -455,7 +463,7 @@ Leave and head east to the house.
 ![BISHAMONTEN](/images/smt1maps/3D/BISHAMONTEN.png)
 
 Fight Bishamonten:
--   Defend, Defend, Bufula, Defend, Mahama
+-   Defend, Defend, Bufula, Defend, Ghost Rice
 -   Vitality
 
 Leave through the other side and go to Ueno.
@@ -470,7 +478,12 @@ Enter Ueno.
 
 ![UENO 1F](/images/smt1maps/3D/UENO-AKIHABARA-1F-PSX.png)
 
-Save at the Terminal. Then head upstairs and grab the chest with the Ruby (4) in 3F.
+Save at the Terminal. 
+
+Buy:
+- 31x Zionga Stones
+
+Then head upstairs and grab the chest with the Ruby (4) in 3F.
 
 Gaia Church:
 - 1x Amulet
@@ -503,7 +516,7 @@ Head down.
 
 Fight Drake Ladon.
 
--   First turn: Sword, Tarukaja `タルカジャ`, Attack, Zionga `ジオンガ`
+-   First turn: Sword, Tarukaja `タルカジャ`, Attack, Zionga Stone
 -   AUTO. Heal whenever necessary.
 -   Assign Vitality `体` for Hero and 2x points into Magic`魔` for Heroine and the rest into Vitality `体`.
 
