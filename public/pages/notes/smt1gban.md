@@ -249,7 +249,7 @@ After leaving Kongou Shinkai, give the man some money - but he'll complain it is
 
 ![Shinjuku Disco](/images/smt1maps/3D/SHINJUKU2-B2F_DISCO.png) 
 
-![Shinjuku 2F](/images/smt1maps/3D/SHINJUKU2-2F_YAKUZA-BILL.png)
+![Shinjuku 2F](/images/smt1maps/3D/SHINJUKU2-B2F.png)
 
 Trade the Emerald ``エメラルド`` for a Core Shield ``コアシルド`` at the Rugs Shop.
 
@@ -432,7 +432,7 @@ Bookmark the terminal. Heal at the Messiah if necessary.
 Buy:
 - 3x Ghost Rice
 
-![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F-2.png)
+![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F.png)
 
 Grab the Kusanagi (13) on floor 2F.
 
@@ -633,17 +633,17 @@ Head outside and enter the water, then re-enter the cathedral and talk to Law He
 
 Swim to the Tokyo Government Building. Head inside.
 
-![Government Building - 32F](/images/smt1maps/3D/MO-32-R.png) 
+![Government Building - 32F](/images/smt1maps/3D/MO-32F-R.png) 
 
 Go up the right elevator.
 
-![Government Building - 45F](/images/smt1maps/3D/MO-45-R.png) 
+![Government Building - 45F](/images/smt1maps/3D/MO-45F-R.png) 
 
-![Government Building - 46F](/images/smt1maps/3D/MO-46-R.png) 
+![Government Building - 46F](/images/smt1maps/3D/MO-46F-R.png) 
 
-![Government Building - 47F](/images/smt1maps/3D/MO-47-R.png) 
+![Government Building - 47F](/images/smt1maps/3D/MO-47F-R.png) 
 
-![Government Building - 48F](/images/smt1maps/3D/MO-48-R.png) 
+![Government Building - 48F](/images/smt1maps/3D/MO-48F-R.png) 
 
 Fight Deity Ravana and Deity Indrajit
 -   Sword with Heroine, Gun with Hero
@@ -652,17 +652,17 @@ Fight Deity Ravana and Deity Indrajit
 
 Traesto `トラエスト` and head through the left elevator.
 
-![Government Building - 32F](/images/smt1maps/3D/MO-32-L.png) 
+![Government Building - 32F](/images/smt1maps/3D/MO-32F-L.png) 
 
 Go up the left elevator.
 
-![Government Building - 45F](/images/smt1maps/3D/MO-45-L.png) 
+![Government Building - 45F](/images/smt1maps/3D/MO-45F-L.png) 
 
-![Government Building - 46F](/images/smt1maps/3D/MO-46-L.png) 
+![Government Building - 46F](/images/smt1maps/3D/MO-46F-L.png) 
 
-![Government Building - 47F](/images/smt1maps/3D/MO-47-L.png) 
+![Government Building - 47F](/images/smt1maps/3D/MO-47F-L.png) 
 
-![Government Building - 48F](/images/smt1maps/3D/MO-48-L.png)
+![Government Building - 48F](/images/smt1maps/3D/MO-48F-L.png)
 
 Fight Deity Vishnu
 -   Sword with Heroine, Gun with Hero

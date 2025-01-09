@@ -320,7 +320,7 @@ Transfer to Shinjuku.
 
 ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU2-B1F-2.png) 
 
-![Shinjuku B2F](/images/smt1maps/3D/SHINJUKU2-B2F_AGITATION-POINT.png)
+![Shinjuku B2F](/images/smt1maps/3D/SHINJUKU2-B2F.png)
 
 After transfering `てんそう` to Shinjuku, head downstairs and fight Jaki Wendigo to be able to meet Psycho Diver:
 
@@ -425,7 +425,7 @@ Bookmark the terminal. Heal at the Messiah if necessary.
 Buy:
 - 3x Ghost Rice
 
-![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F-2.png)
+![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F.png)
 
 Grab the Kusanagi (13) on floor 2F.
 
@@ -610,31 +610,31 @@ Head outside and enter the water, then re-enter the cathedral and talk to Law He
 ## Tokyo Building
 ---
 
-![Government Building - 32F](/images/smt1maps/3D/MO-32-L.png) 
+![Government Building - 32F](/images/smt1maps/3D/MO-32F-L.png) 
 
 Go up the left elevator.
 
-![Government Building - 45F](/images/smt1maps/3D/MO-45-L.png) 
+![Government Building - 45F](/images/smt1maps/3D/MO-45F-L.png) 
 
-![Government Building - 46F](/images/smt1maps/3D/MO-46-L.png) 
+![Government Building - 46F](/images/smt1maps/3D/MO-46F-L.png) 
 
-![Government Building - 47F](/images/smt1maps/3D/MO-47-L.png) 
+![Government Building - 47F](/images/smt1maps/3D/MO-47F-L.png) 
 
-![Government Building - 48F](/images/smt1maps/3D/MO-48-L.png)
+![Government Building - 48F](/images/smt1maps/3D/MO-48F-L.png)
 
 Talk to Vishnu. Traesto.
 
-![Government Building - 32F](/images/smt1maps/3D/MO-32-R.png) 
+![Government Building - 32F](/images/smt1maps/3D/MO-32F-R.png) 
 
 Use estoma and then return Kushinada-Hime and Goblin. Summon Vishnu.
 
-![Government Building - 45F](/images/smt1maps/3D/MO-45-R.png) 
+![Government Building - 45F](/images/smt1maps/3D/MO-45F-R.png) 
 
-![Government Building - 46F](/images/smt1maps/3D/MO-46-R.png) 
+![Government Building - 46F](/images/smt1maps/3D/MO-46F-R.png) 
 
-![Government Building - 47F](/images/smt1maps/3D/MO-47-R.png) 
+![Government Building - 47F](/images/smt1maps/3D/MO-47F-R.png) 
 
-![Government Building - 48F](/images/smt1maps/3D/MO-48-R.png) 
+![Government Building - 48F](/images/smt1maps/3D/MO-48F-R.png) 
 
 Summon Vishnu `ヴィシュヌ`. Fight Deity Ravana and Deity Indrajit.
 -   Sword with Heroine, Gun with Hero, Attack with Vishnu
