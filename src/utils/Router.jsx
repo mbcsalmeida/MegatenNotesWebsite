@@ -22,8 +22,10 @@ export default function Router() {
                 {path: "/notes/ab", element: <MainContainer notes={true}  pageURL={"notes/ab.md"} />},
                 {path: "/notes/black", element: <MainContainer notes={true}  pageURL={"notes/black.md"} />},
                 {path: "/notes/dark", element: <MainContainer notes={true}  pageURL={"notes/dark.md"} />},
+                {path: "/notes/light", element: <MainContainer notes={true}  pageURL={"notes/light.md"} />},
                 {path: "/notes/devsum", element: <MainContainer notes={true}  pageURL={"notes/devsum.md"} />},
                 {path: "/notes/fire", element: <MainContainer notes={true}  pageURL={"notes/fire.md"} />},
+                {path: "/notes/ice", element: <MainContainer notes={true}  pageURL={"notes/ice.md"} />},
                 {path: "/notes/ifyumi", element: <MainContainer notes={true}  pageURL={"notes/ifyumi.md"} />},
                 {path: "/notes/lb2gbc", element: <MainContainer notes={true}  pageURL={"notes/lb2gbc.md"} />},
                 {path: "/notes/lb3", element: <MainContainer notes={true}  pageURL={"notes/lb3.md"} />},
@@ -46,7 +48,7 @@ export default function Router() {
                 {path: "/notes/smt2neutral", element: <MainContainer notes={true} pageURL={"notes/smt2neutral.md"} />},
                 {path: "/notes/smt5s", element: <MainContainer notes={true} pageURL={"notes/smt5s.md"} />},
                 {path: "/notes/white", element: <MainContainer notes={true} pageURL={"notes/white.md"} />},
-
+                {path: "/notes/smt1visionary", element: <MainContainer notes={true} pageURL={"notes/smt1visionary.md"} />},
             ]
         },
         {

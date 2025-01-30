@@ -87,8 +87,6 @@ Transfer to Ginza. Buy the Pauza50. Equip Hinokagutsuchi to Heroine and Gun to H
 Defeat Yama (Skull Flag).
 Transfer to Shibuya, defeat Zouchouten.
 
-Transfer to Roppongi. Head in the Disco, use Balm of Life on Law Hero's girlfriend (Jade Ring). Grab the chest that spawns afterward (Chipped cup). Go to 2F to grab chest (Red Headband).
-
 Buy 5x amulets.
 Go to Masakado's building, talk to Masakado. Go to Tokyo 45F, grab the chest (Kuyo Netsuke).
 
@@ -119,7 +117,11 @@ Grab item in Kongou Shinkai (Vajragarbha). Save.
 
 #### Load suspended save.
 
-Grab item in the Heroine's mind  (Girl's Cameo). Time ends on saving after the last item pick-up.
+Grab item in the Heroine's mind  (Girl's Cameo). 
+
+Transfer to Roppongi. Head in the Disco, use Balm of Life on Law Hero's girlfriend (Jade Ring). Grab the chest that spawns afterward (Chipped cup). Go to 2F to grab chest (Red Headband).
+
+Time ends on saving after the last item pick-up.
 
 
 
