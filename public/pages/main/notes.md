@@ -45,13 +45,17 @@ If you have any questions or advice, please feel free to let me know.
 | [Dark Version](notes/dark) |
 | [Light Version](notes/light) |
 
+|Devil Children: Messiah Riser|
+|:-:|
+|[Akira](notes/messiah)|
+
 |Devil Summoner (PSP)|
 |:-:|
 |[Any%](notes/devsum)|
 
 |Shin Megami Tensei V|
 |:-:|
-|[Safety - Any&](notes/smt5s)|
+|[Safety - Any%](notes/smt5s)|
 
 | Looney-Tunes: Twouble |
 |:---------------------:|

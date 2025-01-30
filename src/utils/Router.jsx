@@ -49,6 +49,7 @@ export default function Router() {
                 {path: "/notes/smt5s", element: <MainContainer notes={true} pageURL={"notes/smt5s.md"} />},
                 {path: "/notes/white", element: <MainContainer notes={true} pageURL={"notes/white.md"} />},
                 {path: "/notes/smt1visionary", element: <MainContainer notes={true} pageURL={"notes/smt1visionary.md"} />},
+                {path: "/notes/messiah", element: <MainContainer notes={true} pageURL={"notes/messiah.md"} />},
             ]
         },
         {
