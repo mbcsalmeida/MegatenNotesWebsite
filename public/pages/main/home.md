@@ -3,6 +3,8 @@
 
 ### [SMT/Persona Speedrunners Twitch Team](https://www.twitch.tv/team/smtspeedrunning)
 
+**30/01/2025** - Published DemiKids Light, Devil Children Ice and Visionary Item notes
+
 **09/08/2024** - Fixed notes and problem with rendering japanese characters
 
 **27/03/2024** - Resolved performance issues, published DemiKids Dark and Looney-Tunes: Twouble notes

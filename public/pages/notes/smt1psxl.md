@@ -264,7 +264,7 @@ Healer:
 ## Roppongi
 ---
 
-![Roppongi Maps](/images/smt1maps/2D/10-Roppongi.png "Roppongi")
+![Roppongi Maps](/images/smt1maps/2D/GBA-10-Roppongi.png "Roppongi")
 
 ![Roppongi 1F](/images/smt1maps/3D/ROPPONGI-1F.png) 
 
@@ -281,7 +281,7 @@ Talk to Alice (C). Say NO to Alice. Say YES to Yuriko.
 ![Roppongi B1F](/images/smt1maps/3D/ROPPONGI-B1F-2.png)
 
 **Nebiros**: 
-- Hero - Hamaya; Heroine - Hamaya; Sylph - Mazio; Kushinada-Hime - Attack; Goblin - Makakaja
+- Hero - Defend; Heroine - Hamaya; Sylph - Mazio; Kushinada-Hime - Attack; Goblin - Makakaja
 - AUTO
 1. Hero - INT
 
@@ -313,7 +313,7 @@ Save at Ginza and go to Shinagawa.
 Book the terminal.
 
 Messiah Church:
-- 3x Holy Waters
+- 3x Ghost Rice
 
 ![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F-2.png)
 
@@ -349,7 +349,7 @@ Leave and head east to the house.
 ![BISHAMONTEN](/images/smt1maps/3D/BISHAMONTEN.png)
 
 **Bishamonten**: 
-- Hero - Tamagaeri, Sylph - Bufula
+- Hero - Tamagaeri, Sylph - Mazio
 - Both - VIT
 
 ---

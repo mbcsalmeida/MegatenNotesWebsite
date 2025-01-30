@@ -1,0 +1,55 @@
+Stat assignments:
+
+
+## Moila Continent
+
+Head to temple.
+
+Buy:
+- Short sword
+- Armor
+
+Head outside and get to level 3. Then head into the cave and get to level 5 before fighting the boss.
+
+Killer Bee:
+- AUTO
+
+Grab chests (200 macca) and (Soma).
+
+Head back to the hometown. Talk to Vein.
+
+Buy:
+- Long sword
+
+Sell:
+- Short sword
+
+Equip it.
+
+Go through the cave through the temple. Recruit:
+- Heqet
+- Blob
+
+
+## North Remulia
+
+Recruit:
+- Chonchon
+- Tamuzu
+- Harpie
+
+Bookmark Po. Go to Lemur. Go to the Oasis and grab the water.
+
+Traport back to Po.
+
+Fight Phoenix:
+- Tamuzu - Bufu; Harpie - Dormina; Blob - Attack; Heqet - Bufu; Hero - Attack
+
+Sell:
+- Armor
+- Soma
+
+Buy:
+- Golden armor
+
+Equip it.

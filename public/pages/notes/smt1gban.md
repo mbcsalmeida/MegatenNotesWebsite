@@ -71,7 +71,7 @@ Go home and fight Jaki Ama no Sakugami:
 
 [Inokashira Park](/images/smt1maps/3D/INOKASHIRA-PARK-1F-2.png "Inokashira Park")
 
-Go to Inokashira Park and buy 9x Hamaya`破魔矢` and head to Echo Building.
+Go to Inokashira Park and buy 8x Hamaya`破魔矢` and head to Echo Building.
 
 ### Echo Building
 
@@ -118,11 +118,11 @@ Head to the southernmost bar and talk to the barman: talk to him → yes → no 
 
 ![Shinjuku Underground Mall B2F](/images/smt1maps/3D/SHINJUKU-B2F.png)
 
+At the Messian Church, buy 2x Holy Waters.
+
 Talk to the Heroine (B) and go back upstairs to meet the Resistance Man (A) and head out to the western exit.
 
 ![Shinjuku Underground Mall B1F](/images/smt1maps/3D/SHINJUKU-B1F-4.png)
-
-For safety, go to the Messian Church and buy 3x Holy Waters ```聖水```.
 
 ### Tokyo Metropolitan Government
 
@@ -177,7 +177,7 @@ Once you enter the building, take the elevator to B1F and get the Aquamarine, an
 
 Go south to the Embassy.
 
-![Path to American Embassy](/images/smt1maps/2D/08-American-Embassy.png) 
+![Path to American Embassy](/images/smt1maps/2D/GBA-08-American-Embassy.png) 
 
 ![American Embassy B1F](/images/smt1maps/3D/TAISHIKAN-B1F_YOTSUYA-UNDERPASS.png)
 
@@ -230,7 +230,7 @@ Fight Red Phantom:
 -   Rest: AUTO
 -   Level Intelligence`知`
 
-Go back to En-no-Ozuno (A) and, if needed, heal with Goki (C). Then leave for the exit (J) and fight Zenki and Goki:
+Go back to En-no-Ozuno (A) and, if needed, heal with Goki (C). Put Azumi on front. Then leave for the exit (J) and fight Zenki and Goki:
 
 -   Zio `ジオ` - Zenki;　Makakaja`マカカジャ`;　Defend;　Agilao `アギラオ` - Goki; Agilao `アギラオ` - Goki;　Zanma`ザンマ` - Goki
 -   Hero levels Intelligence`知`.
@@ -243,13 +243,13 @@ Go back to En-no-Ozuno (A) and, if needed, heal with Goki (C). Then leave for th
 
 After leaving Kongou Shinkai, give the man some money - but he'll complain it isn't worth anything anymore. Go north to Shinjuku.
 
-![Path to Shinjuku](/images/smt1maps/2D/09-Shinjuku.png) 
+![Path to Shinjuku](/images/smt1maps/2D/GBA-09-Shinjuku.png) 
 
 ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU2-B1F.png)
 
 ![Shinjuku Disco](/images/smt1maps/3D/SHINJUKU2-B2F_DISCO.png) 
 
-![Shinjuku 2F](/images/smt1maps/3D/SHINJUKU2-2F_YAKUZA-BILL.png)
+![Shinjuku 2F](/images/smt1maps/3D/SHINJUKU2-B2F.png)
 
 Trade the Emerald ``エメラルド`` for a Core Shield ``コアシルド`` at the Rugs Shop.
 
@@ -261,7 +261,14 @@ Sell:
 Buy ``かう``:
 - Hinraya ``ヒンラヤ``
 
-Head to the first bar to receive some Macca from the old man (A), then go to the Disco basement to receive some info (B). Finally head to 2F to meet Ozawa (C). Go back downstairs and let Chaos Hero fuse with a demon at the JAKYOU. If available, he will pick a Chaos aligned demon to fuse, which is the reason for having recruited Imp. Go to KAIFUKU and heal. Return to Ozawa's Office.
+Heal at the messian church.
+
+Head to the first bar to receive some Macca from the old man (A), then go to the Disco basement to receive some info (B). Finally head to 2F to meet Ozawa (C). Go back downstairs and let Chaos Hero fuse with a demon at the JAKYOU. If available, he will pick a Chaos aligned demon to fuse, which is the reason for having recruited Imp. 
+
+Healer, buy:
+- 10x Hamaya
+
+Return to Ozawa's Office.
 
 Formation:
 
@@ -284,6 +291,8 @@ Leave the building.
 ## Shibuya
 ---
 
+![Shibuya 1F](/images/smt1maps/2D/GBA-09-Shinjuku.png) 
+
 Head south to Shibuya.
 
 ![Shibuya 1F](/images/smt1maps/3D/SHIBUYA-1F.png) 
@@ -291,6 +300,8 @@ Head south to Shibuya.
 ![Shibuya 2F](/images/smt1maps/3D/SHIBUYA-2F.png)
 
 Escape from any encounter using Law Hero's Trafuri `トラフリ`.
+
+Heal at the Messian.
 
 Go see the Heroine. On the way, try to get at least 5k more Macca and a Messian human. Grab the Intelligence Incense in 1F and the 2 Jewels in 2F. Afterwards, drop back down.
 
@@ -305,10 +316,6 @@ Do the random fusion to get Sylph.
 -   Messian Human
 -   Extra demon (not Kushinada or Goblin)
 
-Buy ``かう``: 
-- 4x Tamagaeri `たまがえり` 
-- 15x Hamaya`破魔矢`. 
-
 Transfer to Shinjuku.
 
 ![Shinjuku B1F](/images/smt1maps/3D/SHINJUKU2-B1F-2.png) 
@@ -321,23 +328,27 @@ Summon `ナカマを よびだす` demons
 
 -   Kushinada-Hime `クシナダヒメ`
 -   Goblin `ゴブリン`
+-   Sylph `シルフ`
 -   Hero
 -   Law Hero
--   Sylph `シルフ`
 
 Fight:
--   Turns: Holy Waters `聖水`, Makakaja `マカカジャ`, Defend, Zanma `ザンマ`, Mazio `マハジオ`
+-   Turns: Holy Waters `聖水`, Makakaja `マカカジャ`, Mazio `マハジオ`, Defend, Hamaya `破魔矢`,
 
-Talk to Psycho Diver at the same place you met the Heroine before the ICBM, and head back to the terminal. Transfer `てんそう` to Shibuya `シブヤ`. Go back to the Heroine to enter her spiritual world.
+Talk to Psycho Diver at the same place you met the Heroine before the ICBM, and head back to the terminal. Transfer `てんそう` to Shibuya `シブヤ` and SAVE. Go back to the Heroine to enter her spiritual world.
 
 ![Heroine's Mind](/images/smt1maps/3D/SEISHIN-SEKAI-1F.png)
 
 Estoma. Go to (D) to fight Femme Arachne:
 
--   First turn: Hamaya `破魔矢`, Makakaja `マカカジャ`, Hamaya `破魔矢`, Mazio `マハジオ`, Defend
+-   First turn: AUTO (Defend, Makakaja `マカカジャ`, Hamaya `破魔矢`, Mazio `マハジオ`, Defend)
 -   Hero levels Intelligence `知` and Law Hero levels Vitality `体`
 
-Leave.
+Traport. 
+
+Buy ``かう``: 
+- 5x Tamagaeri `たまがえり` 
+- 8x Hamaya`破魔矢`. 
 
 ---
 ## Roppongi
@@ -360,13 +371,14 @@ Once in B1F, use the Core Shield `コアシールド`. Get the Jar (6) and take 
 Make Alice (C) cry by refusing her requests and say **yes** to Yuriko. Go back to B1F to fight Fallen Nebiros.
 
 Formation:
--   Kushinada-Hime クシナダヒメ
--   Goblin`ゴブリン`
+-   Kushinada-Hime `クシナダヒメ`
+-   Goblin `ゴブリン`
+-   Sylph `シルフ`
 -   Hero
--   Cu Sithカーシー
+-   Heroine
 
-Fight:
--   Heroine Hamaya`破魔矢`, Makakaja`マカカジャ`, Hamaya`破魔矢`, Mazio`マハ`ジオ``, Defend
+Fight Nebiros:
+-   Heroine Defend, Makakaja`マカカジャ`, Hamaya`破魔矢`, Mazio`マハジオ`, Defend
 -   Hero puts 1 point into Intelligence`知`
 
 Cast Traport`トラポート` and head northeast to Ginza Underpass.
@@ -417,7 +429,10 @@ Enter Shinagawa.
 
 Bookmark the terminal. Heal at the Messiah if necessary.
 
-![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F-2.png)
+Buy:
+- 3x Ghost Rice
+
+![SHINAGAWA 2F](/images/smt1maps/3D/SHINAGAWA-2F.png)
 
 Grab the Kusanagi (13) on floor 2F.
 
@@ -618,17 +633,17 @@ Head outside and enter the water, then re-enter the cathedral and talk to Law He
 
 Swim to the Tokyo Government Building. Head inside.
 
-![Government Building - 32F](/images/smt1maps/3D/MO-32-R.png) 
+![Government Building - 32F](/images/smt1maps/3D/MO-32F-R.png) 
 
 Go up the right elevator.
 
-![Government Building - 45F](/images/smt1maps/3D/MO-45-R.png) 
+![Government Building - 45F](/images/smt1maps/3D/MO-45F-R.png) 
 
-![Government Building - 46F](/images/smt1maps/3D/MO-46-R.png) 
+![Government Building - 46F](/images/smt1maps/3D/MO-46F-R.png) 
 
-![Government Building - 47F](/images/smt1maps/3D/MO-47-R.png) 
+![Government Building - 47F](/images/smt1maps/3D/MO-47F-R.png) 
 
-![Government Building - 48F](/images/smt1maps/3D/MO-48-R.png) 
+![Government Building - 48F](/images/smt1maps/3D/MO-48F-R.png) 
 
 Fight Deity Ravana and Deity Indrajit
 -   Sword with Heroine, Gun with Hero
@@ -637,17 +652,17 @@ Fight Deity Ravana and Deity Indrajit
 
 Traesto `トラエスト` and head through the left elevator.
 
-![Government Building - 32F](/images/smt1maps/3D/MO-32-L.png) 
+![Government Building - 32F](/images/smt1maps/3D/MO-32F-L.png) 
 
 Go up the left elevator.
 
-![Government Building - 45F](/images/smt1maps/3D/MO-45-L.png) 
+![Government Building - 45F](/images/smt1maps/3D/MO-45F-L.png) 
 
-![Government Building - 46F](/images/smt1maps/3D/MO-46-L.png) 
+![Government Building - 46F](/images/smt1maps/3D/MO-46F-L.png) 
 
-![Government Building - 47F](/images/smt1maps/3D/MO-47-L.png) 
+![Government Building - 47F](/images/smt1maps/3D/MO-47F-L.png) 
 
-![Government Building - 48F](/images/smt1maps/3D/MO-48-L.png)
+![Government Building - 48F](/images/smt1maps/3D/MO-48F-L.png)
 
 Fight Deity Vishnu
 -   Sword with Heroine, Gun with Hero

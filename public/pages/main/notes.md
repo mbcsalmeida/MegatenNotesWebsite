@@ -11,7 +11,8 @@ If you have any questions or advice, please feel free to let me know.
 | [Law](notes/smt1) | [Law](notes/smt1gbal) | [Law](notes/smt1psx)|
 | - | [Neutral](notes/smt1gban) | -|
 | - | [Chaos](smt1gbac) | -|
-| [All Bosses](notes/smt1sfcbosses) | - | [All Bosses](notes/smt1psxbosses)  |
+| [All Bosses](notes/smt1bosses) | - | [All Bosses](notes/smt1psxbosses)  |
+| - | [All Visionary Items](notes/smt1visionary) | - |
 
 |Shin Megami Tensei II (SFC)|
 | :-: |
@@ -36,12 +37,17 @@ If you have any questions or advice, please feel free to let me know.
 |Devil Children: Black Book and Red Book (PSX)|Devil Children: Fire Book and Ice Book|
 |:-:|:-:|
 |[Red Book](notes/red)|[Fire Book](notes/fire)|
-|[Black Book](notes/black)| - |
+|[Black Book](notes/black)| [Ice Book](notes/ice) |
 |[White Book](notes/white)|-|
 
 |          DemiKids          |
 |:--------------------------:|
 | [Dark Version](notes/dark) |
+| [Light Version](notes/light) |
+
+|Devil Children: Messiah Riser|
+|:-:|
+|[Akira](notes/messiah)|
 
 |Devil Summoner (PSP)|
 |:-:|
@@ -49,7 +55,7 @@ If you have any questions or advice, please feel free to let me know.
 
 |Shin Megami Tensei V|
 |:-:|
-|[Safety - Any&](notes/smt5s)|
+|[Safety - Any%](notes/smt5s)|
 
 | Looney-Tunes: Twouble |
 |:---------------------:|
