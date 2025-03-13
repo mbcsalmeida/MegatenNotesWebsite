@@ -102,25 +102,28 @@ Put Nerve Bullets on Law Hero.
 
 Get Money from old man.
 
-Armor:
--  Sell everything but 1 sword and Combat Boots
--  Glitch buy on H: All armor
--  Sell everything you bought
--  Glitch buy/Equip: Cyber Arm x2
--  Keep doing so until you have 7000 Macca
+Armor (if money > 1400, start with buying, otherwise start with selling):
+- Buy on Hero - 1x Fire Guard, 1x Thunder Guard, 1x Cyber Arm, 1x Jet Boots
+- Buy on Law Hero - 1x Thunder Guard, 1x Cyber Arm
+- Sell: Swords EXCEPT Scorpion Whip*, all Helmets, all vests EXCEPT Survival Vest, all gloves EXCEPT Cyber Arm, all boots EXCEPT Leather Boots, Soma (should be around 7000)
+
+*all that matters is having one sword left. If you forgot to unequip the Scorpion Whip from the Heroine, just make sure to leave on sword remaining, preferably the least valuable one.
 
 Weapons: 
 -  Glitch buy MP16 for everyone
 -  Sell MP16s
--  Hero : Glitch buy MP16 and SPAS- 12 and 3x Nerve Bullets
--  Sell SPAS- 12
-Equip Nerve to LH's foot, equip M16 to Hero's sword and Cyber Arm to his vest
+-  Hero : Glitch buy MP16 and SPAS-12 and 3x Nerve Bullets
+-  Sell SPAS-12
+
+Equip:
+- Hero - glitch MP16 on Sword, Cyber Arm on Vest and Nerve Bullets on Boots
+- Law Hero - glitch Nerve Bullets on Boots
+- Chaos Hero - glitch Nerve Bullets on Boots
 
 Junk: 
 - Dis-Paralyze and Hexagram
 
-Messiah Church: 
-- Buy 11x Ghost Rice
+Meet Ozawa.
 
 Healer: 
 - Heal everyone 
@@ -130,14 +133,18 @@ Healer:
 -  AUTO
 - Ｎ３MAG　ー　LH１SPD
 
+Fuse:
+-  Pyro Jack x Dryad x Azumi = Kushinada Hime
+
+Messiah Church: 
+- Heal
+- Buy 11x Ghost Rice
+
+Summon Kushinada-Hime.
+
 ---
 ## Shibuya
 ---
-
-Check alignment. Heal up for neutral to summon Kushinada-Hime.
-
-Fuse:
--  Pyro Jack x Dryad x Azumi = Kushinada Hime
 
 **Wendigo:**
 -  N, Kushinada-Hime, LH
@@ -147,11 +154,12 @@ Save at Shinjuku and transfer.
 
 **Arachne:**
 -  AUTO
--  Ｎ5INT 2MAG ー Ｌ３STR
+-  Ｎ5INT 2POW ー Ｌ３STR
 
-!! Use Incenses !! 
+Equip:
+- Heroine - glitch Cyber Arm on Vest, Nerve Bullets on Boots
 
-Equip nerve bullets on Heroine and use Magic Incense. Traport
+Traport
 
 ---
 ## Roppongi
@@ -193,7 +201,7 @@ Ueno　Bookmark terminal
 Summon Goblin.
 **Ladon:**
 -  Sword, Def, Zionga Stone, Tarukaja
--  Ｎ3POW ー　Ｈ２MAG 2POW
+-  Ｎ3POW ー　Ｈ4POW
 
 Get Magician's Mask.
 
