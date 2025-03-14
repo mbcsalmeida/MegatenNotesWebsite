@@ -156,7 +156,7 @@ Go to church to bookmark the terminal. Get Slave or Demi-Nandi. Go to the ranch.
 
 Head to the underground to make way to the Betelgeuse fight.
 
-Get Cu Sith before entering the E building. After you defeat Betelgeuse, the encounters change so you need to get it before. Enter on Full MOON - the Sapphire in B3F only appears on Full Moon. Resummon Jack Frost.
+Get Cu Sith before entering the E building. After you defeat Betelgeuse, the encounters change so you need to get it before. Enter on Full MOON - the Sapphire in B3F only appears on Full Moon. Resummon Jack Frost if you have it.
 
 ![Factory](@/assets/images/smt2maps/FACTORY-2.png) ![Factory](@/assets/images/smt2maps/FACTORY-B.png)
 
@@ -267,7 +267,7 @@ Rescue Heroine. Go all the way back through the Underground to the Passage.
 
 ![Passage](@/assets/images/smt2maps/PASSAGE-V3.png) ![Center](@/assets/images/smt2maps/CENTER-4.png)
 
-If you're low on money and haven't already grab grab the treasure chest on the other side of the wall southern of the Gaia.
+If you're low on money and haven't already grabbed the treasure chest on the other side of the wall southern of the Gaia.
 
 ![Passage Holy Town](@/assets/images/smt2maps/PASSAGE-HT.png)
 
@@ -305,7 +305,7 @@ In this section, watch out for MP.
 
 ![ ](@/assets/images/smt2maps/UNDERGROUND-2.png) ![ ](@/assets/images/smt2maps/FORMERSHINJUKU.png)
 
-Enter at 6/8 Ascending. Bookmark/Save at terminal and heal at Gaia. Talk to Anun and get the Turquoise then head to B1F and talk to Obarion. Traestro.
+Enter at 5/8 Ascending. Bookmark/Save at terminal and heal at Gaia. Talk to Anun and get the Turquoise then head to B1F and talk to Obarion. Traestro.
 
 ![ ](@/assets/images/smt2maps/UNDERGROUND-3.png) ![ ](@/assets/images/smt2maps/FHIGASHISHINJUKU.png)
 
@@ -321,7 +321,7 @@ Talk to Obarion again. Leave through B3F.
 
 ![ ](@/assets/images/smt2maps/UNDERGROUND-4.png) ![ ](@/assets/images/smt2maps/FORMERAKASAKA.png)
 
-Watch out for your moon cycle (shouldn't enter before half moon ascending).
+Watch out for your moon cycle (shouldn't enter before 3/8 moon ascending).
 
 Bookmark terminal. Save. Leave Akasaka.
 
@@ -346,8 +346,7 @@ Equip the sword on Hawk. Reorder party (Hawk, Unicorn, -, Hiroko, Heqet, -). Hea
 
 ![Underground](@/assets/images/smt2maps/UNDERGROUND-6.png) ![Underground](@/assets/images/smt2maps/UNDERGROUND-7.png)
 
-Fight at the Shrine.
-
+Fight Sarutahiko at the Shrine.
 *   First turn: Sword, Rakukaja, Media, Media
 *   AUTO
 *   Afterfour turns: Sword, Attack, Media, Defend - AUTO
@@ -356,7 +355,7 @@ Fight at the Shrine.
 
 ![Shrine](@/assets/images/smt2maps/SHRINE-1.png)
 
-Recruit the little guy.
+Recruit Sukuna-Hikona.
 
 ![Underground](@/assets/images/smt2maps/UNDERGROUND-9.png)
 
@@ -442,7 +441,7 @@ You should be low on MAG at this point so cast estoma and return the demons. Go 
 
 Summon Undyne before the fight.
 
-Fight Betelgeuse.
+Fight Belphegor.
 
 *   Formation: Hawk, Unicorn, Undyne, Hiroko, Heqet, -.
 *   First turn: Sword, Rakukaja, Mediarama, Defend, Defend

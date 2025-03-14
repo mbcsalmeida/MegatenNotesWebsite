@@ -452,7 +452,7 @@ You should be low on MAG at this point so cast estoma and return the demons. Go 
 
 Summon Undyne before the fight.
 
-Fight Betelgeuse.
+Fight Belphegor.
 
 *   Formation: Hawk, Unicorn, Undyne, Hiroko, Heqet, -.
 *   First turn: Sword, Rakukaja, Mediarama, Defend, Defend

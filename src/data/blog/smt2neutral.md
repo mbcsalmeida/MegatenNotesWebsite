@@ -454,7 +454,7 @@ Go to the Observation Tower.
 
 Summon Undyne before the fight.
 
-Fight Betelgeuse.
+Fight Belphegor.
 
 *   Formation: Hawk, Unicorn, Undyne, Hiroko, Heqet, -.
 *   First turn: Sword, Rakukaja, Mediarama, Defend, Defend
