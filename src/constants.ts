@@ -23,5 +23,10 @@ export const SOCIALS = [
 ] as const;
 
 export const SHARE_LINKS = [
-  
+  {
+    name: "Youtube",
+    href: "https://youtube.com/@speedrunmegaten",
+    linkTitle: `Sion on Youtube`,
+    icon: IconYoutube,
+  },
 ] as const;
