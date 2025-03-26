@@ -26,6 +26,8 @@ Time starts on NEW GAME.
 
 Mash through text, reply Yes `はい` to Okamoto. Choose Training `トレーニング` to head into the VIRTUALGYM.
 
+Walk around the dungeon until the end and level up to 7. Put points into SPD `すばやさ`. Talk to Okamoto to leave the Gym and then leave, receiving the ¥100.
+
 ![VIRTUALGYM](@/assets/images/smt2maps/VIRTUALGYM.png)
 
 ![Town](@/assets/images/smt2maps/TOWN1.png) ![Town](@/assets/images/smt2maps/TOWN2.png)
@@ -34,13 +36,11 @@ Head east to the last room and name Zayin.
 
 Head into the Virtual Battler and choose Virtual Battler `ヴァーチャル・バトル` -> Level 1 `レベル1`. Talk to Steven, say Yes `はい` and receive the Demon Summoning Program.
 
-Walk around the dungeon and grind to level 8. Put points into SPD `すばやさ`. Talk to Okamoto to leave the Gym and then leave, receiving the ¥100.
-
 ![Town](@/assets/images/smt2maps/TOWN3.png) ![Town](@/assets/images/smt2maps/TOWN4.png)
 
 Enter the Fortune Teller and tell her No `いいえ` about remembering the Heroine's name. You'll learn her name is Hiroko `ヒロコ`.
 
-Head back to the gym to talk to Okamoto and receive ¥200 more. Return to the Virtual Battler and, again, choose Virtual Battler `ヴァーチャル・バトル` -> Level 1 `レベル1`. Head straight forward and name Gimmel. Afterwards, turns back and leave.
+Head back to the gym to talk to Okamoto and receive ¥200 more. Return to the Virtual Battler and, again, choose Virtual Battler `ヴァーチャル・バトル` -> Level 1 `レベル1`. Head straight forward and name Gimmel. Fight until level 8, points to SPD. Afterwards, turns back and leave.
 
 Head to the gym and save. Leave the town and walk to the Colosseum.
 
@@ -178,7 +178,7 @@ Head to the underground to make way to the Betelgeuse fight.
 
 Get Cu Sith before entering the E building. After you defeat Betelgeuse, the encounters change so you need to get it before. 
 
-Enter on Full MOON - the Sapphire in B3F only appears on Full Moon. Resummon Jack Frost if you have it.
+Enter on 7/8 Ascending - the Sapphire in B3F only appears on Full Moon. Resummon Jack Frost if you have it.
 
 ![Factory](@/assets/images/smt2maps/FACTORY-2.png) ![Factory](@/assets/images/smt2maps/FACTORY-B.png)
 
@@ -306,7 +306,7 @@ Fight Daleth 3:
 
 Grab chest with Intelligence Incense (3F) and Magic Incense (2F).  Use them on Aleph. Then head to the underground.
 
-Samarecarm any dead demons. Return Cerberus. Take the elevator to 1F then take the second to B60F.
+Samarecarm any dead demons. Return Cerberus and Earthys. Take the elevator to 1F then take the second to B60F.
 
 ---
 ## Underground - Further Down
