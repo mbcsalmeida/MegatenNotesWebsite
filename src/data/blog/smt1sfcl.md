@@ -20,7 +20,7 @@ description:
 
 First dream sequence: 
 - Hero - All SPD
-- Law Hero - SPD til 8, Int til 20
+- Law Hero - SPD til 8, MAG til 20
 - Chaos Hero - All MAG
 
 ![Overworld Arcade](@/assets/images/smt1maps/2D/01-Arcade.png "Arcade") 
