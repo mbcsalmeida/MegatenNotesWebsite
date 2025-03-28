@@ -344,7 +344,7 @@ Leave Akasaka.
 
 ![ ](@/assets/images/smt2maps/UNDERGROUND-5.png) ![ ](@/assets/images/smt2maps/FORMERROPPONGI.png)
 
-Enter Roppongi at 5/8 ascending, save. Estoma and return Heqet and Unicorn. Grab Pearl in B1F and then go to B2F. Go to the casino.
+Enter Roppongi at 5/8 ascending, SAVE. Estoma and return Heqet and Unicorn. Grab Pearl in B1F and then go to B2F. Go to the casino.
 
 Exchange 1000 macca for 10 coins. Play Baccara:
 - Bet 1 coin at the Banker until you win.
@@ -378,7 +378,7 @@ Go to Weapon store, buy for Hiroko:
 - Bottom bullets
 - M249ミニミ
 
-Summon Unicorn and Earthys.
+Summon Unicorn and Earthys. Traport back to Roppongi.
 
 ---
 ## Underground - Masakado Revival
@@ -395,7 +395,7 @@ Sarutahiko:
 
 ![Shrine](@/assets/images/smt2maps/SHRINE-1.png)
 
-Recruit Sukuna-Hikona.
+Return Earthys and Cerberus. Recruit Sukuna-Hikona.
 
 ![Underground](@/assets/images/smt2maps/UNDERGROUND-9.png)
 
@@ -405,17 +405,17 @@ Head to Roppongi. Enter the terminal and transfer to Arcadia. Head to the Arcadi
 
 ![Passage](@/assets/images/smt2maps/PASSAGE-V4.png) ![Underground](@/assets/images/smt2maps/UNDERGROUND-10.png)
 
-Get Chest 1 (Dis-Stone) on the way. Head to the next shrine, use the Dis-Stone to un-Stone the buddha. Then head into a building and traport to Akasaka. Go to the gaia and heal then leave.
+Get Chest 1 (Dis-Stone) on the way. Head to the next shrine, use the Dis-Stone to un-Stone the buddha. Then head into a building and traport to Akasaka. SAVE: Go to the gaia and heal then leave.
 
 Enter the hole to get the item from the Dwarf. Then head to the shrine to the right.
 
 ![Shrine](@/assets/images/smt2maps/SHRINE-2.png)
 
-Enter Ouyamatsumi's Shrine and leave after you get him. Then leave and head to Okuninushi's shrine.
+Enter Ouyamatsumi's Shrine and leave after you get him. Then leave and head east to Okuninushi's shrine.
 
 ![Okununishi Shrine](@/assets/images/smt2maps/SHRINE-3.png)
 
-Fight Baphomet.
+Summon Earthys and Cerberus. Fight Baphomet.
 - Say no.
 - AUTO
 
@@ -428,6 +428,8 @@ Leave Shinjuku. Enter the passage to the Grand Church and head to the 3F. Talk t
 ![Roppongi](@/assets/images/smt2maps/ROPPONGI.png)
 
 Transfer to Roppongi and save.
+
+Go to the Virtual Battler and do Level 1 twice.
 
 Walk into the Rag Store and trade.
 
@@ -478,16 +480,15 @@ You should be low on MAG at this point so cast estoma and return the demons. Go 
 
 ![Observation Tower](@/assets/images/smt2maps/OBSERVATIONTOWER-3.png)
 
-Summon Undyne before the fight.
+Summon Undyne and Earthys before the fight.
 
 Fight Belphegor.
-- Formation: Hawk, Unicorn, Undyne, Hiroko, Heqet, Earthys.
-- First turn: Sword, Rakukaja, Mediarama, Defend, Tarukaja
-- AUTO (2 Turns)
-- Sword, Attack, Mediarama, Defend, Tarukaja
+- Formation: Hawk, Undyne, Hiroko, Earthys.
+- First turn: Sword, Mediarama, Gun, Tarukaja
 - AUTO
+- Aleph - STR, Hiroko - VIT
 
-Return Undyne. Talk to Seiren then traestro. If Heqet is out of MP, summon Sylph and Traport.
+Return Undyne and summon Heqet/Sylph. Talk to Seiren then traestro. If Heqet is out of MP, summon Sylph and Traport.
 
 ![ ](@/assets/images/smt2maps/FACTORY-B.png) ![ ](@/assets/images/smt2maps/FACTORY-D.png)
 
@@ -518,19 +519,20 @@ Head into the Center.
 Put the code in [5261]. Put the code in [2784]. Say NO -> YES -> NO to YHVH. Return Heqet and Unicorn and summon Freya and Cerberus.
 
 Fight Raphael and Uriel.
-- Formation: Hawk, Cerberus, -, Hiroko, Freya, -
-- First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
+- Formation: Hawk, Cerberus, Freya, Hiroko, Earthys, -, -
+- First turn: Sword - Raphael, Attack - Raphael, Mediarama, Defend, Tarukaja
 - If Hiroko dies, use Samarecarm with Cerberus and Mediarama with Freya.
-- If Aleph maxes SPD, points into STR
+- If Earthys dies, switch Tarukaja to Freya and heal with Hiroko. Keep an eye on HP and heal with Freya's Mediarama whenever needed.
+- If Aleph gets to 38 SPD, points into STR
 - Hiroko points into VIT
 
 Fight Michael.
-- First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
 - AUTO
 
 Fight FAKE YHVH.
-- First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
 - AUTO
+
+Return Freya and Cerberus and summon Heqet. 
 
 ### Head Pillar
 
@@ -558,11 +560,11 @@ Go to Yesod.
 
 ![Yesod](@/assets/images/smt2maps/YESOD.png) ![Yeshira](@/assets/images/smt2maps/YESHIRA.png)
 
-Save. Leave. Enter Yeshira at 2/8 Descending. Summon Freya. (Formation: Aleph, Naragiri, -, Hiroko, Freya).
+Save. Leave. Enter Yeshira at 2/8 Descending. Summon Freya. (Formation: Aleph, Naragiri, Freya, Hiroko, Heqet, -).
 
 Fight Hekate
 
-- Sword, Rakunda, Defend, Tarukaja
+- Sword, Rakunda, Tarukaja, Gun, Defend
 
 Take the HOD exit.
 
@@ -579,6 +581,8 @@ Traport. Go back through Yeshira and take the Netzach exit.
 
 Enter at 6/8 ascending. Fight Master Terion.
 - AUTO
+
+Traesto and go to Junks nad buy 11x Hinrayas.
 
 ### Astoroch
 
@@ -621,7 +625,7 @@ Re-enter the Beria Corridor.
 
 ![Beria](@/assets/images/smt2maps/BERIA.png)
 
-![Way to Geburrah](@/assets/images/smt2maps/MAKAI-5.png)
+![Way to Geburrah](@/assets/images/smt2maps/MAKAI-6.png)
 
 Enter the Geburrah building. Walk straight forward to the the terminal and save. Transfer to Arcadia to head to the Center.
 
@@ -648,7 +652,7 @@ Heal up at the Kaifuku.
 Get items: 
 - Revival Item `はんごんこう`x2
 - Rosary `ロザリオ`x5
-- Angel Hair `エンゼルヘアー`x20
+- Angel Hair `エンゼルヘアー`x20^ - spend basically the rest of your money.
 
 Summon Satan with Sabatoma `サマドン`.
 
@@ -676,7 +680,7 @@ Finally head to Lucifer
 
 ![Makai](@/assets/images/smt2maps/MAKAI-7.png)
 
-Go up.
+Go up. You should go in at 7/8 or 6/8 descending to fight Lucifer at 1/8 descending.
 
 If you want to save before this section, summon Heqet and traport to save in Geburah. Then traport to be back in Kethel Castel.
 
@@ -687,18 +691,18 @@ If you want to save before this section, summon Heqet and traport to save in Geb
 Summon Earthys before the fight and heal up.
 
 Fight Lucifer.
-- Formation: Hawk, Naragiri, Satan, Hiroko, Freya, Tarukaja
-- Sword, Rakunda (4x) -> Attack, Death Bound, Tarukaja (2x) -> Defend, Diarahan - Satan, Tarukaja
+- Formation: Hawk, Naragiri, Satan, Hiroko, Freya, Earthys
+- Sword, Rakunda (4x) -> Attack, Death Bound, Tarukaja -> Defend, Diarahan - Satan, Tarukaja
 - After all spells are cast, AUTO
 -  If anybody gets Charmed, heal with the Angel Hairs - especially important if Aleph is the one that's charmed
 - If everybody who can use Angel Hairs are charmed, Escape (this will waste a turn)
-- If anybody dies, samarecarm
+- If anybody dies, samarecarm. Except for Earthys, feel free to let it die
 
 Re-summon demons and heal up.
 
 Fight YHVH.
 - Formation: Hawk, Naragiri, Satan, Hiroko, Freya, Earthys (Zombie)
-- Sword, Rakunda (4x) -> Attack, Death Bound, Necroma Earthys to the blank party spot -> Tarukaja (x2) -> Attack, Diarahan - Satan
-- AUTO. 
-- Keep yourself healed with Angel Hairs and heal Freya with Diarahan.
-- Keep buffs up since YHVH sucks and loves using Dekaja and Dekunda.
+- First turn: Sword, Rakunda, Death Bound, Necroma Earthys to the blank party spot, Diarahan - Satan
+- Typical turn: Sword, Rakunda, Death Bound, Sukukaja, Diarahan - Satan, Tarukaja and then AUTO
+- If the party is getting low health, use an Angel Hair with Aleph and heal Freya with Diarahan. 
+- Try not to let Freya die because YHVH sucks and loves using Dekaja and Dekunda.
