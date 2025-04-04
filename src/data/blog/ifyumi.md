@@ -168,8 +168,6 @@ Enter Horkus.
 
 ![Horkos](@/assets/images/smtifmaps/horkos.PNG)
 
-Enter Horkus.
-
 FIGHT1:
 
 *   def def def def
