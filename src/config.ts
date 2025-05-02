@@ -12,7 +12,8 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    url: "https://github.com/mbcsalmeida/MegatenNotesWebsite/edit/dev/src/content/blog",
+    enabled: false,
+    url: "https://github.com/mbcsalmeida/MegatenNotesWebsite/edit/dev/src/data/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
