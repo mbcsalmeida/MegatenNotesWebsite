@@ -8,8 +8,7 @@ featured: false
 draft: false
 tags:
   - smt-if
-description:
-  Shin Megami Tensei If... manip notes that complete Yumi's Ending.
+description: Shin Megami Tensei If... manip notes that complete Yumi's Ending.
 ---
 
 ## Important: These are manip notes. This means most of the actions until the end of World of Greed are for manip and the rest of the notes assume the level and stat distribution executed under manip. For, normal notes, go [here](https://docs.google.com/document/d/1L65JojSDJbEiVVBQ-FSBxCJw0uMcRcVbv6jdEgUpGrE/edit?usp=sharing)
@@ -19,7 +18,9 @@ description:
 ## Table of Contents
 
 ---
+
 ## School
+
 ---
 
 Male -> Name must be 2 or more characters.
@@ -30,8 +31,8 @@ Say YES to Yumi.
 
 Once you say yes to Yumi you should check her HP:
 
-*   If its 18HP: You may be on TYPE A, you can just go or you can check the status screen (All her stats should be 4). If they aren't, reset.
-*   If its not 18HP: Reset, you didn't hit the frame
+- If its 18HP: You may be on TYPE A, you can just go or you can check the status screen (All her stats should be 4). If they aren't, reset.
+- If its not 18HP: Reset, you didn't hit the frame
 
 ![School 2F](@/assets/images/smtifmaps/school-2F.png) ![School 3F](@/assets/images/smtifmaps/school-3F.png)
 
@@ -43,8 +44,8 @@ Go to Storeroom -> Get all club equipment starting at SUMO.
 
 Menu after getting everything:
 
-*   Equip: Hero with Ice Pick and full armor, Yumi with Metal Bat only
-*   Change: 1-Yumi, 4-Hero
+- Equip: Hero with Ice Pick and full armor, Yumi with Metal Bat only
+- Change: 1-Yumi, 4-Hero
 
 Gaki Fight: AUTO then points into SPD (Yumi should die and Hero should be at 2HP, if not reset).
 
@@ -54,22 +55,22 @@ Back to 2-H -> Hazama scene -> Get HEE-HO!
 
 Before entering the gym:
 
-*   Config: Instant Message Speed, AUTO1, words (Optional)
-*   Change 1-hero, 2-jfrost, 4-yumi
-*   Cast Mapper with Yumi
+- Config: Instant Message Speed, AUTO1, words (Optional)
+- Change 1-hero, 2-jfrost, 4-yumi
+- Cast Mapper with Yumi
 
 ![School 1F](@/assets/images/smtifmaps/school-1F-2.png)
 
 Fight Mary Jane:
 
-*   Auto
-*   H: SPD, Y: INT
+- Auto
+- H: SPD, Y: INT
 
 Open and close map (L) as soon as you can control. Take an extra step before LABO to advance the moon cycle. Fight Otsuki:
 
-*   Change 1-jforst, 2-yumi, 4-hero
-*   Auto (Yumi should die)
-*   H: SPD
+- Change 1-jforst, 2-yumi, 4-hero
+- Auto (Yumi should die)
+- H: SPD
 
 ![School 3F](@/assets/images/smtifmaps/school-3F-1.png)
 
@@ -78,7 +79,9 @@ Head to 3F expanse. After watching the seal animation, which you should try to s
 ![School 1F](@/assets/images/smtifmaps/school-1F-2.png)
 
 ---
+
 ## World of Pride
+
 ---
 
 Seal RNG 1: 7th step -> Encounter (1x Ghost) -> escape -> Walk 2 tiles (To NPC tile) -> 2x L -> Get Chest -> Leave seal
@@ -89,11 +92,11 @@ RNG 2: 9th step -> Encounter (1x Ghost) -> escape -> Walk 1 tile -> 3x L -> Get 
 
 ![Pride 1F](@/assets/images/smtifmaps/pride-1F.png)
 
-*   Weapon Store:
-*   BUY: 50x normal bullets, Gonz Pistol (4000Y)
-*   EQUIP: Give gun and bullets to Hero
-*   General Store:
-*   BUY: 3/4x Smoke Bomb (4 makes money very tight, it is probably okay though)
+- Weapon Store:
+- BUY: 50x normal bullets, Gonz Pistol (4000Y)
+- EQUIP: Give gun and bullets to Hero
+- General Store:
+- BUY: 3/4x Smoke Bomb (4 makes money very tight, it is probably okay though)
 
 ![Pride 2F](@/assets/images/smtifmaps/pride-2F.png)
 
@@ -101,8 +104,8 @@ RNG 2: 9th step -> Encounter (1x Ghost) -> escape -> Walk 1 tile -> 3x L -> Get 
 
 Walk 2 tiles then menu:
 
-*   EQUIP: Hero’a gun back
-*   EQUIP: Armor from school on Yumi
+- EQUIP: Hero’a gun back
+- EQUIP: Armor from school on Yumi
 
 ![Pride 3F](@/assets/images/smtifmaps/pride-3F.png) ![Pride 4F](@/assets/images/smtifmaps/pride-4F.png)
 
@@ -114,16 +117,16 @@ Walk 2 tiles then menu:
 
 Use COMP on the same tile:
 
-*   Summon Willie at 3
-*   Summon Cyak at 2
+- Summon Willie at 3
+- Summon Cyak at 2
 
 Move one extra step before boss room.
 
 Fight Vine:
 
-*   1: raka, maka, taru, gun, zionga
-*   2: AUTO
-*   Hero: SPD, Yumi: MA
+- 1: raka, maka, taru, gun, zionga
+- 2: AUTO
+- Hero: SPD, Yumi: MA
 
 ![Pride 4F](@/assets/images/smtifmaps/pride-4F.png)
 
@@ -132,7 +135,9 @@ Leave through the Geyser.
 Watch the seal animation again and, again, try to mash as quickly as possible or hold turbo B. This one is harder to hit and if you're a fast masher, it's preferrable over holding turbo.
 
 ---
+
 ## World of Gluttony
+
 ---
 
 Seal RNG 1(E spinny): Walk 3 tiles -> Escape Kobold -> Walk outside Next Door -> 2x L -> Yumi:Dia Cyak(39HP)
@@ -147,8 +152,8 @@ Seal RNG 3(S spinny): Walk 1 tile -> Escape Kobold -> Walk outside Next Door -> 
 
 Enter the town and head to the weapon shop.
 
-*   BUY: 99x 10Yen Bullets
-*   EQUIP: Hero equips new bullets
+- BUY: 99x 10Yen Bullets
+- EQUIP: Hero equips new bullets
 
 ![Gluttony 4F](@/assets/images/smtifmaps/glutonny-4F.PNG) ![Gluttony 5F](@/assets/images/smtifmaps/glutonny-5F.PNG)
 
@@ -158,9 +163,9 @@ Enter the town and head to the weapon shop.
 
 Fight Otsuki:
 
-*   raku, maka, def. gun, zionga
-*   AUTO
-*   Hero - VIT, Yumi - 1 INT, 1 MAG
+- raku, maka, def. gun, zionga
+- AUTO
+- Hero - VIT, Yumi - 1 INT, 1 MAG
 
 ![Gluttony 4F](@/assets/images/smtifmaps/glutonny-4F.PNG) ![Gluttony 5F](@/assets/images/smtifmaps/glutonny-5F.PNG) ![Gluttony 6G](@/assets/images/smtifmaps/glutonny-6F.PNG) ![Gluttony 7F](@/assets/images/smtifmaps/glutonny-7F.PNG) ![Gluttony 8F](@/assets/images/smtifmaps/glutonny-8F.PNG)
 
@@ -170,63 +175,63 @@ Enter Horkus.
 
 FIGHT1:
 
-*   def def def def
-*   auto x6
-*   zionga -> auto (Follow up appears)
-*   auto 1 turn
-*   def def gun def
-*   auto
-*   Hero - VIT, Yumi -INT
+- def def def def
+- auto x6
+- zionga -> auto (Follow up appears)
+- auto 1 turn
+- def def gun def
+- auto
+- Hero - VIT, Yumi -INT
 
 FIGHT 2:
 
-*   Dia Cyak, def, gun, def
-*   auto (Follow up appears)
-*   def def def def zionga
-*   auto
-*   Hero - VIT, Yumi - INT
+- Dia Cyak, def, gun, def
+- auto (Follow up appears)
+- def def def def zionga
+- auto
+- Hero - VIT, Yumi - INT
 
 On next L press - Mapper
 
 Fight 3
 
-*   gun plants, def, zionga fuku
-*   auto
+- gun plants, def, zionga fuku
+- auto
 
 YUMI: DIA -> CYAK ON THE SAME TILE
 
 FIGHT 4:
 
-*   gun plants
-*   def all (against the slimes)
-*   auto x4
-*   gun def def
-*   auto (Follow up appears)
-*   def def zionga
-*   TALK (Mash A)
-*   auto
-*   Hero - VIT, Yumi - INT
+- gun plants
+- def all (against the slimes)
+- auto x4
+- gun def def
+- auto (Follow up appears)
+- def def zionga
+- TALK (Mash A)
+- auto
+- Hero - VIT, Yumi - INT
 
 Fight 5:
 
-*   AUTO
+- AUTO
 
 Fight 6:
 
-*   AUTO
+- AUTO
 
 Outside boss room:
 
-*   Use Res item on Frost (3rd Option)
-*   Summon Frost at Pos 1
-*   Yumi:Dia-> Frost
-*   Yumi:Dia-> Cyak
+- Use Res item on Frost (3rd Option)
+- Summon Frost at Pos 1
+- Yumi:Dia-> Frost
+- Yumi:Dia-> Cyak
 
 Fight Parasite:
 
-*   1: def def gun zionga
-*   2: def def def item (3rd Option)
-*   Hero - VIT, Yumi - MAG (until 10), VIT
+- 1: def def gun zionga
+- 2: def def def item (3rd Option)
+- Hero - VIT, Yumi - MAG (until 10), VIT
 
 ![Gluttony B8F](@/assets/images/smtifmaps/gluttony-B8.png) ![Gluttony B7F](@/assets/images/smtifmaps/gluttony-B7.png)
 
@@ -238,17 +243,17 @@ Enter the geyser.
 
 Head to the Casino.
 
-*   450 Credits
-*   9x Fuma Bell
-*   Return demons and use 1st FUMA!
+- 450 Credits
+- 9x Fuma Bell
+- Return demons and use 1st FUMA!
 
 Take 2 extra steps to advance moon to FULL MOON and leave.
 
 After this, the manip ends and World of Sloth, the real beast, begins. Good luck.
 
 ---
-World of Sloth
----
+
+## World of Sloth
 
 ![SLOTH](@/assets/images/smtifmaps/sloth-1.PNG) ![SLOTH 2](@/assets/images/smtifmaps/sloth-2.PNG)
 
@@ -258,16 +263,16 @@ Get the chest on the first cycle.
 
 SLOTH: (ADVANCE MOON to 7/8 on starting floor)
 
-*   FUMA GUARD
-*   7/8 U 6/8 D (First fuma used at casino)
-*   6/8 U 5/8 D
-*   5/8 U HALF D
-*   HALF U 3/8 D
-*   3/8 U 2/8 D
-*   2/8 U 1/8 D
-*   1/8 U NEW
-*   1/8 U 1/8 U (Chance of enka use fuma asap!)
-*   1/8 U --- (Same time as guard, use mapper and summon as well)
+- FUMA GUARD
+- 7/8 U 6/8 D (First fuma used at casino)
+- 6/8 U 5/8 D
+- 5/8 U HALF D
+- HALF U 3/8 D
+- 3/8 U 2/8 D
+- 2/8 U 1/8 D
+- 1/8 U NEW
+- 1/8 U 1/8 U (Chance of enka use fuma asap!)
+- 1/8 U --- (Same time as guard, use mapper and summon as well)
 
 ![SLOTH 3](@/assets/images/smtifmaps/sloth-3.PNG) ![SLOTH](@/assets/images/smtifmaps/sloth-12.PNG)
 
@@ -281,16 +286,16 @@ Go back to school 1F. In front of Lab, say YES to Cerberus.
 
 Save. Revive Cyak if dead. Fight Cerberus.
 
-*   Defend, Hanma, Hanma
-*   Hero - SPD, Yumi - VIT
+- Defend, Hanma, Hanma
+- Hero - SPD, Yumi - VIT
 
 Go back to 3F to the portal.
 
 Talk to the Seal and go to Envy.
 
 ---
-World of Envy
----
+
+## World of Envy
 
 ![ENVY](@/assets/images/smtifmaps/envy-1.PNG) ![ENVY](@/assets/images/smtifmaps/envy-2.PNG)
 
@@ -300,9 +305,9 @@ First floor get the chest after Yumi leaves.
 
 In town, go to Kaifuku and heal Cyak.
 
-*   Sell - Kindan, armor, gun, bullets
-*   Buy - 2500 item and 5800 item (need 8300 total)
-*   Equip on Hero
+- Sell - Kindan, armor, gun, bullets
+- Buy - 2500 item and 5800 item (need 8300 total)
+- Equip on Hero
 
 Grab both chests in 2F.
 
@@ -318,17 +323,17 @@ After this, if you get desperate escaping from encounters, you can fight them.
 
 Say NO. Fight Lilith.
 
-*   Sword, Power Blaze (Extra), Defend
-*   Hero - SPD (until 22), STR
+- Sword, Power Blaze (Extra), Defend
+- Hero - SPD (until 22), STR
 
 Head out to see Otsuki again.
 
-*   Sword, Power Blaze (Extra), Defend, Defend
-*   Hero - STR, Yumi - VIT
+- Sword, Power Blaze (Extra), Defend, Defend
+- Hero - STR, Yumi - VIT
 
 ---
-World of Greed
----
+
+## World of Greed
 
 ![GREED](@/assets/images/smtifmaps/greed-1.PNG) ![GREED](@/assets/images/smtifmaps/greed-2.PNG)
 
@@ -336,8 +341,8 @@ World of Greed
 
 Go to the Junk shop in the town, buy:
 
-*   2x Guard Sphere `みがわりのたま`, at least 18 smoke bombs
-*   If you can still afford it, buy one more Guard Sphere `みがわりのたま` and more smoke bombs
+- 2x Guard Sphere `みがわりのたま`, at least 18 smoke bombs
+- If you can still afford it, buy one more Guard Sphere `みがわりのたま` and more smoke bombs
 
 Grab second to last chest in 2F.
 
@@ -347,20 +352,20 @@ Get chests K, L, M, N in 1F. Equip the items on both.
 
 Fight.
 
-*   Sword, Attack, Defend, Defend
+- Sword, Attack, Defend, Defend
 
 Go back to Town and go to the healer. Heal Yumi, Cyak and Cerberus.
 
 Head to LABO and fight Otsuki again.
 
-*   Sword, Power Blaze, Defend, Defend
-*   Hero - STR, Yumi - VIT
+- Sword, Power Blaze, Defend, Defend
+- Hero - STR, Yumi - VIT
 
 Recarm Cyak if it dies and resummon it. Go to Geyser and woosh outta there.
 
 ---
-Hazama's Hellish School of Fun
----
+
+## Hazama's Hellish School of Fun
 
 ![HAZAMA](@/assets/images/smtifmaps/hazama-1.PNG) ![HAZAMA](@/assets/images/smtifmaps/hazama-2.PNG)
 
@@ -372,10 +377,10 @@ Hazama's Hellish School of Fun
 
 Leave the 9th floor at New Moon. Fully heal before entering the Hazama fight (Cyak isn't worth it).
 
-*   Hero - Necroma item `さざなみのふえ` to revive Jack Frost, Cerberus - Power Blaze, Yumi - Guard Sphere `みがわりのたま`, Cyak - Return
-*   Hero - Sword, Jack Frost - Rakuakaja, - Yumi - Dia ( Hero), Cerberus - Power Blaze
-*   When Jack Frost runs out of MP, Hero - Sword, Jack Frost - Defend, Yumi - Dia (Hero), Cerberus - Defend
-*   When Cerberus runs out of MP, Hero - Soma (Cerberus), Jack Frost - Attack, Yumi - Dia (Hero), Cerberus - Defend
-*   When someone dies and the item's effect goes away, Hero - Attack, Jack Frost - Attack, Yumi - Guard Sphere `みがわりのたま`, Cerberus - Defend
+- Hero - Necroma item `さざなみのふえ` to revive Jack Frost, Cerberus - Power Blaze, Yumi - Guard Sphere `みがわりのたま`, Cyak - Return
+- Hero - Sword, Jack Frost - Rakuakaja, - Yumi - Dia ( Hero), Cerberus - Power Blaze
+- When Jack Frost runs out of MP, Hero - Sword, Jack Frost - Defend, Yumi - Dia (Hero), Cerberus - Defend
+- When Cerberus runs out of MP, Hero - Soma (Cerberus), Jack Frost - Attack, Yumi - Dia (Hero), Cerberus - Defend
+- When someone dies and the item's effect goes away, Hero - Attack, Jack Frost - Attack, Yumi - Guard Sphere `みがわりのたま`, Cerberus - Defend
 
 Time ends when THE END fully appears.

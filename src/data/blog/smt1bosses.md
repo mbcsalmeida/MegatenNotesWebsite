@@ -8,17 +8,17 @@ featured: false
 draft: true
 tags:
   - smt1
-description:
-  Shin Megami Tensei (SFC) - All Bosses notes.
+description: Shin Megami Tensei (SFC) - All Bosses notes.
 ---
 
 ## Kichijoji
----------
+
+---
 
 First dream sequence starts:
 
-*   Name Law Hero カ and put 3 points into Speed `はやさ` and rest into Magic `まりょく`.
-*   Name Chaos Hero サ and put all points into Magic `まりょく`.
+- Name Law Hero カ and put 3 points into Speed `はやさ` and rest into Magic `まりょく`.
+- Name Chaos Hero サ and put all points into Magic `まりょく`.
 
 Mash B to leave the house (1) then head to the Arcade (3) and go to (B) to get attacked by Haunt Preta.
 
@@ -28,8 +28,8 @@ Return home and go to bed (Up x2 - Sleep `すいみんを とる`.
 
 Second dream sequence:
 
-*   Mash A to say yes.
-*   Name Heroine イ and put 4 points into Speed`はやさ` and rest into Strengthつよさ.
+- Mash A to say yes.
+- Name Heroine イ and put 4 points into Speed`はやさ` and rest into Strengthつよさ.
 
 ### Inokashira Park
 
@@ -47,8 +47,8 @@ Recruit Law Hero (A) and go talk to STEVEN (B) (Yes → No).
 
 Head upstairs to fight Fallen Orias(C):
 
-*   Hero defends and Law Hero uses Hamaya`はまや`.
-*   Hero levels Intelligenceちえ and Law Hero levels Speed`はやさ`.
+- Hero defends and Law Hero uses Hamaya`はまや`.
+- Hero levels Intelligenceちえ and Law Hero levels Speed`はやさ`.
 
 Leave the hospital and go to the Arcade again.
 
@@ -57,6 +57,7 @@ Leave the hospital and go to the Arcade again.
 Once in the Arcade recruit Chaos Hero (A) and enter SURVIVAL:
 
 Sell `うる`: Total 32580¥
+
 - Attack Knife `アタックナイフ`
 - Machette `マチェット`
 - Beretta `92Fベレッタ９２Ｆ`
@@ -66,17 +67,19 @@ Sell `うる`: Total 32580¥
 - Rebetta Knuckle `レベットナックル`
 
 Buy `かう`
+
 - Head Gear `ヘッドギア`
 - Survival Vest `サバイバーベスト`
 
 Equip `そうび`
+
 - Chaos Hero - Head Gear `ヘッドギア` and Survival Vest `サバイバーベスト`
 - Hero - Cerbera Vest `ケルブラーベスト` and Full Helm `フルヘルム`
 
 Go home and fight Jaki Ama no Sakugami:
 
-*   Chaos Hero uses Hamaya`はまや`.
-*   Hero levels Intelligenceちえ, Law Hero levels Magic`まりょく`, and Chaos Hero levels Magic`まりょく`.
+- Chaos Hero uses Hamaya`はまや`.
+- Hero levels Intelligenceちえ, Law Hero levels Magic`まりょく`, and Chaos Hero levels Magic`まりょく`.
 
 Go to Inokashira Park and buy 7x Hamaya`はまや` and head to Echo Building.
 
@@ -88,15 +91,17 @@ From now on it's possible to recruit the demons needed but it's not necessary to
 
 Take the elevator to 4F and get money (chest 3) then head upstairs and and go fight Douman:
 
-*   Hero defends and the others use Hamaya`はまや`.
-*   Chaos Hero uses Patra `パトラ` to cure BIND.
-*   Heal Chaos Hero or Law Hero with Dia `ディア`) if needed.
-*   Hero levels up INT, Law hero levels up Speed`はやさ`, and Chaos Hero levels up Magic`まりょく`.
+- Hero defends and the others use Hamaya`はまや`.
+- Chaos Hero uses Patra `パトラ` to cure BIND.
+- Heal Chaos Hero or Law Hero with Dia `ディア`) if needed.
+- Hero levels up INT, Law hero levels up Speed`はやさ`, and Chaos Hero levels up Magic`まりょく`.
 
 Enter the Terminal room and transfer `てんそう` to Shinjuku Lab.
 
 ---
+
 ## Shinjuku
+
 ---
 
 You may choose to save `きろく` at the terminals as failing to escape a group of Harpies can kill one or all party members.
@@ -129,11 +134,11 @@ From the Underground Mall head south for the public execution.
 
 Enter the building and fight the hordes (A):
 
-*   Undead Zombie Cop `シキ ゾンビコップ` - Chaos Hero uses Maragi `マハラギ`
-*   Undead Zombie Army `シキ ゾンビアーミー `- Chaos Hero uses Maragi `マハラギ`. Law Hero can use Hamaya`はまや` for safety.
-*   Undead Zombie Army `シキ ゾンビアーミー `and Spirit Lemures `アクリョウ レムルース` - Law Hero uses Hamaya`はまや` on the left and Chaos Hero uses Maragi`マハラギ` on the right.
-*   Spirit Lemures `アクリョウ レムルース` and Haunt Ghoul ユウキ グール - Law Hero uses Hamaya`はまや` on the left and Chaos Hero uses Maragi `マハラギ` on the right.
-*   Level Intelligenceちえ for Hero and Magic`まりょく` for Law and Chaos Hero.
+- Undead Zombie Cop `シキ ゾンビコップ` - Chaos Hero uses Maragi `マハラギ`
+- Undead Zombie Army `シキ ゾンビアーミー `- Chaos Hero uses Maragi `マハラギ`. Law Hero can use Hamaya`はまや` for safety.
+- Undead Zombie Army `シキ ゾンビアーミー `and Spirit Lemures `アクリョウ レムルース` - Law Hero uses Hamaya`はまや` on the left and Chaos Hero uses Maragi`マハラギ` on the right.
+- Spirit Lemures `アクリョウ レムルース` and Haunt Ghoul ユウキ グール - Law Hero uses Hamaya`はまや` on the left and Chaos Hero uses Maragi `マハラギ` on the right.
+- Level Intelligenceちえ for Hero and Magic`まりょく` for Law and Chaos Hero.
 
 Hero should hit Level 12, so every recruit is possible from now on. Go out and head north to Ozawa's Hideout.
 
@@ -141,8 +146,8 @@ Hero should hit Level 12, so every recruit is possible from now on. Go out and h
 
 Get the 1360MAG chest (1) and go fight Haunt Baykok (A):
 
-*   Law Hero uses Holy Water `せいすい`, Chaos Hero uses Agilao `アギラオ`
-*   Level Magic`まりょく` for everyone.
+- Law Hero uses Holy Water `せいすい`, Chaos Hero uses Agilao `アギラオ`
+- Level Magic`まりょく` for everyone.
 
 Fairy Goblin and Fairy Pyro Jack are available in this dungeon and ideally should have already been recruited. Fairy Dryad and Night Imp can also be found here.
 
@@ -170,18 +175,18 @@ Once you enter the building, take the elevator to B1F, and take the elevator to 
 
 Talk to Gotou. Then summon:
 
-*   Pyro Jack `ジャックランタン`
-*   Azumi `アズミ`
-*   Goblin`ゴブリン`
-*   Heroine
+- Pyro Jack `ジャックランタン`
+- Azumi `アズミ`
+- Goblin`ゴブリン`
+- Heroine
 
 Head back inside and say No. Fight:
 
-*   First turn: Agilao `アギラオ` - Nue, Holy Water `せいすい` - Pisaca
-*   Second turn: Holy Water `せいすい` - Left demon, Holy Water `せいすい` - right demon
-*   Gotou - Zio `ジオ`, Agilao `アギラオ`, Tarukaja `タルカジャ`, Charm`チャーム`, Sword
-*   AUTO. If Gotou's charm wears out, stop AUTO (Hold B) and use another Charm.
-*   Hero levels Intelligenceちえ and Heroine levels Vitality `たいりょく`.
+- First turn: Agilao `アギラオ` - Nue, Holy Water `せいすい` - Pisaca
+- Second turn: Holy Water `せいすい` - Left demon, Holy Water `せいすい` - right demon
+- Gotou - Zio `ジオ`, Agilao `アギラオ`, Tarukaja `タルカジャ`, Charm`チャーム`, Sword
+- AUTO. If Gotou's charm wears out, stop AUTO (Hold B) and use another Charm.
+- Hero levels Intelligenceちえ and Heroine levels Vitality `たいりょく`.
 
 Return your demons and leave. If you have Cu Sith, Traesto`トラエスト` out but return it when outside.
 
@@ -197,25 +202,27 @@ Before fighting Thor, recruit Fairy Dryad if you haven't back in Ozawa's Hideout
 
 Go upstairs and before talking to Thorman (B) summon`ナカマを よびだす` your demons:
 
-*   Pyro Jack`ジャックランタン`
-*   Goblin`ゴブリン`
-*   Heroine
+- Pyro Jack`ジャックランタン`
+- Goblin`ゴブリン`
+- Heroine
 
 If needed, reorder `いちがえを する` party.
 
 Talk to Thorman (No) and fight Deity Thor:
 
-*   First turn: Agilao `アギラオ`, Makakaja `マカカジャ`, Charm`チャーム`, Sword
-*   Second turn: Agilao `アギラオ`, Tarukaja`タルカジャ`, Defend, Sword
-*   AUTO. If Thor's Charm wears out, stop AUTO (Hold B) and use another Charm.
-*   Hero levels Intelligenceちえ and Heroine levels Vitality`たいりょく`.
+- First turn: Agilao `アギラオ`, Makakaja `マカカジャ`, Charm`チャーム`, Sword
+- Second turn: Agilao `アギラオ`, Tarukaja`タルカジャ`, Defend, Sword
+- AUTO. If Thor's Charm wears out, stop AUTO (Hold B) and use another Charm.
+- Hero levels Intelligenceちえ and Heroine levels Vitality`たいりょく`.
 
 Get chests (5), (6), and (3). Getting (3) before the fight is a safety option.
 
 Use Magic Incense`まりょくのこう` on Heroine.
 
 ---
+
 ## Kongo Shinkai
+
 ---
 
 After the ICBM, the Hero wakes up in Kongou Shinkai with no party members or demons in his COMP.
@@ -226,44 +233,46 @@ Quickly go to Chaos Hero (E) and cast Estoma `エストマ`, go to Law Hero (D) 
 
 Summon`ナカマを よびだす` demons into the formation:
 
-*   Azumi`アズミ`
-*   Goblin`ゴブリン`
-*   Hero
-*   Pyro Jack`ジャックランタン`
+- Azumi`アズミ`
+- Goblin`ゴブリン`
+- Hero
+- Pyro Jack`ジャックランタン`
 
 Fight the Blue Phantom (H).
 
-*   First Turn: Zio `ジオ`,Makakaja`マカカジャ`, Defend, Agilao``アギ`ラオ`
-*   Others: Zio `ジオ`, Makakaja`マカカジャ`, Hamaya`はまや`, Agilao``アギ`ラオ`
-*   Keep one Hamaya`はまや`
-*   If Pyro Jack dies, summon Imp.
-*   Level Intelligenceちえ
+- First Turn: Zio `ジオ`,Makakaja`マカカジャ`, Defend, Agilao``アギ`ラオ`
+- Others: Zio `ジオ`, Makakaja`マカカジャ`, Hamaya`はまや`, Agilao``アギ`ラオ`
+- Keep one Hamaya`はまや`
+- If Pyro Jack dies, summon Imp.
+- Level Intelligenceちえ
 
 Fight the Red Phantom (G):
 
 Summon`ナカマを よびだす` demons into the formation:
 
-*   Azumi`アズミ`
-*   Goblin`ゴブリン`
-*   Hero
-*   Pyro Jack`ジャックランタン`
+- Azumi`アズミ`
+- Goblin`ゴブリン`
+- Hero
+- Pyro Jack`ジャックランタン`
 
 Fight Red Phantom:
 
-*   First Turn: Zio`ジオ`,Makakaja`マカカジャ`, Defend, Agilao``アギ`ラオ`
-*   Others: Zio`ジオ`, Makakaja`マカカジャ`, Hamaya`はまや`, Agilao``アギ`ラオ`
-*   If Pyro Jack dies, summon Imp.
-*   Level Intelligenceちえ
+- First Turn: Zio`ジオ`,Makakaja`マカカジャ`, Defend, Agilao``アギ`ラオ`
+- Others: Zio`ジオ`, Makakaja`マカカジャ`, Hamaya`はまや`, Agilao``アギ`ラオ`
+- If Pyro Jack dies, summon Imp.
+- Level Intelligenceちえ
 
 Go back to En-no-Ozuno (A) and, if needed, heal with Goki (C). Then leave for the exit (J) and fight Zenki and Goki:
 
-*   Zio`ジオ` - Goki;　Makakaja`マカカジャ`;　Charm`チャーム` - Zenki;　Agilao``アギ`ラオ` - Goki; Agilao``アギ`ラオ` - Goki;　Zanma`ザンマ` - Goki
-*   Hero levels Intelligenceちえ.
-*   Law Hero levels Magic`まりょく` to max and the rest goes to Speed`はやさ`
-*   Chaos Hero levels Magic`まりょく` to max and the rest goes to Intelligenceちえ
+- Zio`ジオ` - Goki;　Makakaja`マカカジャ`;　Charm`チャーム` - Zenki;　Agilao``アギ`ラオ` - Goki; Agilao``アギ`ラオ` - Goki;　Zanma`ザンマ` - Goki
+- Hero levels Intelligenceちえ.
+- Law Hero levels Magic`まりょく` to max and the rest goes to Speed`はやさ`
+- Chaos Hero levels Magic`まりょく` to max and the rest goes to Intelligenceちえ
 
 ---
+
 ## Tokyo - Ozawa
+
 ---
 
 After leaving Kongou Shinkai, give the man some money - but he'll complain it isn't worth anything anymore. Go north to Shinjuku.
@@ -277,35 +286,38 @@ Trade the Emerald `エメラルド` for a Core Shield `コアシルド` at the R
 Bookmark the Shinjuku Terminal. Go to the junk shop.
 
 Sell.
-* Guillotine Axe `ギロチンアクス`
-* Kodachi of Light `ひかりのこだち`
-* The Other Sword `みかつきのたち`
-Buy `かう`.
-* Hinraya `ヒンラヤ`
-* Gold Pill `きんだん`
+
+- Guillotine Axe `ギロチンアクス`
+- Kodachi of Light `ひかりのこだち`
+- The Other Sword `みかつきのたち`
+  Buy `かう`.
+- Hinraya `ヒンラヤ`
+- Gold Pill `きんだん`
 
 Head to the first bar to receive some ₹ from the old man (A), then go to the Disco basement to receive some info (B). Finally head to 2F to meet Ozawa (C). Go back downstairs and let Chaos Hero fuse with a demon at the JAKYOU. If available, he will pick a Chaos aligned demon to fuse, which is the reason for having recruited Imp. Go to KAIFUKU and heal Goblin`ゴブリン` for alignment adjustment. Return to Ozawa's Office.
 
 Formation:
 
-*   Azumi`アズミ`
-*   Goblin`ゴブリン`
-*   Hero
-*   Pyro Jack`ジャックランタン`
-*   Law Hero
-*   Chaos Hero
+- Azumi`アズミ`
+- Goblin`ゴブリン`
+- Hero
+- Pyro Jack`ジャックランタン`
+- Law Hero
+- Chaos Hero
 
 Fight Kishin Take-Minakata:
 
-*   Zio`ジオ`; Makakaja`マカカジャ`; Charm`チャーム`;　Agilao``アギ`ラオ`; Agilao``アギ`ラオ` ;Zanma`ザンマ`
-*   Hero - Speed`はやさ`, Law Hero - Vitality`たいりょく`
-*   Chaos Hero usually doesn't level up so watch out for the dialogue after the fight if you're mashing
-*   Dialogue after the fight: No → Yes
+- Zio`ジオ`; Makakaja`マカカジャ`; Charm`チャーム`;　Agilao``アギ`ラオ`; Agilao``アギ`ラオ` ;Zanma`ザンマ`
+- Hero - Speed`はやさ`, Law Hero - Vitality`たいりょく`
+- Chaos Hero usually doesn't level up so watch out for the dialogue after the fight if you're mashing
+- Dialogue after the fight: No → Yes
 
 Traesto`トラエスト` to leave the building.
 
 ---
+
 ## Shibuya
+
 ---
 
 Once outside, return `ナカマを もどす` Pyro Jack`ジャックランタン` and Azumi`アズミ`, summon`ナカマを よびだす` Cu Sith `カーシー`. Head south to Shibuya.
@@ -318,9 +330,9 @@ Save for safety. Grind Hero to level 28 using Law Hero's Zanma `ザンマ` and M
 
 Go to the Heretic Mansion to fuse Megami Kushinada-Hime:
 
-*   Pyro Jack`ジャックランタン`
-*   Dryad `ドリアード`
-*   Azumi`アズミ`
+- Pyro Jack`ジャックランタン`
+- Dryad `ドリアード`
+- Azumi`アズミ`
 
 Go see the Heroine. Afterwards, Traesto`トラエスト` and re-enter. Buyかう 8x Tamagaeri`たまがえり` and 1x Hamaya`はまや`. Transfer to Shinjuku.
 
@@ -330,12 +342,12 @@ After transfering`てんそう` to Shinjuku, head downstairs and fight Jaki Wend
 
 summon`ナカマを よびだす` demons
 
-*   Kushinada-Hime `クシナダヒメ`
-*   Goblin`ゴブリン`
-*   Hero
-*   Law Hero
-*   Cu Sith`カーシー`
-*   Turns: Defend, Tarukaja`タルカジャ`, Defend, Zanma`ザンマ`, Attack
+- Kushinada-Hime `クシナダヒメ`
+- Goblin`ゴブリン`
+- Hero
+- Law Hero
+- Cu Sith`カーシー`
+- Turns: Defend, Tarukaja`タルカジャ`, Defend, Zanma`ザンマ`, Attack
 
 Talk to Psycho Diver at the same place you met the Heroine before the ICBM, and head back to the terminal. Transfer`てんそう` to Shibuya. Go back to the Heroine to enter her spiritual world.
 
@@ -343,15 +355,17 @@ Talk to Psycho Diver at the same place you met the Heroine before the ICBM, and 
 
 Go to (D) to fight Femme Arachne:
 
-*   First turn: Defend, Makakaja`マカカジャ`, Charm`チャーム`, Defend, Defend
-*   Others: Defend, Makakaja`マカカジャ`, Defend, Zanma`ザンマ`, Defend, Defend
-*   If Charm wears out, use another.
-*   Hero and Law Hero level Vitality`たいりょく`
+- First turn: Defend, Makakaja`マカカジャ`, Charm`チャーム`, Defend, Defend
+- Others: Defend, Makakaja`マカカジャ`, Defend, Zanma`ザンマ`, Defend, Defend
+- If Charm wears out, use another.
+- Hero and Law Hero level Vitality`たいりょく`
 
 Cast Traesto`トラエスト`.
 
 ---
+
 ## Roppongi
+
 ---
 
 ![ ](@/assets/images/smt1maps/2D/10-Roppongi.png)
@@ -368,20 +382,22 @@ Make Alice (C) cry by saying No -> No and say Yes to Yuriko. Go back to B1F to f
 
 reorder`いちがえを する`:
 
-*   Kushinada-Hime`クシナダヒメ`
-*   Goblin`ゴブリン`
-*   Hero
-*   Cu Sith`カーシー`
-*   Heroine
-*   Makatoraマカトラ to Cu Sith, Tarukaja`タルカジャ`, Charm`チャーム`, Defend, Sword.
-*   Makatoraマカトラ to Goblin, Tarukaja`タルカジャ`, Defend, Defend, Sword.
-*   Safe strat: return Goblin and Cu Sith after the buffs
-*   AUTO. Use another Charm if it wears out.
+- Kushinada-Hime`クシナダヒメ`
+- Goblin`ゴブリン`
+- Hero
+- Cu Sith`カーシー`
+- Heroine
+- Makatoraマカトラ to Cu Sith, Tarukaja`タルカジャ`, Charm`チャーム`, Defend, Sword.
+- Makatoraマカトラ to Goblin, Tarukaja`タルカジャ`, Defend, Defend, Sword.
+- Safe strat: return Goblin and Cu Sith after the buffs
+- AUTO. Use another Charm if it wears out.
 
 Use Traesto`トラエスト` and head northeast to Ginza Underpass.
 
 ---
+
 ## Ueno
+
 ---
 
 Make your way through Ginza Underpass.
@@ -402,9 +418,9 @@ Enter Ueno (25) through the lower exit.
 
 Head to the Junk shop and buy 6x Hikoubari `ひこうばり`.
 
-*   First turn: Tamagaeri `たまがえり`
-*   Second turn: Tamagaeri `たまがえり` + Holy Water`せいすい`
-*   Third turn: Tamagaeri `たまがえり` + Tamagaeri `たまがえり`
+- First turn: Tamagaeri `たまがえり`
+- Second turn: Tamagaeri `たまがえり` + Holy Water`せいすい`
+- Third turn: Tamagaeri `たまがえり` + Tamagaeri `たまがえり`
 
 Bookmark the terminal then head to Ladon.
 
@@ -412,11 +428,11 @@ Bookmark the terminal then head to Ladon.
 
 Fight Drake Ladon.
 
-*   First turn: Return, Tarukaja`タルカジャ` , Charm`チャーム`, Return, Sword
-*   3+ Turns: Tarukaja`タルカジャ` , Defend, Sword
-*   Follow-up turn: Return, Defend, Sword
-*   Rest: AUTO. Stop AUTO and use Charm`チャーム` if it wears out. Heal whenever necessary.
-*   Assign Vitality`たいりょく` for Hero and Magic`まりょく` for Heroine.
+- First turn: Return, Tarukaja`タルカジャ` , Charm`チャーム`, Return, Sword
+- 3+ Turns: Tarukaja`タルカジャ` , Defend, Sword
+- Follow-up turn: Return, Defend, Sword
+- Rest: AUTO. Stop AUTO and use Charm`チャーム` if it wears out. Heal whenever necessary.
+- Assign Vitality`たいりょく` for Hero and Magic`まりょく` for Heroine.
 
 Re-summon Kushinada-Hime and Cu Sith, same formation. Cast Traesto`トラエスト`. Head through Jikoukuten's Lair and then south to TDL.
 
@@ -437,7 +453,9 @@ Meet Vile Echidna: No → Yes
 Use Traport `トラポート`.
 
 ---
+
 ## Ginza
+
 ---
 
 Head outside. Stop by the Messian Church and buy 4x Segakimaiせがきまい and 6x Charm`チャーム`.
@@ -450,12 +468,14 @@ Enter the lower building at any Moon, except New Moon - left chest. Enter the up
 
 Head to the Devil Summoner. Tell him: No -> Yes.
 
-*   First turn: Tamagaeri`たまがえり` + Sword
-*   Second turn: Tamagaeri`たまがえり` + Sword
-*   Third: Hikoubari`ひこうばり`, Mazioマ`ジオ`
+- First turn: Tamagaeri`たまがえり` + Sword
+- Second turn: Tamagaeri`たまがえり` + Sword
+- Third: Hikoubari`ひこうばり`, Mazioマ`ジオ`
 
 ---
+
 ## Shinagawa
+
 ---
 
 Make your way through the Underpass and go south to Shinagawa.
@@ -465,19 +485,20 @@ Make your way through the Underpass and go south to Shinagawa.
 Heal at the Messiah and buy more charms if necessary. Head into the Armour Shop.
 
 Sell `うる`
-* Magician's Mask `まどうのマスク`
-Buy `かう`
-* Dragon Helm `ドラゴンヘルム`
-* Dragon Mail `ドラゴンメイル`
-* Dragon Punil `ドラゴンプニル`
-* Dragon Boots `ドラゴンブーツ`
-* Crimson Helm `くれないのかぶと`
-* Crimson Mail `くれないのよろ`
-* Crimson Glove `くれないのこて`
-* Crimson Armor `くれないのぐそく`
-Equip `そうび`
-* Hero - Dragon Helm `ドラゴンヘルム`, Dragon Mail `ドラゴンメイル`,Dragon Punil `ドラゴンプニル`, Dragon Boots `ドラゴンブーツ`
-* Heroine - Crimson Helm `くれないのかぶと`, Crimson Mail `くれないのよろ`, Crimson Glove `くれないのこて`, Crimson Armor `くれないのぐそく`
+
+- Magician's Mask `まどうのマスク`
+  Buy `かう`
+- Dragon Helm `ドラゴンヘルム`
+- Dragon Mail `ドラゴンメイル`
+- Dragon Punil `ドラゴンプニル`
+- Dragon Boots `ドラゴンブーツ`
+- Crimson Helm `くれないのかぶと`
+- Crimson Mail `くれないのよろ`
+- Crimson Glove `くれないのこて`
+- Crimson Armor `くれないのぐそく`
+  Equip `そうび`
+- Hero - Dragon Helm `ドラゴンヘルム`, Dragon Mail `ドラゴンメイル`,Dragon Punil `ドラゴンプニル`, Dragon Boots `ドラゴンブーツ`
+- Heroine - Crimson Helm `くれないのかぶと`, Crimson Mail `くれないのよろ`, Crimson Glove `くれないのこて`, Crimson Armor `くれないのぐそく`
 
 ![ ](@/assets/images/smt1maps/3D/SHINAGAWA-1F.png) ![ ](@/assets/images/smt1maps/3D/SHINAGAWA-2F.png)
 
@@ -485,22 +506,22 @@ Equip `そうび`
 
 Talk to Haniel. Say No.
 
-*   2 turns: Defend, Tarukaja`タルカジャ`, Charm`チャーム`, Defend, Sword.
-*   AUTO. Use another Charm if necessary or heal.
-*   Assign points to Vitality`たいりょく`.
+- 2 turns: Defend, Tarukaja`タルカジャ`, Charm`チャーム`, Defend, Sword.
+- AUTO. Use another Charm if necessary or heal.
+- Assign points to Vitality`たいりょく`.
 
 Go up to the 4F and fight the Devil Summoner in 4F:
 
-*   First fight: Defend, Makakaja`マカカジャ`, Hamaya`はまや`, Diarama `デｲアラマ`, Defend
-*   Second fight: Tamagaeri`たまがえり`, Sword
-*   Third fight: Tamagaeri`たまがえり`, Mazioマ`ジオ`
+- First fight: Defend, Makakaja`マカカジャ`, Hamaya`はまや`, Diarama `デｲアラマ`, Defend
+- Second fight: Tamagaeri`たまがえり`, Sword
+- Third fight: Tamagaeri`たまがえり`, Mazioマ`ジオ`
 
 ![ ](@/assets/images/smt1maps/3D/Komukuten.png)
 
 Use Traesto`トラエスト`. Walk into Komukuten's Lair.
 
-*   Hero - Holy Water`せいすい`
-*   Both points into Vitality`たいりょく`
+- Hero - Holy Water`せいすい`
+- Both points into Vitality`たいりょく`
 
 Use Traport`トラポート` and transfer to Ueno. Leave.
 
@@ -512,8 +533,8 @@ Head to the left mansion.
 
 Fight Bishamonten.
 
-*   Hero - Holy Water`せいすい`
-*   Both points into Vitality`たいりょく`
+- Hero - Holy Water`せいすい`
+- Both points into Vitality`たいりょく`
 
 Use Traesto`トラエスト` and grab the Magician's Mask `まどうのマスク` from the reward house at FULL Moon. Then head to the right mansion
 
@@ -521,8 +542,8 @@ Use Traesto`トラエスト` and grab the Magician's Mask `まどうのマスク
 
 Walk into Jikoukuten's room.
 
-*   Hero - Holy Water`せいすい`
-*   Both points into Vitality`たいりょく`
+- Hero - Holy Water`せいすい`
+- Both points into Vitality`たいりょく`
 
 Use Traport`トラポート` and go to Ginza.
 
@@ -531,11 +552,12 @@ Use Traport`トラポート` and go to Ginza.
 Head to the Weapon store.
 
 Sell `うる`
-* Magician's Mask `まどうのマスク`
-* Any weapon drops.
-Buy `かう`
-* Pauza P50 `パウザＰ５０` \- 28,000
-* SPAS-12SPAS-12 \- 10,000
+
+- Magician's Mask `まどうのマスク`
+- Any weapon drops.
+  Buy `かう`
+- Pauza P50 `パウザＰ５０` \- 28,000
+- SPAS-12SPAS-12 \- 10,000
 
 Go to the terminal and transfer to Shibuya.
 
@@ -547,13 +569,15 @@ Go to the healer and buy 3x Tamagaeri`たまがえり`.
 
 Walk into Zouchouten's room.
 
-*   Hero - Holy Water`せいすい`
-*   Both points into Vitality`たいりょく`
+- Hero - Holy Water`せいすい`
+- Both points into Vitality`たいりょく`
 
 Use Traport`トラポート` and go to T.D.L.
 
 ---
+
 ## Tokyo Destiny Land
+
 ---
 
 Save. Enter the Gaia and buy 3x Amulet`アムレット` and 2x Pentagram `ペンタグラム`.
@@ -561,10 +585,11 @@ Save. Enter the Gaia and buy 3x Amulet`アムレット` and 2x Pentagram `ペン
 Go to the Weapon store.
 
 Buy `かう`
-* 2x Flash Bullets `せんこうだん` \- 10,000
-Equip `そうび`
-* Hero - Pauza P50 `パウザＰ５０`, Flash Bullets `せんこうだん`
-* Heroine - SPAS-12, Flash Bullets `せんこうだん`
+
+- 2x Flash Bullets `せんこうだん` \- 10,000
+  Equip `そうび`
+- Hero - Pauza P50 `パウザＰ５０`, Flash Bullets `せんこうだん`
+- Heroine - SPAS-12, Flash Bullets `せんこうだん`
 
 Head upstairs to meet echidna.
 
@@ -578,21 +603,23 @@ The next three floors have several warps which send you to the next floor, cycli
 
 Return demons and fight the Devil Summoner in 3F:
 
-*   First fight: Tamagaeri`たまがえり` + Tamagaeri`たまがえり`
-*   Second fight: Hikoubari`ひこうばり` + Hikoubari`ひこうばり`
-*   Third fight: Hikoubari`ひこうばり` + Hikoubari`ひこうばり`
+- First fight: Tamagaeri`たまがえり` + Tamagaeri`たまがえり`
+- Second fight: Hikoubari`ひこうばり` + Hikoubari`ひこうばり`
+- Third fight: Hikoubari`ひこうばり` + Hikoubari`ひこうばり`
 
 Meet Vile Echidna:No. Fight Echidna.
 
-*   1 turns: Return, Tarukaja`タルカジャ`, Charm`チャーム`, Gun.
-*   Other turns: Tarukaja`タルカジャ`, Gun, Sword.
-*   AUTO. Use another Charm if necessary or heal.
-*   Assign points to Vitality`たいりょく`.
+- 1 turns: Return, Tarukaja`タルカジャ`, Charm`チャーム`, Gun.
+- Other turns: Tarukaja`タルカジャ`, Gun, Sword.
+- AUTO. Use another Charm if necessary or heal.
+- Assign points to Vitality`たいりょく`.
 
 Use Traport`トラポート`. Head out.
 
 ---
+
 ## Bosses
+
 ---
 
 ![ ](@/assets/images/smt1maps/3D/GINZA-UNDERPASS2-B3F.png)
@@ -603,7 +630,7 @@ Leave Ginza and head to the police headquarters.
 
 Fight the Defense Machine in 5F (A).
 
-*   AUTO (Gun + Sword)
+- AUTO (Gun + Sword)
 
 Then head back to the elevator and go to 1F to leave.
 
@@ -613,7 +640,7 @@ Walk to Tokyo Tower.
 
 ![ ](@/assets/images/smt1maps/3D/TOKYO-TOWER-1F.png) ![ ](@/assets/images/smt1maps/3D/TOKYO-TOWER-30F.png)
 
-*   AUTO (Gun + Sword)
+- AUTO (Gun + Sword)
 
 Traport`トラポート` back to Ginza
 
@@ -627,13 +654,13 @@ Say No to Yama.
 
 Use estoma, head downstairs and fight Nioh (C).
 
-*   Charm + Sword
-*   AUTO (Gun + Sword)
+- Charm + Sword
+- AUTO (Gun + Sword)
 
 Head to 2F and fight Yama
 
-*   Gun + Gun until he gets bound
-*   When he's bound, Gun + Sword
+- Gun + Gun until he gets bound
+- When he's bound, Gun + Sword
 
 Traport`トラポート` back to Ginza and head through the Passage to the Cathedral.
 
@@ -642,7 +669,9 @@ Traport`トラポート` back to Ginza and head through the Passage to the Cathe
 ![ ](@/assets/images/smt1maps/3D/GINZA-B3F.png)
 
 ---
+
 ## Tokyo Building
+
 ---
 
 ![ ](@/assets/images/smt1maps/3D/CATHEDRAL2-B1F.png)
@@ -663,7 +692,7 @@ Head through the left elevator first.
 
 Return all demons. Fight Deity Vishnu.
 
-*   AUTO. Stop to heal if necessary.
+- AUTO. Stop to heal if necessary.
 
 ![ ](@/assets/images/smt1maps/3D/MO-32F-R.png)
 
@@ -675,12 +704,14 @@ Re-summon Kushinada. Traesto`トラエスト` and head through the right elevato
 
 Return all demons. Fight Deity Ravana and Deity Indrajit.
 
-*   AUTO. Stop to heal if necessary.
+- AUTO. Stop to heal if necessary.
 
 Traport`トラポート`.
 
 ---
+
 ## Lower Cathedral
+
 ---
 
 Head back and talk to Law Hero and Chaos Hero. You can now enter the Heart of the Cathedral.
@@ -691,22 +722,22 @@ Head back and talk to Law Hero and Chaos Hero. You can now enter the Heart of th
 
 Fight Surt(A).
 
-*   Return Kushinada
-*   AUTO
+- Return Kushinada
+- AUTO
 
 ![ ](@/assets/images/smt1maps/3D/CATHEDRAL-B3F-CHAOS.png)
 
 Fight Astoroth.
 
-*   AUTO. Watch out for Charm
+- AUTO. Watch out for Charm
 
 ![ ](@/assets/images/smt1maps/3D/CATHEDRAL-B4F-CHAOS.png)
 
 Fight Arioch
 
-*   Gun + Gun until it's bound
-*   Summon Goblin and cast two tarukaja.Then return it.
-*   AUTO
+- Gun + Gun until it's bound
+- Summon Goblin and cast two tarukaja.Then return it.
+- AUTO
 
 ![ ](@/assets/images/smt1maps/3D/CATHEDRAL-B5F-CHAOS.png) ![ ](@/assets/images/smt1maps/3D/CATHEDRAL-B6F.png)
 
@@ -716,16 +747,16 @@ Get poisoned in B5F. Use an Amulet `アムレット` in B6F. You can grab a back
 
 Fight Chaos Hero and Lilith.
 
-*   GUN with Hero and SWORD with Heroine.
-*   AUTO. Stop to heal if necessary.
+- GUN with Hero and SWORD with Heroine.
+- AUTO. Stop to heal if necessary.
 
 Finally, at B8F fight Tenma Lord Asura.
 
-*   AUTO until Bind
-*   Summon`ナカマを よびだす` Goblin`ゴブリン`
-*   Goblin uses Tarukaja`タルカジャ` until he runs out of MP
-*   AUTO
-*   Keep HP above 200 with Diarahan`ディアラハン` 
+- AUTO until Bind
+- Summon`ナカマを よびだす` Goblin`ゴブリン`
+- Goblin uses Tarukaja`タルカジャ` until he runs out of MP
+- AUTO
+- Keep HP above 200 with Diarahan`ディアラハン`
 
 Revive Goblin and heal him up completely. Cast Traport`トラポート` and go outside.
 
@@ -733,11 +764,13 @@ Revive Goblin and heal him up completely. Cast Traport`トラポート` and go o
 
 Fight Beelzebub.
 
-*   Gun + Gun til bound
-*   Gun + Sword
+- Gun + Gun til bound
+- Gun + Sword
 
 ---
+
 ## Upper Cathedral
+
 ---
 
 Back at the Cathedral, make your way to 8F. Use Amulet `アムレット` in 6F.
@@ -748,15 +781,15 @@ Back at the Cathedral, make your way to 8F. Use Amulet `アムレット` in 6F.
 
 Fight Uriel.
 
-*   GUN with Hero and SWORD with Heroine.
-*   AUTO. Stop to heal if necessary.
+- GUN with Hero and SWORD with Heroine.
+- AUTO. Stop to heal if necessary.
 
 ![ ](@/assets/images/smt1maps/3D/CATHEDRAL-3F-LAW.png)
 
 Fight Gabriel.
 
-*   Gun, Gun
-*   Get Goblin out for some Tarukajas.
+- Gun, Gun
+- Get Goblin out for some Tarukajas.
 
 If Goblin dies, revive
 
@@ -764,9 +797,9 @@ If Goblin dies, revive
 
 Fight Raphael.
 
-*   GUN with Hero and SWORD with Heroine.
-*   AUTO. Stop to heal if necessary.
-*   Watch out for Freeze and Paralysis.
+- GUN with Hero and SWORD with Heroine.
+- AUTO. Stop to heal if necessary.
+- Watch out for Freeze and Paralysis.
 
 ![ ](@/assets/images/smt1maps/3D/CATHEDRAL-5F.png)
 
@@ -776,16 +809,16 @@ Fight Raphael.
 
 In 7F there is another Soma`ソーマ` (18) you can get for safety. Fight Law Hero (D):
 
-*   AUTO
-*   Use Soma`ソーマ` to cure CHARM if needed.
-*   Kushinada-Hime dying is ok.
+- AUTO
+- Use Soma`ソーマ` to cure CHARM if needed.
+- Kushinada-Hime dying is ok.
 
 Fight Seraph Michael.
 
-*   AUTO until Bind
-*   Summon (`ナカマを よびだす`) Goblin `ゴブリン`
-*   Goblin uses Tarukaja `タルカジャ` until he runs out of MP
-*   AUTO
-*   Keep HP above 250 with Diarahan`ディアラハン` 
+- AUTO until Bind
+- Summon (`ナカマを よびだす`) Goblin `ゴブリン`
+- Goblin uses Tarukaja `タルカジャ` until he runs out of MP
+- AUTO
+- Keep HP above 250 with Diarahan`ディアラハン`
 
 Walk forward to finish the game

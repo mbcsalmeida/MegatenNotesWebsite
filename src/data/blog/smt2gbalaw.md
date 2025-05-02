@@ -7,13 +7,13 @@ featured: true
 draft: false
 tags:
   - smt2
-description:
-  Shin Megami Tensei II (GBA) - Law Glitchless notes. 
+description: Shin Megami Tensei II (GBA) - Law Glitchless notes.
 ---
 
 ## Table of Contents
 
 Set Settings as:
+
 - Text Speed - FAST
 - Battle Repeat - Mode 2
 - Animation - OFF
@@ -21,6 +21,7 @@ Set Settings as:
 Time starts on NEW GAME.
 
 ## Town
+
 ---
 
 Mash through text, reply Yes `はい` to Okamoto. Choose Training `トレーニング` to head into the VIRTUALGYM.
@@ -47,20 +48,21 @@ Head to the gym and save. Leave the town and walk to the Colosseum.
 
 ![Valhalla - World Map](@/assets/images/smt2maps/VALHALLA1.png) ![Colosseum](@/assets/images/smt2maps/COLOSSEUM1.png)
 
-![Colosseum](@/assets/images/smt2maps/COLOSSEUM2.png) 
+![Colosseum](@/assets/images/smt2maps/COLOSSEUM2.png)
 
 Take the stairs up and mash through the announcer's speech.
 
 Recruit Slave `スレイヴ`, Oracles `オラクルス` and/or Spartan `スパルタン`. You need at least two before fighting Red Bear.
 
-Pick up the Fritz Helm `フリッツヘルム` (1), Legger Slum `レッガースラム` (2), Guyser Armor `カイザーアーマー` (3). Now you can defeat encounters to level up to level 9 - assign point to SPD `すばやさ`. After that, on any hero level up, assing points to INT. Afterwards, pick up Slicer `スライサー` (5) and equip everything. 
+Pick up the Fritz Helm `フリッツヘルム` (1), Legger Slum `レッガースラム` (2), Guyser Armor `カイザーアーマー` (3). Now you can defeat encounters to level up to level 9 - assign point to SPD `すばやさ`. After that, on any hero level up, assing points to INT. Afterwards, pick up Slicer `スライサー` (5) and equip everything.
 
 Still grab the Gun (07) for extra money.
 
 At NEW MOON or HALF MOON enter the fight. Name Daleth.
 
 Fight Red Bear.
--  AUTO
+
+- AUTO
 
 ![HANEDABUILDING](@/assets/images/smt2maps/HANEDABUILDING.png)
 
@@ -83,6 +85,7 @@ Near the entrance to the bridge, recruit Fairy High Pixie `ヨウセイ ハイ�
 ![Slum City](@/assets/images/smt2maps/SLUMCITY-2.png)
 
 In the Slum City, fight Mercurius:
+
 - AUTO
 - Hero - INT (until 9 INT)
 
@@ -99,7 +102,9 @@ Unequip Hiroko's Sword, Gun and Bullets and enter the Mansion. If needed drop an
 Name the interesting hair guy (it's us).
 
 ---
+
 ## Holy Town
+
 ---
 
 ![Center](@/assets/images/smt2maps/CENTER-21.png) ![Center](@/assets/images/smt2maps/CENTER-20.png)
@@ -109,6 +114,7 @@ Save at terminal.
 Transfer to Valhalla.
 
 Head to the underground passaga and head to the Heretic Mansion:
+
 - Demonoid x Demonoid - Earthys
 - Cait Sith x High Pixie - Heqet
 
@@ -129,6 +135,7 @@ Unequip Gun and Bullets on Beth and equip the whip `さそりムチ`. Equip Beth
 Recruit Jack Frost. Defeat Basilisk whenever possible. If you get poisoned, it's preferrable (though more dangerous) to heal in Battle. Use a Dis-Poison or Heqet's Posumudi `ポスムディ` to heal Aleph and Beth because the poison status reduces attack power.
 
 If you have Jack Frost, summon it beforehand and use Rakukaja.
+
 - Sword, Sword, Tarukaja, Attack
 - If someone is low health, heal with Beth's Media
 - If Earthys dies, you can revive it afterwards with the Gold Pill
@@ -139,7 +146,7 @@ You can start escaping from encounters. If you're low on money (under 4k) then y
 
 ### King Frost
 
-Summon Jack Frost before the King Frost fight if you have it. 
+Summon Jack Frost before the King Frost fight if you have it.
 
 Formation: Messian, Hawk, (Jack Frost), Earthys, Heqet, -.
 
@@ -149,7 +156,9 @@ Formation: Messian, Hawk, (Jack Frost), Earthys, Heqet, -.
 Return Jack Frost and use Traport with Heqet. Heal at the Messiah if needed. Go talk to the sage in floor 21F. Leave again.
 
 ---
+
 ## Factory
+
 ---
 
 ![Way to the Factory](@/assets/images/smt2maps/PASSAGE-F.png) ![Center](@/assets/images/smt2maps/CENTER-2.png)
@@ -171,11 +180,12 @@ Traesto with Heqet.
 Go to church to bookmark the terminal. Go to the ranch.
 
 Demi-Nandi:
+
 - AUTO
 
 Head to the underground to make way to the Betelgeuse fight.
 
-Get Cu Sith before entering the E building. After you defeat Betelgeuse, the encounters change so you need to get it before. 
+Get Cu Sith before entering the E building. After you defeat Betelgeuse, the encounters change so you need to get it before.
 
 Enter on 7/8 Ascending - the Sapphire in B3F only appears on Full Moon. Resummon Jack Frost if you have it.
 
@@ -191,7 +201,9 @@ Fight Betelgeuse:
 If you still don't have the Sapphire, use Traestro, advance moon to Full Moon and grab it. Return Earthys and Jack Frost and Traport.
 
 ---
+
 ## Arcadia
+
 ---
 
 ![Center](@/assets/images/smt2maps/CENTER-21.png) ![Center](@/assets/images/smt2maps/CENTER-20.png)
@@ -209,7 +221,9 @@ Put code (9103).
 Head into the terminal to bookmark it. Leave and head to Gimel's house to talk to him.
 
 ---
+
 ## Valhalla Revenge
+
 ---
 
 ### Daleth
@@ -227,10 +241,11 @@ Traestro. Head to the Colosseum. If you still don't have a Sudama, get one outsi
 ![Colosseum](@/assets/images/smt2maps/COLOSSEUM-B.png)
 
 Summon Unicorn before the fight. Fight Daleth:
--   1 Formation: Aleph, Unicorn, Beth, Heqet, Earthys, -
--   First turn: Gun, Attack, Attack, Media, Tarukaja
--   Heal Aleph after the cutscene with any Beads or Healing items. If you don't have any, pray I guess.
--   Then Gun, Attack, Attack, Media, Tarukaja
+
+- 1 Formation: Aleph, Unicorn, Beth, Heqet, Earthys, -
+- First turn: Gun, Attack, Attack, Media, Tarukaja
+- Heal Aleph after the cutscene with any Beads or Healing items. If you don't have any, pray I guess.
+- Then Gun, Attack, Attack, Media, Tarukaja
 
 Say NO. Leave.
 
@@ -249,6 +264,7 @@ For this section, some of the fights can be dangerous. It's better to return a d
 Leave and head through the passage. Summon Earthys and Sudama. Try not to let Earthys die. If Sudama dies, keep it dead.
 
 Fight Daleth 2:
+
 - Formation: Hero, Unicorn, Sudama, Heqet, Earthys, -
 - First turn: Gun, Rakukaja, Rakukaja, Media, Tarukaja
 - AUTO
@@ -260,6 +276,7 @@ Heal at the Gaia. Put Codes (9192) -> (1213) -> (1834). Pay attention to MP cons
 If you're low on money due to having to revive demons then grab the treasure chest on the other side of the wall southern of the Gaia. If you get an Archangel and Angel encounter, always talk to the Angels, they are easier to send away. Both of them can kill you so always either talk or try to run away, they are the biggest run killers.
 
 Fight Janus.
+
 - AUTO
 
 Go back and heal at the Gaia again.
@@ -270,7 +287,8 @@ Leave.
 
 ![Daleth](@/assets/images/smt2maps/FACTORY-2.png) ![Zayn](@/assets/images/smt2maps/FACTORY-H.png)
 
-Fight Zayin. 
+Fight Zayin.
+
 - AUTO
 - Heal with Earthys Diarama if needed.
 
@@ -299,16 +317,19 @@ Enter through the west entrance of Holy Town. Recover at the Garage if needed. B
 Enter the Grand Church on 6/8 Ascending. If you're low on money grab the the other treasure chest (1) for 738 makka. Get Topaz. Head to 3F. Summon Cerberus and revive any dead demons before the fight.
 
 Fight Daleth 3:
+
 - Aleph - Defend, Cerberus - Fire Breath, Unicorn - Rakukaja, Earthys - Sukukaja, Heqet - Media, Hiroko - Media
 - Aleph - Sword, Cerberus - Attack, Unicorn - Attack, Earthys - Tarukaja, Heqet - Media, Hiroko - Media
 - AUTO
 
-Grab chest with Intelligence Incense (3F) and Magic Incense (2F).  Use them on Aleph. Then head to the underground.
+Grab chest with Intelligence Incense (3F) and Magic Incense (2F). Use them on Aleph. Then head to the underground.
 
 Samarecarm any dead demons. Return Cerberus and Earthys. Take the elevator to 1F then take the second to B60F.
 
 ---
+
 ## Underground - Further Down
+
 ---
 
 In this section, watch out for MP.
@@ -335,7 +356,7 @@ Talk to Obarion again. Leave through B3F.
 
 Watch out for your moon cycle (shouldn't enter before 3/8 moon ascending).
 
-Bookmark terminal. Save. 
+Bookmark terminal. Save.
 
 In Akasaka, buy Dolphin Helm (2500) and Tofuro Armor (5800) and sell the helmet and armor you had. Make sure to have at least 1000 macca!
 
@@ -346,11 +367,13 @@ Leave Akasaka.
 Enter Roppongi at 5/8 ascending, SAVE. Estoma and return Heqet and Unicorn. Grab Pearl in B1F and then go to B2F. Go to the casino.
 
 Exchange 1000 macca for 10 coins. Play Baccara:
+
 - Bet 1 coin at the Banker until you win.
 - Bet all the remaining coins in tie until you're left with just 0.95. If somehow you happen to win the Tie, do it again.
 - Try to bet your 0.95 coin in the Banker and the coins will underflow. Play a round and then leave.
 
 Exchange for items:
+
 - 7x Japanium Helm
 - 1x 5000 coin sword
 
@@ -361,31 +384,38 @@ Talk with Hiruko: YES -> NO -> YES. Traport to go back to Akasaka.
 ![ ](@/assets/images/smt2maps/FORMERAKASAKA-2.png)
 
 Go to Armor shop, unequip helm from Hiroko, then sell:
+
 - Multiple Japanium Helm
 
 Buy for Hero:
+
 - 5000 gloves
 - 7500 boots
 
 Buy for Hiroko:
+
 - Dolphin Helm for Hiroko
 - Akatsuki Armor for Hiroko
 - Akatsuki Gloves for Hiroko
 - Akatsuki Boots
 
 Go to Weapon store, buy for Hiroko:
+
 - Bottom bullets
 - M249ミニミ
 
 Summon Unicorn and Earthys. Traport back to Roppongi.
 
 ---
+
 ## Underground - Masakado Revival
+
 ---
 
-![Underground](@/assets/images/smt2maps/UNDERGROUND-6.png) 
+![Underground](@/assets/images/smt2maps/UNDERGROUND-6.png)
 
 Sarutahiko:
+
 - Sword, Media, Rakukaja, Tarukaja
 - Hero - 5 MAG, rest SPD
 - Heroine - INT
@@ -415,6 +445,7 @@ Enter Ouyamatsumi's Shrine and leave after you get him. Then leave and head east
 ![Okununishi Shrine](@/assets/images/smt2maps/SHRINE-3.png)
 
 Summon Earthys and Cerberus. Fight Baphomet.
+
 - Say no.
 - AUTO
 
@@ -446,7 +477,9 @@ Head to the cave to meet Hiruko and the newly revived Prince Masakado. Say NO to
 Stop by the altar to leave the first pillar. Go to Roppongi, traport and transfer to Holy Town.
 
 ---
+
 ## Pillars
+
 ---
 
 ### Siren and Petersen
@@ -482,6 +515,7 @@ You should be low on MAG at this point so cast estoma and return the demons. Go 
 Summon Undyne and Earthys before the fight.
 
 Fight Belphegor.
+
 - Formation: Hawk, Undyne, Hiroko, Earthys.
 - First turn: Sword, Mediarama, Gun, Tarukaja
 - AUTO
@@ -518,6 +552,7 @@ Head into the Center.
 Put the code in [5261]. Put the code in [2784]. Say NO -> YES -> NO to YHVH. Return Heqet and Unicorn and summon Freya and Cerberus.
 
 Fight Raphael and Uriel.
+
 - Formation: Hawk, Cerberus, Freya, Hiroko, Earthys, -, -
 - First turn: Sword - Raphael, Attack - Raphael, Mediarama, Defend, Tarukaja
 - If Hiroko dies, use Samarecarm with Cerberus and Mediarama with Freya.
@@ -526,12 +561,14 @@ Fight Raphael and Uriel.
 - Hiroko points into VIT
 
 Fight Michael.
+
 - AUTO
 
 Fight FAKE YHVH.
+
 - AUTO
 
-Return Freya and Cerberus and summon Heqet. 
+Return Freya and Cerberus and summon Heqet.
 
 ### Head Pillar
 
@@ -550,7 +587,9 @@ Talk to the dude, get the last pillar. Now put all of them in the altars so the 
 ![Underground](@/assets/images/smt2maps/UNDERGROUND-15.png) ![Makai](@/assets/images/smt2maps/MAKAI-2.png)
 
 ---
+
 ## Makai
+
 ---
 
 ### Diamat
@@ -570,6 +609,7 @@ Take the HOD exit.
 ![Makai](@/assets/images/smt2maps/MAKAI-3.png) ![Hod](@/assets/images/smt2maps/HOD.png)
 
 Fight Diamat.
+
 - AUTO
 
 ### Master Terion
@@ -579,6 +619,7 @@ Traport. Go back through Yeshira and take the Netzach exit.
 ![Makai](@/assets/images/smt2maps/MAKAI-4.png) ![Netzach](@/assets/images/smt2maps/NEXAQ.png)
 
 Enter at 6/8 ascending. Fight Master Terion.
+
 - AUTO
 
 Traesto and go to Junks nad buy 11x Hinrayas.
@@ -598,6 +639,7 @@ Watch the event. Go up to the ranch to talk to Zain (Say YES). Then head into th
 Enter the Seto Temple to watch the ressurection. Then head to Beria corridor.
 
 Fight Astoroch
+
 - AUTO
 
 Heal up any ailments. Head into Beria corridor.
@@ -613,6 +655,7 @@ Estoma. Say NO to Mekata. Leave again.
 ![Abaddon](@/assets/images/smt2maps/ABADON4.png) ![Abaddon](@/assets/images/smt2maps/ABADON5.png)
 
 Fight Abadon.
+
 - Formation: Hawk, Naragiri, -, Hiroko, Freya, -
 - First turn: Sword, Rakunda, -, Media, Tarukaja
 - AUTO
@@ -646,9 +689,10 @@ Get Satan. Traport.
 
 ![GEBURRAH](@/assets/images/smt2maps/GEBURRAH.png)
 
-Heal up at the Kaifuku. 
+Heal up at the Kaifuku.
 
-Get items: 
+Get items:
+
 - Revival Item `はんごんこう`x2
 - Rosary `ロザリオ`x5
 - Angel Hair `エンゼルヘアー`x20^ - spend basically the rest of your money.
@@ -656,6 +700,7 @@ Get items:
 Summon Satan with Sabatoma `サマドン`.
 
 Fight Twelve War Gods
+
 - Formation: Hawk, Naragiri, Satan, Hiroko, Freya, -
 - First turn: Sword, Rakunda, [Extra] Death Bound, Diarahan - Satan, Tarukaja
 - AUTO
@@ -668,6 +713,7 @@ Head to Mara Tower.
 ![Mara Tower](@/assets/images/smt2maps/MARA.png)
 
 Fight Mara
+
 - First turn: Sword, Rakunda, Death Bound, Diarahan, Tarukaja
 - If Aleph gets paralyzid, heal with Hiroko's Paraldi
 - AUTO
@@ -675,6 +721,7 @@ Fight Mara
 Finally head to Lucifer
 
 ---
+
 ## Kether Castel
 
 ![Makai](@/assets/images/smt2maps/MAKAI-7.png)
@@ -690,18 +737,20 @@ If you want to save before this section, summon Heqet and traport to save in Geb
 Summon Earthys before the fight and heal up.
 
 Fight Lucifer.
+
 - Formation: Hawk, Naragiri, Satan, Hiroko, Freya, Earthys
 - Sword, Rakunda (4x) -> Attack, Death Bound, Tarukaja -> Defend, Diarahan - Satan, Tarukaja
 - After all spells are cast, AUTO
--  If anybody gets Charmed, heal with the Angel Hairs - especially important if Aleph is the one that's charmed
+- If anybody gets Charmed, heal with the Angel Hairs - especially important if Aleph is the one that's charmed
 - If everybody who can use Angel Hairs are charmed, Escape (this will waste a turn)
 - If anybody dies, samarecarm. Except for Earthys, feel free to let it die
 
 Re-summon demons and heal up.
 
 Fight YHVH.
+
 - Formation: Hawk, Naragiri, Satan, Hiroko, Freya, Earthys (Zombie)
 - First turn: Sword, Rakunda, Death Bound, Necroma Earthys to the blank party spot, Diarahan - Satan
 - Typical turn: Sword, Rakunda, Death Bound, Sukukaja, Diarahan - Satan, Tarukaja and then AUTO
-- If the party is getting low health, use an Angel Hair with Aleph and heal Freya with Diarahan. 
+- If the party is getting low health, use an Angel Hair with Aleph and heal Freya with Diarahan.
 - Try not to let Freya die because YHVH sucks and loves using Dekaja and Dekunda.

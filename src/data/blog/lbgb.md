@@ -8,14 +8,13 @@ featured: false
 draft: false
 tags:
   - last-bible
-description:
-  Megami Tensei Gaiden - Last Bible (GB) Any% notes.
+description: Megami Tensei Gaiden - Last Bible (GB) Any% notes.
 ---
 
 ## Table of Contents
 
-
 ## Moila
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP1.png) ![Town of Moila](@/assets/images/lbmaps/MOIRA.png)
@@ -30,23 +29,25 @@ Auto all single enemies and recover HP with Mana Nutsマナのたね. If you die
 
 Head to the armour shop (D).
 
-*   Sellうる - Leather Mail `かわのふく`
-*   Buy かう - Copper Armor `かぱーアーム` and Copper Shield `どうのたて`
-*   Equip on Hero `そうび` - Tite Sword `タイートソード`, Copper Armor `かぱーアーム` and Copper Shield `どうのたて`
+- Sellうる - Leather Mail `かわのふく`
+- Buy かう - Copper Armor `かぱーアーム` and Copper Shield `どうのたて`
+- Equip on Hero `そうび` - Tite Sword `タイートソード`, Copper Armor `かぱーアーム` and Copper Shield `どうのたて`
 
 ---
+
 ## Arrow Town
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP1.png) ![Oasis](@/assets/images/lbmaps/OASIS.png)
 
 Now you're ready to precede with the adventure. Skip stopping by Remlia (2) (possibly stop for safety) and head to the Oasis (4). On the way there get:
 
-*   Sasori `タムズ` (Type 1) (Race B)
-*   Kobold `コバルト`(Type 1) (Race A)
-*   Kimalis `キマリス` (Type 1) (Race B)
-*   Tanki `タンキ`(Type 4) (Race D)
-*   Harpy `ハーピー` (Type 4) (Race E)
+- Sasori `タムズ` (Type 1) (Race B)
+- Kobold `コバルト`(Type 1) (Race A)
+- Kimalis `キマリス` (Type 1) (Race B)
+- Tanki `タンキ`(Type 4) (Race D)
+- Harpy `ハーピー` (Type 4) (Race E)
 
 If you only have 3 demons, that's okay. Get the Lete Water (01) and death warp if you get an encounter. If you don't, leave, summon all your demons, heal and try to get more demons. Defeat some enemies on the way to get more experience and money.
 
@@ -56,8 +57,8 @@ This strat - not deathwarpping - is riskier as some of your demons might die on 
 
 Head to Arrow Town (3) to fight Jabba `ジャッバ` (01).
 
-*   Summon all demons before the fight.
-*   Use any magic spell with demons + Blaze 1 `アギラ`.
+- Summon all demons before the fight.
+- Use any magic spell with demons + Blaze 1 `アギラ`.
 
 Enter the town and talk to the doctor (01) to get the medicine. Leave.
 
@@ -68,28 +69,30 @@ Head back to Remlia (2) and rescue Partner (F). Head to the general store (D) an
 Head inside the temple (G) and head to the Orb room (last room walking north). Talk to the sage on the left.
 
 ---
+
 ## Mt. Palo
+
 ---
 
 ![World Map (Grind in Red Tiles)](@/assets/images/lbmaps/WMAP2.png) ![Mt. Palo](@/assets/images/lbmaps/MTPALO.png)
 
 Head outside and grind to level 9 with Hero. If some of your demons died and you need some more:
 
-*   Gayle (Type 5)
+- Gayle (Type 5)
 
 Then head to Mt. Palo (5). Talk to the man on the stairs, who now should let you through.
 
 Recruit:
 
-*   Mammoth `ハンババ` (Type 2) (Race F)
-*   Blue `ストーンカ` (Type 3) (Race C)
-*   Larun `ラルン`(Type 4) (Race D)
+- Mammoth `ハンババ` (Type 2) (Race F)
+- Blue `ストーンカ` (Type 3) (Race C)
+- Larun `ラルン`(Type 4) (Race D)
 
 Get at least two of those demons and summon any others who are full health.
 
 Fight Devil `バンパイア`:
 
-*   AUTO
+- AUTO
 
 Use Silph Wing `シルフのはね` to exit the area and head to Remlia (5).
 
@@ -97,18 +100,20 @@ Head inside the temple in Remlia (G) and talk to the sage on the right. Receive 
 
 You're going to need at least 4 demons who have HP lower than 35 for the Zord Cave Zord Gamble (great name, I know). If you don't have enough already, recruit some others like:
 
-*   Heqet (Type 3)
-*   Spider (Type 5)
-*   Baku (Type 1)
-*   Blob (Type 2)
-*   Laluhn (Type 3)
+- Heqet (Type 3)
+- Spider (Type 5)
+- Baku (Type 1)
+- Blob (Type 2)
+- Laluhn (Type 3)
 
 All of these are pretty weak and have low health.
 
 Leave and head through the cave (Ut next to Mt. Palo).
 
 ---
+
 ## Meruha
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP3.png) ![Town of Meruha](@/assets/images/lbmaps/MERUHA1.png)
@@ -129,8 +134,8 @@ Head to Meruha (8) and sell all armour (C). Buy as many Pana `パナ` as possibl
 
 Point Assignments:
 
-*   El - Points into SPD until level 14, Points into Endurance after
-*   Kishe - Points into SPD until level 13, Points into Endurance after
+- El - Points into SPD until level 14, Points into Endurance after
+- Kishe - Points into SPD until level 13, Points into Endurance after
 
 The grind will take some time. As you level up, you will be able to recruit different demons so make sure to get them. Try to defeat as many Zords as possible and escape from other encounters to save on Mudo. Recover MP with Pana `パナ` whenever necessary.
 
@@ -138,13 +143,15 @@ When you run out of MP, go back to Meruha and heal up/buy more Pana `パナ`.
 
 Recruit:
 
-*   Banshee ( Type 4) - Outside
-*   (NEED TO BE AT LEVEL 15) Alcheny `アルケニー` (Type 2) (Race F) - In Zord's Cave
+- Banshee ( Type 4) - Outside
+- (NEED TO BE AT LEVEL 15) Alcheny `アルケニー` (Type 2) (Race F) - In Zord's Cave
 
 Enter Shrine of Hypnos (10) to transfer to a different part of the map.
 
 ---
+
 ## Tower of Magan
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP4.png) ![Town of Jalawan](@/assets/images/lbmaps/JALAWAN1.png)
@@ -157,18 +164,18 @@ Head southeast to Town of Ramuh (12). Enter the General Store (F) and buy x Pana
 
 Recruit at least 2 of these:
 
-*   Atlas `アトラス` (Type 1) (Race A)
-*   Ix Owl `イクスオウル` (Type 5)
-*   Gozuki `ゴズキ`(Type 1) (Race A)
-*   Mezuki `メズキ` (Type 4) (Race D)
+- Atlas `アトラス` (Type 1) (Race A)
+- Ix Owl `イクスオウル` (Type 5)
+- Gozuki `ゴズキ`(Type 1) (Race A)
+- Mezuki `メズキ` (Type 4) (Race D)
 
 Head into Tower of Magan (13). Grab the top chest with Drgn Bone 1 `りゅうのほね1` on Floor 2. Equip Spirit Sword `スピリトソード` on Hero and Cross Sword `クロスソード` on Partner and summon all demons.
 
 Fight Minotaur `ミノタウロス`.
 
-*   Formation: (Atlas, Ix Owl, Banshee, Arachne, El, Kishe)
-*   Heal El and Kishe to full health using Banshee's Diarama.
-*   AUTO
+- Formation: (Atlas, Ix Owl, Banshee, Arachne, El, Kishe)
+- Heal El and Kishe to full health using Banshee's Diarama.
+- AUTO
 
 Talk to the people and use a Silph Wing `シルフのはね` to leave.
 
@@ -177,7 +184,9 @@ Talk to the people and use a Silph Wing `シルフのはね` to leave.
 Back in Ramuh (12), heal (C) if any demons died and head inside the shrine (A) and talk to the Sage (01) to receive Sol Ring `ソルのゆびわ` with Hero. Leave the city through the back exit (B).
 
 ---
+
 ## Zord Cave
+
 ---
 
 ![Town of Harappa](@/assets/images/lbmaps/HARAPPA.png) ![Zord Cave](@/assets/images/lbmaps/ZORDCAVE2.png)
@@ -185,7 +194,9 @@ Back in Ramuh (12), heal (C) if any demons died and head inside the shrine (A) a
 Tranpa `トランパ` to Harappa (7) and receive the Black Key `くろのかぎ` from the Duck. Head back to the Zord Cave (9) and preceed inside. Pick up Kirin Bone 3 `キリンのほね3` from Chest (01). Safety save, yet AUTO all fights. Leave and return to Harappa to get Uranus.
 
 ---
+
 ## Tilmin
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP4.png) ![Town of Tilmun](@/assets/images/lbmaps/TILMIN1.png)
@@ -204,9 +215,9 @@ In the cave, pick up a Kirin Bone 1 `キリンのほね1` (01). Equip all items 
 
 Fight Orthrus `オルトロス`.
 
-*   AUTO
-*   Don't let Crow `ヤタガラス` die.
-*   If Crow does die, revive with recarm.
+- AUTO
+- Don't let Crow `ヤタガラス` die.
+- If Crow does die, revive with recarm.
 
 Receive the attack fire staff `ボアズ` and talk to Orthrus so he joins you.
 
@@ -220,11 +231,13 @@ Talk to Zodia and safety save for fight. Summon Orthrus `オルトロス`.
 
 Fight Morgan `モルガン`.
 
-*   First turn: Buff
-*   Second turn: AUTO
+- First turn: Buff
+- Second turn: AUTO
 
 ---
+
 ## Atlantis
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP5.PNG)
@@ -245,15 +258,17 @@ Enter the shrine (B) and talk to the to top guy in the circle. Step outside and 
 
 Fight gatekeepers.
 
-*   Fight Bones: Holy `ランカ` with Orthrus, Holy `ランカ` with Cerberus and Mudo `ムド` with Partner.
-*   Fight Bones and Tiphon: Holy `ランカ` with Orthrus, Holy `ランカ` with Cerberus, Attack with Hero, Attack with Uranus and Mudo `ムド` with Partner.
+- Fight Bones: Holy `ランカ` with Orthrus, Holy `ランカ` with Cerberus and Mudo `ムド` with Partner.
+- Fight Bones and Tiphon: Holy `ランカ` with Orthrus, Holy `ランカ` with Cerberus, Attack with Hero, Attack with Uranus and Mudo `ムド` with Partner.
 
 ![Sewers of Atlantis](@/assets/images/lbmaps/ATLANTIS3.PNG) ![Sewers of Atlantis](@/assets/images/lbmaps/ATLANTIS4.png)
 
 Enter the sewers, the door behind the two guardians, and head left for the exit (K). Take the stairs and talk to the guy (01). Tell him "No" `いいえ` and give the item to Uranus. Head down and right to leave the building (B) and leave Atlantis.
 
 ---
+
 ## Zodia
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP4.png) ![Mt. of Sages](@/assets/images/lbmaps/SAGEMOUNTAIN2.png)
@@ -274,16 +289,18 @@ Again, defeat any Zords with Mudo `ムド` to level up - but only Zords, as they
 
 Fight Zodia `ゾディア`.
 
-*   Dragon: Attack, Cerberus: Ranka, Orthrus: Ranka, Hero: Attack, Uranus: Fire Staff, Partner: Buff/Attack
-*   If any of the demons die, summon Kirin.
+- Dragon: Attack, Cerberus: Ranka, Orthrus: Ranka, Hero: Attack, Uranus: Fire Staff, Partner: Buff/Attack
+- If any of the demons die, summon Kirin.
 
 Right away you'll have to fight Mephist `メフィスト`.
 
-*   Dragon: Attack, Cerberus: Ranka, Orthrus: Ranka, Hero: Attack, Uranus: Fire Staff, Partner: Buff/Attack
-*   If any of the demons die, summon Kirin.
+- Dragon: Attack, Cerberus: Ranka, Orthrus: Ranka, Hero: Attack, Uranus: Fire Staff, Partner: Buff/Attack
+- If any of the demons die, summon Kirin.
 
 ---
+
 ## Preparations
+
 ---
 
 ![Town of Crotona](@/assets/images/lbmaps/CROTONA2.png) ![Town of Atlantis](@/assets/images/lbmaps/ATLANTIS6.png)
@@ -313,7 +330,9 @@ Head northeast to an island with a lake and head inside. Talk to the Sage, Micha
 Make sure to summon every demon and equip items to Hero.
 
 ---
+
 ## Luciferium
+
 ---
 
 ![World Map](@/assets/images/lbmaps/WMAP11.png)
@@ -322,8 +341,8 @@ Head northwest to a desert area and walk into the Petrography (36). Your arc wil
 
 Fight Belial `ベリアル`.
 
-*   AUTO
-*   Stop auto and heal if needed.
+- AUTO
+- Stop auto and heal if needed.
 
 ![Terra](@/assets/images/lbmaps/LUCIFER.png) ![Cave](@/assets/images/lbmaps/LASTCAVE.png)
 
@@ -337,13 +356,13 @@ Defeat enemy pairs to level up. Be at least level 28 before the Baal fight. Safe
 
 Fight Baal `バアール`.
 
-*   AUTO. Be careful of Hero, Partner and especially Uranus die
+- AUTO. Be careful of Hero, Partner and especially Uranus die
 
 Heal up and recover all MP before fighting Lucifer.
 
 Fight Lucifer `ルシファー`.
 
-*   Dragon - Agidyne `アギダイン`, Kirin - Bufudyne `ブフダイン`, Soloin - Stardust `スターダスト`, Hero - Stardust `スターダスト`, Uranus - Attack, Partner - Attack
-*   Use Uranus and Partner to recover others' MP with MP Items.
+- Dragon - Agidyne `アギダイン`, Kirin - Bufudyne `ブフダイン`, Soloin - Stardust `スターダスト`, Hero - Stardust `スターダスト`, Uranus - Attack, Partner - Attack
+- Use Uranus and Partner to recover others' MP with MP Items.
 
 The credits will play afterwards.

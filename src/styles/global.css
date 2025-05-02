@@ -13,7 +13,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --background: rgba(26, 26, 26, 0.95); 
+  --background: rgba(26, 26, 26, 0.95);
   --foreground: #eaedf3;
   --accent: rgb(0, 102, 102);
   --muted: #343f60bf;

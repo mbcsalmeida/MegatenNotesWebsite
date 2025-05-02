@@ -8,26 +8,28 @@ featured: false
 draft: false
 tags:
   - devil-children
-description:
-  Devil Children - Book of Fire Any% notes. Completes the Bad Ending.
+description: Devil Children - Book of Fire Any% notes. Completes the Bad Ending.
 ---
 
 ## Table of Contents
 
 Names of the demons are in english but the game is in japanese.
 
-You get estoma pretty early on. It's implied that you should keep estoma up at all times except when grinding. 
+You get estoma pretty early on. It's implied that you should keep estoma up at all times except when grinding.
 
 When you're hunting for a specific demon to recruit, it can be faster to just save and soft reset until you get the encounter you want. Most of the times, it takes 3 attempts until you can successfully run away and you'll want to be conservative with Smoke Bomb usage so they last you until the last dungeons, where they are specifically important.
 
 ---
+
 ## Angel Tower
+
 ---
 
 Pick up items in the room and living room. Set options.
 
 Go outside and fight the tutorial fight.
--  Special attack with Rand, Normal attack (middle)
+
+- Special attack with Rand, Normal attack (middle)
 
 RECRUIT: Pixie, Sheep
 
@@ -44,10 +46,13 @@ RECRUIT: Windfrag, Lava Rat, extras to fuse into Rand
 Go up the right stairs first, press the button.
 
 Fight the chicken guy at the top:
+
 - Special with Rand, heal with dia with others.
 
 ---
+
 ## Lakshmi
+
 ---
 
 Leave the time portal. Loot house for stone and the cemetery and hotel for seeds.
@@ -60,28 +65,30 @@ Grind to level 7. In the meantime, grab the hidden demon. Password: ハートの
 
 Fusions:
 
-*   windfrag x pixie = krane (sukukaja, dia)
-*   sheep x chefrot = garumu (rakunda, zio)
-*   garumu x lava rat = imp (agi, rakunda)
-*   krane x mizuchi = set (estoma, media, zionga)
-*   imp x set = angel(12) zionga and estoma and agi
-*   fuse rest into rand
+- windfrag x pixie = krane (sukukaja, dia)
+- sheep x chefrot = garumu (rakunda, zio)
+- garumu x lava rat = imp (agi, rakunda)
+- krane x mizuchi = set (estoma, media, zionga)
+- imp x set = angel(12) zionga and estoma and agi
+- fuse rest into rand
 
 Fight Lakshmi:
 
-*   Special with Rand, Zionga with Angel
-*   Leave some MP for healing, switch to normal attack with Angel
+- Special with Rand, Zionga with Angel
+- Leave some MP for healing, switch to normal attack with Angel
 
 ---
+
 ## Kioyhime
+
 ---
 
 Go to the shop, buy 4x Angel Wings.
 
 Go to the Virtual Battler. Talk to the quiz master. Solutions:
 
-*   3, 1, 2, 3, 3, 2, 1, 3, 2, 3
-*   1, 1, 2, 3, 1, 3, 2, 1, 2, 1
+- 3, 1, 2, 3, 3, 2, 1, 3, 2, 3
+- 1, 1, 2, 3, 1, 3, 2, 1, 2, 1
 
 Leave north to go to Lucifer's castle. Head in, get money chest on the left and then talk to Lucifer. Head outside and use an Angel Wing to go back to Central Land. Go south.
 
@@ -95,9 +102,9 @@ RECRUIT: Cyak, Nuadha, anyone else to be fused into Rand (NOT MIDIL, THEY'LL KIL
 
 Fusions:
 
-*   cyak x nozuchi = watch rabbit (has tetrakarn)
-*   angel x nuwaza = domovoi (estoma, zionga, media)
-*   fuse rest into rand
+- cyak x nozuchi = watch rabbit (has tetrakarn)
+- angel x nuwaza = domovoi (estoma, zionga, media)
+- fuse rest into rand
 
 Go back to the dungeon. On the last section, recruit Ludra. Grab chests while you're looking for it.
 
@@ -105,7 +112,7 @@ Set party formation: _Rand, Domovoi, Deli_
 
 Fight Kiyohime:
 
-*   Heal, Magnuses/Special, Special
+- Heal, Magnuses/Special, Special
 
 Grab the one chest to the right on the next floor. Go into the time gate.
 
@@ -113,10 +120,12 @@ Set party formation: _Rand, Domovoi, Ludra_
 
 Put the Watch Rabbit behind Domovoi and Deli behind Ludra.
 
-*   Special, Media, Special
+- Special, Media, Special
 
 ---
+
 ## Enoch
+
 ---
 
 Go to the house, grab speed seed. Go to the healer, grab the stone. Then leave through the south.
@@ -125,14 +134,14 @@ Set party formation: _Rand, Domovoi, Deli_
 
 Fight Remiel:
 
-*   Special, Media, Special
+- Special, Media, Special
 
 Walk into the next town,go to house right to the fusion mansion, get blood stone and attack seed.
 
 Fusions:
 
-*   usui, ikiteiru, tsubasa = mokoshi (19)
-*   tsubasa, vampire, uzumaku = vacha(24)
+- usui, ikiteiru, tsubasa = mokoshi (19)
+- tsubasa, vampire, uzumaku = vacha(24)
 
 Get Attack seed in Healer, use Attack Seeds on Rand.
 
@@ -150,9 +159,9 @@ Go to store and buy a revival bead if you can afford one.
 
 Fusions:
 
-*   koakuma x deli = kintarou(17)
-*   mokoshi x ovinniku (cat) = skeleton (media, agi)
-*   fuse ludra, midil and rabit watch into rand
+- koakuma x deli = kintarou(17)
+- mokoshi x ovinniku (cat) = skeleton (media, agi)
+- fuse ludra, midil and rabit watch into rand
 
 Set party formation: _Rand, Duron, Skeleton_
 
@@ -162,32 +171,34 @@ Continue heading north.
 
 Fight Melchizedek:
 
-*   Special/Heal, Special(1st), Agi
+- Special/Heal, Special(1st), Agi
 
 Fight Sandalphon:
 
-*   Use an attack card
-*   Special/Heal, Special(1st), Special/Heal
+- Use an attack card
+- Special/Heal, Special(1st), Special/Heal
 
 Fight Enoch:
 
-*   Use an attack card
-*   Special/Heal, Special(1st), Special/Heal
+- Use an attack card
+- Special/Heal, Special(1st), Special/Heal
 
 ---
+
 ## Baphomet
+
 ---
 
 Get through the time portal and walk all the way south back to the home world. Pick up items at the store and hotel.
 
 Fuse:
 
-*   domovoi x kintarou = orthrus (21) (estoma, media, zionga)
+- domovoi x kintarou = orthrus (21) (estoma, media, zionga)
 
 Set party formation: _Rand, Duron, Orthrus_
 
-*   Use an attack card.
-*   Special/Media, special, zionga
+- Use an attack card.
+- Special/Media, special, zionga
 
 In the time rift, go to the door with Paku.
 
@@ -197,15 +208,15 @@ RECRUIT: munin (bird), cybele (fox rider), sakatanokintoki (samurai guy)
 
 Fusions:
 
-*   vacha x skeleton = jikoukuten(media)
-*   munin x orthrus = duergar (estoma, media)
+- vacha x skeleton = jikoukuten(media)
+- munin x orthrus = duergar (estoma, media)
 
 Set party formation: _rand, duergar, jikoukuten_
 
 Fight Shokurou:
 
-*   Use a magic card
-*   mahama, chakra drop-rand, makakaja/zanma/media
+- Use a magic card
+- mahama, chakra drop-rand, makakaja/zanma/media
 
 Go to the next town, talk to the blond girl near the entrance and then talk to the girl on the other end and go to the lake.
 
@@ -213,8 +224,8 @@ Set party formation: _rand, duergar, cybele_
 
 Bune fight:
 
-*   Use an attack card
-*   tarukaja/media, special, attack
+- Use an attack card
+- tarukaja/media, special, attack
 
 Use an Angel Wing back to the village. Give the girl that was stopping you from progressing the thing she wanted.
 
@@ -224,9 +235,9 @@ Set party formation: _rand, duron, jikoukuten_
 
 Fight Iblis:
 
-*   use a magic card
-*   tarukaja, special, makakaja
-*   media, special, zanma
+- use a magic card
+- tarukaja, special, makakaja
+- media, special, zanma
 
 Go talk to the helpful girl and then grind on the bridge til level 25 with rand, duron and jikoukuten (special, special, media)
 
@@ -238,19 +249,21 @@ Go through the bridge.
 
 Baphomet fight:
 
-*   use magic card
-*   media, zionga, zionga
-*   stop auto to defend on the charmed guys, mahama and mediarama when needed
+- use magic card
+- media, zionga, zionga
+- stop auto to defend on the charmed guys, mahama and mediarama when needed
 
 ---
+
 ## Grind
+
 ---
 
 Fusions:
 
-*   duergar x jikoukuten = shiisa(estoma, media, traport)
-*   cybele x aguni = dominion (media)
-*   dominion x sakata no kintoki = poseidon (media)
+- duergar x jikoukuten = shiisa(estoma, media, traport)
+- cybele x aguni = dominion (media)
+- dominion x sakata no kintoki = poseidon (media)
 
 Buy partner skill for Rand then heal and buy as many revival items as you can afford. Then go meet the god guy at the palace.
 
@@ -262,7 +275,7 @@ Set party formation: _rand, paku, poseidon_
 
 Fight Lucifuge:
 
-*   Special(costs 30HP), Mediarama, Special
+- Special(costs 30HP), Mediarama, Special
 
 Walk through the dungeon, defend with rand when running away or else they'll wipe.
 
@@ -270,14 +283,14 @@ Set party formation: _rand, paku, shiisa_
 
 Fight Mephisto:
 
-*   Use Magic Card.
-*   Special(30HP), Mediarama, Special
+- Use Magic Card.
+- Special(30HP), Mediarama, Special
 
 Fight Ice Apostole:
 
-*   Use Magic Card.
-*   Special(30HP), Mediarama, Diarama - Rand
-*   Get lucky
+- Use Magic Card.
+- Special(30HP), Mediarama, Diarama - Rand
+- Get lucky
 
 Watch Rand evolve and traport/angel wing to the castle town.
 
@@ -293,7 +306,7 @@ Use the light seal to unlock the last door and head inside.
 
 Fight God Guy:
 
-*   Attack/Magic Card (whichever you have left)
-*   Special, Mediarama, Special
+- Attack/Magic Card (whichever you have left)
+- Special, Mediarama, Special
 
 Talk and choose the **SECOND OPTION**. It automatically defaults to the first one so be careful. There you go, now you're the god. GGs

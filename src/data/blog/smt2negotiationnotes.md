@@ -8,34 +8,36 @@ featured: false
 draft: true
 tags:
   - smt2
-description:
-  Shin Megami Tensei II Negotiation Notes for GBA and non-manipped runs.
+description: Shin Megami Tensei II Negotiation Notes for GBA and non-manipped runs.
 ---
 
 Demonoids (Slave, Red Bear, Oracles):
-- 一緒に死ぬ
-    1. NO
-- 気まずくなる。どうしますか
-    1. なだめる
-- ざけんなぁよ
-    1. 謝る (Hopefully goes into negotiations)
 
+- 一緒に死ぬ
+  1. NO
+- 気まずくなる。どうしますか
+  1. なだめる
+- ざけんなぁよ
+
+  1. 謝る (Hopefully goes into negotiations)
 
 - ひんそうなつらしてやがるぜ
-    1. なだめる
+  1. なだめる
 - ムカついてんのがわかるか
-    1. YES (Hopefully goes into negotiations)
-
+  1. YES (Hopefully goes into negotiations)
 
 ---
 
 High Pixie:
+
 - アタシのお願い聞いてくれる？
-    1. YES (Goes into negotiations)
-    2. If she runs, 追いかける -> なだめる
+
+  1. YES (Goes into negotiations)
+  2. If she runs, 追いかける -> なだめる
 
 - 私の奴隷におなり！
-    1. YES, risk of charm but if you say NO she'll run
+
+  1. YES, risk of charm but if you say NO she'll run
 
 - そんなにみつめちゃ。。。イヤ♥
-    1. 目をそらす, usually not a good option but the other one sends her away
+  1. 目をそらす, usually not a good option but the other one sends her away

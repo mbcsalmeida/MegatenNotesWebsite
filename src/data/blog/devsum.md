@@ -8,8 +8,7 @@ featured: false
 draft: false
 tags:
   - devil-summoner
-description:
-  Devil Summoner Any% notes that dont use manip. These notes are outdated.
+description: Devil Summoner Any% notes that dont use manip. These notes are outdated.
 ---
 
 ## Table of Contents
@@ -26,9 +25,10 @@ There's some maps included in these notes but only some of them have guiding lin
 
 With this in mind, if you still want to run this game, enjoy the notes below.
 
-
 ---
+
 ## First Death and Library
+
 ---
 
 Name your character and your address. Leave the house and go to the Afro Tea House to meet Kumiko. Head to the library, talk to her then leave and hand your library card.
@@ -47,8 +47,8 @@ Walk to Sid Davis. Die and revive as Kyouji.
 
 Go to the fortune teller to get money. Go to the weapon shop:
 
-*   Buy: **5K sword**
-*   Sell: `ランドールナイフ、ジャンビーヤ、レディ・スミス` (Likely **1st,2nd,4th** in menu)
+- Buy: **5K sword**
+- Sell: `ランドールナイフ、ジャンビーヤ、レディ・スミス` (Likely **1st,2nd,4th** in menu)
 
 Go to the medicine store and buy 3x **Medicines (1st)** and 1x **Dis-Paralyze (3rd)**
 
@@ -64,15 +64,17 @@ Leave and mall and head to the library.
 
 Use an estoma item and walk to the boss.
 
-*   **Sword** then auto
-*   Stop auto and heal with medicines whenever needed.
+- **Sword** then auto
+- Stop auto and heal with medicines whenever needed.
 
 Walk back to the mall and head to the fortune teller to get the money. Then walk to the office to get Rei.
 
 Walk to the mountains and choose Gabriel as Rei's chosen demon (second option **to the rigth**)
 
 ---
+
 ## University
+
 ---
 
 Go to Azuma's house. Set party formation as: _MC,-,-,Rei,-,-_
@@ -85,17 +87,17 @@ You might still get encounters on the way to the boss, you can either try to run
 
 Boss fight:
 
-*   First turn: Defend, Rakukaja
-*   Second: Defend, Dia on MC
-*   AUTO
+- First turn: Defend, Rakukaja
+- Second: Defend, Dia on MC
+- AUTO
 
 Say YES to the mission. Go back to the arcade and go to the gun store:
 
-*   Sell all the weapons.
-*   Buy: 2x **ドラグノフ(4th) and 25x bullets (Last)**
-*   Auto-equip on MC
-*   Buy: 25x bullets (last) again
-*   Auto-equip on Rei
+- Sell all the weapons.
+- Buy: 2x **ドラグノフ(4th) and 25x bullets (Last)**
+- Auto-equip on MC
+- Buy: 25x bullets (last) again
+- Auto-equip on Rei
 
 Go to medicine store, buy 3x **Dis-poisons (4th)**
 
@@ -113,8 +115,8 @@ Go to status, set the auto preset as gun. Use an estoma item. Auto enemies on th
 
 Put points into:
 
-*   MC: **SPD「速」** until **17** then **STR 「力」** until 13, then **SPD「速」**
-*   Rei: **STR 「力」** until **5**, then **SPD「速」**
+- MC: **SPD「速」** until **17** then **STR 「力」** until 13, then **SPD「速」**
+- Rei: **STR 「力」** until **5**, then **SPD「速」**
 
 ![UNIVERSITY 2](@/assets/images/devsummaps/UNIVERSITY2.png)
 
@@ -124,21 +126,23 @@ Unequip all the armor.
 
 Fight Sid Davis:
 
-*   Move pixie one slot to the right and use the Makarakarn item with MC -> auto
+- Move pixie one slot to the right and use the Makarakarn item with MC -> auto
 
 Fight Shiki Ouji:
 
-*   Move pixie one slot to the left, use the Tetrakarn item with MC and Gun with Rei -> auto
-*   Stop auto and use the Dis-Paralyze if needed
+- Move pixie one slot to the left, use the Tetrakarn item with MC and Gun with Rei -> auto
+- Stop auto and use the Dis-Paralyze if needed
 
 Points:
 
-*   MC: MC: **SPD「速」** until **17** then **STR 「力」** until 13, then **SPD「速」**
-*   Rei (if she's lvl18): 3 points in **MAG「魔」** then **STR 「力」**
-*   Rei (if she's lvl19): 1 point in **MAG「魔」** then **STR 「力」**
+- MC: MC: **SPD「速」** until **17** then **STR 「力」** until 13, then **SPD「速」**
+- Rei (if she's lvl18): 3 points in **MAG「魔」** then **STR 「力」**
+- Rei (if she's lvl19): 1 point in **MAG「魔」** then **STR 「力」**
 
 ---
+
 ## Mountain
+
 ---
 
 Head to the mountains.
@@ -153,22 +157,22 @@ Go back to the mall and go to the energizer, sell enough MAG to get 28k yen back
 
 Go to the gun shop:
 
-*   Sell all the weapons and bullets.
-*   Sell **3rd**, **6th** and **8th** item in equipment
-*   Buy **3rd item**
+- Sell all the weapons and bullets.
+- Sell **3rd**, **6th** and **8th** item in equipment
+- Buy **3rd item**
 
 Go to armor shop. Enter and then leave and then re-enter so the items update.
 
-*   Buy **4th item**
-*   Auto-equip on MC
+- Buy **4th item**
+- Auto-equip on MC
 
 Go to Kumiko's house, enter at 7/8 ascending so you can do the fight at FULL MOON.
 
 ![KUMIKO](@/assets/images/devsummaps/KUMIKO.png)
 
-*   MC: Sword
-*   Rei: Tarunda -> Rakukaja -> Dragon ATM -> Dia on MC
-*   After point distribution, Rei's stats should be around 10 INT「知」, 12 MAG「魔」 and 17 SPD「速」
+- MC: Sword
+- Rei: Tarunda -> Rakukaja -> Dragon ATM -> Dia on MC
+- After point distribution, Rei's stats should be around 10 INT「知」, 12 MAG「魔」 and 17 SPD「速」
 
 Go back to the arcade, enter the office. Leave and then re-enter and accept the job to go to the mansion in Asahi.
 
@@ -182,15 +186,17 @@ Go to the special item store. Buy 12x **Tetrakarn items (1st)**.
 
 Go to the hotel.
 
-*   Summon Kabuso「カブソ」, Ba「バー」, Nahatokobalt「ナハトコバルト」
-*   Kabuso「カブソ」x Ba「バー」= Bird 1
-*   Nahatokobalt「ナハトコバルト」x Kabuso「カブソ」= Bird 2
-*   Bird 1 x Bird 2 = Leanan Sidhe
+- Summon Kabuso「カブソ」, Ba「バー」, Nahatokobalt「ナハトコバルト」
+- Kabuso「カブソ」x Ba「バー」= Bird 1
+- Nahatokobalt「ナハトコバルト」x Kabuso「カブソ」= Bird 2
+- Bird 1 x Bird 2 = Leanan Sidhe
 
 Go to the museum. Enter and talk to the sign. Then go back to the arcade, go to the office and access the DDS-Net again. Then return to the museum.
 
 ---
+
 ## Museum
+
 ---
 
 ![MUSEUM](@/assets/images/devsummaps/MUSEUM.png)
@@ -199,8 +205,8 @@ Enemies at the museum are kinda hard so try to talk to them to dissuade them, sa
 
 Set party formation: _Pixie,-,-,MC,-,-_.
 
-*   MC uses **Tetrakarn items**, Pixie defends.
-*   Points into SPD「速」
+- MC uses **Tetrakarn items**, Pixie defends.
+- Points into SPD「速」
 
 ![MUSEUM 2](@/assets/images/devsummaps/MUSEUM2.png)
 
@@ -208,10 +214,10 @@ Go grab all the paintings and then get rei, then return to the arcade.
 
 Go to the armor shop.
 
-*   Sell the paintings 「美しい絵、高価な像、珍しい壷」
-*   Buy 2x **Helms (2nd)**
-*   Equip on both.
-*   Sell the old helmets.
+- Sell the paintings 「美しい絵、高価な像、珍しい壷」
+- Buy 2x **Helms (2nd)**
+- Equip on both.
+- Sell the old helmets.
 
 Go to medicine store, buy 3x **Dis-stones (2nd)**, 3x **Dis-paralyze (3rd)**, 3x **Revival Beads (Last)**
 
@@ -222,7 +228,9 @@ Go to the bar, buy a drink for each of them (2nd to last).
 Go to Madame's bar, talk to the madame. Then go to the TV station.
 
 ---
+
 ## TV Station
+
 ---
 
 ![TV STATION](@/assets/images/devsummaps/TV.png)
@@ -235,16 +243,18 @@ Before the fight, summon pixie to set the party formation:_MC, -, Pixie, Rei, -,
 
 Unequip everything.
 
-*   MC: Makarakarn item; Rei: Tarukaja (4x turns)
-*   MC: Sword; Rei: Makarakarn item
-*   Points in SPD「速」 as always.
+- MC: Makarakarn item; Rei: Tarukaja (4x turns)
+- MC: Sword; Rei: Makarakarn item
+- Points in SPD「速」 as always.
 
 Go back and heal up, buy magic reflect items to have at least 20x (possibly sell mag for that).
 
 Go to the fortune teller (say no - 1 TEXT BOX), head back inside and say whichever option. Go back to the office to get Rei and save.
 
 ---
+
 ## Yakuza Mansion
+
 ---
 
 Go to the yakuza mansion.
@@ -259,13 +269,15 @@ Unequip everything, save.
 
 Fight Tendou.
 
-*   MC: Makarakarn item; Rei: Tetrakarn item
-*   Points into SPD「速」
+- MC: Makarakarn item; Rei: Tetrakarn item
+- Points into SPD「速」
 
 Go back and buy more reflect items. Head to the office and accept the mission. Then head to the big tower.
 
 ---
+
 ## Tower
+
 ---
 
 ![TOWER](@/assets/images/devsummaps/TOWER.png)
@@ -278,13 +290,15 @@ Give any gems you might have to Leanan as a **GIFT**
 
 Fight Demiurge:
 
-*   MC: Makarakarn item; Rei: Tetrakarn item, Leanan: Extra -> 2nd attack
-*   Points into SPD「速」
+- MC: Makarakarn item; Rei: Tetrakarn item, Leanan: Extra -> 2nd attack
+- Points into SPD「速」
 
 Get sent to the astral world.
 
 ---
+
 ## Astral World
+
 ---
 
 ![ASTRAL](@/assets/images/devsummaps/ASTRAL.png)
@@ -297,10 +311,12 @@ Summon demons. Set formation as: _Pixie, Kyouji, MC, -, -, -_
 
 Fight Sid Davis:
 
-*   **Makarakarn items** with MC and **Gun** with Kyouji
+- **Makarakarn items** with MC and **Gun** with Kyouji
 
 ---
+
 ## Hell
+
 ---
 
 ![HELL](@/assets/images/devsummaps/HELL.png)
@@ -309,26 +325,28 @@ Use estoma and get out of hell.
 
 Go to the gun store:
 
-*   Sell all the weapons and unnecessary equipment.
-*   Buy the 60k weapon (3rd)
+- Sell all the weapons and unnecessary equipment.
+- Buy the 60k weapon (3rd)
 
 Go to the armor store:
 
-*   Buy the 4th and 6th items.
-*   Auto-equip on both MC and Rei.
+- Buy the 4th and 6th items.
+- Auto-equip on both MC and Rei.
 
 Go to the special item store:
 
-*   Buy max amount of **Tetrakarn** and **Makarakarn** items.
+- Buy max amount of **Tetrakarn** and **Makarakarn** items.
 
 Go to the medicine store:
 
-*   Buy 3x Revival Beads (Last)
+- Buy 3x Revival Beads (Last)
 
 Go to the lockers and choose **0130**. Head to the forest to get the quest from Sid Davis and be able to access the sewers. Then head to the sewers.
 
 ---
+
 ## Sewers
+
 ---
 
 ![SEWERS](@/assets/images/devsummaps/SEWERS.png)
@@ -336,7 +354,9 @@ Go to the lockers and choose **0130**. Head to the forest to get the quest from 
 After triggering the switch, head to the forest.
 
 ---
+
 ## Forest
+
 ---
 
 ![FOREST](@/assets/images/devsummaps/FOREST.png)
@@ -344,8 +364,10 @@ After triggering the switch, head to the forest.
 Enter the ancient tomb.
 
 ---
+
 ## Tomb
-----
+
+---
 
 ![TOMB](@/assets/images/devsummaps/TOMB.png)
 
@@ -357,4 +379,4 @@ Unequip everything. **SAVE**
 
 This fight is very unreliable. It is expected for it to take many tries.
 
-*   Makarakarn + Tetrakarn, Leanan uses Extra -> 2nd Attack
+- Makarakarn + Tetrakarn, Leanan uses Extra -> 2nd Attack

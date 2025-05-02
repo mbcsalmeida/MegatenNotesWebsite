@@ -8,29 +8,31 @@ featured: false
 draft: false
 tags:
   - smt1
-description:
-  Shin Megami Tensei (GBA) - All Visionary Items notes.
+description: Shin Megami Tensei (GBA) - All Visionary Items notes.
 ---
 
 Hospital
+
 - Recruit any demon
 - Orias
 
 Grab Chaos Hero, sell all items.
 
 Ama-no-sakugami:
+
 - Grab pascal
 - Get item (Bloody Apron)
 - Grab item where pascal was (Gnawed Ball)
 
-
 Inokashira Park:
+
 - Fuse pascal
 - 9 Hamayas
 
 Defeat Douman (Kikyo Amulet)
 
 Messian Church:
+
 - 3x Holy Waters
 
 ### AFTER ZOMBIES MAKE SPLIT SAVE ON THIRD SLOT
@@ -42,6 +44,7 @@ After going to the disco, grab the item (Cloudy Shaker) behind the bar.
 Ozawa -> (Balisong)
 
 Before Arachne buy:
+
 - 23x Hamaya
 - 4 Soul Sender
 
@@ -52,7 +55,7 @@ Grab the Psycho Diver then grab the item near the Cyak spawn (Black Mask).
 Belial -> (Ginger Doll)
 Nebiros -> (Candleabrum)
 
--> Say NO to Yama <- 
+-> Say NO to Yama <-
 
 Niou, same as Nebiros. Don't forget the Pearl and Terminal!
 
@@ -74,13 +77,12 @@ Buy the smoke bombs. Grab chest in Cathedral 3F (Silver Cup).
 
 Defeat Lilith (Lily Bouquet). Traport back and save - unfortunately necessary
 
-FINISH LAW ENDING
-------------------------------------------------------------------
+## FINISH LAW ENDING
 
-Reload save. 
+Reload save.
 
 Side with Echidna, transfer to Shinagawa.
-Grab chest in Shinagawa 1F (Child's Book). 
+Grab chest in Shinagawa 1F (Child's Book).
 
 Go to law side, buy smoke bombs and Pauza50 and go through B1F and grab chest in Cathedral B1F (Ebon Book).
 
@@ -90,8 +92,7 @@ Grab chest in Cathedral B4F (Broken Specs).
 
 Save before fighting Michael!
 
-FINISH CHAOS ENDING
------------------------------------------------------------------
+## FINISH CHAOS ENDING
 
 Do the alignment game for Chaos twice.
 
@@ -107,13 +108,14 @@ Go to Masakado's building, talk to Masakado. Go to Tokyo 45F, grab the chest (Ku
 Grab chest in Cathedral B1F (Daodejing).
 Defeat Lilith (Black Moon), traport. Save and quit.
 
------------------------------------------------------------------
+---
 
 #### Start new game.
 
 Get item at the arcade (Snake Charm).
 
 Inokashira Park
+
 - 5x Hamaya
 
 Defeat Douman, get item (Mossy Jizo). Save.
@@ -121,9 +123,10 @@ Defeat Douman, get item (Mossy Jizo). Save.
 #### Load third save.
 
 Messian Church:
+
 - Buy 5x Holy Waters
 
-Grab item in gotou's lair B1F (Secret Rules). Defeat Gotou (SDF Unit Pin). 
+Grab item in gotou's lair B1F (Secret Rules). Defeat Gotou (SDF Unit Pin).
 
 Defeat Thor (US Flag).
 
@@ -131,13 +134,8 @@ Grab item in Kongou Shinkai (Vajragarbha). Save.
 
 #### Load suspended save.
 
-Grab item in the Heroine's mind  (Girl's Cameo). 
+Grab item in the Heroine's mind (Girl's Cameo).
 
 Transfer to Roppongi. Head in the Disco, use Balm of Life on Law Hero's girlfriend (Jade Ring). Grab the chest that spawns afterward (Chipped cup). Go to 2F to grab chest (Red Headband).
 
 Time ends on saving after the last item pick-up.
-
-
-
-
-
