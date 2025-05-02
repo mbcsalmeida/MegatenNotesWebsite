@@ -1,11 +1,11 @@
 ---
 author: Sion
 pubDatetime: 2025-03-29T21:16:00Z
-modDatetime: 2025-03-29T21:16:00Z
+modDatetime: 2025-04-30T11:11:00Z
 title: Shin Megami Tensei If... - Yumi (PSX)
 slug: smtif-yumi-psx
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - smtif
 description:

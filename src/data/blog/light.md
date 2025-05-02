@@ -1,10 +1,10 @@
 ---
 author: Sion
-pubDatetime: 2024-05-04T10:55:00Z
+pubDatetime: 2025-05-04T10:55:00Z
 modDatetime: 2025-01-30T13:00:00.619Z
 title: DemiKids - Light Version - Any%
 slug: demikids-light
-featured: true
+featured: false
 draft: false
 tags:
   - devil-children

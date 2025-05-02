@@ -11,6 +11,7 @@ import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { Image } from "astro:assets";
 import logo from "@/assets/logo.png";
+import { YouTube } from "astro-lazy-youtube-embed";
 
 const posts = await getCollection("blog");
 
@@ -22,14 +23,17 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 <Layout>
   <Header />
   <main id="main-content" data-layout="index">
-    <section id="hero" class="pt-8 pb-6">
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        <Image src={logo} alt="Dummy Blog" class="" />
-      </h1>
-
+    <br>
+    
+    <section>
+      <h2 class="text-2xl font-semibold tracking-wide">Latest Youtube Video</h2>
+      <YouTube
+        class="rounded-2xl"
+        id="video"
+        title="Which version of SMT1 is the best to Speedrun?"
+        videoId="2Yj0tU3ZhBw"
+      />
     </section>
-
-    <Hr />
 
     {
       featuredPosts.length > 0 && (

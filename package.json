@@ -19,6 +19,7 @@
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.0.12",
     "astro": "^5.4.2",
+    "astro-lazy-youtube-embed": "^0.5.4",
     "lodash.kebabcase": "^4.1.1",
     "pnpm": "^10.6.3",
     "remark-collapse": "^0.1.2",
