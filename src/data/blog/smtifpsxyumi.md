@@ -2,14 +2,14 @@
 author: Sion
 pubDatetime: 2025-03-29T21:16:00Z
 modDatetime: 2025-04-30T11:11:00Z
-title: Shin Megami Tensei If... - Yumi (PSX)
+title: Shin Megami Tensei If... - Yumi, Easy - Unrestricted (PSX)
 slug: smtif-yumi-psx
 featured: true
 draft: false
 tags:
   - smtif
 description:
-  Shin Megami Tensei If... - Yumi (PSX) notes.
+  Shin Megami Tensei If... - Yumi (PSX) Unrestricted notes. No bonus card used.
 ---
 
 ## Table of Contents
@@ -111,6 +111,9 @@ Walk back to the fountain and warp to the entrance back to the Expanse.
 
 ![Glutton 2F](@/assets/images/smtifmaps/glutonny-2F.png)
 
+Blue Line B1F->B2F - Red Line B1F/B2F - Green Line B1F/B2F - Yellow Line B1F/B2F
+Grab Megido Stone (Chest 4).
+
 ![Gluttony 3F](@/assets/images/smtifmaps/glutonny-3F.PNG)
 
 In Town, weapon:
@@ -124,10 +127,25 @@ Recover anyone if needed.
 
 ![Gluttony 6F](@/assets/images/smtifmaps/glutonny-6F.PNG)
 
+![Gluttony 7F](@/assets/images/smtifmaps/glutonny-7F.PNG) 
+
+Blue Line.
 Head to Otsuki. Summon demons like for Vine.
 - Demons - buffs, Jack Frost - Attack, Hero - Defend, Yumi - Gun
 
+Walk back until you meet the red line.
+
+![Gluttony 7F](@/assets/images/smtifmaps/glutonny-7F.PNG) 
+
+![Gluttony 6F](@/assets/images/smtifmaps/glutonny-6F.PNG)
+
+![Gluttony 5F](@/assets/images/smtifmaps/glutonny-5F.PNG)
+
+Follow the red line.
+
 ![Gluttony 4F](@/assets/images/smtifmaps/glutonny-4F.PNG)
+
+Follow the green line. 
 
 ![Gluttony 5F](@/assets/images/smtifmaps/glutonny-5F.PNG)
 
@@ -153,10 +171,14 @@ Exchange 7 coins. Suspend save in front of Keno and then reset the console.
 Bet on (2,5,6,16,24,31,37,38,46)
 
 Exchange for Rewards:
-- KFrost Boots (20000) 
-- KFrost Rod (10000)
-- Fuma Bell 7x (50)
-- Luster Candy 10x (500)
+- KFrost Boots - Kフロストブーツ (20000) 
+- KFrost Rod - Kフロストロッド (10000)
+- Gouma Tsue 5x - 降魔杖 (6000)
+- Luster Candy - ラスターカンディ 10x (500)
+- Fuma Bell - 封魔の鈴 7x (50)
+
+Equip on Hero:
+- KFrost Boots and KFrost Rod
 
 Leave and go back to the expanse.
 
@@ -174,8 +196,6 @@ Move for 9 cycles. Talk to guard every 2/8 cycles.
 
 Go back down and grab the ring. 
 
-Go to Appraiser and get Memory Card Bonus.
-
 Leave.
 
 ![SLOTH 3](@/assets/images/smtifmaps/sloth-3.PNG)
@@ -190,17 +210,20 @@ Leave.
 
 1F
  - Chest with Soma
+ - Blue line to go to Town.
 
  ![ENVY](@/assets/images/smtifmaps/envy-2.PNG)
 
 In Town
-- Sell Skull Bullets
+- Sell Gouma Tsue
 - Buy  Dolphin Helm (2500), Skull Suit (5800), 5k gloves and equip
 
 2F
 - Chest with 1040MAG
 
 ![ENVY](@/assets/images/smtifmaps/envy-3.PNG) 
+
+Blue - Red - Green then follow the obvious path.
 
 ![ENVY](@/assets/images/smtifmaps/envy-4.PNG)
 
@@ -221,6 +244,8 @@ Take the Geyser and leave. Back to the expanse.
 
 ## World of Greed
 
+Blue line.
+
 ![GREED](@/assets/images/smtifmaps/greed-1.PNG) 
 
 ![GREED](@/assets/images/smtifmaps/greed-2.PNG)
@@ -229,22 +254,28 @@ Take the Geyser and leave. Back to the expanse.
 
 ![GREED](@/assets/images/smtifmaps/greed-4.PNG)
 
-Heal and go to the junk store:
-- 10x 身代わりの玉
-- 10x Gold Pills
-- 99x Smoke Bombs
-- 99x Hinrayas
+Heal and go to the junk store.
+Sell:
+- Gonz Pistol
+- KFrost Rod
+Buy (leave 27k left):
+- 9x 身代わりの玉
+- 5x Gold Pills
+- 30x Smoke Bombs
+- 30x Hinrayas
 
-Armor Store:
-- 10000 
-- 5000
-- 17000
+Armors (on Yumi):
+- Panzer Helm (パンツァーヘルム)
+- Panzer Legs (パンツァーレッグ)
 
 Escape with smoke bombs.
 
-On 3F, collect 11th to 14th treasure.
-Equip:
-- Hero: Helm Leg
+On 3F, collect 11th to 13th treasure.
+MC with Jagd pieces:
+- Jagd Helm (ヤクトヘルム),
+Yumi with Panzer pieces:
+- Panzer Suit (パンツァースーツ),
+- Panzer Fist (パンツァフィスト).
 
 Fight Chefei:
 - Sword (AUTO)
