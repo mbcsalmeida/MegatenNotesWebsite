@@ -8,8 +8,7 @@ featured: false
 draft: false
 tags:
   - last-bible
-description:
-  Last Bible 3 Any% notes.
+description: Last Bible 3 Any% notes.
 ---
 
 ## Table of Contents
@@ -17,47 +16,53 @@ description:
 These notes are very barebones and require usage of the "debug" menu
 
 ---
+
 ## Raga Village
+
 ---
 
-Get all items, skip Mochowa, buy some mana. 
-Get to level 4, do story, go back, apologise to Mochowa. 
+Get all items, skip Mochowa, buy some mana.
+Get to level 4, do story, go back, apologise to Mochowa.
 Do soma minigame, YOU HAVE TO WIN.
 
 **Buy**:
-* 10 mana and 2 dispoison
-  
+
+- 10 mana and 2 dispoison
+
 Go outside, recruit Gaki and Kaimu. Money dropped:
-* Harpy - 17, Worm - 12, Kaimu - 8, Gaki - 28
+
+- Harpy - 17, Worm - 12, Kaimu - 8, Gaki - 28
 
 **Fusions**:
-* Gaki x Kaimu = Heqet
-* Harpy x Worm =  Giant
-* Get another Kaimu, Kaimu x Heqet  =  Angel pass on Estoma
+
+- Gaki x Kaimu = Heqet
+- Harpy x Worm = Giant
+- Get another Kaimu, Kaimu x Heqet = Angel pass on Estoma
 
 ---
+
 ## School
+
 ---
 
 Get to level 6 then estoma, get Pana from chests.
-Go to bottom left magic in 6F. 
+Go to bottom left magic in 6F.
 Set Tera Slash to all your MP.
 Go to bottom right magic in 6F, have at least 4 manas for Carol.
 
-
-Story parts with Don. 
-After going back to school do 3F, top left and right. 
+Story parts with Don.
+After going back to school do 3F, top left and right.
 Go to Don, advance text, heal at the tree with mother, go home talk to Harry.
-
 
 Last day of school, do other 3F ones, back at village do Egg event.
 
-
-Get police equipment, Set MP costs! 
+Get police equipment, Set MP costs!
 Do fight so Ciel hits level 10.
 
 ---
+
 ## Heat and Doruku Village
+
 ---
 
 Sell both somas and get 1 Omamori, equip on Ciel.
@@ -87,16 +92,15 @@ Go southeast for Nordia. Talk to the girl getting married at the altar. Then tal
 
 Mash through text then go through the cave, summon うりね. Return him afterwards.
 
-Bookmark Metropolis. Go back to the first area and get Ciel to level 46. (West and a bit North). 
+Bookmark Metropolis. Go back to the first area and get Ciel to level 46. (West and a bit North).
 
-Go to the Metropolis enter the healer then head upstairs, mash through story. After you wake up go to Alek's house to meet your dad and mash through text. Sell the dummy knife, buy a good sword and 20x Pana. 
+Go to the Metropolis enter the healer then head upstairs, mash through story. After you wake up go to Alek's house to meet your dad and mash through text. Sell the dummy knife, buy a good sword and 20x Pana.
 
 Go to the arena. Traport to heal MP at any point. Always kill healers first. Save before last fight.
 
 Go back to Metropolis and talk to Gafe. Then head to Nordia. Get the Aquaring and go to the island.
 
 Summon うりね against Soul Eater. Return him after. Go back to Nordia and get sent to Magoku where you should go right to the office to meet Shark. Then head up to see Wrinkle's past by talking to the Old man. Go outside to the ship.
-
 
 Go to Yumil Village (near Death Valley, Northwest from Magoku) and talk to Lena.
 
@@ -127,8 +131,3 @@ After the fight with Benshoha, get sent to hell. Return うりね。Heal. At fig
 Get the characters as you go through hell. Afterwards choose whichever and head to the Luciferium from Magoku (just a little up then east).
 
 Head inside and defeat the dude. GGs.
-
-
-
-
-

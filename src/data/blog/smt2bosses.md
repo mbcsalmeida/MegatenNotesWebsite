@@ -8,13 +8,13 @@ featured: false
 draft: false
 tags:
   - smt2
-description:
-  Shin Megami Tensei II (SFC) - All Bosses notes. 
+description: Shin Megami Tensei II (SFC) - All Bosses notes.
 ---
 
 ## Table of Contents
 
 ## Town
+
 ---
 
 Mash through text, reply Yesはい to Okamoto. Choose Training `トレーニング` to head into the VIRTUALGYM.
@@ -53,7 +53,7 @@ Pick up the Fritz Helm `フリッツヘルム` (1), Legger Slum `レッガース
 
 Fight Red Bear.
 
-*   AUTO
+- AUTO
 
 Talk to Hiroko and say: NO -> NO. Head east to leave.
 
@@ -75,13 +75,13 @@ Near the entrance to the bridge, recruit Fairy High Pixie `ヨウセイ ハイ�
 
 In the Slum City, fight Mercurius:
 
-*   AUTO
-*   Hero - INT (until 9 INT)
+- AUTO
+- Hero - INT (until 9 INT)
 
 Recruit an Alp, grab chest 01 - a Dis-Poison `ディポイズン` - and make sure you're level 12 before heading into the Mansion to fuse an Heqet:
 
-*   Knocker `ノッカー` x Alp `アルプ` = Cait Sith `ケットシー`
-*   Cait Sith x High Pixie `ハイピクシー` \= Heqet `ヘケト`
+- Knocker `ノッカー` x Alp `アルプ` = Cait Sith `ケットシー`
+- Cait Sith x High Pixie `ハイピクシー` \= Heqet `ヘケト`
 
 Head back through the bridge. Get a Cait Sith around Madame's Mansion. If there's room in the COMP and you find one, get Ihika or Sudama. If you reached 9 INT, put points into Speed.
 
@@ -90,7 +90,9 @@ It's more recommended to get a Sudama because it has Rakukaja which will be usef
 Unequip Hiroko's Sword, Gun and Bullets and enter the Mansion. Name the interesting hair guy (it's us).
 
 ---
+
 ## Holy Town
+
 ---
 
 ![Center](@/assets/images/smt2maps/CENTER-21.png) ![Center](@/assets/images/smt2maps/CENTER-20.png)
@@ -113,11 +115,11 @@ Recruit Jack Frost. Defeat Basilisk whenever possible. If you get poisoned, it's
 
 If you have Jack Frost, summon it beforehand and use Rakukaja.
 
-*   Sword, Sword, Tarukaja, Attack
-*   If someone is low health, heal with Beth's Media
-*   If Cait Sith dies, you can revive it afterwards with the Gold Pill
-*   Don't let both Heqet and Cait Sith die
-*   Points: Hero - INT (if >9, SPD), Beth - SPD.
+- Sword, Sword, Tarukaja, Attack
+- If someone is low health, heal with Beth's Media
+- If Cait Sith dies, you can revive it afterwards with the Gold Pill
+- Don't let both Heqet and Cait Sith die
+- Points: Hero - INT (if >9, SPD), Beth - SPD.
 
 You can start escaping from encounters. If you're low on money (under 4k) then you can defeat them by attacking with everybody except for Caith Sith and Jack Frost who are more vulnerable
 
@@ -125,13 +127,15 @@ You can start escaping from encounters. If you're low on money (under 4k) then y
 
 Summon the Jack Frost before the King Frost fight - Formation: Messian, Hawk, Jack Frost, Cait Sith, Heqet, -.
 
-*   Sword, Sword, Rakukaja, Tarukaja, Attack
-*   You can heal with Heqet's Media but leave enough MP for Traport (6 MP)
+- Sword, Sword, Rakukaja, Tarukaja, Attack
+- You can heal with Heqet's Media but leave enough MP for Traport (6 MP)
 
 Return Jack Frost and use Traport with Heqet. Heal at the Messiah if needed. Go talk to the sage in floor 21F. Leave again.
 
 ---
+
 ## Factory
+
 ---
 
 ![Way to the Factory](@/assets/images/smt2maps/PASSAGE-F.png) ![Center](@/assets/images/smt2maps/CENTER-2.png)
@@ -144,15 +148,15 @@ Put code (6191). Leave to Factory.
 
 Stop by Factory Town, enter Weapon store.
 
-*   Sell: Head Gear `ヘッドギア`, Laser Boots `レザーブーツ`, Survival Vest `サバイバルベスト`, Muscle Drink `マッスルドリンコ`, Attack Knife、`アッタクナイフ`, Block Knife `ボロックナイフ`, Legger Slums `レッガースラム`, Jet `ジェットボーラ`, Queen Boot `クイーンビュート`, Beretta 92F `ベレッタ９２Ｆ`, Bullets `つうじょうだん`
-*   Buy: Gonz Pistol `ゴンズピストル`, Bullets `しんけいだん`
-*   Equip: Aleph - Gonz Pistol `ゴンズピストル`, Bullets `しんけいだん`
+- Sell: Head Gear `ヘッドギア`, Laser Boots `レザーブーツ`, Survival Vest `サバイバルベスト`, Muscle Drink `マッスルドリンコ`, Attack Knife、`アッタクナイフ`, Block Knife `ボロックナイフ`, Legger Slums `レッガースラム`, Jet `ジェットボーラ`, Queen Boot `クイーンビュート`, Beretta 92F `ベレッタ９２Ｆ`, Bullets `つうじょうだん`
+- Buy: Gonz Pistol `ゴンズピストル`, Bullets `しんけいだん`
+- Equip: Aleph - Gonz Pistol `ゴンズピストル`, Bullets `しんけいだん`
 
 Traesto with Heqet.
 
 Go to church to bookmark the terminal. Get Slave or Demi-Nandi. Go to the ranch.
 
-*   AUTO
+- AUTO
 
 Head to the underground to make way to the Betelgeuse fight.
 
@@ -164,13 +168,15 @@ Get Cu Sith before entering the E building. After you defeat Betelgeuse, the enc
 
 Fight Betelgeuse:
 
-*   First turn: Hawk - Gun; Messian - Media; Jack Frost - Rakukaja; Heqet - Attack; Cait Sith - Tarukaja
-*   AUTO
+- First turn: Hawk - Gun; Messian - Media; Jack Frost - Rakukaja; Heqet - Attack; Cait Sith - Tarukaja
+- AUTO
 
 If you still don't have the Sapphire, use Traestro, advance moon to Full Moon and grab it. Return Cait Sith and Jack Frost and Traport.
 
 ---
+
 ## Arcadia
+
 ---
 
 ![Center](@/assets/images/smt2maps/CENTER-21.png) ![Center](@/assets/images/smt2maps/CENTER-20.png)
@@ -188,7 +194,9 @@ Put code (9103).
 Head into the terminal to bookmark it. Leave and head to Gimel's house to talk to him.
 
 ---
+
 ## Valhalla Revenge
+
 ---
 
 ### Daleth
@@ -207,10 +215,10 @@ Traestro. Head to the Colosseum. If you still don't have a Sudama or Ihika, get 
 
 Summon Unicorn before the fight.
 
-*   1 Formation: Hawk, Unicorn, - ,Heqet, Beth, -
-*   First turn: Gun, Attack, -, Attack, Media
-*   Heal Hawk after the cutscene with any Beads or Healing items. If you don't have any, pray I guess.
-*   Then Hawk - Gun, Unicorn - Attack, Heqet - Media. Auto.
+- 1 Formation: Hawk, Unicorn, - ,Heqet, Beth, -
+- First turn: Gun, Attack, -, Attack, Media
+- Heal Hawk after the cutscene with any Beads or Healing items. If you don't have any, pray I guess.
+- Then Hawk - Gun, Unicorn - Attack, Heqet - Media. Auto.
 
 Say NO. Leave.
 
@@ -223,7 +231,9 @@ Say NO. Leave.
 Head to Slum City. Talk to Mekata and heal up at the Gaia.
 
 ---
+
 ## Underground
+
 ---
 
 ### Hiroko's Rescue
@@ -234,10 +244,10 @@ Leave and head through the passage. Summon Cait Sith and Sudama (don't summon Ih
 
 Fight.
 
-*   Formation: Hero, Unicorn, Sudama, Heqet, Cait Sith, -
-*   First turn: Gun, Rakukaja, Rakukaja, Media, Defend
-*   Second turn: Gun, Rakukaja, Rakukaja, Media, Tarukaja
-*   AUTO
+- Formation: Hero, Unicorn, Sudama, Heqet, Cait Sith, -
+- First turn: Gun, Rakukaja, Rakukaja, Media, Defend
+- Second turn: Gun, Rakukaja, Rakukaja, Media, Tarukaja
+- AUTO
 
 ![Underground](@/assets/images/smt2maps/UNDERGROUND-1.png) ![Underground](@/assets/images/smt2maps/UNDERGROUND-E.png)
 
@@ -247,8 +257,8 @@ If you're low on money due to having to revive demons then grab the treasure che
 
 Fight Yanusu.
 
-*   First turn: Gun, Rakukaja, Rakukaja, Media, Tarukaja
-*   AUTO until Sudama is low on MP. Then, Gun/Attack with Everybody and then AUTO.
+- First turn: Gun, Rakukaja, Rakukaja, Media, Tarukaja
+- AUTO until Sudama is low on MP. Then, Gun/Attack with Everybody and then AUTO.
 
 Leave.
 
@@ -258,10 +268,10 @@ Leave.
 
 Fight Zain. Summon all demons.
 
-*   First two turns: Gun, Rakukaja, Media, Defend with rest
-*   Next two turns: Gun, Rakukaja, Rakukaja, Media, Tarukaja
-*   Rest: Gun, Attack, Media, Media
-*   AUTO
+- First two turns: Gun, Rakukaja, Media, Defend with rest
+- Next two turns: Gun, Rakukaja, Rakukaja, Media, Tarukaja
+- Rest: Gun, Attack, Media, Media
+- AUTO
 
 Rescue Heroine. Go all the way back through the Underground to the Passage.
 
@@ -289,14 +299,16 @@ Enter the Grand Church on 7/8 Ascending. If you're low on money grab the the oth
 
 Fight Daleth:
 
-*   Formation: Hawk, Unicorn, Cerberus, Heqet, Hiroko, Cait Sith
-*   First turn: Defend, Rakukaja, Fire Blaze, Media, Media, Tarukaja
-*   AUTO
+- Formation: Hawk, Unicorn, Cerberus, Heqet, Hiroko, Cait Sith
+- First turn: Defend, Rakukaja, Fire Blaze, Media, Media, Tarukaja
+- AUTO
 
 Samarecarm any dead demons. Return Cerberus. Take the elevator to 1F then take the second to B60F.
 
 ---
+
 ## Underground - Further Down
+
 ---
 
 ### Shinjuku
@@ -333,26 +345,28 @@ Enter Roppongi at 5/8 Ascending. Bookmark terminal. Grab chest in B1F left and t
 
 Go to the Mansion.
 
-*   Fuse: Cait Sith x Slave/Demi-Nandi = Bicorn
-*   Sword: Bicorn x Sword
+- Fuse: Cait Sith x Slave/Demi-Nandi = Bicorn
+- Sword: Bicorn x Sword
 
 Head into the Bar. Buy one of each. Each drink will buff Aleph and Hiroko's stats. However, if you are on an ascending moon age, watch out as you need those buffs to help you defeat the next fight and they wear out at Full Moon. It takes me an average of 4 moon cycles to get to the shrine so if you are at Half Moon ascending, go outside, advance the moon cycle to Full Moon and only then enter the bar and drink.
 
 Equip the sword on Hawk. Reorder party (Hawk, Unicorn, -, Hiroko, Heqet, -). Head into the Gaia and heal up. Traestro.
 
 ---
+
 ## Underground - Masakado Revival
+
 ---
 
 ![ ](@/assets/images/smt2maps/UNDERGROUND-6.png) ![ ](@/assets/images/smt2maps/UNDERGROUND-7.png)
 
 Fight at the Shrine.
 
-*   First turn: Sword, Rakukaja, Media, Media
-*   AUTO
-*   Afterfour turns: Sword, Attack, Media, Defend - AUTO
-*   If Heroine dies, summon Cerberus and revive her.
-*   Points: Hero - 2 MAG (7 total without the stats boost - blue points) /SPD ; Heroine - INT
+- First turn: Sword, Rakukaja, Media, Media
+- AUTO
+- Afterfour turns: Sword, Attack, Media, Defend - AUTO
+- If Heroine dies, summon Cerberus and revive her.
+- Points: Hero - 2 MAG (7 total without the stats boost - blue points) /SPD ; Heroine - INT
 
 ![Shrine](@/assets/images/smt2maps/SHRINE-1.png)
 
@@ -382,8 +396,8 @@ Enter Ouyamatsumi's Shrine and leave after you get him. Then leave and head to O
 
 Fight Baphomet.
 
-*   Say no.
-*   AUTO
+- Say no.
+- AUTO
 
 Use Traport. Then transfer to Shinjuku.
 
@@ -397,14 +411,14 @@ Transfer to Roppongi and save. Enter the Virtual Battler -> Level 1 twice to tal
 
 Walk into the Rag Store and trade.
 
-*   Sapphireサファイア x Sapphireサファイア \= Gnome
-*   Topaz トパーズ x Pearlパール = Undyne
-*   Turqoiseターコイズ x Diamond\> ダイアモンド = Sylph
-*   Rubyルビー x Pearl\>パール = Salamander
+- Sapphireサファイア x Sapphireサファイア \= Gnome
+- Topaz トパーズ x Pearlパール = Undyne
+- Turqoiseターコイズ x Diamond\> ダイアモンド = Sylph
+- Rubyルビー x Pearl\>パール = Salamander
 
 Then walk back to 1F and grab the Pearl. Then go back to the Rag Store and trade.
 
-*   Garnetガーネット x Opalオパール = Flaemis
+- Garnetガーネット x Opalオパール = Flaemis
 
 Let Hiruko restore Masakado's soul and then traport to leave.
 
@@ -417,7 +431,9 @@ Head to the cave to meet Hiruko and the newly revived Prince Masakado. Say NO to
 Stop by the altar to leave the first pillar. Go to Roppongi, traport and transfer to Holy Town.
 
 ---
+
 ## Pillars
+
 ---
 
 ### Siren and Petersen
@@ -454,11 +470,11 @@ Summon Undyne before the fight.
 
 Fight Belphegor.
 
-*   Formation: Hawk, Unicorn, Undyne, Hiroko, Heqet, -.
-*   First turn: Sword, Rakukaja, Mediarama, Defend, Defend
-*   AUTO (2 Turns)
-*   Sword, Attack, Mediarama, Defend, Defend
-*   AUTO
+- Formation: Hawk, Unicorn, Undyne, Hiroko, Heqet, -.
+- First turn: Sword, Rakukaja, Mediarama, Defend, Defend
+- AUTO (2 Turns)
+- Sword, Attack, Mediarama, Defend, Defend
+- AUTO
 
 Return Undyne. Talk to Seiren then traestro. If Heqet is out of MP, summon Sylph and Traport.
 
@@ -472,8 +488,8 @@ Go all the way down the passages to receive another pillar.
 
 Traport and transfer to Holy Town. Save. Heal at the Repair Garage and go to Mansion to fuse.
 
-*   Undyne x Sylph = Freya
-*   Salamander x Gnome = Naramsinha
+- Undyne x Sylph = Freya
+- Salamander x Gnome = Naramsinha
 
 Go to the TV. Talk to Zain. Enter the southern entrance at FULL MOON and go to the Bar. Head to the Junks to receive the next pillar - if you don't have any reanimation items, buy Kindan. Then traport and head to the Disco to receive the other pillar (say YES) by winning the dance battle.
 
@@ -493,21 +509,21 @@ Put the code in \[5261\]. Put the code in \[2784\]. Say NO -> YES -> NO to YHVH.
 
 Fight Raphael and Uriel.
 
-*   Formation: Hawk, Cerberus, - , Hiroko, Freya, -
-*   First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
-*   If Hiroko dies, use Samarecarm with Cerberus and Mediarama with Freya.
-*   If Aleph maxes SPD, points into STR
-*   Hiroko points into VIT
+- Formation: Hawk, Cerberus, - , Hiroko, Freya, -
+- First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
+- If Hiroko dies, use Samarecarm with Cerberus and Mediarama with Freya.
+- If Aleph maxes SPD, points into STR
+- Hiroko points into VIT
 
 Fight Michael.
 
-*   First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
-*   AUTO
+- First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
+- AUTO
 
 Fight FAKE YHVH.
 
-*   First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
-*   AUTO
+- First turn: Sword - Raphael, Attack - Raphael, Media, Tarukaja
+- AUTO
 
 ### Head Pillar
 
@@ -515,8 +531,8 @@ Fight FAKE YHVH.
 
 Traport. In Holy Town, head to the Great Church. Watch the cutscene, enter it then traport. Head to the Mansion and fuse.
 
-*   Cerberus x Unicorn x Sudama/Ihika = Naragiri
-*   Naramsinha x Flaemis = Anubis
+- Cerberus x Unicorn x Sudama/Ihika = Naragiri
+- Naramsinha x Flaemis = Anubis
 
 Head to the terminal and transfer to Roppongi. Save.
 
@@ -527,7 +543,9 @@ Talk to the dude, get the last pillar. Now put all of them in the altars so the 
 ![ ](@/assets/images/smt2maps/UNDERGROUND-15.png) ![ ](@/assets/images/smt2maps/MAKAI-2.png)
 
 ---
+
 ## Makai
+
 ---
 
 ### Diamat
@@ -540,7 +558,7 @@ Save. Leave. Enter Yeshira at 1/8 Descending. Summon Freya. (Formation: Hawk, Na
 
 Fight Hekate
 
-*   Sword, Rakunda, Attack, Defend, Tarukaja
+- Sword, Rakunda, Attack, Defend, Tarukaja
 
 Take the HOD exit.
 
@@ -548,7 +566,7 @@ Take the HOD exit.
 
 Fight Diamat.
 
-*   AUTO
+- AUTO
 
 ### Master Terion
 
@@ -558,7 +576,7 @@ Traport. Go back through Yeshira and take the Netzach exit.
 
 Enter at 7/8 ascending. Fight Master Terion.
 
-*   AUTO
+- AUTO
 
 ### Astoroth
 
@@ -576,7 +594,7 @@ Enter the Seto Temple to watch the ressurection. Then head to Beria corridor.
 
 Fight Astoroth
 
-*   AUTO
+- AUTO
 
 Say NO to Lucifer. Heal up any ailments. Head into Arcadia's portal..
 
@@ -584,7 +602,7 @@ Say NO to Lucifer. Heal up any ailments. Head into Arcadia's portal..
 
 Fight Gimmel.
 
-*   AUTO
+- AUTO
 
 Traport and head to Beria corridor.
 
@@ -600,10 +618,10 @@ Estoma. Say NO to Mekata. Leave again.
 
 Fight Abadon.
 
-*   Formation: Hawk, Naragiri, Anubis, Hiroko, Anubis, -
-*   First turn: Sword, Rakunda, Attack, Media, Tarukaja
-*   AUTO
-*   Hawk Points - STR
+- Formation: Hawk, Naragiri, Anubis, Hiroko, Anubis, -
+- First turn: Sword, Rakunda, Attack, Media, Tarukaja
+- AUTO
+- Hawk Points - STR
 
 Re-enter the Beria Corridor.
 
@@ -619,9 +637,9 @@ Enter Chesed.
 
 Fight Dai Nyorai.
 
-*   3x: Sword, Rakunda, Attack, Media, Tarukaja
-*   Beware of Judgement and physical attacks.
-*   Rest: Sword, Attack, Attack, Media, Mediarama
+- 3x: Sword, Rakunda, Attack, Media, Tarukaja
+- Beware of Judgement and physical attacks.
+- Rest: Sword, Attack, Attack, Media, Mediarama
 
 Traport and head to the Beriah corridor.
 
@@ -633,10 +651,10 @@ Enter the Geburrah building. Walk straight forward to the the terminal and save.
 
 Fight Twelve War Gods
 
-*   Formation: Hawk, Naragiri, Anubis, Hiroko, Anubis, -
-*   First turn: Sword, Rakunda, Attack, Media, Tarukaja
-*   AUTO
-*   For Santira, use Mahama with Heroine.
+- Formation: Hawk, Naragiri, Anubis, Hiroko, Anubis, -
+- First turn: Sword, Rakunda, Attack, Media, Tarukaja
+- AUTO
+- For Santira, use Mahama with Heroine.
 
 Head to Bina. Grab the robe from the right then head to the building on the left.
 
@@ -674,14 +692,16 @@ Head to Mara Tower.
 
 Fight Mara
 
-*   First turn: Sword, Rakunda, Attack, Diarahan, Tarukaja
-*   If Aleph gets paralyzid, heal with Hiroko's Paraldi
-*   AUTO
+- First turn: Sword, Rakunda, Attack, Diarahan, Tarukaja
+- If Aleph gets paralyzid, heal with Hiroko's Paraldi
+- AUTO
 
 Finally head to Lucifer
 
 ---
+
 ## Kether Castel
+
 ---
 
 ![Makai](@/assets/images/smt2maps/MAKAI-7.png)
@@ -692,8 +712,8 @@ Go up.
 
 Fight Beelzebub.
 
-*   Turns: Sword, Rakunda (4xtotal), Attack, Diarahan, Tarukaja (2x total)
-*   Revive anybody with Freya and Anubis samarecarm.
+- Turns: Sword, Rakunda (4xtotal), Attack, Diarahan, Tarukaja (2x total)
+- Revive anybody with Freya and Anubis samarecarm.
 
 Treastro and heal before going up again.
 
@@ -703,11 +723,11 @@ Treastro and heal before going up again.
 
 Fight Lucifer.
 
-*   Formation: Aleph, Naragiri, Anubis, Hiroko, Freya, Heqet
-*   First turn: Sword, Rakunda, Judgement, Media, Tarukaja, Attack
-*   Cast at least 4 rakundas and 2 tarukajas
-*   After all the buffs, AUTO
-*   If you get Aleph charmed, Escape to waste a turn
+- Formation: Aleph, Naragiri, Anubis, Hiroko, Freya, Heqet
+- First turn: Sword, Rakunda, Judgement, Media, Tarukaja, Attack
+- Cast at least 4 rakundas and 2 tarukajas
+- After all the buffs, AUTO
+- If you get Aleph charmed, Escape to waste a turn
 
 Enter at 2/8 Ascending or 6/8 Descending. This is so we do the Satan fight at Half Moon.
 
@@ -717,54 +737,54 @@ Head to the terminal and summon Lucifer and Heqet and heal at the Gaia before sa
 
 Fight Shadai.
 
-*   Formation: Aleph, Naragiri, Anubis, Hiroko, Freya
-*   Watch out for paralysis, heal with Hiroko's Paraldi
-*   2x turns: Sword, Rakunda, Attack, Media, Tarukaja
-*   Rest: Sword, Attack, Attack, Media, Defend
-*   AUTO
-*   Aleph - 1x Luck, rest STR; Hiroko - MAG
+- Formation: Aleph, Naragiri, Anubis, Hiroko, Freya
+- Watch out for paralysis, heal with Hiroko's Paraldi
+- 2x turns: Sword, Rakunda, Attack, Media, Tarukaja
+- Rest: Sword, Attack, Attack, Media, Defend
+- AUTO
+- Aleph - 1x Luck, rest STR; Hiroko - MAG
 
 ![ ](@/assets/images/smt2maps/EEDEN2.png)
 
 Fight Shabbaoth.
 
-*   Formation: Aleph, Naragiri, Anubis, Hiroko, Freya
-*   1x turn: Sword, Rakunda, Attack, Media, Necroma - Heqet
-*   1x turn: Sword, Rakunda, Attack, Media, Tarukaja
-*   Rest: Sword, Attack, Attack, Media, Defend
-*   AUTO
-*   Aleph - STR; Hiroko - MAG
+- Formation: Aleph, Naragiri, Anubis, Hiroko, Freya
+- 1x turn: Sword, Rakunda, Attack, Media, Necroma - Heqet
+- 1x turn: Sword, Rakunda, Attack, Media, Tarukaja
+- Rest: Sword, Attack, Attack, Media, Defend
+- AUTO
+- Aleph - STR; Hiroko - MAG
 
 ![ ](@/assets/images/smt2maps/EEDEN3.png)
 
 Fight Elohim.
 
-*   Formation: Aleph, Naragiri, Anubis, Hiroko, Freya
-*   Don't let Anubis' MP drop below 80.
-*   1x turn: Sword, Rakunda, Attack, Media, Necroma - Heqet
-*   2x turns: Sword, Rakunda, Attack, Media, Tarukaja
-*   Return Naragiri if he didn't get stoned yet
-*   Rest: Sword, Attack, Media, Defend
-*   AUTO
-*   Aleph - STR; Hiroko - MAG
+- Formation: Aleph, Naragiri, Anubis, Hiroko, Freya
+- Don't let Anubis' MP drop below 80.
+- 1x turn: Sword, Rakunda, Attack, Media, Necroma - Heqet
+- 2x turns: Sword, Rakunda, Attack, Media, Tarukaja
+- Return Naragiri if he didn't get stoned yet
+- Rest: Sword, Attack, Media, Defend
+- AUTO
+- Aleph - STR; Hiroko - MAG
 
 ![ ](@/assets/images/smt2maps/EEDEN4.png)
 
 Fight Satan.
 
-*   Formation: Aleph, Anubis, Naragiri, Freya, Hiroko
-*   1st turn: Sword, Judgement, Rakunda, Necroma - Heqet to first position, Diarahana - Hiroko herself
-*   If you have any Soma's, recover Anubis and use Judgement again
-*   Others: Attack, Sword, Rakunda (4x total), Attack, Tarukaja (2x total), Diarahan - Hiroko herself
-*   Others (again): Attack, Sword, Attack, Attack, Attack, Diarahan - Hiroko herself
-*   AUTO
-*   If Anubis die, samarecarm with Freya and summon it
-*   Aleph - STR; Hiroko - VIT
+- Formation: Aleph, Anubis, Naragiri, Freya, Hiroko
+- 1st turn: Sword, Judgement, Rakunda, Necroma - Heqet to first position, Diarahana - Hiroko herself
+- If you have any Soma's, recover Anubis and use Judgement again
+- Others: Attack, Sword, Rakunda (4x total), Attack, Tarukaja (2x total), Diarahan - Hiroko herself
+- Others (again): Attack, Sword, Attack, Attack, Attack, Diarahan - Hiroko herself
+- AUTO
+- If Anubis die, samarecarm with Freya and summon it
+- Aleph - STR; Hiroko - VIT
 
 Recover everybody and summon them.
 
 Fight YHVH.
 
-*   Formation: Aleph, Naragiri, Freya, Hiroko,
-*   Sword, Rakunda (4x) -> Attack, Attack, Necroma - Heqet -> Tarukaja (2x) -> Attack, Diarahan - Herself, Attack
-*   AUTO. Because Nyorai Statues are used automatically, YHVH will keep attacking and trying to kill you but you get automatically revived. The only fatal spell, the instant kill spell, is nullified by the necroma'd Heqet. Therefore, as long as you kill YHVH before you run out of rosaries, you can just AUTO and enjoy the show
+- Formation: Aleph, Naragiri, Freya, Hiroko,
+- Sword, Rakunda (4x) -> Attack, Attack, Necroma - Heqet -> Tarukaja (2x) -> Attack, Diarahan - Herself, Attack
+- AUTO. Because Nyorai Statues are used automatically, YHVH will keep attacking and trying to kill you but you get automatically revived. The only fatal spell, the instant kill spell, is nullified by the necroma'd Heqet. Therefore, as long as you kill YHVH before you run out of rosaries, you can just AUTO and enjoy the show

@@ -3,7 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-
 This website is a collection of speedrun notes of games I've run, interesting information about said games and a list of my personal bests. Every router and person involved with each game are mentioned in the Credits page.
 
 You can download the notes off of the website as well, if you'd prefer having them offline. The notes on this website are my personal ones, with strats I developed, and which I use to run myself. Please, go to speedrun.com for other resources, as the notes alone might not be sufficient to learn the speedrun.
@@ -16,7 +15,7 @@ My speedrun plans are to run every classic SFC megaten game, followed by every G
 
 Socials:
 
-*   [Twitch](https://www.twitch.tv/sioneus)
-*   [YT Content](https://youtube.com/@speedrunmegaten)
-*   [VODS Channel](https://youtube.com/@sioneus)
-*   [Speedrun.com](https://www.speedrun.com/user/Sioneus)
+- [Twitch](https://www.twitch.tv/sioneus)
+- [YT Content](https://youtube.com/@speedrunmegaten)
+- [VODS Channel](https://youtube.com/@sioneus)
+- [Speedrun.com](https://www.speedrun.com/user/Sioneus)

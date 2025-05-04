@@ -26,6 +26,9 @@ importers:
       astro:
         specifier: ^5.4.2
         version: 5.4.2(@netlify/blobs@8.1.1)(jiti@2.4.2)(lightningcss@1.29.1)(rollup@4.34.7)(typescript@5.8.2)(yaml@2.7.0)
+      astro-lazy-youtube-embed:
+        specifier: ^0.5.4
+        version: 0.5.4(astro@5.4.2(@netlify/blobs@8.1.1)(jiti@2.4.2)(lightningcss@1.29.1)(rollup@4.34.7)(typescript@5.8.2)(yaml@2.7.0))
       lodash.kebabcase:
         specifier: ^4.1.1
         version: 4.1.1
@@ -1076,6 +1079,11 @@ packages:
   astro-eslint-parser@1.2.1:
     resolution: {integrity: sha512-3oqANMjrvJ+IE5pwlUWsH/4UztmYf/GTL0HPUkWnYBNAHiGVGrOh2EbegxS5niAwlO0w9dRYk0CkCPlJcu8c3Q==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
+
+  astro-lazy-youtube-embed@0.5.4:
+    resolution: {integrity: sha512-6Nd52ndiC7qM9jBC2/iAVsgbGMLBEHo0NfyECTyvsoKlei5Crl8S279Y8QhbKei+L6/FPSIijRV+ztY9/Pd3Wg==}
+    peerDependencies:
+      astro: ^2.0.0 || ^3.0.0-beta || ^4.0.0-beta || ^5.0.0-beta
 
   astro@5.4.2:
     resolution: {integrity: sha512-9Z3fAniIRJaK/o43OroZA1wHUIU+qHiOR9ovlVT/2XQaN25QRXScIsKWlFp0G/zrx5OuuoJ+QnaoHHW061u26A==}
@@ -3873,6 +3881,10 @@ snapshots:
       semver: 7.7.1
     transitivePeerDependencies:
       - supports-color
+
+  astro-lazy-youtube-embed@0.5.4(astro@5.4.2(@netlify/blobs@8.1.1)(jiti@2.4.2)(lightningcss@1.29.1)(rollup@4.34.7)(typescript@5.8.2)(yaml@2.7.0)):
+    dependencies:
+      astro: 5.4.2(@netlify/blobs@8.1.1)(jiti@2.4.2)(lightningcss@1.29.1)(rollup@4.34.7)(typescript@5.8.2)(yaml@2.7.0)
 
   astro@5.4.2(@netlify/blobs@8.1.1)(jiti@2.4.2)(lightningcss@1.29.1)(rollup@4.34.7)(typescript@5.8.2)(yaml@2.7.0):
     dependencies:

@@ -8,13 +8,13 @@ featured: false
 draft: false
 tags:
   - last-bible
-description:
-  Megami Tensei Gaiden - Last Bible 2 (GBC) Any% notes.
+description: Megami Tensei Gaiden - Last Bible 2 (GBC) Any% notes.
 ---
 
 ## Table of Contents
 
 ## Cave
+
 ---
 
 Head through the forest to Ein. Talk to a demon to get money.
@@ -31,11 +31,13 @@ Try to get to level 6/7 before the fight. Grab the chests for Mana.
 
 Fight Velg.
 
-*   While there's MP: Agilao - Hero, Attack - Larsa
-*   Heal when HP is low.
+- While there's MP: Agilao - Hero, Attack - Larsa
+- Heal when HP is low.
 
 ---
+
 ## Ein
+
 ---
 
 ![Ein](@/assets/images/lb2maps/AIN.png) ![Map 1](@/assets/images/lb2maps/MAP1.png)
@@ -57,7 +59,9 @@ Enter the port, talk to the boat guy and take the boat.
 Fight all encounters. We want to slowly grind to level 15 to get Tranpa. Don't let Esau die as it is very bothersome. Head all the way north to the cave. Leave.
 
 ---
+
 ## Ebura
+
 ---
 
 ![Map 3](@/assets/images/lb2maps/MAP3.png)
@@ -97,7 +101,9 @@ Use a Sylph Wing to go back to Ebura and go to the flower place.
 Go to the General Store and buy Pana (Yuri) - like, a good handful.
 
 ---
+
 ## Magoku
+
 ---
 
 ![Ebura](@/assets/images/lb2maps/EBURA.png) ![Map 4](@/assets/images/lb2maps/MAP4.png)
@@ -112,8 +118,8 @@ Head all the way inside to talk to the man then head back out.
 
 Fight Soldier.
 
-*   Use Bufula with Bogle and Attack with everybody else.
-*   Use Pana to recover Bogle's MP.
+- Use Bufula with Bogle and Attack with everybody else.
+- Use Pana to recover Bogle's MP.
 
 Then take the boat again and head to the Cave to the south.
 
@@ -128,7 +134,9 @@ Enter the cave and use the same strategy (Bufula with Bogle and Attack with ever
 Head inside the castle and talk to the grand sage to get the letter. Heal and re-stock on Pana. Head to Shidon.
 
 ---
+
 ## Bruton
+
 ---
 
 ![Shidon](@/assets/images/lb2maps/SHIDON.png) ![Shidon 2](@/assets/images/lb2maps/SHIDON2.png)
@@ -154,7 +162,9 @@ Head inside the temple in Bruton and talk to the sage. Get Safya. Leave. Tranpa 
 Talk to the sage in the temple - get arrested and leave. Buy 2x Tangaroia at the weapon store. Tranpa to Shidon.
 
 ---
+
 ## Turos
+
 ---
 
 ![Shidon](@/assets/images/lb2maps/SHIDON.png) ![Shidon 2](@/assets/images/lb2maps/SHIDON2.png)
@@ -175,8 +185,8 @@ Head into Lycaon Mine, summon the second egg and reorder the party. Equip the se
 
 Fight.
 
-*   AUTO
-*   Heal whenever necessary
+- AUTO
+- Heal whenever necessary
 
 Grab chest for the money and Tranpa.
 
@@ -185,7 +195,9 @@ Tranpa to Turos.
 Take the right boat from Turos. Take the first boat in Pyupatia. Head to the city to bookmark it then take the boat again and leave.
 
 ---
+
 ## Gizu Nest
+
 ---
 
 ![Map 7](@/assets/images/lb2maps/MAP7.png)
@@ -200,14 +212,16 @@ Talk to the Lion.
 
 Fight Gozuki.
 
-*   Defend whoever is on the frontline.
-*   Bufula with Sylph + Remulus/Bogle.
-*   Use Pana to recover their MP with Yuri.
+- Defend whoever is on the frontline.
+- Bufula with Sylph + Remulus/Bogle.
+- Use Pana to recover their MP with Yuri.
 
 Same thing for follow-up battle. Get third egg. Tranpa. Tranpa to Goku.
 
 ---
+
 ## Goku
+
 ---
 
 ![Goku](@/assets/images/lb2maps/GOKU.png)
@@ -230,8 +244,8 @@ Get to level 22 to get Agilaon on Yuri and Bufula on Safya.
 
 Fight Shuragi.
 
-*   Use Bufula with Sylph, Bufula with Safya and Agilaon with Yuri.
-*   Recover MP with Panacea.
+- Use Bufula with Sylph, Bufula with Safya and Agilaon with Yuri.
+- Recover MP with Panacea.
 
 Only leave at level 24.
 
@@ -256,8 +270,8 @@ Fight Gaia: Defend with everybody, Agiraon and Zanmaon with Senko. Heal up whene
 Traport to Shidon.
 
 ---
-Ajito and Kanossa Islands
----
+
+## Ajito and Kanossa Islands
 
 Head to Esau's village and talk to Esau inside the house. Leave the village. Traport to Torus and take the boat.
 
@@ -282,7 +296,9 @@ Head inside the Magoku temple and auto the first fight. Save before heading insi
 Heal and then leave.
 
 ---
+
 ## Ark
+
 ---
 
 ![Map 11](@/assets/images/lb2maps/MAP11.png)
@@ -317,7 +333,7 @@ Get back to Blantica - talk to the tree and give the item to Zodia. Head to the 
 
 Summon the three egg ultimate shield before the fight. Fight Gaia.
 
-*   Use Force with all the characters.
-*   Recover MP with Panacea and HP with Mana whenever needed.
+- Use Force with all the characters.
+- Recover MP with Panacea and HP with Mana whenever needed.
 
 Time ends on last frame.

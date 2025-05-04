@@ -8,8 +8,7 @@ featured: false
 draft: false
 tags:
   - another-bible
-description:
-  Any% Notes for Another Bible following the WR route
+description: Any% Notes for Another Bible following the WR route
 ---
 
 You play as a child that lost his parents and who, now, ventures through the world alone. Standard stuff. But, on a fateful day, you encounter a girl being approached by thiefs and decide to help her. From there, the plot continues. This is around how much you need to know to understand the story.
@@ -52,7 +51,7 @@ Head to the upper right corner, where the trigger for the end of the chapter is.
 
 ![ ](@/assets/images/abmaps/MAP8.png)
 
-Grab the Float Ring (``ひみつのつばさ``) (8) then grab the Fire Magnes (2) and head to the exit (17).
+Grab the Float Ring (`ひみつのつばさ`) (8) then grab the Fire Magnes (2) and head to the exit (17).
 
 ![ ](@/assets/images/abmaps/MAP9-1.png) ![ ](@/assets/images/abmaps/MAP9-2.png)
 

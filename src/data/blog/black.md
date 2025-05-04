@@ -8,27 +8,31 @@ featured: false
 draft: false
 tags:
   - devil-children
-description:
-  Any% Notes for Devil Children - Black Book on PSX
+description: Any% Notes for Devil Children - Black Book on PSX
 ---
 
 ## Table of Contents
 
 ---
+
 ## House
+
 ---
 
 Wake up, get the money from the cupboard behind you and leave your room. Get the Chakra Drinks from the fridge and talk to Nagahisa then attempt to leave only to get interrupted by a package arriving. Watch as your little brother gets kidnapped and say goodbye to his propaganda-less mind. Choose the second dialogue option to summon Cerberus, the cutscene is skippable.
 
 Fight Jack Frost:
-*   Cerberus uses Fireblaze
+
+- Cerberus uses Fireblaze
 
 Change settings (fast text, animations off, voice acting off) and heal Cerberus with Dia. Go outside and defeat the other set of Jack Frosts the same way. Then leave the building and go talk to Set to get sent to Centerland.
 
 Leave the hotel and go to the castle to talk to Lucifer who'll send you to the Iceland prison.
 
 ---
+
 ## Iceland
+
 ---
 
 ![frostown](@/assets/images/dcmaps/Iceland-Cave4.jpg)
@@ -38,7 +42,8 @@ Talk to the Ichigo Frost, Diana, and then talk to everybody demon except the top
 Fight any random encounters with Fireblaze and attack with other demons. Remember to heal after the fights with Dia.
 
 Fight the demon that stops you on the way out.
-*   Cerberus - Fireblaze and other demon - attack
+
+- Cerberus - Fireblaze and other demon - attack
 
 Heal after the fight.
 
@@ -49,8 +54,9 @@ Defeat all encounters with Fireblaze and Attack.
 Get to the house, talk to the first pot to the left and pay the 2x to get the demon, then talk to Diana. Leave and go to the shop next door to buy 1x Angel Wing.
 
 Go to the VN shop and take the quiz for Devil Master, answers are:
-*   1st quiz - 白いデビル、勝利の歌、電気を発する、６番、母親
-*   2nd quiz - ぴちフロスト、ねむくなる、バク、クダギツネ、タロットカード
+
+- 1st quiz - 白いデビル、勝利の歌、電気を発する、６番、母親
+- 2nd quiz - ぴちフロスト、ねむくなる、バク、クダギツネ、タロットカード
 
 Head through the castle, go up the mount to get 1x Wind Magatama. On the cave, grab Yukion.
 
@@ -59,13 +65,16 @@ In Jack Frost Town, heal at the Hotel and summon the demons at the fusion mansio
 On the way to the castle, use an estoma item. Walk to Hel's room.
 
 Fight Hel:
-*   Fire Blaze and Zio/Bufu against the Jack Frosts
-*   Use the Wind Magatama against Hel, Cerberus can heal with Dia and attack normally while everybody else uses Magic
+
+- Fire Blaze and Zio/Bufu against the Jack Frosts
+- Use the Wind Magatama against Hel, Cerberus can heal with Dia and attack normally while everybody else uses Magic
 
 Transfer back, buy 1x Angel Wing, 3x attack capsules, 3x smoke bombs, 6x ice magatamas, 16x wind magatamas. If you still have money, buy more Wing Magatamas.
 
 ---
+
 ## Marbleland
+
 ---
 
 ![frostown](@/assets/images/dcmaps/Marbleland.jpg) ![castle](@/assets/images/dcmaps/Marbleland2.jpg)
@@ -89,30 +98,37 @@ Talk to the angel that will heal you, I forget which one it is, then leave the v
 Head inside the colosseum and reorder the party to have Jack Frost and Agathion first. If in any of the colosseum battles any demon dies you can revive them on the infirmary.
 
 First battle:
-*   Wind magatamas
+
+- Wind magatamas
 
 Angel fights:
-*   Bunbuku Chagama uses Zio, Agathion uses Zionga, Ichigo Frost uses Bufu and everybody else uses Wind Magatamas
+
+- Bunbuku Chagama uses Zio, Agathion uses Zionga, Ichigo Frost uses Bufu and everybody else uses Wind Magatamas
 
 Third angel fights
-*   Wind Magatamas
+
+- Wind Magatamas
 
 Before the next fight, go to computer and summon the other demon to the kinglyzer (press right, there'll be seperate 3 slots), heal and re-enter the colosseum. For the next two fights, use the same strategy.
 
 Go to the computer and get the Yukion, re-order the party so it's second after Jack Frost.
 
 Fight Mirai:
-*   Bufula and Ice Magatamas and against Veil use Zionga/Zio
+
+- Bufula and Ice Magatamas and against Veil use Zionga/Zio
 
 Mash A through the text and heal everybody before re-entering.
 
 Abaddon fight:
-*   Wind Magatama, bufula and zionga, everybody else use magic too
+
+- Wind Magatama, bufula and zionga, everybody else use magic too
 
 Afterwards, mash through the options, choosing the top one is the fastest. Then head back to the teleporter.
 
 ---
+
 ## Sandland
+
 ---
 
 ![frostown](@/assets/images/dcmaps/Sandland.jpg) ![castle](@/assets/images/dcmaps/Sandland-Town.jpg)
@@ -138,15 +154,18 @@ Enter the pyramid to go visit Sandland's Demon Lord Isis.
 ![frostown](@/assets/images/dcmaps/Sandland-Pyramid3.jpg) ![castle](@/assets/images/dcmaps/Sandland-Pyramid4.jpg)
 
 Talk to Mirai and fight the demons after:
-*   Wind magatama and magic
+
+- Wind magatama and magic
 
 Second fight:
-*   Wind magatama and magic
+
+- Wind magatama and magic
 
 ![frostown](@/assets/images/dcmaps/Sandland-Pyramid5.jpg)
 
 Fight Isis:
-*   Fireblaze and magic, stop to heal cerberus whenever
+
+- Fireblaze and magic, stop to heal cerberus whenever
 
 Let Isis explain to you what you need to do. Heal and use an angel wing to leave and go back to the city.
 
@@ -157,12 +176,15 @@ Set will explain to you that you can use the Internet from your Comp now. Use th
 Deposit all the demons to only have Jack Frost, Ichigo Frost, Yukion and the Angel left.
 
 Go to the casino, get 20 coins, save and hard reset the game, reload it and go to the Higher/Lower game. Bet the 20 coins and play:
-*   Solutions - small, small, big, big, small, big, big, big, small, big, small, small, big, big
+
+- Solutions - small, small, big, big, small, big, big, big, small, big, small, small, big, big
 
 Leave and go to the exchange corner, fill your party with Akamanto then buy 11x Toushin, 10x more Akamanto and 10x Hangonkou then leave and talk to Set and leave. Go to the teleporter and head to Forest Land.
 
 ---
+
 ## Real World
+
 ---
 
 ![frostown](@/assets/images/dcmaps/House.jpg) ![castle](@/assets/images/dcmaps/RealWorld.jpg)
@@ -178,15 +200,18 @@ Go to the school.
 Talk to Setsuna's classroom door which will trigger an event. The person next to the door tells you you need the key and if you leave the first person next to the door, the director right outside, he gives it to you so re-enter and you can go fight King Frost.
 
 Fight King Frost:
-*   Death Rush + Lifestone
+
+- Death Rush + Lifestone
 
 Heal and leave the school, go to the underground arcade and enter the VN. Talk to guy leaning on the right wall, choose the second dialogue option to start the battle.
 
 Fight:
-*   Auto
+
+- Auto
 
 Heal and talk to the PC for another set of fights.
-*   Auto
+
+- Auto
 
 Go to the Mansion and fuse all the Akamanto in the party into Cerberus. Summon the rest of the Cerberus into the party and go to the park.
 
@@ -197,14 +222,17 @@ Heal right after, leave the shop and leave the arcade through the right exit. Go
 ![frostown](@/assets/images/dcmaps/Park-Shrine.jpg)
 
 Head northeastward to meet nagahisa who you will fight. This is a big plot point but I'm sure you know this already. Shocking part, right? Anyways, the fight:
-*   Auto
-*   If Veil dies, revive it using the revival items like はんごうこう and use magic
-*   Prioritize Veil being alive, be careful the Sphinxes are really strong
+
+- Auto
+- If Veil dies, revive it using the revival items like はんごうこう and use magic
+- Prioritize Veil being alive, be careful the Sphinxes are really strong
 
 Revive demons with recarm and take the teleporter above the shrine.
 
 ---
+
 ## Forestland
+
 ---
 
 ![frostown](@/assets/images/dcmaps/Forestland.jpg) ![castle](@/assets/images/dcmaps/Forestland2.jpg)
@@ -214,7 +242,8 @@ Revive demons with recarm and take the teleporter above the shrine.
 Head north, ride Cerberus and use the Estoma items until you get to the town and then head to Belial's house to talk to it.
 
 Fight Belial.
-*   Death Rush + Lifestone
+
+- Death Rush + Lifestone
 
 He now asks you to go grab a pie and you can choose to look for it either west, north or east. Whichever demon has the pie is random every time so you can start wherever you want but my maps will follow the west->north->east order.
 
@@ -225,7 +254,8 @@ Head westward, grab chest on the way.
 ![frostown](@/assets/images/dcmaps/Forestland-West3.jpg)
 
 Talk to the demon, choose the second dialogue option, fight:
-*   Cerberus uses Death Rush, everybody else heals Cerberus with Life Stones.
+
+- Cerberus uses Death Rush, everybody else heals Cerberus with Life Stones.
 
 Heal up after and use an Angel Wing to go back to the town.
 
@@ -240,7 +270,8 @@ Go north.
 On the weird algae plant, you'll always get encounters so escape from them using Smoke Bombs.
 
 Again talk to the demon, choose the second dialogue option, fight:
-*   Same strat as ealier
+
+- Same strat as ealier
 
 ![frostown](@/assets/images/dcmaps/Forestland-Town.jpg)
 
@@ -251,24 +282,29 @@ Head east. Get chest on the way.
 ![frostown](@/assets/images/dcmaps/Forestland-East3.jpg) ![castle](@/assets/images/dcmaps/Forestland-East4.jpg)
 
 For the last time, talk to the demon, choose the second dialogue option, fight:
-*   Same strat.
+
+- Same strat.
 
 Heal and use an Angel Wing go back to belial's. Talk to him.
 
 Fight Belial.
-*   Death Rush + Lifestone
+
+- Death Rush + Lifestone
 
 Leave town but make sure to heal up before.
 
 ![frostown](@/assets/images/dcmaps/Forestland.jpg) ![castle](@/assets/images/dcmaps/Forestland2.jpg)
 
 Get interrupted by Nagahisa and fight:
-*   Ceberus uses the Death Rush, heals up with Life Stone.
+
+- Ceberus uses the Death Rush, heals up with Life Stone.
 
 Head back, remember the Estoma items.
 
 ---
+
 ## Fireland
+
 ---
 
 ![castle](@/assets/images/dcmaps/Fireland.jpg) ![frostown](@/assets/images/dcmaps/Fireland-Town.jpg)
@@ -284,13 +320,16 @@ Talk to the guy and buy his information for 100k. If you want, take the free hea
 ![frostown](@/assets/images/dcmaps/Park.jpg)
 
 Fight against Uriel and Nagahisa's demon after they finally stop talking:
-*   Auto
-*   Hell Buster and heal Cerberus with lifestones.
+
+- Auto
+- Hell Buster and heal Cerberus with lifestones.
 
 Heal up and leave, taking back the teleporter. If too many demons died, it might be faster to revive using the Hotel.
 
 ---
+
 ## Centraland
+
 ---
 
 ![castle](@/assets/images/dcmaps/Centraland1.jpg) ![frostown](@/assets/images/dcmaps/Centraland.jpg)
@@ -304,8 +343,9 @@ There are random encounters inside the castle so remember the Estoma items.
 ![castle](@/assets/images/dcmaps/DarkPalace.jpg) ![frostown](@/assets/images/dcmaps/DarkPalace2.jpg)
 
 Azel fight:
-*   First form: use an Attack capsule then use Hell Rush, healing Cerberus with lifestones
-*   Second form: same strat
+
+- First form: use an Attack capsule then use Hell Rush, healing Cerberus with lifestones
+- Second form: same strat
 
 ![castle](@/assets/images/dcmaps/DarkPalace3.jpg) ![frostown](@/assets/images/dcmaps/DarkPalace4.jpg)
 
@@ -328,9 +368,9 @@ Head back to the castle and make your way to the sanctuary, remember the Estoma 
 ![castle](@/assets/images/dcmaps/LightPalace3.jpg) ![frostown](@/assets/images/dcmaps/Altar.jpg)
 
 On the last room, save then talk to Nagahisa and choose the option not to give the key.
-*   Use an Attack Capsule and then King Storm with Veil and heal with Lifestones
-*   If Cerberus dies first turn its probably faster to reset than to try and make amends. However, resetting on the pstv is really slow so beware.
-    
+
+- Use an Attack Capsule and then King Storm with Veil and heal with Lifestones
+- If Cerberus dies first turn its probably faster to reset than to try and make amends. However, resetting on the pstv is really slow so beware.
 
 ![castle](@/assets/images/dcmaps/Orgon.jpg)
 
