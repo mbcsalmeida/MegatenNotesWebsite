@@ -5,14 +5,14 @@ modDatetime: 2025-04-30T11:11:00Z
 title: Kyuuyaku Megami Tensei
 slug: kmt1
 featured: false
-draft: true
+draft: false
 tags:
   - kmt
 description: Kyuuyaku Megami Tensei notes.
 ---
 
-These notes are based on mulsqi's route, Symm's notes and Jon's notes. It's a mish-mash of everyone's notes but I needed more info because this game drives me insane.
-Maps are extracted from Symm's notes, thank you Symm.
+These notes are based on [mulsqi](https://www.twitch.tv/mulsqi)'s route, [Symm](https://www.youtube.com/@SymmRTA)'s notes and [Jon](https://www.twitch.tv/jonperi23)'s notes. It's a mish-mash of everyone's notes but I needed more info because this game drives me insane.
+Maps and boss explanations are extracted from Symm's notes, thank you Symm. 
 
 ## Table of Contents
 
