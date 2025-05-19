@@ -11,7 +11,14 @@ tags:
 description: Shin Megami Tensei 20XX - Law Ending? notes.
 ---
 
+Stats:
+- Hero - SPD til 10, STR
+- Ain - SPD til 9, MAG
+
 ## Downtown
+
+![Downtown](@/assets/images/smt20xxmaps/downtown.png)
+
 Do opening event.
 Choose:
 - 「訳を聞く」
@@ -19,17 +26,23 @@ Choose:
 - 「NO」
 - 「YES」
 
+![Downtown](@/assets/images/smt20xxmaps/downtown-2.png)
+
+![Gym](@/assets/images/smt20xxmaps/gym.png)
+
 Go to the Gym, talk to the owner to begin your training. Say YES to the train. Then cutscene begins. Choose:
 - 助けない
 
 Complete the Virtuals - fight Kobold:
 - AUTO
 
-Bookmark the terminal.
+![Downtown](@/assets/images/smt20xxmaps/downtown-3.png)
 
 Go to the Underground.
 
 ## Undeground
+
+![Underground 1F](@/assets/images/smt20xxmaps/underground1F.png)
 
 Have Pixie join you and grab chest with 400 Macca. Then head downstairs.
 
@@ -41,6 +54,9 @@ Take two steps and Ain's event will trigger. Choose:
 Re-enter the Underground and go down.
 
 ### B1F
+
+![Underground B1F](@/assets/images/smt20xxmaps/undergroundB1F.png)
+
 Grab the 400MAG chest (1). Then walk back and forth in front of the gem room until it's Full Moon then grab the Amethyst.
 
 Enemies:
@@ -52,9 +68,13 @@ Chon Chon give the most money so always kill them.
 
 ### B2F
 
+![Underground B2F](@/assets/images/smt20xxmaps/undergroundB2F.png)
+
 Grab Dis-Stone (1) and INT Incense (2). 
 
 ### B3F
+
+![Underground B3F](@/assets/images/smt20xxmaps/undergroundB3F.png)
 
 Grab STR Incense and press the Red switch. Press the Green Switch.
 
@@ -76,57 +96,309 @@ Head to the East Section of the Underground.
 
 ### 1F
 
+![East Section 1F](@/assets/images/smt20xxmaps/east1F.png)
+
 Fall down.
 
 ### B1F
+
+![East Section B1F](@/assets/images/smt20xxmaps/eastB1F.png)
 
 Watch Ain Event. Grab VIT Incense (1) then press Blue Switch, grab the Disc and bookmark the terminal.
 
 Transfer back to East Section B1F and grab Luck Incense (2) and Megidola Stone (3).
 
 Summary of strat:
-- Buy Mudoon item from Gaia in Undeground (transfer to Underground from terminal).
+- Buy Mudoon item (ノロイの木馬) from Gaia in Undeground (transfer to Underground from terminal).
 - Use them on Kinnari, Jack Frost and Bennu til level 10.
 - Buy some more and one Hama item and do Virtuals?
 
 Go to Virtuals (Knocker Trafuri, fight Ghoul with Megidola Stone?).
 
-### South Section
+## South Section
 
-## B2F
+### B1F
+
+![South Section B1F](@/assets/images/smt20xxmaps/southB1F.png)
+
+Grab MAG Incense (1) and use MAG and Luck Incense on Heroine and VIT Incense on Hero. Grind to level 14, keep getting items at the Gaia.
+
+### B2F
+
+![South Section B2F](@/assets/images/smt20xxmaps/southB2F.png)
+
 Chest 1 - 2000 Macca
 Chest 2 - Muscle Drink
 
-Talk to Jack Frost about the Water Crown.
+### B3F
 
-## B4F
+![South Section B3F](@/assets/images/smt20xxmaps/southB3F.png)
 
-Shop (need 6000):
-- 2x Dolphin Helm
-- 2x Megidola Stone
+Grab Core Shield. Head to B4F for the Blue switch.
 
-Fight Lilim:
-- 2x Megidola Stones
-Get Water Crown and walk up to take the other stairs to go press the blue button.
+### B4F
 
-## B5F
+![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
+
+Press blue switch, go up.
+
+### B4F
+
+Go down to B5F.
+
+### B5F
+
+![South Section B5F](@/assets/images/smt20xxmaps/southB5F.png)
 
 Equip Rocket Hammer and get Disc 3.
 
-Backtrack to terminal and transfer to holy town.
+### B4F
 
-Heal and drink at the bar, fight Colosseum.
+Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
+- Try to hit enemies with 4x and throw item with Hero and Heroine.
+- Save after winning a fight.
+- After 14 MAG, Ocypete die to Megidola Stones.
 
-Go to Virtuals.
+Shop (need 6000):
+- 2x Dolphin Helm
+- Megidola Stone
+
+Grab SPD Incense.
+
+Fight Lilim:
+- Sword, Megidola Stone
+Grab the Water Crown.
+
+Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern, while grinding some money.
+
+Transfer to underground, fuse:
+- Kinnari x Ihika = Hag
+
+Transfer to South Section and walk back to the shop. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy:
+- 2x 5800 gloves for each character
+- SPAS-12 on Hero
+- 1800 Bullets on Hero
+
+Fights:
+- Multiple Ocypete/Gaian  - Megidola Stones
+- Lilim - Hama or Run Away
+- Others - ノロイの木馬
+
+Prioritze the gloves on the Ain, she stops dying. Once you hit level 18, recruit a Ocypete.
+
+Once you've bought everything, walk back to the terminal.
+
+![South Section B3F](@/assets/images/smt20xxmaps/southB3F.png)
+
+![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
+
+Head to the Colosseum, fight round 2.
+
+Head to the Virtuals, fight Ogre:
+- Gun, Zionga
+
+Fuse:
+- Pixie x Jack Lantern = Aquanz
+- Aquanz x Ocypete = Celeano
+
+Transfer to the Underground and head to West Section.
+
+## West Section
+
+### B2F
+
+![West Section B2F](@/assets/images/smt20xxmaps/westB2F.png)
+
+Grab Yakuto Glove (1) and Yakuto Armor (2). Equip Armor on MC and give Kaizer Armor to the Heroine.
+
+Then grab the 1024 Macca (3) and head back to the pit to fall. 
+
+### B3F
+
+![West Section B3F](@/assets/images/smt20xxmaps/westB3F.png)
+
+Grab the Reiki no Sword (1).
+
+Grab the VIT Incense (3) and Chakra Pot (4).
+
+Grab 4800 Macca (2).
+
+### B4F
+
+![West Section B4F](@/assets/images/smt20xxmaps/westB4F.png)
+
+Grab disc. Grab Sword and Jewel. Equip sword.
+
+Go upstairs, fuse:
+- Angel x Hag = Houou
+- Houou x Spirit Sword = 小狐丸
+
+Transfer to Downtown.
+
+Go to Colosseum, pick up items and fight Adonis (AUTO).
+
+Say 戦うならオレが. Fight Ramedo:
+- Sword, Zionga, Rakunda
+
+Go to Virtuals 4, kill Aeros and Gurr with guns, trafuri everything else.
+Fight Black Widow
+- Sword, Zionga, Rakunda
+
+## North Section
+
+### B3F
+
+![North Section B3F](@/assets/images/smt20xxmaps/northB3F.png)
+
+Go downstairs.
+
+### B4F
+
+![North Section B4F](@/assets/images/smt20xxmaps/northB4F.png)
+
+Go through warps downstairs. Grab 2000 Macca (1).
+
+### B5F
+
+![North Section B5F](@/assets/images/smt20xxmaps/northB5F.png)
+
+Grab the Final Guard (1). Fall down the pit.
+
+### B6F
+
+![North Section B6F](@/assets/images/smt20xxmaps/northB6F.png)
+
+Grab Disc V.
+
+### B7F
+
+![North Section B7F](@/assets/images/smt20xxmaps/northB7F.png)
+
+Go up, grab Soma (2).
+
+Optional?
+Fight Troll:
+- Sword, Zionga, Rakunda
+
+Talk to the guy and pay to get the ID card. Head back up to B6F and fall back down. Go through the Lab.
+
+Fight the Zealator:
+- AUTO
+
+Say YES to breaking the key to get the piece of paper. Leave and head back up to B6F.
+
+## B6F
+
+![North Section B6F](@/assets/images/smt20xxmaps/northB6F.png)
+
+Head to the passage to South B5F and through there climb back to B3F to go to the terminal and transfer to Underground.
+
+Go to Gaia, buy:
+- 10x Mudoon item
+- 2 Amulets
+
+Transfer to Downtown.
+
+Go to the Shop and buy:
+- 5~10 Smoke Bombs
+
+Virtuals 5. Be careful with some encounters, go for Gun + Trafuri by default. 6x Jin use a smoke bomb and be careful to not let Celeano die because if you're Chaos you won't be able to resummon it.
+
+Fight :
+- Sword, Rakunda, Zionga
+
+Go to Colosseum. Pick up items (1st and 3rd) and fight Okamoto:
+- AUTO
+
+At the Gym talk to everyone and then go back to the room next to the owner to talk to Ain. Then re-enter that room for the Temple Knight scene.
+
+Choose:
+- 助ける
+
+ダウンタウン北西の小部屋にいる若い男と会話
+ダウンタウン南西の小部屋にいるモスと会話
+ダウンタウン東の小部屋にいる男と会話
+BARにてやせた男、若い女、労働者と会話
+
+GYMに戻るとGYM前でイベント、選択肢あり。
+そんなことない：Chaos
+そうかもしれない：Law
+GYMに入り少し進むとイベント。
+GYMのアインのいた部屋に戻るとイベント、招待状を入手。
+ダウンタウンの北東からマダムの館間通路へ。
+
+![Madame 1F](@/assets/images/smt20xxmaps/madame1F.png)
+
+![Madame 2F](@/assets/images/smt20xxmaps/madame2F.png)
+
+Choose any option at Madame. Then go back to the Gym to the Trainer's room and watch the event.
+
+![South Section B1F](@/assets/images/smt20xxmaps/southB1F.png)
+
+Transfer to the Underground and go to South Section B1F to head to the Prison.
+
+## Prison
+
+![Prison Passageway](@/assets/images/smt20xxmaps/prison.png)
+
+Talk to the demons in the dark areas.
+Blue line, press green switch and turn around, orange line, warp zone, orange line, press red switch.
+Follow the yellow line.
+
+### 1F
+ 
+![Prison 1F](@/assets/images/smt20xxmaps/prison1F.png)
+
+Go upstairs.
+
+### 2F
+
+![Prison 2F](@/assets/images/smt20xxmaps/prison2F.png)
+
+Press the red switch then press the blue switch then go upstairs.
+
+### 3F
+
+![Prison 3F](@/assets/images/smt20xxmaps/prison3F.png)
+
+Go to the center to fight Ramedo:
+- Phase 1: Sword, Rakunda
+- Phase 2: AUTO, heal with Soma or Jewels whenever HP is low
+
+Get the ID and go fall down to rescue Ain.
+
+## Center
+
+Back in town, fight the Zelator:
+- Sword, Zionga
+
+Go to Moss' place, watch the event. Go to Madame's place.
+
+![West Section B3F](@/assets/images/smt20xxmaps/westB3F.png)
+![West Section B4F](@/assets/images/smt20xxmaps/westB4F.png)
+
+Fuse sword and grind to 30 to recruit Selket and Lamia for the last boss fight? Also Panzer Armor for Ain? Buy Hamayas and Needles for the grind?
+
+### Center Passageway
+
+![Center Passageway](@/assets/images/smt20xxmaps/center-passage.png)
+
+After switches head north, in the intersection with the doors to your front and left, choose the left one and head up stairs.
+
+### Center B1F
+![Center B1F](@/assets/images/smt20xxmaps/centerB1F.png)
+
+### Center B10F
+![Center B10F](@/assets/images/smt20xxmaps/centerB10F.png)
+
+### Center B11F
+Use Amulet.
+![Center B11F](@/assets/images/smt20xxmaps/centerB11F.png)
+
+### Center B12F
+Use Amulet.
+![Center B12F](@/assets/images/smt20xxmaps/centerB12F.png)
+
+Fight Metatron:
 
 
-Fusions:
-Pixie x Knocker/Kobold = Ihika
-Pixie x Jack Lantern = Aquanz
-Pixie x Ihika = Gagison
-Knocker x Kobold = Earthys
-Knocker x Jack Lantern = Bogle 
-Knocker x Ihika = Sudama
-Jack Lantern x Ihika = Eligor
-
-Earthys x Jack Lantern = Banshee
