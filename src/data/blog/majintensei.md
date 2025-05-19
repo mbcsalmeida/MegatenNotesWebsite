@@ -5,7 +5,7 @@ modDatetime: 2025-05-10T00:09:00Z
 title: Majin Tensei 
 slug: majin-tensei
 featured: false
-draft: false
+draft: true
 tags:
   - majin-tensei
 description: Majin Tensei notes.

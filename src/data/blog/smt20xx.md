@@ -5,7 +5,7 @@ modDatetime: 2025-05-16T00:09:00Z
 title: Shin Megami Tensei 20XX
 slug: smt-20xx
 featured: false
-draft: false
+draft: true
 tags:
   - smt20xx
 description: Shin Megami Tensei 20XX - Law Ending? notes.
