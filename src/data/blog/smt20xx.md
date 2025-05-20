@@ -5,15 +5,19 @@ modDatetime: 2025-05-16T00:09:00Z
 title: Shin Megami Tensei 20XX
 slug: smt-20xx
 featured: false
-draft: true
+draft: false
 tags:
   - smt20xx
-description: Shin Megami Tensei 20XX - Law Ending? notes.
+description: Shin Megami Tensei 20XX - Chaos Ending notes.
 ---
 
+## Table of Contents
+
+## General
+
 Stats:
-- Hero - SPD til 10, STR
-- Ain - SPD til 9, MAG
+- Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
+- Ain - SPD til 9, MAG til 14, SPD til 13, MAG/VIT?
 
 ## Downtown
 
@@ -287,7 +291,7 @@ Fight the Zealator:
 
 Say YES to breaking the key to get the piece of paper. Leave and head back up to B6F.
 
-## B6F
+### B6F
 
 ![North Section B6F](@/assets/images/smt20xxmaps/northB6F.png)
 
