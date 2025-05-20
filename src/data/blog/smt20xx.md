@@ -19,6 +19,8 @@ Stats:
 - Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
 - Ain - SPD til 9, MAG til 14, SPD til 13, MAG/VIT?
 
+In the maps, the white spot represents where you fell from a higher floor.
+
 ## Downtown
 
 ![Downtown](@/assets/images/smt20xxmaps/downtown.png)
@@ -142,21 +144,30 @@ Grab Core Shield. Head to B4F for the Blue switch.
 
 ### B4F
 
-![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
+![South Section B4F](@/assets/images/smt20xxmaps/southB4F-2.png)
 
 Press blue switch, go up.
 
+### B3F
+
+![South Section B3F](@/assets/images/smt20xxmaps/southB3F-3.png)
+
 ### B4F
+
+![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
 
 Go down to B5F.
 
 ### B5F
 
 ![South Section B5F](@/assets/images/smt20xxmaps/southB5F.png)
+Follow the red line, blue line, yellow line, purple line. 
 
-Equip Rocket Hammer and get Disc 3.
+Equip Rocket Hammer and get Disc 3. Then backtrack to B4F.
 
 ### B4F
+
+![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
 
 Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
 - Try to hit enemies with 4x and throw item with Hero and Heroine.
@@ -165,13 +176,14 @@ Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
 
 Shop (need 6000):
 - 2x Dolphin Helm
-- Megidola Stone
 
 Grab SPD Incense.
 
-Fight Lilim:
-- Sword, Megidola Stone
-Grab the Water Crown.
+![South Section B3F](@/assets/images/smt20xxmaps/southB3F-2.png)
+
+![South Section B4F](@/assets/images/smt20xxmaps/southB4F-2.png)
+
+![South Section B3F](@/assets/images/smt20xxmaps/southB3F-4.png)
 
 Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern, while grinding some money.
 
@@ -191,10 +203,6 @@ Fights:
 Prioritze the gloves on the Ain, she stops dying. Once you hit level 18, recruit a Ocypete.
 
 Once you've bought everything, walk back to the terminal.
-
-![South Section B3F](@/assets/images/smt20xxmaps/southB3F.png)
-
-![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
 
 Head to the Colosseum, fight round 2.
 
@@ -223,7 +231,7 @@ Then grab the 1024 Macca (3) and head back to the pit to fall.
 
 Grab the Reiki no Sword (1).
 
-Grab the VIT Incense (3) and Chakra Pot (4).
+Grab Chakra Pot (4).
 
 Grab 4800 Macca (2).
 
@@ -231,7 +239,12 @@ Grab 4800 Macca (2).
 
 ![West Section B4F](@/assets/images/smt20xxmaps/westB4F.png)
 
-Grab disc. Grab Sword and Jewel. Equip sword.
+Grab disc. 
+
+Stop by the shop and sell some extra items if needed and buy:
+- 20x Hikoubari
+
+Grab Sword and (Optional) Jewel. 
 
 Go upstairs, fuse:
 - Angel x Hag = Houou
@@ -266,11 +279,14 @@ Go through warps downstairs. Grab 2000 Macca (1).
 
 ![North Section B5F](@/assets/images/smt20xxmaps/northB5F.png)
 
-Grab the Final Guard (1). Fall down the pit.
+Bookmark terminal.
+
+Fall down the pit.
 
 ### B6F
 
 ![North Section B6F](@/assets/images/smt20xxmaps/northB6F.png)
+Top map.
 
 Grab Disc V.
 
@@ -294,6 +310,10 @@ Say YES to breaking the key to get the piece of paper. Leave and head back up to
 ### B6F
 
 ![North Section B6F](@/assets/images/smt20xxmaps/northB6F.png)
+Bottom Map.
+
+## B5F
+![North Section B5F](@/assets/images/smt20xxmaps/northB5F-2.png)
 
 Head to the passage to South B5F and through there climb back to B3F to go to the terminal and transfer to Underground.
 
@@ -319,17 +339,18 @@ At the Gym talk to everyone and then go back to the room next to the owner to ta
 Choose:
 - 助ける
 
-ダウンタウン北西の小部屋にいる若い男と会話
-ダウンタウン南西の小部屋にいるモスと会話
-ダウンタウン東の小部屋にいる男と会話
-BARにてやせた男、若い女、労働者と会話
+![Downtown Rescue](@/assets/images/smt20xxmaps/downtown-rescue.png)
 
-GYMに戻るとGYM前でイベント、選択肢あり。
-そんなことない：Chaos
-そうかもしれない：Law
-GYMに入り少し進むとイベント。
-GYMのアインのいた部屋に戻るとイベント、招待状を入手。
-ダウンタウンの北東からマダムの館間通路へ。
+Talk to the Young Man, Moss and the Man and then head into the Bar.
+
+![Bar](@/assets/images/smt20xxmaps/bar.png)
+
+Talk to the Man, Young Woman, and Worker at the Bar then return to the Gym, choose:
+- そうかもしれない
+
+Enter the Gym and go to the room where Ain was to receive the invitation from the Madame. Then go to the Madame.
+
+![Downtown](@/assets/images/smt20xxmaps/downtown-4.png)
 
 ![Madame 1F](@/assets/images/smt20xxmaps/madame1F.png)
 
@@ -337,7 +358,7 @@ GYMのアインのいた部屋に戻るとイベント、招待状を入手。
 
 Choose any option at Madame. Then go back to the Gym to the Trainer's room and watch the event.
 
-![South Section B1F](@/assets/images/smt20xxmaps/southB1F.png)
+![South Section B1F](@/assets/images/smt20xxmaps/southB1F-2.png)
 
 Transfer to the Underground and go to South Section B1F to head to the Prison.
 
