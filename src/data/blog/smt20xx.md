@@ -17,7 +17,7 @@ description: Shin Megami Tensei 20XX - Chaos Ending notes.
 
 Stats:
 - Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
-- Ain - SPD til 9, MAG til 14, SPD til 13, MAG/VIT?
+- Ain - SPD til 9, MAG til 14, SPD til 13, VIT til 10, MAG
 
 In the maps, the white spot represents where you fell from a higher floor.
 
@@ -185,7 +185,7 @@ Grab SPD Incense.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-4.png)
 
-Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern, while grinding some money.
+Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern/Jack Frost, while grinding some money.
 
 Transfer to underground, fuse:
 - Kinnari x Ihika = Hag
@@ -217,6 +217,8 @@ Transfer to the Underground and head to West Section.
 
 ## West Section
 
+You're gonna slowly grind to level 30 now. Defeat Gurr with gun and trafuri from everything else until you get the later items, unless you're low on money and want some right away.
+
 ### B2F
 
 ![West Section B2F](@/assets/images/smt20xxmaps/westB2F.png)
@@ -231,6 +233,10 @@ Then grab the 1024 Macca (3) and head back to the pit to fall.
 
 Grab the Reiki no Sword (1).
 
+Fuse:
+- Angel x Hag = Houou
+- Houou x Spirit Sword = 小狐丸
+
 Grab Chakra Pot (4).
 
 Grab 4800 Macca (2).
@@ -242,26 +248,29 @@ Grab 4800 Macca (2).
 Grab disc. 
 
 Stop by the shop and sell some extra items if needed and buy:
-- 20x Hikoubari
+- 30x Hikoubari
+- 2 Amulets
 
 Grab Sword and (Optional) Jewel. 
 
-Go upstairs, fuse:
-- Angel x Hag = Houou
-- Houou x Spirit Sword = 小狐丸
-
 Transfer to Downtown.
 
-Go to Colosseum, pick up items and fight Adonis (AUTO).
+Go to Colosseum, fight Adonis (AUTO).
 
 Say 戦うならオレが. Fight Ramedo:
 - Sword, Zionga, Rakunda
 
 Go to Virtuals 4, kill Aeros and Gurr with guns, trafuri everything else.
-Fight Black Widow
+Fight Black Widow:
 - Sword, Zionga, Rakunda
 
 ## North Section
+
+Defeat these enemies with Gun + Hikoubari:
+- Forneus, Jin, Yakshni, Gryphon
+Defeat with Gun: Zealator
+
+Make sure Celeano does NOT die. You can't resummon it.
 
 ### B3F
 
@@ -296,17 +305,6 @@ Grab Disc V.
 
 Go up, grab Soma (2).
 
-Optional?
-Fight Troll:
-- Sword, Zionga, Rakunda
-
-Talk to the guy and pay to get the ID card. Head back up to B6F and fall back down. Go through the Lab.
-
-Fight the Zealator:
-- AUTO
-
-Say YES to breaking the key to get the piece of paper. Leave and head back up to B6F.
-
 ### B6F
 
 ![North Section B6F](@/assets/images/smt20xxmaps/northB6F.png)
@@ -315,23 +313,20 @@ Bottom Map.
 ## B5F
 ![North Section B5F](@/assets/images/smt20xxmaps/northB5F-2.png)
 
-Head to the passage to South B5F and through there climb back to B3F to go to the terminal and transfer to Underground.
-
-Go to Gaia, buy:
-- 10x Mudoon item
-- 2 Amulets
-
-Transfer to Downtown.
+Head to the passage to South B5F and through there climb back to B3F to go to the terminal and transfer to Downtown.
 
 Go to the Shop and buy:
 - 5~10 Smoke Bombs
 
-Virtuals 5. Be careful with some encounters, go for Gun + Trafuri by default. 6x Jin use a smoke bomb and be careful to not let Celeano die because if you're Chaos you won't be able to resummon it.
+Go to colosseum. Pick up items (2nd use, 5th Slicer, Desert Eagle) and fight Adonis:
+- AUTO
 
-Fight :
+Virtuals 5. Be careful with some encounters, go for Gun + Trafuri by default. 6x Jin use a smoke bomb and be careful to not let Celeano die because if you're Chaos you won't be able to resummon it. If he dies, just fight the encounters and try to run away when possible. Dangerous fights use a smoke bomb.
+
+Fight Tarrasque:
 - Sword, Rakunda, Zionga
 
-Go to Colosseum. Pick up items (1st and 3rd) and fight Okamoto:
+Go to Colosseum. Pick up items (1st and 4th) and fight Okamoto:
 - AUTO
 
 At the Gym talk to everyone and then go back to the room next to the owner to talk to Ain. Then re-enter that room for the Temple Knight scene.
@@ -360,7 +355,10 @@ Choose any option at Madame. Then go back to the Gym to the Trainer's room and w
 
 ![South Section B1F](@/assets/images/smt20xxmaps/southB1F-2.png)
 
-Transfer to the Underground and go to South Section B1F to head to the Prison.
+Transfer to the Underground, stop by the Gaian:
+- 2x Necroma items
+
+Go to South Section B1F to head to the Prison.
 
 ## Prison
 
@@ -386,6 +384,8 @@ Press the red switch then press the blue switch then go upstairs.
 
 ![Prison 3F](@/assets/images/smt20xxmaps/prison3F.png)
 
+Grab Soma (3).
+
 Go to the center to fight Ramedo:
 - Phase 1: Sword, Rakunda
 - Phase 2: AUTO, heal with Soma or Jewels whenever HP is low
@@ -399,10 +399,18 @@ Back in town, fight the Zelator:
 
 Go to Moss' place, watch the event. Go to Madame's place.
 
+Walk to the terminal in the underground.
+
 ![West Section B3F](@/assets/images/smt20xxmaps/westB3F.png)
 ![West Section B4F](@/assets/images/smt20xxmaps/westB4F.png)
 
-Fuse sword and grind to 30 to recruit Selket and Lamia for the last boss fight? Also Panzer Armor for Ain? Buy Hamayas and Needles for the grind?
+Fuse Sword:
+- Ihika x Orthrus = Nue
+- Nue x Sword = Better Sword
+
+Equip the sword.
+Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs then head to the center.
+
 
 ### Center Passageway
 
@@ -422,7 +430,10 @@ Use Amulet.
 
 ### Center B12F
 Use Amulet.
+
 ![Center B12F](@/assets/images/smt20xxmaps/centerB12F.png)
+
+Grab Hangonkou and (Optional) Soma.
 
 Fight Metatron:
 
