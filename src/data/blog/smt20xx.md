@@ -187,13 +187,15 @@ Grab SPD Incense.
 
 Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern, while grinding some money.
 
+Go to South Section, recruit an Angel (14) and a Bogle (13) /Azumi (16).
+
 Transfer to underground, fuse:
 - Kinnari x Ihika = Hag
 
 Transfer to South Section and walk back to the shop. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy:
 - 2x 5800 gloves for each character
 - SPAS-12 on Hero
-- 1800 Bullets on Hero
+- 神経弾 Bullets (1800) on Hero
 
 Fights:
 - Multiple Ocypete/Gaian  - Megidola Stones
