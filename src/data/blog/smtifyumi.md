@@ -3,7 +3,7 @@ author: Sion
 pubDatetime: 2020-09-05T17:46:00Z
 modDatetime: 2021-09-05T17:46:00Z
 title: Shin Megami Tensei If... - Yumi (SFC)
-slug: if-yumi-sfc
+slug: smtif-yumi-sfc
 featured: false
 draft: false
 tags:

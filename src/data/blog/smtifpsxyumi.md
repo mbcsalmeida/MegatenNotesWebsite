@@ -7,18 +7,21 @@ slug: smtif-yumi-psx
 featured: true
 draft: false
 tags:
-  - smtif
+  - smt-if
 description:
   Shin Megami Tensei If... - Yumi (PSX) Unrestricted notes. No bonus card used.
 ---
 
 ## Table of Contents
 
-Level up points:
-H: MAG to Parasite -> SPD 13 -> STR
-Y: SPD 13 -> BODY
+
+
 
 ## School
+
+Level up points:
+- H: MAG to Parasite -> SPD 13 -> STR
+- Y: SPD 13 -> BODY
 
 Questions:
 
@@ -103,13 +106,13 @@ Recruit in Order of Best to Worse (Get at least 1):
 Summon the summoned demons except for Cyak, putting humans in the back.
 
 Fight Vine:
-
+- Best Moon: NEW, Bad Moon: HALF>
 - Extra- Tarukaja/Rakukaja, Jack Frost - Attack, Hero - Defend, Yumi - Gun
 - H: MAG, Yumi - SPD
 
 ![Pride 4F](@/assets/images/smtifmaps/pride-4F.png)
 
-Walk back to the fountain and warp to the entrance back to the Expanse.
+Walk back to the geyser (doesn’t work on NEW MOON) and warp to the entrance back to the Expanse.
 
 ## World of Gluttony
 
@@ -170,7 +173,7 @@ Enter Horkus.
 Enter Horkus.
 
 Parasite:
-
+- Bad Moon: FULL
 - Hero - Megidola Stone, Yumi - Gun
 
 Walk back to Geyser then head to Casino.
@@ -331,6 +334,6 @@ Red Line - Green Line - (Switch to North) Yellow Line - Orange Line
 ![HAZAMA](@/assets/images/smtifmaps/hazama-8.PNG)
 
 Fight Hazama:
-
+- For safety, you can adjust moon to NEW MOON.
 - Turns 1-5: Luster Candy both
 - After: Sword, Hinraya on Hero

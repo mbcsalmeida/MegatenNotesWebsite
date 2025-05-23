@@ -658,6 +658,8 @@ Finally head to Lucifer
 
 ## Kether Castel
 
+Enter at HALF MOON descending.
+
 ![Makai](@/assets/images/smt2maps/MAKAI-7.png)
 
 Go up.
