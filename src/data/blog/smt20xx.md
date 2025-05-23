@@ -177,7 +177,7 @@ Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
 Shop (need 6000):
 - 2x Dolphin Helm
 
-Grab SPD Incense.
+Grab SPD Incense and climb to the Terminal.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-2.png)
 
@@ -185,12 +185,22 @@ Grab SPD Incense.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-4.png)
 
+Now there's two options:
+
+#### More Fusions, More Recruitments (Option 1)
+
 Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern/Jack Frost, while grinding some money.
 
-Go to South Section, recruit an Angel (14) and a Bogle (13) /Azumi (16).
+Go to South Section B1F through the Underground, recruit an Angel (14) and a Bogle (13) or Azumi (16).
 
 Transfer to underground, fuse:
 - Kinnari x Ihika = Hag
+
+OR
+
+#### Harder Recruitments (Option 2)
+
+Transfer to the Underground and walk to South Section, recruit an Angel (14), Hag (15) and a Bogle(13) or Azumi (16). If you can’t find a Bogle/Azumi before the other two, later get an Ihika in East Section.
 
 Transfer to South Section and walk back to the shop. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy:
 - 2x 5800 gloves for each character
@@ -202,7 +212,7 @@ Fights:
 - Lilim - Hama or Run Away
 - Others - ノロイの木馬
 
-Prioritze the gloves on the Ain, she stops dying. Once you hit level 18, recruit a Ocypete.
+Prioritze the gloves on the Ain, she stops dying. (Option 1): Once you hit level 18, recruit a Ocypete.
 
 Once you've bought everything, walk back to the terminal.
 
@@ -211,9 +221,11 @@ Head to the Colosseum, fight round 2.
 Head to the Virtuals, fight Ogre:
 - Gun, Zionga
 
-Fuse:
+(Option 1) Fuse:
 - Pixie x Jack Lantern = Aquanz
 - Aquanz x Ocypete = Celeano
+
+(Option 2) Alternatively, recruit a Celeano once you're level 22.
 
 Transfer to the Underground and head to West Section.
 
@@ -411,7 +423,7 @@ Fuse Sword:
 - Nue x Sword = Better Sword
 
 Equip the sword.
-Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs then head to the center.
+Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs and 10-15x Hamayas then head to the center.
 
 
 ### Center Passageway
@@ -438,5 +450,7 @@ Use Amulet.
 Grab Hangonkou and (Optional) Soma.
 
 Fight Metatron:
-
+- Use the さざなみの笛 to Necroma Celeano and attack with an Hamaya
+- Use Diarama to heal the hero and Ain alternatively and attack with Sword almost every turn.
+- Use a Soma when Ain is in danger or her MP is low
 
