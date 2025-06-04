@@ -1,0 +1,75 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Main from "@/layouts/Main.astro";
+import Image from "astro/components/Image.astro";
+import { SITE } from "@/config";
+import majin from "@/assets/images/covers/majin1.png";
+import kyuuyaku from "@/assets/images/covers/kmt.png";
+import tokyo from "@/assets/images/covers/tokyorequiem.png";
+import arcadia from "@/assets/images/covers/arcadia.jpg";
+import p1 from "@/assets/images/covers/p1-psp-jp.jpg";
+import aegis from "@/assets/images/covers/p3aegis.jpg";
+import slime from "@/assets/images/covers/slime.png";
+
+
+interface Plan {
+  title: string;
+  image: ImageMetadata;
+}
+
+const plans: Plan[] = [
+  {
+    title: "Kyuuyaku Megami Tensei",
+    image: kyuuyaku,
+  },
+  {
+    title: "Shin Megami Tensei: Persona",
+    image: p1,
+  },
+  {
+    title: "Aegis: The First Mission",
+    image: aegis,
+  },
+  {
+    title: "Touhou Artificial Dream in Arcadia",
+    image: arcadia,
+  },
+  {
+    title: "Majin Tensei",
+    image: majin,
+  },
+  {
+    title: "Shin Megami Tensei: Tokyo Requiem",
+    image: tokyo,
+  },
+  {
+    title: "Slime Mori Mori: Shougeki no Shippo Dan",
+    image: slime,
+  },
+];
+---
+
+<Layout title={`Plans | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Plans" pageDesc="My future speedrun plans.">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {plans.map((plan: Plan) => (
+        <div class="relative group overflow-hidden rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 aspect-video">
+            <Image 
+              src={plan.image} 
+              alt={plan.title}
+              class="!max-w-full"
+            />
+          <div class="absolute inset-0 bg-black/40 flex items-center justify-center">
+            <h2 class="text-white text-xl md:text-2xl font-bold text-center px-4">
+              {plan.title}
+            </h2>
+          </div>
+        </div>
+      ))}
+    </div>
+  </Main>
+  <Footer />
+</Layout> 
