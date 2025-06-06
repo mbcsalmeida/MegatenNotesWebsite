@@ -240,4 +240,34 @@ Kill the skeleton at the exit and go.
 
 ## Map 28
 
-start by summoning 6 birds and uriel. Next turn have mc negotiate with the bird and send all the birds to the middle. Heroine continues going the north route. Have both mc and heroine go through the north route while all the birds defeat all the flying enemies (deaths are fine as long as its not highest level bird or uriel) after there done have all of them return to the comp and uriel stays to support mc and heroine. Go to the left side and cover the generators and get the top chests 
+First run, MC negotiate with Houou. Then Heroine start summoning 6 birds and Uriel.
+
+Send all the birds to the middle. Heroine continues going the north route. 
+
+Have both mc and heroine go through the north route while all the birds defeat all the flying enemies (deaths are fine as long as its not highest level bird or uriel).
+
+Have the birds cover the generators and heal them back with Uriel if needed. Get top right chest and equip on the Heroine.
+
+Slowly chip away at the enemies.
+
+---
+
+After the stage, go left in the map for the next stage.
+
+## Map 29
+
+Advance with heroine and summon 2 Houou and 2 Jatayu and Uriel. MC moves close the other Houou to recruit it.
+
+MC tries to recruit Houou. Move the Jatayu to pick up the bottom left and right chests. 
+
+Then join MC and Heroine at the middle to fight encounters, send Uriel and a Houou to the generator.
+
+Then send a Houou to get the top left chest. Equip these on the Hero.
+
+Raphael joins.
+
+---
+
+Go back all the way to the right for the next stage.
+
+## Map 31
