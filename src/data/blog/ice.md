@@ -41,9 +41,9 @@ Settings:
 
 Go to park and inspect the tree for a gum. Go to building, left house and inspect TV in the living room, in the room bookshelf, bed and desk.
 
-Fight encounters with Dark Howl.
+Talk to Amy, Gale is reverted back. Fight encounters with Dark Howl.
 
-Talk to Jin. Then go underground. Go to Hotel and get cloth, HEAl.
+Talk to Jin. Then go underground. Go to Hotel and get cloth from second bedside table, HEAl.
 
 Sell:
 
@@ -56,7 +56,7 @@ Buy:
 
 Fight Amanojaku:
 
-- Crush Claw
+- AUTO ATTACK
 - Heal with Dia
 
 Pick up Repel Charm chest and use it. Solve the puzzle for the key and proceed north. After the Repel Charm wears out, just fight encounters. Heal with dia and heal MP with the Chakra Drink
@@ -96,35 +96,39 @@ Fight Nozuchi:
 
 - Crush Claw/Dark Howl, Heal
 
-Back to Water Town.
+Angel Wing to Water Town.
 
-Leave Water Angel Town. Walk to Middle Kingdom. Grab chest before the second screen of the Lost Forest.
+Fuse:
+- Gale x Two Extra demons
+
+Leave Water Angel Town. Walk to Middle Kingdom, make sure to savescum for safety. Grab chest before the second screen of the Lost Forest with the 魔よけのお札.
 
 Slowly grind to level 10.
 
 On the path, grab chest with Magic Gum. Grab chest with Luck Gum.
 Recruit Deli: ハートのかけらは２つ
-Recruit Ebisu.
-Recruit Toutetsu (Shoklam) or Hippou
 
-Quiz Master:
+In Middle Kingdom, Quiz Master:
 
 - 3, 1, 2, 3, 3, 2, 1, 3, 2, 3
 - 1, 1, 2, 3, 1, 3, 2, 1, 2, 1
 - 2, 2, 3, 2, 3, 1, 2, 1, 3, 1
 - 2, 2, 2, 3, 2, 1, 1, 2, 3, 3
 
-Grab Angel Hammer skill in the healer house. Grab MGuard and Magic Gum in the house right of the VN. Talk to Amanojaku:
+Grab Angel Hammer skill in the healer house. Grab MGuard and Magic Gum from bed and wine in the house right of the VN. Talk to Amanojaku:
 
 - First option - なやみを　きいてみる
 - Second option - チカラ強いデビルが　いいと思う
 
 Fuse:
-
 - Onmoraki x Two-Tail - Razor
-- Razor x Undine - Cait Sith
-- Gale x Two Extra demons
+- Undine x Razor - Cait Sith
 
+You need to be level 10 for the rest. So head back and save scum to grind to level 10. Then:
+Recruit Ebisu.
+Recruit Toutetsu (Shoklam) or Hippou
+
+Once you hit level 10, summon Deli. 
 If you've already recruited Ebisu, Fuse:
 
 - Cait Sith x Ebisu - Makuragaeshi (Tarukaja, Media)
@@ -135,14 +139,13 @@ Sell:
   Buy:
 - 11x Chakra Drinks
 
-Trainer:
-
+Trainer (1500 Deli, 900 Shoklam):
 - Deli - All spells
 - Shoklam - All spells
 
 Talk to Paku. Head to the Light Palace.
 
-Grab chest with 1000 macca.
+Grab chest with 1000 macca in 1F.
 
 Save. Summon Deli in front of Makuragaeshi.
 Fight 2x Sea Ram + Irontaur:
@@ -157,17 +160,17 @@ Put Makuragaechi on the Kinglizer.
 
 Estoma but fight any battles that pass through in the Deus Forest.
 
-Enter the Earth Angel city. Go to the healer and talk to Amy.
+Enter the Earth Angel city. 
 
 Talk to Ami in the Hotel. Grab M-Guard Incense in tree. Go to the house next to it and grab the Mirror Fossil and the Attack Incense.
 
 Go through forest, avoid encounters now, until Babel Tower.
 
-Grab chest with 2000. Talk to Paku on the 2nd floor. Go up and travel the disappearing path and grab the third Babel Shard to complete the Stone Tablet.
+Grab chest with 2000 in 1F, right to it for stairs. Talk to Paku on the 2nd floor. Go up and travel the disappearing path and grab the third Babel Shard to complete the Stone Tablet.
 
-In first floor, press the switches in the dragons, order: Blue -> Yellow -> Black -> White. Grab the first Babel Shard.
+In first floor, press the switches in the dragons, order: Blue (above chest) -> Yellow (furthest) -> Black (right from entrance) -> White (northest). Grab the first Babel Shard.
 
-Go to the second floor. Press the switch on the triangles on the floor to light up all the candles. Then trigger the handle to switch and grab the second Babel Shard.
+Go to the second floor. Press the switch on the triangles (top right, bottom left, bottom right, top left) on the floor to light up all the candles. Then trigger the handle to switch and grab the second Babel Shard.
 
 Go back to the first floor and go to the portal. Input the passwords:
 
@@ -175,7 +178,7 @@ Go back to the first floor and go to the portal. Input the passwords:
 - すべてがはじまり
 - すべてがおわる
 
-Grab Revival Bead chest.
+Grab Revival Bead chest (stairs down).
 
 Fight with 2x Polevick and Gashadoropu
 
@@ -196,12 +199,11 @@ Go the rightmost portal and talk to Besu for it to join.
 
 Evolve Gale into ATTACK Gale.
 
-Turn back through the Time Tower and to Babel Tower. Use an Angel Wing back to Middle Kingdom. Go to the shop and buy 11x Angel Wings and sell some gums.
-
+Turn back through the Time Tower and to Babel Tower. Use an Angel Wing back to Middle Kingdom. 
 Sell:
-
 - Gums
-  Buy:
+
+Buy:
 - 5x Angel Wings
 - 11x Chakra Drinks
 - 3x Light Cards
@@ -209,6 +211,10 @@ Sell:
 Heal.
 
 Go to the mansion and buy Gale his skill. Then walk back to Babel Tower with estoma on. Fight any random encounters with (Blade Blow, Heart Shizuku, Taiatari).
+
+Once through in town, buy:
+- 5x Chakra Drinks
+- 5x Medicines
 
 Go through underground makai.
 
@@ -239,8 +245,9 @@ Talk to Lucifer.
 
 Leave the palace and use an Angel Wing to Central Land.
 
+Sell:
+- Gums
 Buy:
-
 - 20x Dattonofue Cards
 
 Leave east.
