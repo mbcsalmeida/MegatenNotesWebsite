@@ -287,18 +287,16 @@ Fight Zebul:
 - Auto Attack
 - Heal status effects with Soma.
 
-Angel Wing back to Pandemonium.
+Walk back to Pandemonium.
 
 Mansion:
 
-- Makuragechi x Shoklam/Hippou - Dominio (Estoma, Tarukaja, Media)
-- Dominio x Besu - Agni (Tarukaja, Estoma, Magna)
+- Makuragechi x Shoklam/Hippou - Domovoi (Estoma, Tarukaja, Media)
+- Besu x Domovoi - Agni (Tarukaja, Estoma, Magna)
 
 Put Osiris and Agni first.
 
 Go through gate to the Time Tower.
-
-Go back to the Time Tower.
 
 ## Destroyed World
 
@@ -343,11 +341,11 @@ Head north.
 
 Walk into Ausuto Shrine.
 
-Push rocks to the holes to unlock path.
+Push rocks to the holes to unlock path, right down after the first one then walk back. 
 
-Second room, talk to the purple statue. Then into the dark statue.
+Second room, talk to the purple statue. Then into the blue statue.
 
-Put Selki up front where Osiris was.
+Put Selki up front where Osiris was and Aerophant somewhere in the back.
 
 Fight Terion (Gale, Selki, Agni):
 
@@ -364,7 +362,8 @@ Head west and north to the city. Fight encounters.
 In the Underground city, Fuse:
 
 - Aerophant x Osiris - Frankie (Mediarama, Sukukaja, Magna)
-- Dorun x Selkie - Airavata (Bufula, SpeedUp)
+- Selkie x Dorun - Airavata (Bufula, SpeedUp)
+Put both on front.
 
 Head out and use Angel Wing back to Rurounotami Village.
 
@@ -441,25 +440,16 @@ Fight Disciple of Fire (Gale, Frankie, Airavata):
 
 Go back and watch Gale evolve. Angel Wing to the city.
 
-Relic fusion:
-
-- Komakai relic
-- Mirror relic
-- Vein relic
-  INTO Airavata
-
-Go back to the bridge and go to the cave. Escape from encounters and get the third shard.
+Go back to the bridge and go to the cave. On the second room, say Yes, No, No, Yes. Third room, No, No, Yes. Escape from encounters and get the third shard.
 
 Transfer back to Rurou Village and talk to the guy in the Hotel.
 
 Transfer back to the Underground City and go through the bridge.
 
-Make sure you have 4500, otherwise sell items. In Androma, buy Gale's skills.
+Go through the tower. In teleporter intersection, go right.
 
-Go through the tower.
+Shugoshin:
 
-Shingoku:
-
-- Megido, Mediarama, Tarukaja
+- Toripuru Baisu, Mediarama, Tarukaja
 
 Become god.
