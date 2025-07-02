@@ -236,7 +236,7 @@ Then grab the 1024 Macca (3) and head back to the pit to fall.
 Grab the Reiki no Sword (1).
 
 Fuse:
-- Angel x Hag = Houou
+- Angel x Hag or Ocyupete x Hag = Houou
 - Houou x Spirit Sword = 小狐丸
 
 Grab Chakra Pot (4).
@@ -438,5 +438,10 @@ Use Amulet.
 Grab Hangonkou and (Optional) Soma.
 
 Fight Metatron:
-
+- Use Necroma item on Celeano and use Hamaya/Heal with Diarama if you wanna be safe
+- Sword, Diarama and Rakunda. But react accordingly with the Diarama, especially if a strong attack comes out, you dont want Ain or the Hero to die.
+- Afterwards, return Celeano, reduces menuing and Metatron doesnt have Dekunda.
+- Rest of the fight is taking turns healing Ain or the Hero with Diarama, trying to attack with Sword every turn and if HP is up because he used Dekaja/Mahama/Marin Karin then use a Megidola Stone or Hamaya too.
+- In a very dangerous situation, like he just used Megidoalon and both are low HP, use Soma with Hero on Ain and try to heal Hero with Diarama. At this level (30-32 iirc) we should outspeed Metatron
+- If the Hero dies, you can revive him with the Hangonkou we get on the 12th floor but only once.
 
