@@ -53,22 +53,21 @@ Head up, breaking the block and head to Toad Town. Grab the hidden **Stardust**.
 Go to the Mart and buy:
 - Fill out questionaire and say "Mushroom Make Me Healthy", use Select to bring up alphabetical menu and press Select to cycle through the words (3 Select for Mushroom, 0 for Make, 1 for Me and 1 for Healthy)
 - Fill out questionaire and say "Oh Yeah Luigi Time"
-- 2 Repel
+- 3 Repel
 
 Go to the Berry vendor and buy:
 - 1 Pecha Berry
 - 2 Rawst Berries
 - 2 Cheri Berry
 - 1 Persim Berry
-- 1 Chesto Berry
+- 2 Chesto Berry
 
-Use *Cap Candy* on Blooper. Give Chesto Berry to Blooper.
-
-Head right to World 1-2, use repel.
+Head right to World 1-2.
 
 Don’t take the pipe, head right underneath the first runner
 Repel at the first spinner and run down and right (should be able to dodge the second runner).
-Bag manip the second spinner.
+
+At the bag manip on the second spinner - Use *Cap Candy* on Blooper. Use Repel. Give Chesto Berry to Blooper.
 
 Take the pipe to Peach’s Castle.
 
@@ -107,7 +106,9 @@ Leader Peach:
 - Baby Yoshi: Poison Gas + Water Gun
 - Crazee D: Poison Gas + Water Gun
 
-Use Cap Candy on Blooper, learn BUBBLE BEAM over Water Gun. Exit the castle to the pipe and grab the **rare candy** on the block above. Take the pipe, walk into the pipe to World 2.
+Exit the castle to the pipe and grab the **rare candy** on the block above. Take the pipe to go back to Toad Town.
+
+MENU - Use Cap Candy on Blooper, learn BUBBLE BEAM over Water Gun. TURN OFF Exp share. Add TM Case? Use repel. 
 
 **Cap Trainer Luigi 2**:
 - Bubble Beam
@@ -138,6 +139,7 @@ Koopa King Bowser:
 - Toady: Bubble Beam, heal if confused
 - Bowser: Poison Gas + Bubble Beam
 
+Heal. 
 Puzzle 2, 4, 1
 
 Leader Daisy:
@@ -145,13 +147,9 @@ Leader Daisy:
 - Tweester: Bubble Beam, make sure to have enough health for the next one
 - Monty Mole: Bubble Beam
 
-Use **Cap Candy** on both Blooper and Baby Yoshi.
-
 Take pipe, grab **Atk Bean**, turn bullet bill around and shoot bullet bill to go past the green blocks then walk back.
 
-Return to the center and go down to Toad Town. Talk to the first toad to the right and get the Yoshi Whistle.
-
-Put Yoshi Whistle on Select and the Warp Pipe, TM Case and Escape Rope to the list. BOX YOSHI. Move with Yoshi now.
+MENU - Use **Cap Candy** on both Blooper. Put TM Case on Select and the Warp Pipe and Escape Rope to the list. Use a Repel. BOX YOSHI. RELEARN Venoshock over Poison Gas.
 
 Walk back in and go to World 4.
 
@@ -160,12 +158,10 @@ Walk back in and go to World 4.
 P. Coiner Inocybe:
 - Bubble Beam
 
-Use a repel.
-
 Head into the house to heal if low on health and/or Bubble Beam.
 
-P. Coiner Oyster:
-- Bubble Beam, Pound
+P. Coiner Fisherguy:
+- Bubble Beam
 
 Talk to the toad and pay 100 coins to get the Koopa Shell. Surf to the right and enter the cave.
 
@@ -184,7 +180,6 @@ Give Power Anklet to Blooper.
 
 **TM's**
 - Surf over Pound
-- Venoshock over Poison Gas
 
 Enter the casino. Stick to the wall to the left, grab 50 coins from the trash can.
 
@@ -199,14 +194,14 @@ Cap. Trainer Luigi 3:
 - Bean - Venoshock
 - Koopa Troopa - Surf
 
-Heal with shrooms and equip Pecha Berry on Blooper.
-
 Pay the wager on middle machine, then left then right one in front of Luigi.
+
+Heal with shrooms and equip Pecha Berry on Blooper.
 
 Leader Waluigi:
 - Surf
 
-Warp out. Give Blooper the Power Anklet and use the Cap Candy. Use a Repel.
+Warp out. Give Blooper the Power Anklet and use the Cap Candy - GET YOSHI BACK. Use a Repel and heal.
 
 Take the Warp Pipe to Toad Town to get to the pipes.
 
@@ -217,7 +212,7 @@ Magician Kamek:
 
 Walk left and south, down the stairs to the beach. Grab **Big Pearl** on the rock and **Shell Bell** on the other rock.
 
-Talk to the taxi and head to Wario's HQ, cue cutscene. Grab **Nugget** above the HQ and go to Department Store.
+HEAL AT CENTER. Talk to the taxi and head to Wario's HQ, cue cutscene. Grab **Nugget** above the HQ and go to Department Store.
 
 Buy from 1st Floor:
 - 11 Super Shrooms
@@ -229,23 +224,13 @@ Buy from 2nd Floor:
 - 28 X Sp. Attack
 - 3 X Sp Defense
 
-Go to Diamond Academy.
-
-Enter the Academy and choose whatever pokemon, then run away.
-
-Factory Head Penny:
-- X Sp Attack
-- Virus: Bubble Beam
-- Virus: Surf
-- Virus: Surf
-
 Go to Club Sugar. Follow Jimmy's moves.
 
 Dancer Jimmy:
 - X Defense
 - Surf
 
-Go to Ashley's House.
+Heal. Go to Ashley's House.
 
 Koopa King Bowser:
 - X Defense, X Speed, X Sp Attack
@@ -254,16 +239,26 @@ Koopa King Bowser:
 - Kamek: Surf
 - Bowser: Venoshock
 
-Head inside the house, drop down.
+Heal. Head inside the house, drop down.
 
-Go up, activating the statues. In front of the trainer, put Podoboo on front:
+Go up, activating the statues. In front of the trainer, put Yoshi on front:
 - Switch to Blooper, Surf
 
 Switch back the Blooper on front.
 
 Answer the quiz then decline the fight with Ashley.
 
-Go back to Wario Ware Inc.
+Go to Diamond Academy. REMOVE POWER ANKLET.
+
+Enter the Academy and choose whatever pokemon, then run away. 
+
+Factory Head Penny:
+- X Sp Attack
+- Virus: Bubble Beam
+- Virus: Surf
+- Virus: Surf
+
+Heal and ADD BACK POWER ANKLET. Go back to Wario Ware Inc.
 
 Cap Trainer Red:
 - X Defense, X Sp Defense, 2x X Sp Attack
@@ -282,9 +277,11 @@ Leader Wario:
 - Fuzzy: Surf
 - Spike Top: Surf
 
-Use Cap Candy - LEARN Sludge Wave OVER Baby-Doll Eyes. Warp Pipe to Toad Town.
+Warp Pipe to Toad Town. Walk into pipe to world 5.
 
 ## World 5
+
+Use Cap Candy - LEARN Sludge Wave OVER Baby-Doll Eyes.  Use repel.
 
 Kong Guard Oak and Kong Guard Elm:
 - Surf
@@ -336,6 +333,8 @@ Heal up. Go to Mart, you'll wanna use all your money:
 
 Put Yoshi in Party and box Gooper. Lose the next fight.
 
+MENU - Use Super Repel and get Blooper back.
+
 Take control of Toad, head left and down and fight the guard.
 
 Kong Guard Magnolia:
@@ -350,7 +349,7 @@ Koopa Troop Cashew:
 
 Heal Hammer Bro, talk to the Koopa Troopa, then switch back to Mario
 
-Head around and up, !bring in Blooper at the grass!, dodge the spinner in the tall grass, then the toad spinner.
+Head around and up, dodge the spinner in the tall grass, then the toad spinner.
 
 Koopa Troopa Pecan:
 - Surf
@@ -403,11 +402,11 @@ Koopa King Bowser and Admin Kamek:
 
 Head to the water behind the house and surf left, down, out of the Safari Zone
 
-After talking with the professor, exit down to the water left and up, put BLARGH back into the party and enter the temple.
+After talking with the professor, exit down to the water left and up, put Baby Yoshi back into the party and enter the temple.
 
 Leader Donkey Kong:
-- X SpAttack + Flame Charge
-- Sludge Wave + heal while Yoshi is alive
+- X SpAttack
+- Sludge Wave
 
 Use Cap Candy. Relearn Snipe Shot over Bubble Beam.
 
@@ -481,7 +480,7 @@ Royal Guard Paraplonk:
 - Paratroopa: Heal, Ice Beam
 
 Royal Guard Goomp:
-- Strollin’: X Defense, X Speed, Sludge Wave
+- Strollin’: X Defense, Sludge Wave
 - Goombastack: Surf
 
 Royal Guard Sgt. Guy:
@@ -503,19 +502,21 @@ Cap Candy.
 
 ## World 7
 
-Heal the luma. Check for repels and in case needed buy more at the blue luma. Put Blargh on front. Take the right path.
+Heal the luma. Use Cap Candy and use Repel. 
+
+Go to Luma and buy 11x Max Repels. 
 
 Take the right side.
 
 Once you take the first star, stick to wall down all the way right, then up, left, down, right.
 
 MrBlizzard: 
-- Lava Plume
+- Sludge Wave
 
-Dodge the spinner (box Peewee Piranha).
+Dodge the spinner.
 
 Penguin: 
-- Lava Plume
+- X SpkAtk, Sludge Wave
 
 WATCH OUT FOR SPINNER AFTER STAR, STICK TO RIGHT WALL. (Optional) Grab **Star Piece** in Ice Puzzle
 
@@ -523,7 +524,7 @@ Heal and use Blooper.
 
 Crystal K: X SpAtk, Surf
 
-Warp Pipe back to Rosalina. Heal at the luma.
+Escape Rope + Warp Pipe back to Rosalina. Heal at the luma.
 
 Collect the Comet Shard.
 
@@ -532,12 +533,12 @@ Take the left path.
 Go left, down and dodge the runner.
 
 Luma:
-- Sludge Wave x2
+- X SpkAtk, Sludge Wave x2
 
 Angry Sun and Happy Moon:
 - Surf + Sludge Wave
 
-Warp Pipe back to Rosalina.
+Escape Rope + Warp Pipe back to Rosalina.
 
 Leader Rosalina:
 - X Sp Def, X Sp Atk x3, X Speed
@@ -550,8 +551,6 @@ Leader Rosalina:
 Heal at the Luma and Cap Candy. Talk to Luma besides Rosalina to go to Bowser's Castle.
 
 ## World 8
-
-Activate the GADD-PEL.
 
 ### 1F
 
@@ -599,7 +598,7 @@ Head up to Rainbow Road.
 
 Buy:
 - 10x Max Shrooms
-- 1x Full Restore
+- 1x Golden Mushroom
 
 Cap Trainer Luigi 5:
 - Goomba Stack: X Speed, X Spd Attack, Surf
@@ -631,6 +630,8 @@ Elite Four Toadsworth (BOTTOM LEFT):
 - Maw-Maw: Ice Beam
 - Yoob: Ice Beam
 
+Equip Air Balloon.
+
 Elite Four Elvin Gadd (TOP RIGHT):
 - Twirler: X Defence, X SpAtk x2, Snipe Shot
 - King Boo: Surf
@@ -638,10 +639,11 @@ Elite Four Elvin Gadd (TOP RIGHT):
 - Eerie: Surf
 - Broozer: Surf
 
-Put Blargg on front.
 
 Champion Mr. L:
-- Major Burrows: Lava Plume
+- Major Burrows: X Def 
+1. If Sucker punch/miss: X Spa, Surf, continue
+2. If Rock Slide hit: Surf, Heal, X Spa, Surf, continue
 - King Boo: X SpAtk/Surf + Snipe Shot
 - King Bobomb: Dragon Pulse/Surf
 - Mr Fish: Dragon Pulse/Sludge Wave
