@@ -1,0 +1,77 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Main from "@/layouts/Main.astro";
+import Image from "astro/components/Image.astro";
+import { SITE } from "@/config";
+import megaten from "@/assets/images/covers/megaten.png";
+import map from "@/assets/images/covers/map.png";
+import rpgsu from "@/assets/images/covers/rpgsu.png";
+import tracker from "@/assets/images/covers/tracker.png";
+
+---
+
+<Layout title={`Projects | ${SITE.title}`}>
+  <Header />
+  <Main
+    pageTitle="Projects"
+    pageDesc="Projects I've worked on or I'm actively working on."
+  >
+    <div class="grid grid-cols-1">
+
+      <a class="my-5 p-5 ring-1 hover:shadow-xl" href="https://rpgsu.org">
+        <Image src={rpgsu} alt={"RPGSU Website"} class={"rounded border"} />
+        <h2 class="font-bold text-xl">RPG Speedrunner Union</h2>
+        <p>
+          Speedrunning community focused on showcasing RPG speedruns. We do
+          offline and online events and restream japanese events.
+        </p>
+      </a>
+      <a
+        class="my-5 p-5 ring-1 hover:shadow-xl"
+        href="https://megatenspeedruns.com"
+      >
+        <Image
+          src={megaten}
+          alt={"Megaten Speedruns website"}
+          class={"rounded border"}
+        />
+        <h2 class="font-bold text-xl">Megaten Speedruns Website</h2>
+        <p>
+          Encyclopedia of information for speedruns of megaten games. Managed by
+          me. Currently translated in Spanish and Japanese.
+        </p>
+      </a>
+      <a
+        class="my-5 p-5 ring-1 hover:shadow-xl"
+        href="https://speedrun-events-worldmap.netlify.app/"
+      >
+        <Image
+          src={map}
+          alt={"Speedrun Events Worldmap"}
+          class={"rounded border"}
+        />
+        <h2 class="font-bold text-xl">Speedrun Events Worldmap</h2>
+        <p>
+          World Map with all on-site speedrun events all over the world.
+        </p>
+      </a>
+      <a
+        class="my-5 p-5 ring-1 hover:shadow-xl"
+        href="https://smt1-tracker.netlify.app/"
+      >
+        <Image
+          src={tracker}
+          alt={"SMT1 Demon Tracker"}
+          class={"rounded border"}
+        />
+        <h2 class="font-bold text-xl">SMT1 Demon Tracker</h2>
+        <p>
+          Tracker for Kill 'Em All speedrun in SMT1. Also useful for RetroAchievements.
+        </p>
+      </a>
+    </div>
+  </Main>
+  <Footer />
+</Layout>
