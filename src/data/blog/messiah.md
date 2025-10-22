@@ -84,35 +84,24 @@ Fuse:
 - Sheep x Owl - Angel
 - Jack Lantern x Lave Rat - Kali
 - Otohime x Amanojaku - Dynamis
+- Hippou x Imp - Zuriel
 
 Stage 9:
 
-- Summon Nekomata and Lava Rat/Kali
-- Go up and fight the upper vampire first
-- Then go down, focus on attacking the vampires to prevent charm, heal with Nekomata
-- Try to recruit a vampire
+- Summon Nekomata and Zuriel
+- ~Go left with Zuriel to fight the vampire, recruit a Gnome
+- Then go up
 
 Advance to next stage, it's only text.
 
-Fuse:
-
-- Hippou x Imp - Zuriel
-- Zuriel x Kali - Lindlam
-
-Battle strategy:
-
-- Angel
-- Lindlam
-- Dynamis
-
 Stage 10:
 
-- Summon Dynamis, defeat the vampires first
+- Summon Zuriel and Dyanamis, defeat the vampires first
 - Get the Energy on the stage and summon Angel and Lindlam, make sure to use the Mazio for extra damage
 
 Stage 11:
 
-- Summon Dynamis, Angel and Lindlam
+- Summon Dynamis, Angel and Zuriel, Gnome?
 - Wipe everything on the way to Odin
 
 Gale Evolves.
@@ -121,23 +110,24 @@ Gale Evolves.
 
 Fuse:
 
+- Zuriel x Kali - Lindlam
 - Dynamis x Lindlam - Houou
-  Make sure to include in party
-
-Stage 10:
-
-- Try to recruit an Imp (Gale), a Molokbel (Vampire) and Yukionna (Luck)
-- Summon Houhou first, then after getting the energy summon Angel and Vampire
-
-Stage 11:
-
-- Summon Houhou, grab energy and summon Vampire and Angel, go north
-- Send Houou across the other side to defeat the malakbel and defeat the other enemies on this side
-- Grab Molokbel with vampire
-- Grab Jack Lantern with Houou
-- You have to defeat every enemy
+Make sure to include in party.
 
 Stage 12:
+
+- Try to recruit an Imp (Gale), a Molokbel.
+- Summon Houhou first, then after getting the energy summon Angel, Gnome?
+
+Stage 13:
+
+- Summon Houhou, grab energy and summon Angel, Mizuchi? and Gnome
+- Send Houou across the other side to defeat the malakbel and defeat the other enemies on this side, go north, then south with the rest
+- Grab Molokbel if you dont have one already
+- Grab Jack Lantern with Houou!!
+- You have to defeat every enemy
+
+Stage 14:
 
 - Summon Houou
 - Go ahead with houou from the bottom and then top, send Houou ahead to fight the enemies and sneak with Gale to the end spot
@@ -147,17 +137,17 @@ Fuse:
 - Jack Lantern x Molobel - Dynamis
 - Angel x Imp - Culebre
 
-Stage 13 (Tough):
+Stage 15 (Tough):
 
 - Summon Houou, then Jack Frost after getting the Energy
 - Attack the Sheep with Mabufu and Houou, get the extra Energy to summon Culebre to attack the Jack Lanterns
 - Try to bait the demons at the center
 
-Stage 14 (Boss):
+Stage 16 (Boss):
 
 - Summon Houou and have it attack the wall with Maragi. Walk with Gale to energy.
 - Walk back and summon Culebre to attack the Pyro Jack. Grab the other energy. Grab Pyro Jack with Houou.
-- Summon Dynamis and start healing. Then send houou to attack Otohime and everyone else. Then focus on Jormungand.
+- Summon Dynamis and start healing. Houou attack Jormungand with special.
 
 ## World of Earth
 
@@ -169,31 +159,31 @@ Fuse:
 - Culebre x Vampire - Anzu
 - Nekomata x Mizuchi - Hippou
 
-Stage 15:
+Stage 17:
 
 - Summon Anzu and Hippou. Go grab energy with Gale and come back to summon Tupon.
 - Defeat Kali and Leprechaun first and go right to grab energy power. Return Hippou. Summon Dynamis and heal if needed.
 - Tackle demons on the left. Make sure to heal when attacking Vacha.
 
-Stage 16:
+Stage 18:
 
 - Grab energy in the center then go to tsuchigumo to the left near the other energy. Summon Anzu and Tupon and attack it then go to the center.
 - Summon Dynamis. Use Tarukaja and once the demons in the center are killed, attack Airavata with Tupon and Anzu, then go with Gale carefully, while healing.
 - Then head to the bottom right corner.
 
-Stage 17:
+Stage 19:
 
 - Summon Anzu and sent him ahead. Grab energy and summon Tupon, let it fight the Frankies.
 - Recruit 2x Dynamis.
 - Attack Vacha first with Tupon and then with Dynamis and Gale.
 
-Stage 18:
+Stage 20:
 
 - Go to energy point to the left and summon Tupon and Dynamis. Attack Frankie on top of you.
 - Then sent Tupon ahead to attack the Otohime. Then carefully move with Gale and Dynamis, attack from afar and heal respectively.
 - Then send Tupon to attack the Tsuchigumo and follow behind. Attack Tsuchigumo, then Airavata from afar then Frankies.
 
-Stage 19 (Boss):
+Stage 21 (Boss):
 
 - Grab Energy. Summon Tupon and sent it to fight the Dynamis. Sneak with Gale through the portal to the second area. You have to stick to the wall.
 - In the second one, stick to the wall and head to the third. Close to the statue, move Tupon to the third one as well.
@@ -202,32 +192,31 @@ Stage 19 (Boss):
 
 ## Central Land
 
-Make sure to add Urd to the party as well. Remove Anzu and Hippou.
+Make sure to add Sculd and Urd to the party as well. Remove Anzu and Hippou.
 
-Stage 20:
+Stage 22:
 
 - Summon Tupon and send him to fight the Golem on the left. Move to the left bridge, start fight the Dynamis if it sees you. Summon Dynamis to heal and back up.
 - When the Golem dies, go grab the energy. Summon another Dynamis.
 - Start slowly moving to the center. If needed heal with both Dynamis. Remember to use Tarukaja.
-- RECRUIT both Sylphs with Tupon
 
-Stage 21:
+Stage 23:
 
 - Summon Tupon and Sculd. Send Gale to the Energy Point, Sculd to the Nue and Tupon to the Fubaba. When they're attacking, summon Dynamis and start healing.
 - Go up, destroing the energy bodies. Then defeat the enemies on the right side before heading to the center.
 
-Stage 22:
+Stage 24:
 
 - If you have a flying Gale, fly directly to the point. Very straightforward.
 - If you have a walking Gale, summon two Dynamis to distract the demons.
 
-Stage 23:
+Stage 25:
 
 - Grab the middle energy point then stick to the right wall right outside of the bosses vision. Summon Tupon and Sculd and Dynamis.
 - Tarukaja everyone and attack Scythe with Sculd and Tengu with Tuppon and Gale while healing.
 - When they die, attack Loki with Sculd and the Tengu and Berserk with the rest.
 
-Stage 24 (Final Boss - Gapu):
+Stage 26 (Final Boss - Gapu):
 
 - Grab all energy points and then stand in front of one of the energy pillars.
 - Summon Sculd, Urd and two Dynamis
