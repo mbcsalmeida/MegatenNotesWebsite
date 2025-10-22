@@ -2,13 +2,13 @@
 author: Sion
 pubDatetime: 2025-05-16T00:09:00Z
 modDatetime: 2025-05-16T00:09:00Z
-title: Shin Megami Tensei 20XX
+title: Shin Megami Tensei 20XX - Law Ending
 slug: smt-20xx
 featured: false
-draft: false
+draft: true
 tags:
   - smt20xx
-description: Shin Megami Tensei 20XX - Chaos Ending notes.
+description: Shin Megami Tensei 20XX - Law Ending notes.
 ---
 
 ## Table of Contents
@@ -16,8 +16,8 @@ description: Shin Megami Tensei 20XX - Chaos Ending notes.
 ## General
 
 Stats:
-- Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
-- Ain - SPD til 9, MAG til 14, SPD til 13, VIT til 10, MAG
+- Hero - SPD til 10, INT til 8, SPD til 15, VIT
+- Ain - SPD til 9, MAG til 15, SPD til 13, VIT 
 
 In the maps, the white spot represents where you fell from a higher floor.
 
@@ -116,8 +116,14 @@ Transfer back to East Section B1F and grab Luck Incense (2) and Megidola Stone (
 
 Summary of strat:
 - Buy Mudoon item (ノロイの木馬) from Gaia in Undeground (transfer to Underground from terminal).
-- Use them on Kinnari, Jack Frost and Bennu til level 10.
-- Buy some more and one Hama item and do Virtuals?
+- Use them on demons to grind until level 10.
+
+Once you hit level 10, transfer to Downtown.
+
+Shop, buy:
+- Kaizer Armor, equip on MC
+
+Go to the Colosseum, fight.
 
 Go to Virtuals (Knocker Trafuri, fight Ghoul with Megidola Stone?).
 
@@ -169,15 +175,15 @@ Equip Rocket Hammer and get Disc 3. Then backtrack to B4F.
 
 ![South Section B4F](@/assets/images/smt20xxmaps/southB4F.png)
 
-Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
+Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters. Put Kaizer Armor on Ain.
 - Try to hit enemies with 4x and throw item with Hero and Heroine.
 - Save after winning a fight.
-- After 14 MAG, Ocypete die to Megidola Stones.
+- After 14 MAG, Ocypete and Gaians die to Megidola Stones.
 
-Shop (need 6000):
+Shop (need 5000):
 - 2x Dolphin Helm
 
-Grab SPD Incense and climb to the Terminal.
+Grab SPD Incense.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-2.png)
 
@@ -185,22 +191,12 @@ Grab SPD Incense and climb to the Terminal.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-4.png)
 
-Now there's two options:
-
-#### More Fusions, More Recruitments (Option 1)
-
 Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern/Jack Frost, while grinding some money.
 
-Go to South Section B1F through the Underground, recruit an Angel (14) and a Bogle (13) or Azumi (16).
+Go to South Section, recruit an Angel (14) and a Bogle (13) /Azumi (16).
 
 Transfer to underground, fuse:
 - Kinnari x Ihika = Hag
-
-OR
-
-#### Harder Recruitments (Option 2)
-
-Transfer to the Underground and walk to South Section, recruit an Angel (14), Hag (15) and a Bogle(13) or Azumi (16). If you can’t find a Bogle/Azumi before the other two, later get an Ihika in East Section.
 
 Transfer to South Section and walk back to the shop. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy:
 - 2x 5800 gloves for each character
@@ -212,7 +208,7 @@ Fights:
 - Lilim - Hama or Run Away
 - Others - ノロイの木馬
 
-Prioritze the gloves on the Ain, she stops dying. (Option 1): Once you hit level 18, recruit a Ocypete.
+Prioritze the gun and bullets. Once you hit level 18, recruit a Ocypete.
 
 Once you've bought everything, walk back to the terminal.
 
@@ -221,11 +217,9 @@ Head to the Colosseum, fight round 2.
 Head to the Virtuals, fight Ogre:
 - Gun, Zionga
 
-(Option 1) Fuse:
+Fuse:
 - Pixie x Jack Lantern = Aquanz
 - Aquanz x Ocypete = Celeano
-
-(Option 2) Alternatively, recruit a Celeano once you're level 22.
 
 Transfer to the Underground and head to West Section.
 
@@ -271,8 +265,7 @@ Transfer to Downtown.
 
 Go to Colosseum, fight Adonis (AUTO).
 
-Say 戦うならオレが. Fight Ramedo:
-- Sword, Zionga, Rakunda
+Say 黙っている。
 
 Go to Virtuals 4, kill Aeros and Gurr with guns, trafuri everything else.
 Fight Black Widow:
@@ -327,12 +320,15 @@ Bottom Map.
 ## B5F
 ![North Section B5F](@/assets/images/smt20xxmaps/northB5F-2.png)
 
-Head to the passage to South B5F and through there climb back to B3F to go to the terminal and transfer to Downtown.
+Head to the passage to South B5F and through there climb back to B3F to go to the terminal.
+
+Transfer to the Underground, stop by the Gaian:
+- 2x Necroma items
 
 Go to the Shop and buy:
 - 5~10 Smoke Bombs
 
-Go to colosseum. Pick up items (2nd use, 5th Slicer, Desert Eagle) and fight Adonis:
+Go to colosseum. Fight Adonis:
 - AUTO
 
 Virtuals 5. Be careful with some encounters, go for Gun + Trafuri by default. 6x Jin use a smoke bomb and be careful to not let Celeano die because if you're Chaos you won't be able to resummon it. If he dies, just fight the encounters and try to run away when possible. Dangerous fights use a smoke bomb.
@@ -346,7 +342,7 @@ Go to Colosseum. Pick up items (1st and 4th) and fight Okamoto:
 At the Gym talk to everyone and then go back to the room next to the owner to talk to Ain. Then re-enter that room for the Temple Knight scene.
 
 Choose:
-- 助ける
+- 見送る
 
 ![Downtown Rescue](@/assets/images/smt20xxmaps/downtown-rescue.png)
 
@@ -368,9 +364,6 @@ Enter the Gym and go to the room where Ain was to receive the invitation from th
 Choose any option at Madame. Then go back to the Gym to the Trainer's room and watch the event.
 
 ![South Section B1F](@/assets/images/smt20xxmaps/southB1F-2.png)
-
-Transfer to the Underground, stop by the Gaian:
-- 2x Necroma items
 
 Go to South Section B1F to head to the Prison.
 
@@ -404,9 +397,11 @@ Go to the center to fight Ramedo:
 - Phase 1: Sword, Rakunda
 - Phase 2: AUTO, heal with Soma or Jewels whenever HP is low
 
-Get the ID and go fall down to rescue Ain.
+Get the ID and go fall down to rescue Ain. 
+SAY:
+- ...
 
-## Center
+## Ueno
 
 Back in town, fight the Zelator:
 - Sword, Zionga
@@ -423,34 +418,5 @@ Fuse Sword:
 - Nue x Sword = Better Sword
 
 Equip the sword.
-Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs and 10-15x Hamayas then head to the center.
-
-
-### Center Passageway
-
-![Center Passageway](@/assets/images/smt20xxmaps/center-passage.png)
-
-After switches head north, in the intersection with the doors to your front and left, choose the left one and head up stairs.
-
-### Center B1F
-![Center B1F](@/assets/images/smt20xxmaps/centerB1F.png)
-
-### Center B10F
-![Center B10F](@/assets/images/smt20xxmaps/centerB10F.png)
-
-### Center B11F
-Use Amulet.
-![Center B11F](@/assets/images/smt20xxmaps/centerB11F.png)
-
-### Center B12F
-Use Amulet.
-
-![Center B12F](@/assets/images/smt20xxmaps/centerB12F.png)
-
-Grab Hangonkou and (Optional) Soma.
-
-Fight Metatron:
-- Use the さざなみの笛 to Necroma Celeano and attack with an Hamaya
-- Use Diarama to heal the hero and Ain alternatively and attack with Sword almost every turn.
-- Use a Soma when Ain is in danger or her MP is low
+Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs then head to the center.
 

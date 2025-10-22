@@ -2,31 +2,31 @@
 author: Sion
 pubDatetime: 2025-05-16T00:09:00Z
 modDatetime: 2025-05-16T00:09:00Z
-title: Shin Megami Tensei 20XX
+title: 真・女神転生20XX - カオス
 slug: smt-20xx
 featured: false
 draft: false
 tags:
   - smt20xx
-description: Shin Megami Tensei 20XX - Chaos Ending notes.
+description: 真・女神転生20XX - カオスのチャート
 ---
 
 ## Table of Contents
 
-## General
+## 一般
 
-Stats:
-- Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
-- Ain - SPD til 9, MAG til 14, SPD til 13, VIT til 10, MAG
+ステータス:
+- 主人公 - 速・10まで, 強力・12まで,速・15まで, 強力・20まで, 残しは体力
+- アイン - 速・9まで, 魔力・14まで, 速・13まで, 体力・10まで, 残しは魔力 
 
 In the maps, the white spot represents where you fell from a higher floor.
+地図には、白い点はどこかに落ちったところと示します。
 
 ## Downtown
 
 ![Downtown](@/assets/images/smt20xxmaps/downtown.png)
 
-Do opening event.
-Choose:
+最初のイベント。　選択技:
 - 「訳を聞く」
 - 「判った」
 - 「NO」
@@ -44,15 +44,15 @@ Complete the Virtuals - fight Kobold:
 
 ![Downtown](@/assets/images/smt20xxmaps/downtown-3.png)
 
-Go to the Underground.
+地下街へ。
 
 ## Undeground
 
 ![Underground 1F](@/assets/images/smt20xxmaps/underground1F.png)
 
-Have Pixie join you and grab chest with 400 Macca. Then head downstairs.
+ピクシーゲット。４００マッカの宝箱を獲得し、階下へ。
 
-Take two steps and Ain's event will trigger. Choose:
+二歩を踏まえて、アインのイベント。選択技：
 - 「とりあえず目が覚めるまで待つ」
 - 「助ける」
 - 「悪いけど勘弁してくれ」
@@ -177,7 +177,7 @@ Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
 Shop (need 6000):
 - 2x Dolphin Helm
 
-Grab SPD Incense and climb to the Terminal.
+Grab SPD Incense.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-2.png)
 
@@ -185,22 +185,12 @@ Grab SPD Incense and climb to the Terminal.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-4.png)
 
-Now there's two options:
-
-#### More Fusions, More Recruitments (Option 1)
-
 Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern/Jack Frost, while grinding some money.
 
-Go to South Section B1F through the Underground, recruit an Angel (14) and a Bogle (13) or Azumi (16).
+Go to South Section, recruit an Angel (14) and a Bogle (13) /Azumi (16).
 
 Transfer to underground, fuse:
 - Kinnari x Ihika = Hag
-
-OR
-
-#### Harder Recruitments (Option 2)
-
-Transfer to the Underground and walk to South Section, recruit an Angel (14), Hag (15) and a Bogle(13) or Azumi (16). If you can’t find a Bogle/Azumi before the other two, later get an Ihika in East Section.
 
 Transfer to South Section and walk back to the shop. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy:
 - 2x 5800 gloves for each character
@@ -212,7 +202,7 @@ Fights:
 - Lilim - Hama or Run Away
 - Others - ノロイの木馬
 
-Prioritze the gloves on the Ain, she stops dying. (Option 1): Once you hit level 18, recruit a Ocypete.
+Prioritze the gloves on the Ain, she stops dying. Once you hit level 18, recruit a Ocypete.
 
 Once you've bought everything, walk back to the terminal.
 
@@ -221,11 +211,9 @@ Head to the Colosseum, fight round 2.
 Head to the Virtuals, fight Ogre:
 - Gun, Zionga
 
-(Option 1) Fuse:
+Fuse:
 - Pixie x Jack Lantern = Aquanz
 - Aquanz x Ocypete = Celeano
-
-(Option 2) Alternatively, recruit a Celeano once you're level 22.
 
 Transfer to the Underground and head to West Section.
 
@@ -248,7 +236,7 @@ Then grab the 1024 Macca (3) and head back to the pit to fall.
 Grab the Reiki no Sword (1).
 
 Fuse:
-- Angel x Hag = Houou
+- Angel x Hag or Ocyupete x Hag = Houou
 - Houou x Spirit Sword = 小狐丸
 
 Grab Chakra Pot (4).
@@ -423,7 +411,7 @@ Fuse Sword:
 - Nue x Sword = Better Sword
 
 Equip the sword.
-Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs and 10-15x Hamayas then head to the center.
+Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs then head to the center.
 
 
 ### Center Passageway
@@ -450,7 +438,10 @@ Use Amulet.
 Grab Hangonkou and (Optional) Soma.
 
 Fight Metatron:
-- Use the さざなみの笛 to Necroma Celeano and attack with an Hamaya
-- Use Diarama to heal the hero and Ain alternatively and attack with Sword almost every turn.
-- Use a Soma when Ain is in danger or her MP is low
+- Use Necroma item on Celeano and use Hamaya/Heal with Diarama if you wanna be safe
+- Sword, Diarama and Rakunda. But react accordingly with the Diarama, especially if a strong attack comes out, you dont want Ain or the Hero to die.
+- Afterwards, return Celeano, reduces menuing and Metatron doesnt have Dekunda.
+- Rest of the fight is taking turns healing Ain or the Hero with Diarama, trying to attack with Sword every turn and if HP is up because he used Dekaja/Mahama/Marin Karin then use a Megidola Stone or Hamaya too.
+- In a very dangerous situation, like he just used Megidoalon and both are low HP, use Soma with Hero on Ain and try to heal Hero with Diarama. At this level (30-32 iirc) we should outspeed Metatron
+- If the Hero dies, you can revive him with the Hangonkou we get on the 12th floor but only once.
 
