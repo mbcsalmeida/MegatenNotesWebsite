@@ -16,8 +16,8 @@ description: Shin Megami Tensei 20XX - Chaos Ending notes.
 ## General
 
 Stats:
-- Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
-- Ain - SPD til 9, MAG til 14, SPD til 13, VIT til 10, MAG
+- Hero - SPD til 10, INT til 8, SPD til 15, VIT
+- Ain - SPD til 9, MAG til 15, SPD til 13, VIT 
 
 In the maps, the white spot represents where you fell from a higher floor.
 

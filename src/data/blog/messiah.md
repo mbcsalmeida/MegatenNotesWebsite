@@ -42,34 +42,36 @@ Stage 2:
 
 Stage 3:
 
-- Summon Amenouzume for Dia and Sheep for attacking Mizuchi
+- Summon Mizuchi to attack Garum
+- Summon Sheep to attack Mizuchi
 
 Stage 4:
 
-- Summon Gnome, Nekomata and Sheep
-- Attack Mizuchi with Sheep and Gnome, heal with Pixie
-- Move Nekomata and Rand to the Angel
+- Summon sheep to attack Mizuchi right
+- Summon Amenouzume and go attack Amenouzume and Mizuchi below
 
 Stage 5:
 
-- Amenouzume, Mizuchi and other water type demon
-- Attack
+- Summon Gnome and attack the Sheep
+- Then summon the Sheep and attack Mizuchi and move them over the poison swamp
 
 Stage 6:
 
-- Summon Nekomata and Amenouzume and move continuously
-- Then go ahead with Rand and move to the point
+In front of palace.
+- Summon Mizuchi to attack Lava Rat
+- Summon Sheep to attack Mizuchi
+- Summon Zourimuchi for extra hits on Jack Lantern
 
 Stage 7:
 
-- Summon the sheep and mizuchi and amenouzume
-- Attack the Lava Rat with Mizuchi and Mizuchi with the Sheep and attack the pillars with Gale
-- Keep healing with Amenouzume
+- Summon Amenouzume and zoom to the end
 
 Stage 8:
 
-- Summon Nekomata and Amenouzume
-- Attack the walls together
+- Attack the first wall with Rand and Gale
+- Attack Owl with Gale and summon Mizuchi then attack the walls
+- Attack Lava Rat with Mizuchi and advance with Jin to attack the wall, Gale kills the owl
+- Crush the last wall
 
 Choose Akira.
 
@@ -88,21 +90,22 @@ Fuse:
 
 Stage 9:
 
-- Summon Nekomata and Zuriel
-- ~Go left with Zuriel to fight the vampire, recruit a Gnome
-- Then go up
+- Summon Zuriel and Angel, attack the Vampires with Angel and the Gnomes with Gale
+- Recruit a Gnome
 
 Advance to next stage, it's only text.
 
 Stage 10:
 
-- Summon Zuriel and Dyanamis, defeat the vampires first
-- Get the Energy on the stage and summon Angel and Lindlam, make sure to use the Mazio for extra damage
+- Summon Zuriel and Angel and take the first bridge
+- Zuriel attacks vampire, Angel attacks Nekomata and Gale the rest
+- Then go through the Poison swamp and attack the rest
+
+Add Mizuchi and Gnome to the party.
 
 Stage 11:
-
-- Summon Dynamis, Angel and Zuriel, Gnome?
-- Wipe everything on the way to Odin
+- Summon Angel, Mizuchi and Zuriel
+- Rush to Odin.
 
 Gale Evolves.
 
@@ -112,42 +115,41 @@ Fuse:
 
 - Zuriel x Kali - Lindlam
 - Dynamis x Lindlam - Houou
-Make sure to include in party.
+- Angel x Mizuchi - Jikoukuten
+Make sure to include in party
 
 Stage 12:
 
-- Try to recruit an Imp (Gale), a Molokbel.
-- Summon Houhou first, then after getting the energy summon Angel, Gnome?
+- Move over to the right to attract the attention of the Malakbel and summon Gnome and Angel and attack
+- Try to recruit Molokbel
+- Then go to the bottom left corner and attack the Unicorn with Gale and Imp with Angel
+- Get Energy to summon Houou and attack the rest
 
 Stage 13:
 
-- Summon Houhou, grab energy and summon Angel, Mizuchi? and Gnome
-- Send Houou across the other side to defeat the malakbel and defeat the other enemies on this side, go north, then south with the rest
-- Grab Molokbel if you dont have one already
-- Grab Jack Lantern with Houou!!
-- You have to defeat every enemy
+- Summon Houhou and attack Molokbel across the cliff
+- Summon Gnome and Mizuchi and attack Molokbel and Jack Lantern below
+- Summon Angel and attack Unicorn above
 
 Stage 14:
 
 - Summon Houou
 - Go ahead with houou from the bottom and then top, send Houou ahead to fight the enemies and sneak with Gale to the end spot
 
-Fuse:
-
-- Jack Lantern x Molobel - Dynamis
-- Angel x Imp - Culebre
+Add Garum to party.
 
 Stage 15 (Tough):
 
-- Summon Houou, then Jack Frost after getting the Energy
-- Attack the Sheep with Mabufu and Houou, get the extra Energy to summon Culebre to attack the Jack Lanterns
-- Try to bait the demons at the center
+- Go to energy point on the top left and then summon Dynamis.
+- Summon Jikoukuten and send them to the middle to attach the Kachi and Unicorns.
+- While they attack, grab the other energy point.
+- Summon Mizuchi and Houou and attack the middle demons.
 
 Stage 16 (Boss):
 
 - Summon Houou and have it attack the wall with Maragi. Walk with Gale to energy.
-- Walk back and summon Culebre to attack the Pyro Jack. Grab the other energy. Grab Pyro Jack with Houou.
-- Summon Dynamis and start healing. Houou attack Jormungand with special.
+- Walk back, have Houou attack the Kali and advance. Attack Kali and summon Mizuchi to attack the Jack Lantern (RECRUIT JACK LANTERN).
+- Then send Houou to attack Jormugand with Maragi and physical attack with Gale. If you have Garum, summon it to also physical attack. Summon Gnome for healing if needed.
 
 ## World of Earth
 
@@ -156,18 +158,17 @@ Go back to world of ice to go to the mansion.
 Fuse:
 
 - Jack Frost x Houou - Tupon
-- Culebre x Vampire - Anzu
 - Nekomata x Mizuchi - Hippou
 
 Stage 17:
 
-- Summon Anzu and Hippou. Go grab energy with Gale and come back to summon Tupon.
+- Summon Jikoukuten and Hippou. Go grab energy with Gale and come back to summon Tupon.
 - Defeat Kali and Leprechaun first and go right to grab energy power. Return Hippou. Summon Dynamis and heal if needed.
 - Tackle demons on the left. Make sure to heal when attacking Vacha.
 
 Stage 18:
 
-- Grab energy in the center then go to tsuchigumo to the left near the other energy. Summon Anzu and Tupon and attack it then go to the center.
+- Grab energy in the center then go to tsuchigumo to the left near the other energy. Summon Jikoukuten and Tupon and attack it then go to the center.
 - Summon Dynamis. Use Tarukaja and once the demons in the center are killed, attack Airavata with Tupon and Anzu, then go with Gale carefully, while healing.
 - Then head to the bottom right corner.
 

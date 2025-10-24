@@ -63,7 +63,7 @@ Re-enter the Underground and go down.
 
 ![Underground B1F](@/assets/images/smt20xxmaps/undergroundB1F.png)
 
-Grab the 400MAG chest (1). Then walk back and forth in front of the gem room until it's Full Moon then grab the Amethyst.
+Grab the 400MAG chest (1).
 
 Enemies:
 - Kobold, Knocker - Talk, try to recruit without giving resources
@@ -84,7 +84,7 @@ Grab Dis-Stone (1) and INT Incense (2).
 
 Grab STR Incense and press the Red switch. Press the Green Switch.
 
-Use STR Incense on Hero and the INT Incense on Ain.
+Use STR Incense the INT Incense on Hero.
 
 Fight Kobold:
 - AUTO
