@@ -101,11 +101,13 @@ Stage 10:
 - Zuriel attacks vampire, Angel attacks Nekomata and Gale the rest
 - Then go through the Poison swamp and attack the rest
 
-Add Mizuchi and Gnome to the party.
+Add Mizuchi.
 
 Stage 11:
-- Summon Angel, Mizuchi and Zuriel
-- Rush to Odin.
+- Summon Mizuchi and Zuriel to defeat the first Lava Rat and Vampire
+- Go down and collect one more Energy Point.
+- Go up so you're parallel to Odin but outside it's field of view and summon Dynamis, Angel and Zuriel.
+- Send Zuriel to Odin and set Dynamis and Angel to heal before attack with Gale as well.
 
 Gale Evolves.
 
@@ -115,8 +117,7 @@ Fuse:
 
 - Zuriel x Kali - Lindlam
 - Dynamis x Lindlam - Houou
-- Angel x Mizuchi - Jikoukuten
-Make sure to include in party
+Make sure to include in party + Gnome
 
 Stage 12:
 
@@ -131,17 +132,22 @@ Stage 13:
 - Summon Gnome and Mizuchi and attack Molokbel and Jack Lantern below
 - Summon Angel and attack Unicorn above
 
+Fuse:
+- Angel x Mizuchi - Jikoukuten
+Add Garum to party.
+
 Stage 14:
 
 - Summon Houou
 - Go ahead with houou from the bottom and then top, send Houou ahead to fight the enemies and sneak with Gale to the end spot
 
-Add Garum to party.
+
 
 Stage 15 (Tough):
 
-- Go to energy point on the top left and then summon Dynamis.
-- Summon Jikoukuten and send them to the middle to attach the Kachi and Unicorns.
+- Go to energy point on the top left and then summon Gnome.
+- Move to the center, beware of the Unicorn.
+- Summon Jikoukuten and send them to to attach the Kachi and Unicorns.
 - While they attack, grab the other energy point.
 - Summon Mizuchi and Houou and attack the middle demons.
 
@@ -168,38 +174,44 @@ Stage 17:
 
 Stage 18:
 
-- Grab energy in the center then go to tsuchigumo to the left near the other energy. Summon Jikoukuten and Tupon and attack it then go to the center.
-- Summon Dynamis. Use Tarukaja and once the demons in the center are killed, attack Airavata with Tupon and Anzu, then go with Gale carefully, while healing.
-- Then head to the bottom right corner.
+- Grab energy next to Tsuchigumo, summon Dynamis and Tupon.
+- Attack the Tsuchigumo, set heal to Gale and Tarukaja on Gale then start attacking.
+- Send Tupon to attack Airavata first then Gale grab the Energy point to summon Jikoukuten and heal with Dynamis.
+- When all enemies die, go below and send Tupon ahead again, then follow with all.
 
 Stage 19:
 
-- Summon Anzu and sent him ahead. Grab energy and summon Tupon, let it fight the Frankies.
+- Summon Jikoukuten and sent him ahead. Grab energy and return Jikoukuten for better movement.
+- Grab other energy below and summon Tupon and Dynamis.
 - Recruit 2x Dynamis.
 - Attack Vacha first with Tupon and then with Dynamis and Gale.
 
 Stage 20:
 
-- Go to energy point to the left and summon Tupon and Dynamis. Attack Frankie on top of you.
-- Then sent Tupon ahead to attack the Otohime. Then carefully move with Gale and Dynamis, attack from afar and heal respectively.
-- Then send Tupon to attack the Tsuchigumo and follow behind. Attack Tsuchigumo, then Airavata from afar then Frankies.
+- Go to energy point to the left and summon Tupon and Gnome, then attack the Frankie.
+- Send Tupon to go attack the Airavata.
+- Grab energy point with Gale and summon Dynamis, attack the Virtue and Otohime.
+- After Airavata dies, Tupon attacks Tsuchigumo.
+- Return Gnome and move Gale and Dynamis to the Frankies, summon Gnome and Jikoukuten and attack the Frankies while healing.
+
+Add Dynamis, Sculd and Urd and remove Jikoukuten, Hippou and Gnome.
 
 Stage 21 (Boss):
 
-- Grab Energy. Summon Tupon and sent it to fight the Dynamis. Sneak with Gale through the portal to the second area. You have to stick to the wall.
-- In the second one, stick to the wall and head to the third. Close to the statue, move Tupon to the third one as well.
-- Send Tupon ahead to start fighting Golem or Vacha. Then move Gale through and grab energy to summon two Dynamis.
+- Grab Energy. Telport and walk past the Dynamis to the teleport.
+- Grab the other energy and grab the other teleport.
+- Summon Tupon while getting healed, Tarukaja and send it to fight Virtue.
+- Pass the Teleport and summon two Dynamis while attacking Vivandi.
 - Remember to use Tarukaja and heal with both.
 
 ## Central Land
 
-Make sure to add Sculd and Urd to the party as well. Remove Anzu and Hippou.
+Make sure to add Sculd to the party as well. Remove Anzu and Hippou.
 
 Stage 22:
 
-- Summon Tupon and send him to fight the Golem on the left. Move to the left bridge, start fight the Dynamis if it sees you. Summon Dynamis to heal and back up.
-- When the Golem dies, go grab the energy. Summon another Dynamis.
-- Start slowly moving to the center. If needed heal with both Dynamis. Remember to use Tarukaja.
+- Walk to the left, summon Tupon to fight the Golem and summon Dynamis to help Gale fight the center. Then move Tupon to fight the other Golem.
+- Send Gale to the right Yukionna.
 
 Stage 23:
 
@@ -213,16 +225,16 @@ Stage 24:
 
 Stage 25:
 
-- Grab the middle energy point then stick to the right wall right outside of the bosses vision. Summon Tupon and Sculd and Dynamis.
-- Tarukaja everyone and attack Scythe with Sculd and Tengu with Tuppon and Gale while healing.
-- When they die, attack Loki with Sculd and the Tengu and Berserk with the rest.
+- Grab the middle energy point then stick to the right wall right outside of the bosses vision, grab the other energy point. Summon Tupon and Sculd and Dynamis.
+- Tarukaja everyone and attack Loki with Sculd which should grab Scath attentions, then attack the Tengu and Scath.
+- When they die, attack the Tengu and Berserk with the rest.
 
 Stage 26 (Final Boss - Gapu):
 
-- Grab all energy points and then stand in front of one of the energy pillars.
-- Summon Sculd, Urd and two Dynamis
-- Set Dynamis to heal. Then set Sculd and Urd to do their special attacks and Gale to attack the pillar.
-- Move everyone up and then attack. He'll fall eventually.
+- Grab left and top energy point.
+- Summon Sculd, Dynamis and Tupon.
+- Tarukaja Sculd and set Dynamis to heal Gale.
+- Attack the fire point and then set everyone to physical attack Gap.
 
 # JIN
 
