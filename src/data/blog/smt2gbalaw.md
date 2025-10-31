@@ -3,7 +3,7 @@ author: Sion
 pubDatetime: 2025-03-13T11:56:00Z
 modDatetime: 2025-03-15T00:19:00Z
 title: Shin Megami Tensei II (GBA) - Law Glitchless
-featured: true
+featured: false
 draft: false
 tags:
   - smt2

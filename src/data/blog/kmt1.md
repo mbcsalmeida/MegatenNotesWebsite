@@ -4,7 +4,7 @@ pubDatetime: 2025-04-30T11:11:00Z
 modDatetime: 2025-04-30T11:11:00Z
 title: Kyuuyaku Megami Tensei
 slug: kmt1
-featured: true
+featured: false
 draft: false
 tags:
   - kmt

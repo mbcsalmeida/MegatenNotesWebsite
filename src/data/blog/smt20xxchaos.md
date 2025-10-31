@@ -1,10 +1,10 @@
 ---
 author: Sion
 pubDatetime: 2025-05-16T00:09:00Z
-modDatetime: 2025-05-16T00:09:00Z
+modDatetime: 2025-10-31T08:39:00Z
 title: Shin Megami Tensei 20XX - Chaos Ending
 slug: smt-20xx
-featured: false
+featured: true
 draft: false
 tags:
   - smt20xx
