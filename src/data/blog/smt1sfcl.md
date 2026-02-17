@@ -22,7 +22,7 @@ description: Shin Megami Tensei (SFC) - NMG Law Ending notes.
 First dream sequence:
 
 - Hero - All SPD
-- Law Hero - SPD til 8, MAG til 20
+- Law Hero - SPD til 8, rest in MAG
 - Chaos Hero - All MAG
 
 ![Overworld Arcade](@/assets/images/smt1maps/2D/01-Arcade.png "Arcade")
@@ -109,6 +109,7 @@ Say YES to Douman.
 **Douman**:
 
 - Hero - Guard; LH - Hamaya; CH - Hamaya
+- Repeat manually
 
 1. Hero - INT
 2. Law Hero - MAG
@@ -119,6 +120,8 @@ Say YES to Douman.
 ## Shinjuku
 
 ---
+
+Fight Orks in Lab with Zan and/or Agi.
 
 ![Lab 2F](@/assets/images/smt1maps/3D/LABORATORY-2F.png)
 
@@ -137,7 +140,7 @@ Recruits in this area:
 
 ![Shinjuku Underground Mall B1F](@/assets/images/smt1maps/3D/SHINJUKU-B1F.png)
 
-Get the Bar Matchbook, answers: NO -> YES -> NO.
+Get the Bar Matchbook, answers: YES -> NO -> YES.
 
 ![Shinjuku Underground Mall B1F](@/assets/images/smt1maps/3D/SHINJUKU-B1F-2.png)
 
@@ -177,6 +180,8 @@ Grab 1400MAG chest at Ozawa's lair.
 Make sure to have recruited Goblin, Pyro Jack and Dryad at this point. Make sure Chaos Hero is level 13 and has estoma (35 MAG).
 
 ![Shinjuku B1F](@/assets/images/smt1maps/3D/SHINJUKU-B1F-3.png)
+
+Use estoma.
 
 After selling Heroine's gun at a store, get a total of `6x Holy Waters` and buy `8x Charms` until you have around 6,000 yen left.
 
@@ -249,9 +254,11 @@ SAFETY: Save before talking to En-no-Ouzo the second time and leaving LH and CH.
 
 Return to the real world. If necessary, heal with Samarecarm.
 
-Return Pyro Jack and summon Cu Sith, use estoma, change party order:
+Before moving, return Pyro Jack and summon Cu Sith, use estoma, change party order:
 
 - Azumi, Goblin, Chaos Hero, Law Hero, Hero, Cu Sith
+
+Then enter Shinjuku.
 
 ![Path to Shinjuku](@/assets/images/smt1maps/2D/09-Shinjuku.png)
 
@@ -307,7 +314,7 @@ Fuse:
 
 - Pyro Jack x Dryad x Azumi = Kushinada-Hime
 
-Talk to the Heroine and traesto outside, to re-enter. Transfer to Shinjuku.
+Talk to the Heroine and traesto outside to re-enter. Transfer to Shinjuku.
 
 ![Shinjuku Mall](@/assets/images/smt1maps/3D/SHINJUKU2-B1F-2.png)
 
