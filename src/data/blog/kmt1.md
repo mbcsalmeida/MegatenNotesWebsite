@@ -31,6 +31,8 @@ Grab chest (500 Macca). Spin 31 times in front of it and talk to Jack Frost to g
 Armors:
 
 - 2x Combat Suit (コンバットス-ツ)
+- Oak Shield
+- Helmet
 
 Weapons:
 
@@ -38,7 +40,7 @@ Weapons:
 
 Equip (Y button):
 
-- Nakajima - Combat Suit, Dagger
+- Nakajima - Combat Suit, Dagger, Oak Shield, Helmet
 - Yumiko - Combat Suit
 
 Config:
@@ -48,8 +50,8 @@ Config:
 
 ![Daedalus 7F](@/assets/images/kmt1maps/daedalus7F.png)
 
-Fight a random encounter to level up. For the first encounter avoid zombies.
-- Nakajima - VIT
+Fight a random encounter to level up, if none show up, use the fixed encounter tile. For the first encounter avoid zombies.
+- Nakajima - 7 STR, rest into VIT
 - Yumiko - INT
 
 Recruit Gnome in fixed position. You'll want to recruit at least three demons for Minotaur so:
@@ -85,6 +87,10 @@ Fight Minotaur (166HP):
 - Cast Mediama or use Jewels to heal up., use Cerberus to revive
 
 Afterwards, walk to Valhalla to talk to Gar. 
+
+Go to the Armor Store:
+- Kevlar Helm 
+- Don't equip it yet
 
 ![Valhalla 1F](@/assets/images/kmt1maps/valhalla1F.png)
 
@@ -122,7 +128,7 @@ Summon all demons and go back to 1F to go through Valhalla. Complete Gar's quest
 
 ![Bien 3F](@/assets/images/kmt1maps/bien3F.png)
 
-Recruit Yomotsu-Shikome in 3F.
+Recruit Yomotsu-Shikome/Vyi/Fungus in 3F. Recruit Troll in 4F if it spawns.
 
 ![Bien 4F](@/assets/images/kmt1maps/bien4F.png)
 
@@ -140,9 +146,9 @@ Talk to Village Elder and save. Then go to Armors and buy:
 
 - Ceramic Shield (セラミクスのたで)
 - Fibre Suit (フアイバ-ス-ツ)
-- Last item
+- Magic Helm
 
-Equip Ceramic Shield and Fibre Suit on Nakajima and the Suit on Yumiko. Heal if needed.
+It's common to not be able to afford everything, so just buy what you can and equip it on Nakajima and Yumiko.
 
 Go to Captain and choose move to Infini Palace.
 
@@ -153,6 +159,17 @@ Once you arrived, take the elevator to 1F then move straight forward.
 The first goal is to arrive to the save point. This will be difficult as basically any encounter one-shots you if you fail to run away. Outlined below some recommended behavior to try to survive the encounters.
 
 If you die, choose Continue. You'll be back in front of the save point in Bien already at the Infini Palace so just go back to 1F and try again.
+
+List of encounters:
+- Werecat: Talk 
+- Lamia: Talk
+- Giant: Talk
+- Oni: Talk
+- Wyvern: Talk
+- Dullahan: Hanmahan
+- Mephisto: Hanmahan
+- Shrunken Head: Hanmahan
+- Blue Guy with sword: Hanmahan
 
 ![Infini Palace 4F](@/assets/images/kmt1maps/infini4F.png)
 
@@ -166,7 +183,9 @@ Revive and save at the healer. Then try to grab the Daphne's Crown and then the 
 
 Encounter approach:
 - Black Knight - Hamahan
-- Rest - Escape
+- Black Winged Demon On The Ground: Hanmahan 
+- Cyclops: Talk
+- Quetzalcoatl: Talk
 
 ![Rotting Sea of Flames 2F](@/assets/images/kmt1maps/sea2F.png)
 
@@ -212,23 +231,23 @@ Follow the green line and grab the Hinokagutsuchi. Equip it on Nakajima and unsu
 
 Follow the yellow line which will have you fall down to the floor below. Turn around and take the stairs back to B1F.
 
-Then take the elevator to the 4F and walk back to the fixed Zoma encounter.
+Then take the elevator to the 4F and walk back to the fixed Zoma encounter. Take Yumiko's equipment so she dies.
 - Nakajima - Attack
 - Yumiko - Defend/Heal
 - Change to Auto once you are confident you can survive
 - Don’t let Nakajima’s HP fall below 160
-- At level 47, remove Yumiko equipment and let her die, this way Nakajima gets more EXP and speed up the leveling (Zoma only gives 2k xp at level 47+)
-- When Nakajima has 35 STR put points into luck
-- When Vitality is full for Yumiko put points into luck
+- When Nakajima has 35 STR and 35 VIT put points into MAG
 
 Re-equip Yumiko's equipment.
-Once you reach lvl 49, take the elevator back to 2F.
+Once you reach lvl 55, take the elevator back to 2F.
 
 ![Bien 2F](@/assets/images/kmt1maps/bien2F-2.png)
 
 Fuse:
 - (If no Yomotsu-Shikome/Fungus/Vyi) Gnome x Solas
 - Yomotsu-Shikome x Cerberus = Thor
+- Bogle/Goblin/Troll x Nekomata = Alraune
+- Alraune x Thor = Ganesha
 
 Use an Exorcism Herb ( せがきのれいやく) when you get to a new moon cycle (1 / 8) or close to it, so that you can avoid encounters through Valhalla. You can do this earlier as well. It lasts till the next new moon. 
 
@@ -242,33 +261,17 @@ Head to B1F (Directly in front of you)
 
 ![Valhalla 1F](@/assets/images/kmt1maps/valhallaB1F.png)
 
-Head to the prison to free Rick and take Kali with you. Traport to be back in Infini Palace. If you saved in Bien, you'll have to move back to Infini Palace and go back to 2F
+Head to the prison to free Rick and take Odin with you. Summon Odin and Ganesha. Traport to be back in Infini Palace. If you saved in Bien, you'll have to move back to Infini Palace and go back to 2F
 
 ## Infini Palace 2
 
-Save if you want (Do this if you saved in Bien 2F earlier). Summon Kali in front of Nakajima. Then climb back to 4F.
-
-![Infini Palace 2F](@/assets/images/kmt1maps/infini2F-2.png)
-
-![Infini Palace 3F](@/assets/images/kmt1maps/infini3F.png)
-
-![Infini Palace 4F](@/assets/images/kmt1maps/infini4F-2.png)
-
-Talk to the skeleton and traport back to 2F. Head back to the Rotting Sea of Flames.
-
-## Rotting Sea of Flames 2
-
-![Rotting Sea of Flames 2F](@/assets/images/kmt1maps/sea2F-2.png)
-
-Collect the White Dragon Orb - make sure you're facing south after the teleport to grab the chest.
-Traport back, heal, save - this is your last chance to save! - and head to 1F.
+Save if you want (Do this if you saved in Bien 2F earlier). Then head to 1F.
 
 ![Infini Palace 1F](@/assets/images/kmt1maps/infini1F.png)
 
 ## Red Tower
 
-Try to heal before Yumiko levels up. Use Auto in most battles, maybe better to talk to some
-There is a chance of Paralysis on Yumiko, this is bad, kill her off then revive her with item
+Use AUTO in any battles that slip through the herb.
 
 ![Red Tower 1F](@/assets/images/kmt1maps/redtower1F.png)
 
@@ -288,29 +291,22 @@ Collect the Sacred Bell on 2F
 
 ![Red Tower 8F](@/assets/images/kmt1maps/redtower8F.png)
 
-Yumiko wants to have Max MP to start Lucifer fight, try to avoid using all of it. 
-
-Fight Lucifer:
+Fight Lucifer (2,292HP, 99MP):
 Apart from just doing insane party wide damage (Normal Attack or Bufudyne), Lucifer can also cast Curse which is an instant death ability, it is a low chance this works on a Human but it is possible that he can just kill your run like this. 
-- Formation: Kali, Thor, Nakajima, Yumiko
+- Formation: Odin, Ganesha, Nakajima, Yumiko
 
-First Turn
-- Kali: Mediama
-- Thor: Tarukaja
+First 4 turns:
+- Odin: Attack
+- Ganesha: Tarukaja
 - Nakajima: Attack
-- Yumiko: Defend
+- Yumiko: Heal while she's alive
 
-Rest of the fight
-- Kali: Mediama / Defend / Attack
-- Thor: Defend / Tarukaja
-- Nakajima: Attack / Defend / Item
-- Yumiko: Defend / Diarahan / Mediama / Item / Recarm
-- Keep using Mediama with Kali till they are out of MP, then you can attack for extra damage
-- Thor apply Tarukaja then just defend. 
-- Nakajima should always attack unless he is below 200hp~ then defend and wait to be healed. He should also be used to Soma or Sacred Bell Yumiko. Can also use a Jewel to keep Yumiko healthy if need be
-- Yumiko should defend untill Nakajima falls below 200HP then she should heal him. She will also need to heal herself and you can also heal Kali or other demons if the opportunity arises. Mediama can also be used as well. When her MP is low, have Nakajima use a Soma on her. If she dies (to curse, etc) use the Sacred Bell to revive her. You may also use Jewels if needed. What you do is mostly up to your judgement which will improve the more you fight this boss. 
+After:
+- AUTO while everyone is above 150HP, it's okay to let Ganesha die but try to keep Odin around.
+- Heal with Odin's Diarahan, Yumiko's Diarahan or with Beads/Soma
+- Around 75MP wasted, he stops using magic. Count his spells. Bufudyne costs 15MP, Diarahan costs 10MP.
 
-Time ends when THE END is fully visible
+Time ends when THE END is fully visible.
 
 
 
