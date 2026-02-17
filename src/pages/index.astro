@@ -9,8 +9,6 @@ import Hr from "@/components/Hr.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
-import { Image } from "astro:assets";
-import logo from "@/assets/logo.png";
 import { YouTube } from "astro-lazy-youtube-embed";
 
 const posts = await getCollection("blog");
