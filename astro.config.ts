@@ -7,15 +7,15 @@ import { SITE } from "./src/config";
 
 import netlify from "@astrojs/netlify";
 
+import react from "@astrojs/react";
+
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
 
-  integrations: [
-    sitemap({
-      filter: page => SITE.showArchives || !page.endsWith("/archives"),
-    }),
-  ],
+  integrations: [sitemap({
+    filter: page => SITE.showArchives || !page.endsWith("/archives"),
+  }), react()],
 
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
@@ -31,17 +31,6 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
-  },
-
-  image: {
-    // Used for all Markdown images; not configurable per-image
-    // Used for all `<Image />` and `<Picture />` components unless overridden with a prop
-    experimentalLayout: "responsive",
-  },
-
-  experimental: {
-    svg: true,
-    responsiveImages: true,
   },
 
   adapter: netlify(),
