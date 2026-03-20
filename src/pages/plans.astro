@@ -5,14 +5,12 @@ import Footer from "@/components/Footer.astro";
 import Main from "@/layouts/Main.astro";
 import Image from "astro/components/Image.astro";
 import { SITE } from "@/config";
-import majin from "@/assets/images/covers/majin1.png";
-import kyuuyaku from "@/assets/images/covers/kmt.png";
+import majin from "@/assets/images/covers/majin1.jpg";
 import tokyo from "@/assets/images/covers/tokyorequiem.png";
 import arcadia from "@/assets/images/covers/arcadia.jpg";
-import p1 from "@/assets/images/covers/p1-psp-jp.jpg";
+import p1 from "@/assets/images/covers/p1-psp-jp.png";
 import aegis from "@/assets/images/covers/p3aegis.jpg";
-import slime from "@/assets/images/covers/slime.png";
-import smt5 from "@/assets/images/covers/smt5v.jpg";
+import raidou1r from "@/assets/images/covers/raidou1r.jpg";
 
 
 interface Plan {
@@ -22,16 +20,16 @@ interface Plan {
 
 const plans: Plan[] = [
   {
-    title: "Kyuuyaku Megami Tensei",
-    image: kyuuyaku,
-  },
-  {
     title: "Shin Megami Tensei: Persona",
     image: p1,
   },
   {
-    title: "Shin Megami Tensei V: Vengeance",
-    image: smt5,
+    title: "RAIDOU Remastered: The Mystery of the Soulless Army",
+    image: raidou1r,
+  },
+  {
+    title: "Shin Megami Tensei: Tokyo Requiem",
+    image: tokyo,
   },
   {
     title: "Aegis: The First Mission",
@@ -45,14 +43,6 @@ const plans: Plan[] = [
     title: "Majin Tensei",
     image: majin,
   },
-  {
-    title: "Shin Megami Tensei: Tokyo Requiem",
-    image: tokyo,
-  },
-  {
-    title: "Slime Mori Mori: Shougeki no Shippo Dan",
-    image: slime,
-  },
 ];
 ---
 
@@ -65,7 +55,7 @@ const plans: Plan[] = [
             <Image 
               src={plan.image} 
               alt={plan.title}
-              class="!max-w-full"
+              class="!max-h-full"
             />
           <div class="absolute inset-0 bg-black/40 flex items-center justify-center">
             <h2 class="text-white text-xl md:text-2xl font-bold text-center px-4">
