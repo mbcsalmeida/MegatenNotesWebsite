@@ -1,0 +1,240 @@
+{
+    "schedule": {
+        "name": "schedule",
+        "slug": "testmarath-schedule",
+        "timezone": "Europe/Amsterdam",
+        "start": "2026-04-24T12:00:00Z",
+        "start_t": 0,
+        "event": {
+            "name": "test",
+            "slug": "testmarath"
+        },
+        "columns": [
+            "Runners",
+            "Game",
+            "Category",
+            "Type",
+            "Console",
+            "custom_data",
+            "[[options]]"
+        ],
+        "items": [
+            {
+                "length": "PT1H30M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Kyuuyaku Megami Tensei",
+                    "Megami Tensei 1",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h10m00s\"}"
+                ]
+            },
+            {
+                "length": "PT1H50M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Shin Megami Tensei",
+                    "Glitchless (PSX)",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT3H20M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Shin Megami Tensei II",
+                    "Glitchless (GBA)",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h10m00s\"}"
+                ]
+            },
+            {
+                "length": "PT1H40M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Shin Megami Tensei If... ",
+                    "Unrestricted, Yumi (PSX)",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT2H40M",
+                "data": [
+                    "Sion (sioneus)",
+                    "[BONUS Day 1] Shin Megami Tensei 20XX",
+                    "Any% (Chaos)",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT7H30M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Sleep Break",
+                    "Playing my own YT videos and PBs!",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT4H50M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Shin Megami Tensei: Digital Devil Saga",
+                    "Any%",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT2H45M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Shin Megami Tensei: Devil Summoner: Soul Hackers (3ds)",
+                    "NG Ending",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT1H50M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Megami Tensei Gaiden: Last Bible (GB)",
+                    "Any%",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT3H30M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Shin Megami Tensei: Persona",
+                    "SEBEC",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT0S",
+                "data": [
+                    "Sion (sioneus)",
+                    "[BONUS Day 2] Shin Megami Tensei: Persona",
+                    "Snow Queen Quest (Bad Ending)",
+                    "Other",
+                    "02:00:00",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT9H30M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Sleep Break",
+                    "Playing my own YT videos and PBs!",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT1H50M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Devil Children: Red Book (PSX)",
+                    "True Ending",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT1H45M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Demikids: Dark Book",
+                    "Any%",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT2H30M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Majin Tensei: Blind Thinker",
+                    "Law Ending",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT30M",
+                "data": [
+                    "Sion (sioneus)",
+                    "Buffer",
+                    "",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT25M",
+                "data": [
+                    "Sion (sioneus)",
+                    "[BONUS] Shin Megami Tensei",
+                    "Any% (SFC)",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT2H",
+                "data": [
+                    "Sion (sioneus)",
+                    "[BONUS] Majin Tensei",
+                    "Minotaur%",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            }
+        ]
+    }
+}

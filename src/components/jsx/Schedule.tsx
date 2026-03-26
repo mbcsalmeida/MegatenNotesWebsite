@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useMemo } from "react";
 import {
   formatDuration,
   parseISODurationToMs,
@@ -29,43 +29,13 @@ type DayGroup = {
   runs: Run[];
 };
 
-async function fetchData() {
-  const res = await fetch(
-    "https://oengus.io/api/v2/marathons/RPGSUO2026/schedules/1548/export?format=json&zoneId=Europe/Amsterdam&locale=en-GB",
-  );
+type Props = {
+  data: ScheduleJson;
+};
 
-  if (!res.ok) {
-    throw new Error("Failed to fetch schedule");
-  }
-
-  const data = await res.json();
-  return data;
-}
-
-export default function Schedule() {
-  const [scheduleJson, setSchedule] = useState<ScheduleJson | undefined>(
-    undefined,
-  );
-
-  useEffect(() => {
-    fetchData()
-      .then((data) => setSchedule(data))
-      .catch((err) => {
-        if (err instanceof Error) {
-          throw err;
-        }
-
-        throw new Error(`Failed to get schedule: ${err}`);
-      });
-  }, []);
-
-  const groupedSchedule = useMemo<DayGroup[]>(() => {
-    if (!scheduleJson) {
-      return [];
-    }
-
-    const { schedule } = scheduleJson;
-
+export default function Schedule({ data }: Props) {
+ const groupedSchedule = useMemo<DayGroup[]>(() => {
+    const { schedule } = data;
     let currentTime = new Date(schedule.start).getTime();
 
     const runs: Run[] = [];
@@ -115,15 +85,7 @@ export default function Schedule() {
     return Array.from(map.entries())
       .sort(([a], [b]) => a.localeCompare(b))
       .map(([day, runs]) => ({ day, runs }));
-  }, [scheduleJson]);
-
-  if (!scheduleJson) {
-    return (
-      <div className="text-center">
-        <span className="loader" />
-      </div>
-    );
-  }
+  }, [data]);
 
   return (
     <>
@@ -145,7 +107,7 @@ export default function Schedule() {
             <col className="w-[10%]" />
             <col className="w-[40%]" />
             <col className="w-[20%]" />
-            <col className="w-[20%] hidden sm:table-column" />
+            <col className="w-[10%] hidden sm:table-column" />
           </colgroup>
 
           <thead className="bg-bs-primary/30">
