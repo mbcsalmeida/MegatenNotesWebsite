@@ -1,7 +1,7 @@
 ---
 author: Sion
 pubDatetime: 2025-08-30T13:41:00Z
-modDatetime: 2025-08-30T13:41:00Z
+modDatetime: 2026-03-24T09:00:00Z
 title: Shin Megami Tensei - Tokyo Requiem 
 slug: smt-tokyo-requiem
 featured: false
