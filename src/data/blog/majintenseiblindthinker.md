@@ -141,7 +141,7 @@ Then attack with Hero, heal with Throne. Save before every hit to account for mi
 
 ## Scenario 18 - River one
 
-Hero - Once DEF is 15, Luck into 8 then STR to 25
+Hero - Once DEF is 15, Luck into 8 then STR to 25 then VIT
 
 Turn 1: Hero all the way north, summon Dullahan and Throne up. Heroine all the way up and right, summon Baal north right and Odin right. Qil up, summons Yatagarasu, Uriel right and Raphael down right.
 Turn 2: Odin uses Zanma on Orkus. Move Baal right too. Dullahan Mazanma the demons, Heroine Zan Saleos and Hero attacks Saleos. Send Yatagarasu, Throne, Raphael and Uriel up through the mountains.
@@ -222,8 +222,13 @@ The generator are meant to activate on turn 16 so play around it, I've also had 
 
 Buy 2x Hanuman from the Rags.
 
-Turn 1: Go straight down. Summon in order starting from above: Throne, Hanuman, Blank, Hanuman, blank, Tam Lin or another one. Save, then Michael goes right next to the Hero. You can get crit or poisoned turn one and then die so you gotta save.
-Turn 2: Mazanma with Hanuman to the left and to the top. Once the Hero has a passage to Lucifer, move him to in front of Lucifer from the right and equip the Evil Killer, summon a Hanuman under you and you can also summon Throne to buy you some time. Move any living demons to the left and move Michael to behind the Hero and heal him.
+Turn 1: Go straight down. Summon in order starting from above: Throne, Hanuman, Blank, Hanuman, blank, Tam Lin or another one.
+
+Save, then Michael goes right next to the Hero. You can get crit or poisoned turn one, the Hanumans could also get crit and die and then die so you gotta save.
+
+Turn 2: Mazanma with both Hanumans to the left and to the top. 
+
+Once the Hero has a passage to Lucifer, move him to in front of Lucifer from the right and equip the Evil Killer, summon a Hanuman under you and you can also summon Haniel and Dullahan around to buy you some time. Move any living demons to the left and move Michael to diagonal right the Hero and heal him with Diarahan.
 
 Now just save before hitting lucifer, use Mazanma to keep the other demons from healing Lucifer and Michael heals.
 
