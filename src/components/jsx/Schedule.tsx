@@ -59,7 +59,7 @@ export default function Schedule({ data }: Props) {
             setupTimeMs = parseISODurationToMs(parsed.setup);
           }
         } catch {
-          console.log("No setup time specified");
+          
         }
       }
 
