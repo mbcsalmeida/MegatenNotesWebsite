@@ -1,10 +1,9 @@
 ---
 import Layout from "@/layouts/Layout.astro";
-import RunsSchedule from "../components/jsx/Schedule";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Main from "@/layouts/Main.astro";
-import schedule from "@/data/schedule/schedule.json"
+// import schedule from "@/data/schedule/schedule.json"
 import { SITE } from "@/config";
 ---
 
@@ -16,7 +15,6 @@ import { SITE } from "@/config";
         <p>To make sure the event happens, even if our attendance is smaller, I thought to organize this mini-marathon as a way to raise some emergency funds and to spread the word about the event. As one of the main organizers of RPGSU, many of these expenses will fall on me directly, so any donations help!</p>
         <p>If you are not in a position to support monetarily, I would be very grateful if you could spread the word and keep me company during the event!</p>
     </div>
-    <RunsSchedule client:only="react" data={schedule} />
 </Main>
 <Footer />
 </Layout>
