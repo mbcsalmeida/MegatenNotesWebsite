@@ -4,7 +4,7 @@ pubDatetime: 2025-03-29T21:16:00Z
 modDatetime: 2025-04-30T11:11:00Z
 title: Shin Megami Tensei If... - Yumi, Easy - Unrestricted (PSX)
 slug: smtif-yumi-psx
-featured: true
+featured: false
 draft: false
 tags:
   - smt-if

@@ -1,0 +1,113 @@
+---
+import {
+  formatDuration,
+  parseISODurationToMs,
+  parseLocalDate,
+} from "../utils/scheduleUtils"; // adjust path if needed
+
+const { data } = Astro.props;
+
+const { schedule } = data;
+let currentTime = new Date(schedule.start).getTime();
+
+const runs = [];
+
+for (const item of schedule.items) {
+  const [runners, game, category, , , , customData] = item.data;
+
+  const runDurationMs = parseISODurationToMs(item.length);
+
+  if (!runners || runners.trim() === "") {
+    currentTime += runDurationMs;
+    continue;
+  }
+
+  let setupTimeMs = 0;
+
+  if (customData) {
+    try {
+      const parsed = JSON.parse(customData);
+      if (parsed.setup) {
+        setupTimeMs = parseISODurationToMs(parsed.setup);
+      }
+    } catch {}
+  }
+
+  runs.push({
+    start: new Date(currentTime),
+    runners,
+    game,
+    category,
+    estimate: formatDuration(item.length),
+  });
+
+  currentTime += runDurationMs + setupTimeMs;
+}
+
+// group by day
+const map = new Map();
+
+for (const run of runs) {
+  const dayKey = run.start.toLocaleDateString("en-CA");
+
+  if (!map.has(dayKey)) map.set(dayKey, []);
+  map.get(dayKey).push(run);
+}
+
+const groupedSchedule = Array.from(map.entries())
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([day, runs]) => ({ day, runs }));
+---
+
+{groupedSchedule.map((day) => (
+  <table class="w-full table-fixed ring-2 rounded-sm drop-shadow-sm drop-shadow-black">
+    <caption class="bs-h2 text-left mb-5 drop-shadow-md drop-shadow-black">
+      {parseLocalDate(day.day).toLocaleDateString(undefined, {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      })}
+    </caption>
+
+    <colgroup>
+      <col class="w-[10%]" />
+      <col class="w-[40%]" />
+      <col class="w-[20%]" />
+      <col class="w-[10%] hidden sm:table-column" />
+    </colgroup>
+
+    <thead class="bg-bs-primary/30">
+      <tr>
+        <th class="px-3 py-2 italic text-xs sm:text-sm text-left">Time</th>
+        <th class="px-3 py-2 italic text-xs sm:text-sm text-left">Game</th>
+        <th class="px-3 py-2 italic text-xs sm:text-sm text-left">Category</th>
+        <th class="px-3 py-2 italic text-sm hidden sm:table-cell text-left">
+          Estimate
+        </th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {day.runs.map((run, idx) => (
+        <tr class={idx % 2 ? "bg-[#289289]" : "bg-bs-primary"}>
+          <th scope="row" class="px-3 py-2 text-sm sm:text-base">
+            {run.start.toLocaleTimeString([], {
+              hour: "2-digit",
+              minute: "2-digit",
+            })}
+          </th>
+          <td class="px-3 py-2 whitespace-normal break-words">
+            {run.game}
+          </td>
+          <td class="px-3 py-2 whitespace-normal break-words">
+            {run.category}
+          </td>
+          <td class="px-3 py-2 hidden sm:table-cell">
+            {run.estimate}
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+))}

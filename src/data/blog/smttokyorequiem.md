@@ -5,10 +5,10 @@ modDatetime: 2026-03-24T09:00:00Z
 title: Shin Megami Tensei - Tokyo Requiem 
 slug: smt-tokyo-requiem
 featured: false
-draft: true
+draft: false
 tags:
   - smt-tokyo-requiem
-description: Shin Megami Tensei - Tokyo Requiem notes.
+description: Draft of Shin Megami Tensei - Tokyo Requiem notes.
 ---
 
 ## Table of Contents
