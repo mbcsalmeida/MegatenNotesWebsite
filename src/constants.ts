@@ -1,6 +1,5 @@
 import IconTwitch from "@/assets/icons/IconTwitch.svg";
 import IconYoutube from "@/assets/icons/IconYoutube.svg";
-import { SITE } from "@/config";
 
 export const LOCALE = {
   lang: "en", // html lang code. Set this empty and default will be "en"
