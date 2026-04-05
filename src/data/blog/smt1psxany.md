@@ -47,7 +47,7 @@ Grab 400MAG chest.
 **Orias**:
 
 - N - Guard; LH - Hamaya
-- Ｎ５Int　ー　LH４MAG　ー CH1SPD
+- Ｎ５Int　ー　LH ４MAG 1SPD
 
 Survival shop
 

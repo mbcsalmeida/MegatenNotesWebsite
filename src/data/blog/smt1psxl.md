@@ -124,7 +124,7 @@ Recruits in this area:
 
 ![Shinjuku Underground Mall B1F](@/assets/images/smt1maps/3D/SHINJUKU-B1F.png)
 
-Get the Bar Matchbook, answers: NO -> YES -> NO.
+Get the Bar Matchbook, answers: Yes→No→Yes.
 
 ![Shinjuku Underground Mall B1F](@/assets/images/smt1maps/3D/SHINJUKU-B1F-2.png)
 
