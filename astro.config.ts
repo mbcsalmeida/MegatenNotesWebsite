@@ -31,5 +31,14 @@ export default defineConfig({
     },
   },
 
+  image: {
+    experimentalLayout: "responsive",
+  },
+
+  experimental: {
+    svg: true,
+    responsiveImages: true,
+  },
+
   adapter: netlify(),
 });
