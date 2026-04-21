@@ -32,7 +32,7 @@
                 ]
             },
             {
-                "length": "PT1H50M",
+                "length": "PT2H",
                 "data": [
                     "Sion (sioneus)",
                     "Shin Megami Tensei",
@@ -68,10 +68,10 @@
                 ]
             },
             {
-                "length": "PT2H40M",
+                "length": "PT2H45M",
                 "data": [
                     "Sion (sioneus)",
-                    "[BONUS Day 1] Shin Megami Tensei 20XX",
+                    "[BONUS] Shin Megami Tensei 20XX",
                     "Any% (Chaos)",
                     "Other",
                     "",
@@ -91,8 +91,21 @@
                     "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
                 ]
             },
+
             {
-                "length": "PT4H50M",
+                "length": "PT2H",
+                "data": [
+                    "Sion (sioneus)",
+                    "Devil Children: Red Book (PSX)",
+                    "True Ending",
+                    "Other",
+                    "",
+                    "",
+                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
+                ]
+            },
+            {
+                "length": "PT5H",
                 "data": [
                     "Sion (sioneus)",
                     "Shin Megami Tensei: Digital Devil Saga",
@@ -104,7 +117,7 @@
                 ]
             },
             {
-                "length": "PT2H45M",
+                "length": "PT2H50M",
                 "data": [
                     "Sion (sioneus)",
                     "Shin Megami Tensei: Devil Summoner: Soul Hackers (3ds)",
@@ -128,25 +141,13 @@
                 ]
             },
             {
-                "length": "PT3H30M",
+                "length": "PT25M",
                 "data": [
                     "Sion (sioneus)",
-                    "Shin Megami Tensei: Persona",
-                    "SEBEC",
+                    "[BONUS] Shin Megami Tensei",
+                    "Any% (SFC)",
                     "Other",
                     "",
-                    "",
-                    "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
-                ]
-            },
-            {
-                "length": "PT0S",
-                "data": [
-                    "Sion (sioneus)",
-                    "[BONUS Day 2] Shin Megami Tensei: Persona",
-                    "Snow Queen Quest (Bad Ending)",
-                    "Other",
-                    "02:00:00",
                     "",
                     "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
                 ]
@@ -164,11 +165,11 @@
                 ]
             },
             {
-                "length": "PT1H50M",
+                "length": "PT1H45M",
                 "data": [
                     "Sion (sioneus)",
-                    "Devil Children: Red Book (PSX)",
-                    "True Ending",
+                    "Demikids: Dark Book",
+                    "Any%",
                     "Other",
                     "",
                     "",
@@ -176,11 +177,11 @@
                 ]
             },
             {
-                "length": "PT1H45M",
+                "length": "PT3H30M",
                 "data": [
                     "Sion (sioneus)",
-                    "Demikids: Dark Book",
-                    "Any%",
+                    "Shin Megami Tensei: Persona",
+                    "SEBEC",
                     "Other",
                     "",
                     "",
@@ -212,11 +213,11 @@
                 ]
             },
             {
-                "length": "PT25M",
+                "length": "PT4H",
                 "data": [
                     "Sion (sioneus)",
-                    "[BONUS] Shin Megami Tensei",
-                    "Any% (SFC)",
+                    "[BONUS] Shin Megami Tensei (GBA)",
+                    "All Visionary Items",
                     "Other",
                     "",
                     "",
@@ -224,11 +225,11 @@
                 ]
             },
             {
-                "length": "PT2H",
+                "length": "PT5H30",
                 "data": [
                     "Sion (sioneus)",
                     "[BONUS] Majin Tensei",
-                    "Minotaur%",
+                    "Medusa%",
                     "Other",
                     "",
                     "",

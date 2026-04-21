@@ -144,7 +144,7 @@ Armor (if money > 1400, start with buying, otherwise start with selling):
 - Buy on Law Hero - 1x Thunder Guard, 1x Cyber Arm
 - Sell: Swords EXCEPT Scorpion Whip\*, all Helmets, all vests EXCEPT Survival Vest, all gloves EXCEPT Cyber Arm, all boots EXCEPT Leather Boots, Soma (should be around 7000)
 
-\*all that matters is having one sword left. If you forgot to unequip the Scorpion Whip from the Heroine, just make sure to leave on sword remaining, preferably the least valuable one.
+\*all that matters is having one sword left. If you forgot to unequip the Scorpion Whip from the Heroine, just make sure to leave one sword remaining, preferably the least valuable one.
 
 Weapons:
 

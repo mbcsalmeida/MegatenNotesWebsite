@@ -43,15 +43,17 @@ Leave the town, north. Ride Veil.
 
 For random encounters:
 
-- auto (Sonic Boom with Veil and Attack with whoever is next in the party)
+- Auto (Sonic Boom with Veil and Attack with whoever is next in the party)
 - Heal Veil with Dia
-  Battle until you're level 6
+- Battle until you're level 6
 
 Enter the castle to go talk to Iceland's Demon Lord Hell. Leave.
 
-Head to Frost Town.
+Head to Frost Town. In the cave, fly to the spot in the rocks in the middle of the ice and talk to the middle rock to get Yukionna.
 
-Buy:
+Outside the cave, talk to the trees on the left side to get Kotodama.
+
+In Frost Town, buy:
 
 - Left seller - 21 Ice Magatamas and 1 Angel Wing
 - Right seller - 3x Attack capsules and 3x Smoke bombs
