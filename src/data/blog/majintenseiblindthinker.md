@@ -3,7 +3,7 @@ author: Sion
 pubDatetime: 2026-03-24T09:00:00Z
 modDatetime: 2026-04-01T00:02:00Z
 title: Majin Tensei - Blind Thinker
-slug: majin-tensei
+slug: majin-tensei-blind-thinker
 featured: false
 draft: false
 tags:
