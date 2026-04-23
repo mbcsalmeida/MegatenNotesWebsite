@@ -22,20 +22,12 @@ Enemy drops - Minotaur (Garnet), Loa (Pearl), Kwancha (Onyx), Fafnir (Diamond), 
 
 Map 11 - Emerald Chest
 
-Map 12 - Amethyst Chest
-
 Map 13 - Sapphire Chest
-
-Map 15 - Aquamarine Chest
-
-Map 25 - Onyx Chest
-
-Map 26 - Topaz Chest
 
 Map 27 - Pearl Chest
 
 Map 28 - Turqoise Chest
 
-Map 35 - Opal, Garnet, Ruby Chests
+Map 35 - Opal, Garnet
 
 ## Armor Management by Map

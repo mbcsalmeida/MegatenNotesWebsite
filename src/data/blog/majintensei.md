@@ -53,95 +53,111 @@ Stats on Heroine
 
 Keep an emergency dis-paralyze or dis-poison with you.
 
-## Map 1
+## Map 1 (Hero's EXP: 250)
 
-1: Straight right.
+**1**: Straight right.
 
-2: Move to fountain.
+**2**: Move to fountain.
 
-3: Attack Sylph.
+**3**: Attack Sylph.
 
-## Map 2
+Split: 04:18
 
-1/2/3: North
+## Map 2 (Hero's EXP: )
 
-4: Attack Kobold to your left
+**1/2/3**: North
 
-5: Left
+**4**: Attack Pixie 
 
-6: Attack 
+**5**: Attack Kobold
 
-7: Hopefully building
+**6**: Left 
 
-## Map 3 - 1
+**7**: Save. Attack Kwancha.
 
-1: Attack 
+**8**: Attack Kwancha.
 
-2: Right
+Split: 11:28
 
-3: Straight right
+## Map 3 - 1 (Hero's EXP: 881)
 
-4: Down, attack
+**1**: Attack 
 
-5: Right
+**2**: Right
 
-6: North
+**3**: Straight right
 
-8: Chest
+**4**: Down, attack Pixie.
 
-9: Equip attack knife, attack
+**5**: Right
 
-Go to stairs.
+**6**: North
 
-## Map 4 - 1
+**8**: Chest
 
-1: Up
+**9**: Equip attack knife, attack
 
-2: Left
+Kill all enemies then go to stairs.
 
-3: Left, summon Orthrus behind you
+Split: 19:45
 
-4: Left, Orthrus follows
+## Map 4 - 1 (Hero's EXP: 1146)
 
-5: Orthrus attacks Pixie, Hero advances
+**1**: Up
 
-6: Hero attacks Laughing Skull, Orthrus advances
+**2**: Left
 
-Go left, Cerberus collects bottom chest of the two. If you have an extra turn, he can collect the top one.
+**3**: Left in front of enemy, summon Orthrus above you
 
-Kill the Werecat first. Equip the Battle Suit and go up.
+**4**: Orthrus attacks Rusalka, Hero straight left.
 
-## Map 5 - 1
+**5**: Orthrus attacks Kobold, Hero attacks Laughing Skull
 
-1: Up right, attack Laughing Skull
+**6**: Hero left, Orthrus goes down.
 
-2: Right, summon Orthrus diagonal down right
+**7**: Hero down, Orthrus right.
 
-3: Orthrus collects left chest, Hero heads right
+**8**: Hero attacks Werecat, Orthrus right
 
-4: Orthrus returns to Comp. Hero attacks.
+**9**: Orthrus collects bottom chest, Hero equips it and attacks Goblin.
 
-5: Kill Goblin.
+**10**: Walk to stairs.
 
-6: Kill Turdak.
+## Map 5 - 1 (Hero's EXP: 14XX)
 
-7: Move left.
+**1**: Up right, attack Laughing Skull.
 
-8: Move left down, summon Orthrus behind you.
+**2**: Attack Werecat.
 
-9: Hero left, Orthrus down.
+**3**: Attack the Weredog.
 
-10: Orthrus collects bottom left chest, Hero equips the Battle Gloves and attacks.
+**4**: Collect the Smoke bomb chest.
+
+**5**: Attack the werecat
+
+**6**: Go right, summon Orthrus behind you.
+
+**7**: Kill Goblin
+
+**8**: Hero goes right, Orthrus moves right but doesn't pass the wall
+
+**9**: Hero kills Goblin, Orthrus goes down.
+
+**10**: Orthrus collects left chest, Hero goes left.
+
+**11**: Hero equips Battle Goves, attacks Goblin
+
+If Goblin retreats and Sylph heals him and stands in front of him, you have to stall a turn. 
 
 Once the Goblin is dead, use a Smoke Bomb.
 
-## Map 3 - 2
+## Map 3 - 2 (Hero's EXP: 18XX)
 
 Re-enter map 3.
 
 Collect the bottom chest with Hero this time. Fight everything. Then smoke bomb.
 
-## Map 3 - 3
+## Map 3 - 3 (Hero's EXP: 21XX)
 
 Fight everything.
 
@@ -162,11 +178,11 @@ Heroine stats:
 
 **2**: Hero up, Heroine up.
 
-**3**: Hero left, Heroine Agilao Weredog.
+**3**: Hero left, Heroine Agilao Weredog from below.
 
 **4**: Hero attacks Sylph, Heroine Maragion.
 
-**5**: Hero follows enemies, Heroine Agilao.
+**5**: Hero follows enemies, Heroine Agilao/Maragion.
 
 When it's only Sylph left for Heroine, summon Orthrus to kill it.
 
@@ -187,17 +203,19 @@ When it's only Sylph left for Heroine, summon Orthrus to kill it.
 
 Go straight through the middle mc in front. 
 
-Turn 3 - Minotaur should be in reach - SAVE
+Turn 4 - Minotaur should be in reach - SAVE
 
 Hero - Attacks, Heroine Maragion
 
+Split: 1:32:04
+
 ## Map 9
 
-**1**: Hero move up left, summons Orthrus. Heroine moves left **stays in the forest**.
+**1**: Hero move up left, summons Orthrus. Heroine moves right **stays in the forest**.
 
 **2**: Hero attacks left, Heroine Maragion.
 
-**3**: Heroine Agilao. Orthrus moves slightly right.
+**3**: Heroine Agilao the Werecat. Orthrus moves slightly right.
 
 Hero attacks the Dodongo.
 
@@ -207,21 +225,21 @@ Heroine equips the Battle boots. Uses Maragion.
 
 Orthrus kills the Pooka.
 
-**5**: Hero kills the Sylph. Orthrus goes after the Spartoi.
+**5**: Hero kills the Sylph. Heroine goes after the Spartoi.
 
-Finish it next turn.
+Finish it next turn with Maragion.
 
 ## Map 10
 
-**1**: SAVE. Hero recruits closer Siren. Heroine moves up, Sabatoma the Siren.
+**1**: SAVE. Hero recruits closer Siren. Heroine moves up, Sabatoma the Siren and Orthrus.
 
-**2**: SAVE. hero recruits other Siren. Heroine moves past bridge, summons Siren.
+**2**: SAVE. hero recruits other Siren. Heroine moves past bridge towards the other bridge, summons Siren.
 
 Orthrus follows past bridge, Siren goes up river.
 
 **3**: Hero recruits Badb Catha if in reach.
 
-Orthrus/Heroine cross bridge. Sirens attack Orias up.
+Orthrus/Heroine cross bridge, go up. Sirens attack Orias up.
 
 **4**: Sirens take care of last fallen.
 
@@ -233,188 +251,251 @@ Orthrus attacks Tanki, Heroine Maragion the first beast.
 
 If you missed Badb Catha, you can get it here.
 
-1: SAVE, recruit Bogle, Heroine north.
+**1/2/3/4**: Both north left.
 
-2/3: Hero and Heroine north. Maragion when needed.
+**5**: Hero attacks Raksha Lango. Heroine Sabatoma a Siren.
 
-After Raksha Lango is dead, summon a Siren.
+**6**: Hero and Siren in. Heroine Maragion.
 
-!! Grab left chest of the bottom.
+**7**: Heroine Maragion. Siren attack Forneus. Hero advanes.
+
+**8**: Siren collects left chest. Hero attacks Loa.
+
+**9**: Stairs.
 
 ## Map 12
 
-1: Hero grabs chest up, Heroine down Maragion
-2: Heroine grabs chest up
+**1**: Hero goes down, summons Siren below and Orthrus above. Heroine uses Maragion on Goblin from below.
+
+**2**: SAVE. Siren attacks the Siren. Hero recruits Elf. Heroine grabs top chest.
+
+**3**: HERO EQUIPS the sword. Hero attacks the Sylph. Heroine Maragion. 
+
+Orthrus attacks the Tanki. Siren attacks the Badb Catha.
+
+**4**: Orthrus returns to COMP. Heroine up, Sabatoma the Elf and Babd Catha.
+
+Hero down. 
+
+**5**: Fuse Babd Catha and Elf into Ganesha.
+
+Hero around. 
+
+**7**: Hero up. 
+
+**8**: Hero attacks Loa.
+
+**9**: Stairs.
 
 ## Map 13
 
-1: Maragion two enemies below her, Hero attacks
-2: 
+**1**: Heroine Maragion three enemies below her, Hero attacks the Tanki
 
-## Outside
+**2**: Hero move left, summon both Sirens above him. Heroine Maragion.
 
-Go down to the mansion, fuse:
-- Bogle x Siren = Dullahan
+**3**: Heroine Maragion.
+
+Siren move right. Other Siren collect left chest (Sapphire). Hero attacks the Raksha Lango.
+
+**4**: Siren right attacks the Forneus. Other Siren returns to Comp.
+
+Hero attacks the Pooka.
+
+**5**: Hero kills the last ones.
 
 ## Map 14
 
-1: Hero all the way up. Heroine all the way down (grass), summon Dullahan above.
+**1**: Hero all the way up left. Heroine all the way down (grass), summon Orthrus above.
 
-2: Heroine all left, Dullahan follows. Hero all left.
+**2**: Heroine all left, Orthrus follows. Hero all left, summons Siren to his right and Siren below.
 
-3: Heroine Maragion. Dullahan Zan the sylph. Hero left to attack.
+**3**: Heroine Maragion. Orthrus attacks the sylph. Hero left to attack Spartoi. Siren attacks the Gargoyle. Other Siren goes down.
 
-Finish with AOEs.
+**4**: Hero attacks the last enemy, Siren returns.
+
+Other Siren attacks the Forneus. Heroine Maragion the Dodongo.
+
+Finish with AOEs, Orthrus helps.
 
 ## Map 15
 
-1: Up both
+**1**: Up both
 
-2: Up both
+**2**: Up both
 
-3: All the way right both, stay on grass
+**3**: All the way right both, stay on plain area
 
-4: Hero attack Puuka, Heroine all the way right
+**4**: Hero attack Puuka, Heroine all the way right
 
-5: Heroine Maragion both Majuus. Hero gets on bridge, summon Orthrus on bridge and Siren diagonal top right.
+**5**: Heroine Maragion both Majuus. Hero gets on bridge, summon Orthrus on bridge and Siren diagonal top right.
 
-6: Siren goes far into mountains. Orthrus crosses bridge far into plains. Heroine uses Maragion. Hero defeats another Majuu.
+**6**: Siren goes far into mountains. Orthrus crosses bridge far into plains. Heroine uses Maragion. Hero defeats another Majuu.
 
-7: Hero goes on bridge. Siren goes north. Orthrus goes through bridge. Heroine uses Magic no whoever.
+**7**: Hero goes on bridge. Siren goes north. Orthrus goes through bridge. Heroine uses Magic on whoever.
 
-8: Hero attacks the Toukis. Cerberus goes further north through mountains. Siren gets on Generator. Heroine magic on remaining Youjuu.
+**8**: Hero attacks the Toukis. Cerberus goes further north through mountains. Siren gets on Generator. Heroine magic on remaining Youjuu.
 
-9: Hero goes North. Cerberus grabs left chest with Aquamarine.
+**9**: Hero goes North. Cerberus attacks Humbaba.
 
-10: Save. Hero recruits Elf (if not in reach, Sylph). Cerberus attacks Hanbaba.
+**10**: Save. Hero recruits Basilisk if in reach. Cerberus attacks Hanbaba.
 
 ## Map 16
 
-1: Hero goes right, summon Orthrus, Dullahan, Siren, Elf behind. Heroine north:
+**1**: Hero goes right, summon right Orthrus, Ganesha, Basilisk, top Siren 2x. Heroine north.
 
-2: Heroine north. Hero attacks leftmost enemy. Orthrus goes to generator, everyone advances. Heroine north.
+**2**: Heroine north, stay in path. 
 
-3: Hero attacks leftmost Touki, Siren attacks Yurlungur. Dullahan Mazanma remaining enemies, Cerberus attacks as well. Heroine north.
+Ganesha Mabufula the leftmost enemies. Orthrus goes to generator, everyone advances. 
 
-4: Heroine north, should be able to Bufula the Ananta. Dullahan Mazanma the Toukis, Siren goes to Generator. Hero goes straight north.
+**3**: Heroine north. Ganesha Mabufula the generator enemies. Hero kills Yurlungur.
 
-5: Siren attacks the bird. Elf heals Dullahan moves to generator. Hero moves right, Heroine bufula Ananta.
+Sirens attack Orias and Gargoyle. Make sure no generator is uncovered but prioritze killing Yurlungur or he'll kill Ganesha.
 
-6: Save. Hero attacks Moloch. Heroine Maragion.
+**4**: Heroine north, should be able to Bufula the Ananta. 
+
+Hero goes north. 
+
+**5**: Hero moves right, Heroine bufula Ananta.
+
+**6**: Save. Heroine moves to grass patch near Moloch, Hero stays 3 tiles away.
+
+**7**: Save. Hero attacks, Heroine Maragion.
 
 ## Map 17
 
-1: Hero next to house. Siren diagonal up, Orthrus diagonal down, Heroine goes to diagonal up.
+**1**: Hero next to house. Basilisk diagonal up, Orthrus diagonal down, Heroine goes to diagonal up.
 
-2: Save. Orthrus attacks Sylph. Heroine uses Maragion. Hero moves to fountain attacks, Tetzaquotl (can miss). Siren goes left up.
+**2**: SAVE. Heroine uses Maragion. Hero moves to fountain attacks Tetzaquotl (can miss). 
 
-3: Orthrus down attacks Turdak. Hero attacks Elf. Heroine gets on Fountain, Maragion. Siren attacks Spartoi.
+Orthrus attacks Sylph.  Basilisk goes left up.
 
-4: Orthrus heads further down to bait Spartoi. Heroine Maragion. Hero kills last Baykok. Siren goes left to bait the Loa.
+**3**: SAVE. Orthrus down attacks Turdak. Basilisk attacks Pooka. 
 
-5: Orthrus goes north. Hero and Heroine left, Heroine Dirahan herself. Siren tries to bait Loa
+If Baykok is full HP, Heroine Maragion and Hero attacks to kill.
 
-6: Heroine uses Maragion. Hero attacks Loa. Orthrus goes left, Siren tries to bait Loa.
+If Baykok is hurt, Agilao to kill and Hero kills the Elf.
+
+**4**: Orthrus heads further down to bait Spartoi.
+
+ Hero kills last Baykok if Basilisk is poisoned, otherwise Heroine Maragion.
+
+ If Basilisk isn't poisoned, attack the Spartoi. Otherwise retreat. Heroine goes left.
+
+**5**: Orthrus goes north. Hero goes to fountain.
+
+If Basilisk is poisoned, Heroine heals. Otherwise, Heroine Agilao the Kwancha and Basilisk attacks the Sylph.
+
+**6+**: Send Basilisk to left Loa and Orthrus to left Kwancha. 
 
 Close it out, hopefully nobody dies to Poison.
 
-## Outside
-
-Go to the mansion:
-- Dullahan x Purski = Rusalka
-- Elf x Rusalka = Ganesha
-
 ## Map 20
 
-1: Right both
+1 Siren/Basilisk can die. Ganesha and Purski cannot die.
 
-2: Right both
+Ganesha can take 3 hits from Basilisk/Ananta.
 
-3: Heroine up, Hero 
+**1**: Right both, summon both Pixies
 
-4: Right both, Heroine up sabatoma Siren up
+**2**: Right both, fuse Pixies into Purski
 
-5: Heroine Zionga, Siren attacks Yurlungur. Hero right.
+**3**: Purski walks into COMP.
 
-6: SAVE. Hero recruits Jatayu. Heroine moves up, Siren attacks Yurlungur in fountain, if its dead already move to Hero.
+Heroine up and sabatoma Siren 2x one top one right, Hero right.
 
-7: Hero attacks Typhon, hopefully kills. Heroine goes to fountain, summons Ganesha behind. Put Siren in safety.
+**4**: Hero 2 steps right, 1 step up NO MORE.
 
-8: Heroine Maragion. Hero summons Jatayu. Ganesha moves to Fountain.
+Heroine up middle SABATOMA Purski diagonal left down, one Siren on top, one on right.
 
-9: Mabufula, Maragion til the end.
+**5**: Purski attacks whichever Drake that has < 80HP, preferrably the top or middle ones. If he attacks the rightmost one, he will die next turn.
+
+Siren attacks the other Drakes around.
+
+Heroine heads up to the grass, summons Basilisk above and Ganesha behind !!IF!! none of the attacks missed on the Drakes and they're all dead. Otherwise, don't summon it.
+
+Hero heads right, use a Dis-Poison if he's poisoned.
+
+**6**: Save. Hero heal if he's low health (double poison) otherwise talk to the Jatayu.
+
+Purski/Sirens kill the last Yurlungur. Send Basilisk to the right, Heroine Maragion and Dullahan standing a bit behind on the grass.
+
+**7+**: Dullahan Mabufula/Heroine Maragion, Basilisk attacks
+
+Hero recruits Jatayu. Make sure both are recruited.
+
+Move Sirens and Purskis to the corner so they don't get attacked.
 
 ## Map 22
 
-1: Hero left, summon Jatayu and Ganesha. Heroine left.
+**1**: Hero left, summon Jatayu, Siren, Purski.  
 
-2: Hero and Heroine up, Siren up, Ganesha against the wall.
+**2**: Siren goes up around the corridor. Everyone else moves into the corridor.
 
-3: Ganesha attacks with Bufula the Baykok. Heroine uses Zionga on Apis, Hero up. Siren up.
+**3**: Purski uses Zionga on Apophis. Jatayu moves up. Heroine uses Maragion on Yatagarasu.
 
-4: Ganesha uses Bufula. Heroine uses Zionga on Yatagarasu, Hero attacks. Siren up.
+**4**: SAVE. Jatayu attacks the Apophis. Purski uses Zionga on the Yatagarasu. Hero attacks the Orthrus. Everyone moves up, including Siren.
 
-5: Hero continues. Heroine advances, sabatoma Uriel. Siren up. Ganesha Bufula.
+**5**: SAVE. Jatayu kills the Yatagarasu, Siren goes up. Hero goes down. Heroine uses Sabatoma on Uriel.
 
-6: Ganesha into the corridor, Hero continues, Uriel behind him then Heroine. Siren picks up the Helm.
+**6**: Hero goes down and kills the Hanbaba. Uriel and Heroine go down and follow.
 
-7: Hero equips Helm continues along the wall. Uriel moves close to generator. Ganesha far into corridor. Heroine follows.
+**7**: Uriel goes to generator, both advance.
 
-Hopefully you can kill Saleos with Maragion and Hero takes the stairs. 
+**8**: Heroine uses Maragion, Hero goes to stairs.
 
 ## Map 23
 
-1: Hero straight up summon Jatayu up, Ganesha and Uriel down. Heroine up.
+**1**: Hero straight up summon Jatayu up, Ganesha and Uriel down. Heroine up.
 
-2: Jatayu up left. Move up in this order against the wall: Hero, Ganesha, Heroine. Uriel under.
+**2**: Jatayu up left. Move up in this order against the wall: Hero, Ganesha, Heroine. Uriel under.
 
-3: Ganesha uses Mabufulu (bufula doesnt kill (!)). Heroine uses Maragion. Jatayu, Uriel and Hero move left.
+**3**: Ganesha uses Mabufulu (bufula doesnt kill (!)). Heroine uses Maragion. Jatayu, Uriel and Hero move left.
 
-4: Hero attacks the Isora. Heroine uses Zionga the Yurlungur. Everyone moves left down.
+**4**: Hero attacks the Isora if in reach. Everyone moves left down.
 
-5: Moving left.
+**5**: Moving left.
 
-6: Moving left and down.
+**6**: Moving left and down. Uriel can attack the Raksha Lango.
 
-7: Heroine/Jatayu and Ganesha will stick around the generator, Uriel and Hero advance down.
+**7**: Heroine/Jatayu and Ganesha will stick around the generator, Uriel and Hero advance down.
 
-8: Uriel attacks the Raksha Lango to protect Ganesha from all the spawns, everyone moves down.
+**8**: Uriel attacks the Raksha Lango to protect Ganesha from all the spawns, everyone moves down.
 
-9: Save. Hero down, kill enemies with Maragion/Mabufula, watch out for Ganesha's health.
+**9**: Save. Hero down, kill enemies with Maragion/Mabufula, watch out for Ganesha's health.
 
-10: Siren to generator, Uriel and Hero down.
+**10**: Siren to generator, Uriel and Hero down.
 
-Mabufula the Basilisk through the wall, move Hero up the corridor. If you get paralyzed, your only hope is heroine helping.
+Maragion the Basilisk through the wall, move Hero up the corridor. If you get paralyzed, your only hope is heroine helping.
 
 ## Map 24
 
-1: Heroine uses Maragion on Basilisk. Hero moves to generator.
+**1**: Heroine uses Maragion on Basilisk. Hero moves to generator and attacks Siren.
 
-2: Heroine uses Agilao on Siren. Hero takes one step and summons Siren on the generator.
+**2**: Heroine uses Zionga on Siren if needed otherwise moves forward and sabatoma Siren on generator. Hero advances.
 
-3,4,5,6,7,8: Move through the left
+**3,4,5,6,7,8**: Move through the left. Once Hero turned the corner, summon Uriel.
 
 Once uriel is in reach, attacks Yatagarasu.
 
-9?: When right in front of the enemies basically with Heroine and Hero, summon Ganesha and Jatayu.
+**9**?: When right in front of the enemies basically with Heroine and Hero, summon Ganesha and Jatayu.
 
-10: Heroine -> Zionga on Yurlungur. Hero attacks Dryad if she's there, otherwise walks to generator.
+**10**: Heroine -> Zionga on Yurlungur. Hero attacks Dryad if she's there, otherwise walks to generator. Shuffle Uriel out of the way so Ganesha is right behind the Hero.
 
-11: Hero attacks Orthrus. Heroine -> Maragion Medusa. Move Uriel and Jatayu next to Heroine. Ganesha Mabufula.
+**11**: Hero attacks Orthrus. Heroine -> Maragion Medusa. Move Uriel and Jatayu next to Heroine. Ganesha Mabufula.
 
-12: Save. Ganesha -> Mabufula Medusa. Heroine -> Maragion Medusa. Hero attacks.
+**12**: Save. Ganesha -> Mabufula Medusa. Heroine -> Maragion Medusa. Hero attacks.
 
 ## Map 25
 
-1: Save. Hero recruits Dryad. Heroine -> Maragion the Basilisk.
+**1**: Save. Hero recruits Loki. Heroine -> Maragion the Basilisk.
 
-2: Save. Hero recruits Saleos. Heroine -> Sabatoma Ganesha.
+**2**: Save. Hero recruits Houou/Typhon. Heroine up the corridor -> Sabatoma Ganesha.
 
-3: Save. Hero recruits Houou. Heroine -> Maragion Bugaboo.
+**3**: Save. Hero recruits Houou/Typhon. Ganesha -> Mabufula Bugaboo, Heroine advances and Sabatoma Typhon.
 
-4: Save. Hero recruits Typhon. Heroine -> Sabatoma Typhon in front of Cerberus.
+**4**: Save. Typhon attacks the Orthrus and Heroine uses Agilao.
 
-5: Save. Hero recruits Loki. Typhon attacks Cerberus. Heroine walks to stairs.
+**5**: Save. Heroine walks to stairs.
 
 ## Map 26
 

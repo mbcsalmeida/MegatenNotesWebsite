@@ -21,12 +21,19 @@ Point assignments in order:
 - (Hopefully) 1 STR
 
 Turn 1: Hero straight up, Pixies on right and down. Put Cerberus next to lower pixie on the side of the enemy pixie.
+
 Turn 2: Go around enemy, attack (1STR 1DEF). Heal with both pixies (SAVE). Cerberus attacks pixie.
+
 Turn 3: Hero straight left, uses medicine, pixies heal him. Cerberus attacks Orthrus.
+
 Turn 4: Hero attacks, Cerberus attacks, Pixie hide behind square tiles.
+
 Turn 5: Cerberus attacks, hero straight down.
+
 Turn 6: Cerberus, attacks, Hero attacks Pixie (1DEF)
+
 Turn 7: Cerberus attacks, Hero approachs Pixie to the left 
+
 Turn 8: Cerberus attacks, Hero attacks nekomata
 
 When Orias is low on MP, move the pixies and Cerberus away from it so that Hero can deal the final blow.
