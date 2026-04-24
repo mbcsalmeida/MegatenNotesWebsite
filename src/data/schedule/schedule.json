@@ -68,11 +68,11 @@
                 ]
             },
             {
-                "length": "PT2H45M",
+                "length": "PT25M",
                 "data": [
                     "Sion (sioneus)",
-                    "[BONUS] Shin Megami Tensei 20XX",
-                    "Any% (Chaos)",
+                    "[BONUS] Shin Megami Tensei",
+                    "Any% (SFC)",
                     "Other",
                     "",
                     "",
@@ -141,17 +141,18 @@
                 ]
             },
             {
-                "length": "PT25M",
+                "length": "PT2H45M",
                 "data": [
                     "Sion (sioneus)",
-                    "[BONUS] Shin Megami Tensei",
-                    "Any% (SFC)",
+                    "[BONUS] Shin Megami Tensei 20XX",
+                    "Any% (Chaos)",
                     "Other",
                     "",
                     "",
                     "{\"emulated\":false,\"setup\":\"0h15m00s\"}"
                 ]
             },
+        
             {
                 "length": "PT9H30M",
                 "data": [
