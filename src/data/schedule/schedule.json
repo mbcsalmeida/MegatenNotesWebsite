@@ -3,7 +3,7 @@
         "name": "schedule",
         "slug": "testmarath-schedule",
         "timezone": "Europe/Amsterdam",
-        "start": "2026-04-24T12:00:00Z",
+        "start": "2026-04-24T14:00:00Z",
         "start_t": 0,
         "event": {
             "name": "test",
