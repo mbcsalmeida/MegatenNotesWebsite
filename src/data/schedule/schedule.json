@@ -129,7 +129,7 @@
                 ]
             },
             {
-                "length": "PT1H50M",
+                "length": "PT2H",
                 "data": [
                     "Sion (sioneus)",
                     "Megami Tensei Gaiden: Last Bible (GB)",
@@ -141,7 +141,7 @@
                 ]
             },
             {
-                "length": "PT2H45M",
+                "length": "PT3HM",
                 "data": [
                     "Sion (sioneus)",
                     "[BONUS] Shin Megami Tensei 20XX",
@@ -154,7 +154,7 @@
             },
         
             {
-                "length": "PT9H30M",
+                "length": "PT8H30M",
                 "data": [
                     "Sion (sioneus)",
                     "Sleep Break",
@@ -190,11 +190,11 @@
                 ]
             },
             {
-                "length": "PT2H30M",
+                "length": "PT30M",
                 "data": [
                     "Sion (sioneus)",
-                    "Majin Tensei: Blind Thinker",
-                    "Law Ending",
+                    "Buffer",
+                    "",
                     "Other",
                     "",
                     "",
@@ -202,11 +202,11 @@
                 ]
             },
             {
-                "length": "PT30M",
+                "length": "PT2H30M",
                 "data": [
                     "Sion (sioneus)",
-                    "Buffer",
-                    "",
+                    "Majin Tensei: Blind Thinker",
+                    "Law Ending",
                     "Other",
                     "",
                     "",
