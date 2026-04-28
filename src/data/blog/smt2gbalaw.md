@@ -721,7 +721,7 @@ Finally head to Lucifer
 
 ![Makai](@/assets/images/smt2maps/MAKAI-7.png)
 
-Go up. You should go in at 6/8 descending to fight Lucifer at 1/8 descending.
+Go up. You should go in at 7/8 ascending to fight YHVH at New Moon.
 
 If you want to save before this section, summon Heqet and traport to save in Geburah. Then traport to be back in Kethel Castel.
 
