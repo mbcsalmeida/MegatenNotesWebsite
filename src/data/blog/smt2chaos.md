@@ -578,7 +578,7 @@ Get a Selket outside. Go to the Mansion in Tiphrareth and fuse:
 
 - Selket x Freya = Anubis
 
-Watch the event. Go up to the ranch to talk to Zain (Say YES). Then head into the Center Tower and traport. Leave Tiphrareth.
+Watch the event. Go up to the ranch to talk to Zain (Say NO). Then head into the Center Tower and traport. Leave Tiphrareth.
 
 Enter the Seto Temple to watch the ressurection. Then head to Beria corridor.
 
@@ -613,35 +613,22 @@ Re-enter the Beria Corridor.
 
 ![Way to Geburrah](@/assets/images/smt2maps/MAKAI-5.png)
 
-Enter the Geburrah building. Walk straight forward to the the terminal and save. Transfer to Arcadia to head to the Center.
-
-![Passage](@/assets/images/smt2maps/PASSAGE-A.png) ![Center](@/assets/images/smt2maps/CENTER-6.png)
-
-Head to Eden
-
-![Center](@/assets/images/smt2maps/CENTER-T.png) ![Center](@/assets/images/smt2maps/CENTER-T2.png)
-
-![Center](@/assets/images/smt2maps/CENTER-F.png)
-
-Put the code \[3470\].
-
-![Eden](@/assets/images/smt2maps/EDEN.png)
-
-Get Satan. Traport.
+Enter the Geburrah building. Walk straight forward to the the terminal and save. 
 
 ### Mara
 
 ![GEBURRAH](@/assets/images/smt2maps/GEBURRAH.png)
 
-Heal up at the Kaifuku. Get items: Revival Itemはんごんこうx2 (Optional), Angel Hairエンゼルヘアーx4,RosaryロザリオxMany As Possible. Summon Satan with Sabbadonサマドン.
+Heal up at the Kaifuku. Get items: Revival Itemはんごんこうx2 (Optional), Angel Hairエンゼルヘアーx8.
 
 Fight Twelve War Gods
 
-- Formation: Hawk, Naragiri, Satan, Hiroko, Anubis, -
-- First turn: Sword, Rakunda, \[Extra\] Death Bound, Diarahan - Satan, Tarukaja
+- Formation: Hawk, Naragiri, -, Hiroko, Anubis, -
+- First turn: Sword, Rakunda, -, Media, Tarukaja
 - AUTO
 - For Santira, use Mahama with Heroine.
-  Head to Bina. Grab the robe from the right then head to the building on the left.
+
+Head to Bina. Grab the robe from the right then head to the building on the left.
 
 ![Riziluth](@/assets/images/smt2maps/RIZILUTH2.png)
 

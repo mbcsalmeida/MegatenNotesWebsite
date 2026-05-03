@@ -3,8 +3,8 @@ author: Sion
 pubDatetime: 2025-05-16T00:09:00Z
 modDatetime: 2025-05-16T00:09:00Z
 title: Shin Megami Tensei 20XX
-slug: smt-20xx
-featured: false
+slug: smt-20xx-chaos
+featured: true
 draft: false
 tags:
   - smt20xx
@@ -17,9 +17,11 @@ description: Shin Megami Tensei 20XX - Chaos Ending notes.
 
 Stats:
 - Hero - SPD til 10, STR til 12, SPD til 15, STR til 20, VIT?
-- Ain - SPD til 9, MAG til 14, SPD til 13, VIT til 10, MAG
+- Ain - SPD til 9, MAG til 14, SPD til 13, VIT
 
 In the maps, the white spot represents where you fell from a higher floor.
+
+Remember to save basically every time you get to a new floor or do something important like flip a switch.
 
 ## Downtown
 
@@ -36,7 +38,7 @@ Choose:
 
 ![Gym](@/assets/images/smt20xxmaps/gym.png)
 
-Go to the Gym, talk to the owner to begin your training. Say YES to the train. Then cutscene begins. Choose:
+Go to the Gym, talk to the owner to begin your training. Say YES. Then cutscene begins. Choose:
 - 助けない
 
 Complete the Virtuals - fight Kobold:
@@ -57,20 +59,20 @@ Take two steps and Ain's event will trigger. Choose:
 - 「助ける」
 - 「悪いけど勘弁してくれ」
 
-Re-enter the Underground and go down.
+Switch Ain and the Hero's weapons. Re-enter the Underground and go down.
 
 ### B1F
 
 ![Underground B1F](@/assets/images/smt20xxmaps/undergroundB1F.png)
 
-Grab the 400MAG chest (1). Then walk back and forth in front of the gem room until it's Full Moon then grab the Amethyst.
+Grab the 400MAG chest (1).
 
 Enemies:
-- Kobold, Knocker - Talk, try to recruit without giving resources
-- Pixie - Talk away
+- Kobold (Optional), Knocker - Talk, try to recruit without giving resources
+- Pixie/Ukobach - Talk away
 - Others - AUTO
 
-Chon Chon give the most money so always kill them.
+Chon Chon give the most money so always kill them but be careful.
 
 ### B2F
 
@@ -84,19 +86,23 @@ Grab Dis-Stone (1) and INT Incense (2).
 
 Grab STR Incense and press the Red switch. Press the Green Switch.
 
-Use STR Incense on Hero and the INT Incense on Ain.
+Use STR Incense on Hero and the INT Incense on Ain. Summon Pixie.
 
 Fight Kobold:
-- AUTO
+- Hero: Attack, Pixie: Zionga.
 
-Backtrack to the terminal in B2F, fighting enemies on the way then transfer to Downtown.
+Heal with Pixie if needed otherwise return the Pixie immediately after.
+
+Backtrack to the terminal in B2F, fighting enemies on the way. Make sure to have Knocker recruited.
+
+Go up to B1F and buy at least 2x Mudoon item (ノロイの木馬 160macca) (320 macca total).
 
 Go to the Gym. Summon Knocker in front of the Virtuals and save.
 
 Complete the virtuals - escape from encounters with Trafuri and fight Garum:
-- Sword, Zio, Tarukaja
+- ノロイの木馬, Zio, Guard
 
-Head to the East Section of the Underground.
+Head to the East Section of the Underground. If Knocker died, heal him at the Messian on the way.
 
 ## East Section
 
@@ -110,24 +116,35 @@ Fall down.
 
 ![East Section B1F](@/assets/images/smt20xxmaps/eastB1F.png)
 
-Watch Ain Event. Grab VIT Incense (1) then press Blue Switch, grab the Disc and bookmark the terminal.
+Watch Ain Event. Grab VIT Incense (1) then press the Blue Switch, grab the Disc and bookmark the terminal.
 
-Transfer back to East Section B1F and grab Luck Incense (2) and Megidola Stone (3).
+Continue on in the dungeon to grab Luck Incense (2) and Megidola Stone (3), remember to save often. Take the stairs and fall back down to return to the terminal.
 
-Summary of strat:
+Transfer to Valhalla and sell the Megidola stone and any item drops you might've somehow gotten. Then transfer to the Underground to go to the Gaia to prepare for the grind. Strat goes like this:
 - Buy Mudoon item (ノロイの木馬) from Gaia in Undeground (transfer to Underground from terminal).
-- Use them on Kinnari, Jack Frost and Bennu til level 10.
-- Buy some more and one Hama item and do Virtuals?
+- Use them on enemies until level 9 - they don't work on Ghouls and Sudama.
+- Ideally, use it when there's 2 enemies. 4 is feasible but quite risky.
+- Once you're out of items, transfer back to the underground to buy more.
 
-Go to Virtuals (Knocker Trafuri, fight Ghoul with Megidola Stone?).
+Make sure to have at least 1760 macca saved up by the end.
 
-## South Section
+Once the grind is over, transfer to Valhalla, stop by the store and buy the Kaizer Armor (1200 macca) for the Protagonist. Go to the colosseum, AUTO Sword.
+
+Stop by the Messian Church and buy 2x Hama Items (middle one 260 macca).
+
+Go to Virtuals, summon Knocker and save:
+- Escape most battles, ones you can't use Trafuri with Knocker
+- Fight Ghoul: Hama Item, Guard, Guard
+
+Transfer to the underground and go to B1F to access the South Section.
 
 ### B1F
 
+Make sure to save regularly. Talk to the demons to escape battles.
+
 ![South Section B1F](@/assets/images/smt20xxmaps/southB1F.png)
 
-Grab MAG Incense (1) and use MAG and Luck Incense on Heroine and VIT Incense on Hero. Grind to level 14, keep getting items at the Gaia.
+Grab MAG Incense (1) and use MAG and Luck Incense on Heroine and VIT Incense on Hero.
 
 ### B2F
 
@@ -172,16 +189,20 @@ Equip Rocket Hammer and get Disc 3. Then backtrack to B4F.
 Buy a bunch of ノロイの木馬 and Grind to level 15 on both characters.
 - Try to hit enemies with 4x and throw item with Hero and Heroine.
 - Save after winning a fight.
-- After 14 MAG, Ocypete die to Megidola Stones.
+- After 14 Magic on Ain, Ocypete die to Megidola Stones. They cost 1000 macca so only get them when you have at least one of the helms.
 
 Shop (need 6000):
 - 2x Dolphin Helm
 
-Grab SPD Incense and climb to the Terminal.
+If by the time they're both level 15 you still don't have both Helms that's fine, just make sure the Heroine has hers. Backtrack up to the terminal.
+
+Grab SPD Incense.
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-2.png)
 
 ![South Section B4F](@/assets/images/smt20xxmaps/southB4F-2.png)
+
+(Ignore the path to the blue switch).
 
 ![South Section B3F](@/assets/images/smt20xxmaps/southB3F-4.png)
 
@@ -191,43 +212,47 @@ Now there's two options:
 
 Transfer to East Section. Recruit a Kinnari, Ihika and Jack Lantern/Jack Frost, while grinding some money.
 
-Go to South Section B1F through the Underground, recruit an Angel (14) and a Bogle (13) or Azumi (16).
+Go to South Section B1F through the Underground, recruit an Angel (14). Jack Lantern/Jack Frost also spawn here.
 
-Transfer to underground, fuse:
+Walk to the fusion mansion in the underground, fuse:
 - Kinnari x Ihika = Hag
 
 OR
 
 #### Harder Recruitments (Option 2)
 
-Transfer to the Underground and walk to South Section, recruit an Angel (14), Hag (15) and a Bogle(13) or Azumi (16). If you can’t find a Bogle/Azumi before the other two, later get an Ihika in East Section.
+Transfer to the Underground and walk to South Section, recruit an Angel (14), Hag (15) and a Jack Lantern (9?) / Jack Frost (8?). You can kill some enemies for EXP or money here by buying some ノロイの木馬 from the Gaia close by. Most enemies are probably not so worth it to kill - except for Gagison as he drops decent money. You can escape from the encounters of this area.
 
-Transfer to South Section and walk back to the shop. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy:
+After getting all the recruits, walk back to Underground B2F and transfer to South Section and walk back to the shop in B4F. Buy more ノロイの木馬, a Megidola Stone and grind levels and money until you can buy (in this order):
+- SPAS-12 on Hero (12000 macca)
+- 神経弾 Bullets (1800 macca) on Hero
 - 2x 5800 gloves for each character
-- SPAS-12 on Hero
-- 神経弾 Bullets (1800) on Hero
+
+Summon Hag and Angel to help you in the fights. Hero and Heroine throw the items, Hag uses Mudo. Angel uses Hama if its a reasonable number of Lilims, most other enemies resist Hama. Once you have the gun, you can shoot everything down.
 
 Fights:
 - Multiple Ocypete/Gaian  - Megidola Stones
 - Lilim - Hama or Run Away
-- Others - ノロイの木馬
+- Others - ノロイの木馬/Mudo
 
-Prioritze the gloves on the Ain, she stops dying. (Option 1): Once you hit level 18, recruit a Ocypete.
+Once you hit level 18, recruit a Ocypete!
 
 Once you've bought everything, walk back to the terminal.
 
-Head to the Colosseum, fight round 2.
+Head to the Colosseum, fight round 2 by autoing sword - make sure you equipped the Rocket Hammer.
 
-Head to the Virtuals, fight Ogre:
+Head to the Virtuals. Gun everything that corners you, otherwise run - you can't run from Celeanos. Fight Ogre:
 - Gun, Zionga
+
+Transfer to the Underground and stop by the mansion.
 
 (Option 1) Fuse:
 - Pixie x Jack Lantern = Aquanz
 - Aquanz x Ocypete = Celeano
 
-(Option 2) Alternatively, recruit a Celeano once you're level 22.
+(Option 2) Alternatively, if you really couldn't find an Ocyupete or Jack Lantern, recruit a Celeano once you're level 22.
 
-Transfer to the Underground and head to West Section.
+Head to B2F and walk to the door to the West Section.
 
 ## West Section
 
@@ -237,7 +262,7 @@ You're gonna slowly grind to level 30 now. Defeat Gurr with gun and trafuri from
 
 ![West Section B2F](@/assets/images/smt20xxmaps/westB2F.png)
 
-Grab Yakuto Glove (1) and Yakuto Armor (2). Equip Armor on MC and give Kaizer Armor to the Heroine.
+Grab Yakuto Glove (1) and Yakuto Armor (2). Equip Yakuto Armor on MC and give Kaizer Armor to the Heroine.
 
 Then grab the 1024 Macca (3) and head back to the pit to fall. 
 
@@ -245,9 +270,9 @@ Then grab the 1024 Macca (3) and head back to the pit to fall.
 
 ![West Section B3F](@/assets/images/smt20xxmaps/westB3F.png)
 
-Grab the Reiki no Sword (1).
+Grab the Reiki Sword (1).
 
-Fuse:
+Fuse (requires lvl21):
 - Angel x Hag = Houou
 - Houou x Spirit Sword = 小狐丸
 
@@ -261,27 +286,32 @@ Grab 4800 Macca (2).
 
 Grab disc. 
 
-Stop by the shop and sell some extra items if needed and buy:
-- 30x Hikoubari
-- 2 Amulets
+Grab sword (1) and walk to the store.
 
-Grab Sword and (Optional) Jewel. 
+Stop by the shop and sell the Yakuto Gloves and some extra items if needed and buy:
+- 60x Hikoubari
+- 10x Hamayas
 
+(Optional) Grab Jewel. 
+
+Make sure you're level 22 and you have fused Celeano.
 Transfer to Downtown.
 
-Go to Colosseum, fight Adonis (AUTO).
+Go to Colosseum, fight (AUTO). Make sure you summon Celeano here (!).
 
 Say 戦うならオレが. Fight Ramedo:
 - Sword, Zionga, Rakunda
 
 Go to Virtuals 4, kill Aeros and Gurr with guns, trafuri everything else.
+
 Fight Black Widow:
 - Sword, Zionga, Rakunda
 
 ## North Section
 
-Defeat these enemies with Gun + Hikoubari:
-- Forneus, Jin, Yakshni, Gryphon
+Transfer to the Underground and go to B3F to go to the North Section.
+
+Defeat most enemies with Gun + Hikoubari. Jins are extra annoying so beware.
 Defeat with Gun: Zealator
 
 Make sure Celeano does NOT die. You can't resummon it.
@@ -327,18 +357,28 @@ Bottom Map.
 ## B5F
 ![North Section B5F](@/assets/images/smt20xxmaps/northB5F-2.png)
 
-Head to the passage to South B5F and through there climb back to B3F to go to the terminal and transfer to Downtown.
+Grind close to the store for enough money to buy the Panzer Suit (30000) and Panzer Legs (18000).
+
+Head to the passage to South B5F and climb back to B3F to go to the terminal and transfer to the Underground to heal at the Gaia then go to Downtown.
 
 Go to the Shop and buy:
 - 5~10 Smoke Bombs
 
-Go to colosseum. Pick up items (2nd use, 5th Slicer, Desert Eagle) and fight Adonis:
+Go to colosseum. 
+
+Pick up items -> this is referencing the location of the items in SMT2, if you haven't played/run SMT2 this will make no sense -> (2nd, 5th Slicer, Desert Eagle) <- and fight Adonis:
 - AUTO
 
-Virtuals 5. Be careful with some encounters, go for Gun + Trafuri by default. 6x Jin use a smoke bomb and be careful to not let Celeano die because if you're Chaos you won't be able to resummon it. If he dies, just fight the encounters and try to run away when possible. Dangerous fights use a smoke bomb.
+You can sell some items now to afford some smoke bombs. Really make sure to have a handful.
+
+Virtuals 5. Be careful with some encounters, go for Gun + Trafuri by default. 6x Jin use a smoke bomb and Oyamatsumi resists Gun so if he shows up after a door, you're basically stuck if you're out of Hikobaris.
+
+Be careful to not let Celeano die too early because if you're chaos you won't be able to resummon it. If he dies, just fight the encounters and try to run away when possible. Dangerous fights use a smoke bomb.
+
+If he runs out of MP, use a Soma. Don't let him get under 30 MP, this is extremely important for the last boss fight.
 
 Fight Tarrasque:
-- Sword, Rakunda, Zionga
+- Sword, Zionga
 
 Go to Colosseum. Pick up items (1st and 4th) and fight Okamoto:
 - AUTO
@@ -370,7 +410,9 @@ Choose any option at Madame. Then go back to the Gym to the Trainer's room and w
 ![South Section B1F](@/assets/images/smt20xxmaps/southB1F-2.png)
 
 Transfer to the Underground, stop by the Gaian:
-- 2x Necroma items
+- 2x Necroma items (1500 macca each)
+- 2x Amulets
+- Heal Knocker. If Celeano is dead, do not heal. If he's alive, feel free to heal.
 
 Go to South Section B1F to head to the Prison.
 
@@ -379,7 +421,9 @@ Go to South Section B1F to head to the Prison.
 ![Prison Passageway](@/assets/images/smt20xxmaps/prison.png)
 
 Talk to the demons in the dark areas.
+
 Blue line, press green switch and turn around, orange line, warp zone, orange line, press red switch.
+
 Follow the yellow line.
 
 ### 1F
@@ -401,7 +445,7 @@ Press the red switch then press the blue switch then go upstairs.
 Grab Soma (3).
 
 Go to the center to fight Ramedo:
-- Phase 1: Sword, Rakunda
+- Phase 1: Sword, Rakunda if Celeano is around - make sure he has at least 30 MP when he dies.
 - Phase 2: AUTO, heal with Soma or Jewels whenever HP is low
 
 Get the ID and go fall down to rescue Ain.
@@ -415,16 +459,29 @@ Go to Moss' place, watch the event. Go to Madame's place.
 
 Walk to the terminal in the underground.
 
+### Optional Below - Better Sword Fusion
+
+You can beat the game with the first sword you fused, but it's quite difficult. The sword below misses less and hits 2-3 times.
+
+Transfer to East Section and recruit an Ihika.
+
+Transfer to West Section and go up to B3F.
+
 ![West Section B3F](@/assets/images/smt20xxmaps/westB3F.png)
+
+Walk around until you recruit an Orthrus (26).
+
 ![West Section B4F](@/assets/images/smt20xxmaps/westB4F.png)
 
 Fuse Sword:
 - Ihika x Orthrus = Nue
 - Nue x Sword = Better Sword
 
-Equip the sword.
-Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs and 10-15x Hamayas then head to the center.
+Equip the sword, go back to B4F.
 
+### Optional stuff ends here.
+
+Transfer to the North Section, transfer to the Center.
 
 ### Center Passageway
 
@@ -433,6 +490,9 @@ Grind/sell 30k to get Heroine the Panzer Suit and Panzer Legs and 10-15x Hamayas
 After switches head north, in the intersection with the doors to your front and left, choose the left one and head up stairs.
 
 ### Center B1F
+
+You can kill a couple of enemies here if you still have any Hikoubaris left. Any extra levels, though not required, will help you against Metatron.
+
 ![Center B1F](@/assets/images/smt20xxmaps/centerB1F.png)
 
 ### Center B10F
@@ -447,10 +507,17 @@ Use Amulet.
 
 ![Center B12F](@/assets/images/smt20xxmaps/centerB12F.png)
 
-Grab Hangonkou and (Optional) Soma.
+Grab Hangonkou and Soma.
 
-Fight Metatron:
-- Use the さざなみの笛 to Necroma Celeano and attack with an Hamaya
-- Use Diarama to heal the hero and Ain alternatively and attack with Sword almost every turn.
-- Use a Soma when Ain is in danger or her MP is low
+Summon Knocker.
+
+Fight Metatron (3000HP):
+- Sword, Use Necroma Item on Celeano, try to Tarukaja with Knocker
+- Sword, Diarama and Rakunda (4x). But react accordingly with the Diarama, especially if a strong attack comes out, you dont want Ain or the Hero to die.
+- If health is good, use Necroma Item on Knocker, keep 1x Tarukaja up at all times. Metatron doesn't have Dekunda but he has Dekaja, so if he uses Dekaja set up Tarukaja again.
+- Rest of the fight is taking turns healing Ain or the Hero with Diarama, trying to attack with Sword every turn and if HP is up because he used Dekaja/Mahama/Marin Karin then use a Megidola Stone or Hamaya.
+- In a very dangerous situation, like he just used Megidoalon and both are low HP, use Soma with Hero on Ain and try to heal Hero with Diarama. At this level (30-32 iirc) we should outspeed Metatron
+- If the Hero dies, you can revive him with the Hangonkou we get on the 12th floor but only once.
+
+
 
