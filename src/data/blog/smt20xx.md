@@ -132,6 +132,8 @@ Once the grind is over, transfer to Valhalla, stop by the store and buy the Kaiz
 
 Stop by the Messian Church and buy 2x Hama Items (middle one 260 macca).
 
+When Ramedo stops you before entering the Gym, say the second option.
+
 Go to Virtuals, summon Knocker and save:
 - Escape most battles, ones you can't use Trafuri with Knocker
 - Fight Ghoul: Hama Item, Guard, Guard
