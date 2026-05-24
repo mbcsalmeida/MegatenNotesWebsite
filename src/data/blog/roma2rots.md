@@ -5,7 +5,7 @@ modDatetime: 2021-08-20T18:56:00Z
 title: Romancing Saga 2 Revenge of the Seven - PC, Casual
 slug: roma-2-rots
 featured: false
-draft: true
+draft: false
 tags:
   - roma-2-rots
 description: Any% Notes for Romancing Saga 2 Revenge of the Seven
@@ -42,7 +42,7 @@ Teleport to Watchmen's Nest.
 (Dungeon: Walk straight forward basically)
 
 **Before fight**:
-- Change formation: Imperial Cross, Leon at the back
+- Change formation: Imperial Cross, Auto formation, Leon at the back
 - Equipment: Lisa auto equip to defense first, remove sword so its only rapier
 - Equipment: Henri auto equip to speed first, remove spear
 - Equipment: Esmeralda auto equip to attack first
@@ -51,7 +51,7 @@ Teleport to Watchmen's Nest.
 
 **Boss**: Leon double sword. Esmeralda uses fireball. Everyone else uses bow/rapier.
 
-Skip cutscenes, wrap to Somon.
+Warp back to Avallon, skip cutscenes, wrap to Somon.
 
 ### Somon
 
@@ -97,7 +97,7 @@ Grab **small horn**.
 
 Preparation:
 - Gerard: Auto speed first
-- Hector: Auto defense first, remove first weapon, axe replace for bow and give him Lisa's helmet.
+- Hector: Auto defense first, remove first weapon, axe replace for bow and give him Lionhead helmet.
 - Lisa: Auto defense first
 - Henri: Auto speed first, auto weapons, remove Spear
 - Esmerald: Replace weapon for bow
@@ -120,13 +120,13 @@ Go down, grab the Sensei. Skip cutscenes, teleport to River side base.
 
 ### Riverside Fort
 
-Go to bar, edit party. Add Jeremias and then Theresa over.
+Go to bar, edit party. Add James and then Theresa over.
 
 Talk to man, choose to pay.
 
 **Menu**:
 - Change formation, put Hector on the front.
-- Abilities, forget the Buff skill
+- Skills, forget the Buff skill
 - Equipment, Hector - auto equip weapons, remove second, auto equip defense
 - Equipment, Theresa - auto equip attack, remove rapier
 
@@ -143,12 +143,13 @@ Grab all chests and material before the save point.
 **Fight**:
 - Vykke: Weak to wind
 - Everyone else: Double sword or arrows
+- Prioritize hitting Vykke unless he's buffed
 
 ## 1059
 
 Pass the throne to Amesthyst (Court Mage) if possible, otherwise pick on and abdicate until you can.
 
-Go to throne room, talk to portrait of Gerard for stats.
+Go to throne room, talk to portrait of Gerard for +1 Ability.
 
 Go to bar, click through characters very fast. Then end with Orion, Bayson, Jessica, Marie.
 
@@ -177,9 +178,9 @@ Enter first tent on the left. Talk to the guy say **1st option** then **2nd opti
 
 Exit north. 
 
-Follow blue light to pick up ground item and then go the opposite direction to grab the **Harmonia**. Then jump down cliff to grab the **Book of Fire and Earth**.
+Follow blue light to pick up the **マートル剛** and then go the opposite direction past the horses to grab the chest behind the rocks with the the **Harmonia**. Then straight forward jump down cliff to grab the **Book of Fire and Earth**.
 
-Grab **Red Metal** and go to Savannah.
+Turn around and go forward. Grab **Red Metal** and go to Savannah.
 
 ### Savannah
 
@@ -195,11 +196,11 @@ Grab first chest to the left once you enter. Then take the exit to the desert.
 
 #### North
 
-Grab chest near the top with material and head to the east exit. Grab Horn.
+Straight forward past the two quick sands then turn right, past the bird turn right to grab the chest. Then turn left to head to the exit.
 
-On the other screen keep heading down.
+At West Desert, turn around and go back to North. Keep heading down the quicksand past the guards to go down to look for the Wandering Lake.
 
-Once you end up in the wandering lake, transfer to West section of the desert. Head left to arrive at Terteba.
+If you don't find it, transfer to West section of the desert. Head left to arrive at Terteba.
 
 ### Terteba
 
@@ -245,11 +246,18 @@ Transfer back to the entrance of the settlement, exit and head right to Saramat.
 ### Saramat
 
 Equipment:
-- Orion: Auto weapons equip, change Long sword to Bow, auto equip speed, remove helm, bracelet and shoes
+- Orion: Auto weapons equip, change Long sword to Bow, auto equip speed, remove helm, bracelet and shoes 
 - Byson: Auto speed equip, remove shoes, bracelet and armor, switch staff for bow from Jessica
-- Jessica: auto weapons equip, auto speed equip, remove helmet, bracelet, shoes
+- Jessica: auto weapons equip, remove bow, auto speed equip, remove helmet, bracelet, shoes
 - Marie: auto speed equip, remove shoes and bracelet
 - Amethyst: Remove shield, helmet, bracelet and shoes
+
+Final Equipment:
+- Amethyst: Leon Sword, Bow, Worker Robe, Star Stone
+- Bayson: Iron Sword, Bow, Reza Armor, Lionhead
+- Jessica: Irorina Star, Reza Armor, Rabit Foot
+- Marie: Dart, Fray, Worker Robe, Headband, Somon Ring
+- Orion: Crescent Blade, Bow, Doublet, Silver Ring
 
 Abilities:
 - Jessica: All +1
@@ -267,7 +275,7 @@ Head forward, grab chest left with 160k crowns. Squeeze through walls, forward t
 
 Talk to first villager to the right, transfer to Southern Settlement.
 
-Go to first hut on the left, talk to NPC and go rest.
+Go to first hut on the right, talk to NPC and go rest.
 
 Second dialogue option - follow ants.
 
@@ -331,9 +339,13 @@ Go up to bar, grab the Red Metal on the way. Talk to the men on the left to unlo
 Go through, grab materials on the way.
 
 Jellatinous Matter:
-- Wind Cutter, Overdrive, Bow, Sword attack
+- Amethyst: Wind Cutter/ can squeeze one bow at the end to up proficiency
+- Jessica: Wind Rapier attack
+- Orion: Double Sword or whatever else good he has
+- Byson: Bow　
+- Marie: Bow
 
-Transfer to the Dojo to talk to the fighter guy. Grab materials on the way and grab chest behind the fighter.
+Transfer to the Dojo to talk to the fighter guy. After entering the cave, drop down stairs to grab a Red Metal, talk to the fighter and then grab chest behind the fighter.
 
 Back to the nest, follow him. Once at the dojo, make him join the party.
 
@@ -343,11 +355,11 @@ Go to bar:
 - Add Byson
 
 Equipment:
-- Emperor: Auto equip weapons, take sword
-- Byson: take sword
-- Orion: take sword
-- Maerie: take rapier
-- Jessica: auto equip weapons
+- Emperor Karl: Bow, Leon Sword - Warrior Clothes, Headband, Knuckle Cover, Rubber Sole, Star Stone
+- Byson: Bow, Big Shield, Iron Armor, Face Mask, Knuckle Cover, Leather Boots, Candy Ring
+- Orion: Bow, Reza Guard, Iron Armor, Lionhead, Knuckle Cover, Leather Boots, Silver Ring
+- Maerie: Dart, Worker CLothes, Headband, Somon Ring
+- Jessica: Irorina, Bow, Reza Armor, Rabit Foot 
 
 Training hall, talk to formation guy.
 
@@ -373,7 +385,7 @@ Menu:
 - Jessica: auto speed first, change boots for rubber soles, take bracelet off
 
 Formation:
-- Dragon formation, Jessica and Emperor switch, Byson and Maeri switch, Byson and Emperor switch, Orion and Emperor switch
+- Dragon formation: Jessica (top), Maerie, Byson, Karl, Orion
 
 Fight:
 - Wind Rapier, Bow AOE
@@ -411,7 +423,9 @@ Training grounds, auto skill everyone.
 
 Transfer back to Saramato.
 
-Change quest marker to the Fabric search quest and change formation, put Saggitarius on the far right.
+Menu:
+- Change quest marker to the Fabric search quest.
+- Formation: Rui (top), Hamba, Saggitarius, Karl, Orion
 
 Grind snakes to spark Shadow Arrow.
 
@@ -421,7 +435,7 @@ Transfer to Maruz.
 
 Grab item then jump off stairs and grab the other one, enter house to talk to NPC.
 
-Grab other material on the way to NPC to start quest.
+Grab other material on the way to NPC to start quest. Choose 2nd option to be taken to the ship.
 
 Escape and start fight with the guard:
 - Saggitarius uses Wind Cutter, Karl uses Sobad, everyone else defends.
@@ -431,12 +445,11 @@ Grab big chest with all the team's equipment. Change formation (top - right to l
 Give Orion all stats boost ability.
 
 Equipment:
-- Orion - remove bow
-- Rui - remove spear
-- Karl - auto equip weapons, remove bow
-- Hamba - auto equip weapons, remove spear
-- Karl (again) - auto equip weapons, remove sword
-- Orion - auto equip speed, remove headgear and bracelet
+- Rui - Strong bow, Worker Clothes, Lionhead, Improved White Gloves, Improved Rubber Sole, Solom Ring
+- Karl - Bow, Fighter Clothes, Headband, Knuckle Cover, Star Stone
+- Saggitarius - Bow, Reza Guard, Worker Clothes, Headband, Knuckle Cover, Leather Boots, Rabit Foot
+- Hamba - Dart, Daret, Openhelm, Gauntlet, Leather Boots, Candy Ring
+- Orion -  Crescent Moon Blade, Worker Clothes,  Rubber Sole Improved, Silver Ring
 
 Go left and then first right - straight forward past the oni - then left.
 
