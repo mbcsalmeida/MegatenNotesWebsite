@@ -24,7 +24,7 @@ Pick the female emperor and name whatever you want. Unless mentioned otherwise, 
 Grab **Red Iron**.
 
 **Equipmen:t**
-- Leon remove armor. 
+- Leon remove armor and bracelet. 
 - Gerard equips *Protect Suit*. 
 
 **4 random encounters**: 
@@ -239,8 +239,8 @@ Sell:
 Buy:
 - Crescent-Moon blade
 - Doublet
-- Small Horn
-- Silver Horn
+- All Small Horn
+- All Silver Horn
 - Mator (500k)
 
 Talk to the quest girl. Retransfer to entrance and talk to the first villager.
@@ -353,6 +353,8 @@ Equipment:
 - Orion: Longsword for Bow
 
 Transfer to Saramat for snakes, grab the chest next to the second one.
+
+Transfer to Terteba to finish the quest.
 
 From the throne sit down twice to build the magic institute and forgery update.
 
@@ -513,7 +515,7 @@ Go to Avalon Forgery:
 Forgerer shop, buy:
 - 2x Strong Bows
 
-Go to Avalons bar, do the weird character thingy, end up with: Kuwawa, Charlie, Agnea, Besma. 
+Go to Avalons bar, do the weird character thingy, end up with: Kuwawa, Charlie (NOT CHARLES), Agnea, Besma. 
 
 Equipment:
 - Jayson: auto weapons equip, remove sword
@@ -593,7 +595,7 @@ Go to training hall:
 
 Go to southern encampment and then go to Savannah, Saramat side.
 
-Fight birds to advance the forgery. If you still need to spark skills, go back to the snakes. After about 6 fights the forgery should be done.
+After 8 fights, forgery levels up, you can go ordeer the Aeris Bow.
 
 Go to Forgery, sell:
 - Royal Amper
@@ -603,17 +605,14 @@ Go to Forgery, sell:
 Forge:
 - Aeris Bow
 
-Go to southern encampment and then go to Savannah, Saramat side to continue to try to spark 落鳳破. Again, after about 74 fights, the forgery should be done.
+Go to southern encampment and then go to Savannah, Saramat side to continue to try to spark 落鳳破. 
+
+After another 10 fights (2x Cocatrice on Saramat + 2 Snakes ), the bow will be done to pick up.
 
 Equipment:
 - Gartan: auto equip weapons, remove axe
 
-Go to forgery, get the Aeris Bow. Go to Saramat, on Yuuyan's side.
-
-Equipment:
-- Gartan: auto equip weapons, remove axe
-
-Fight the snakes until Gartan learns his ability (about 10 fights?).
+Fight the snakes until Gartan learns his ability (12 more fights). Snakes spart skills better.
 
 Go to Magic Hall.
 - Fuse Fire Wall
