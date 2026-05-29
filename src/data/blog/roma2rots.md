@@ -175,6 +175,8 @@ At the save point, head to the room on the right and grab both chests. Heal.
 
 Pass the throne to Amesthyst (Court Mage) if possible, otherwise abdicate until you can.
 
+**Optional**: For safety, you can check your battle count here. Take note of it mentally.
+
 Go to throne room, talk to portrait of Gerard for +1 Ability.
 
 Go to bar, click through characters very fast. Then end with Orion, Bayson, Jessica, Marie.
@@ -273,9 +275,9 @@ Transfer back to the entrance of the settlement, exit and head right to Saramat.
 
 Equipment:
 - Orion: Auto weapons equip, change Long sword to Bow, auto equip speed, remove helm, bracelet and shoes 
-- Byson: Auto speed equip, remove shoes, bracelet and armor, switch staff for bow from Jessica
-- Jessica: auto weapons equip, remove bow, auto speed equip, remove helmet, bracelet, shoes
-- Marie: auto speed equip, remove shoes and bracelet
+- Byson: Auto speed equip, remove shoes, bracelet, give lionhead, switch staff for bow from Jessica
+- Jessica: auto weapons equip, remove bow, auto speed equip, remove helmet, bracelet, shoes, give rabit foot
+- Marie: auto speed equip, remove shoes and bracelet, give somon ring
 - Amethyst: Remove shield, helmet, bracelet and shoes
 
 Final Equipment:
@@ -431,6 +433,8 @@ Fight:
 - Wind Rapier, Bow AOE
 
 Grab crystal for 150,000 crowns. 
+
+**NOTE:** To avoid the timeskip, the battle count has to be exactly +14 or +15 to what it was at the beginning of the generation! If it isn't you'll get a timeskip delivering the gemstone mine quest so you'll have to deliver it later instead and grind more.
 
 *Transfer to Saramat for grind.*
 
