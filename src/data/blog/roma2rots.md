@@ -35,7 +35,7 @@ Grab **Red Iron**.
 - Everyone else uses basic weapon attack.
 - On the last encounter, you can use overdrive.
 
-**IDEAL**: Spark なぎはらい
+**IDEAL**: Spark Knee Split/なぎはらい
 
 ### Palace
 
@@ -61,7 +61,7 @@ Teleport to Watchmen's Nest.
 
 **Boss**: Leon double sword. Esmeralda uses fireball. Everyone else uses bow/rapier.
 
-**IDEAL**: Spark なぎはらい, 家電衝, でたらめ矢
+**IDEAL**: Spark Knee Split/なぎはらい, Shock Rush/家電衝, Rapid Volley/でたらめ矢
 
 Warp back to Avallon, skip cutscenes, wrap to Somon.
 
@@ -82,7 +82,7 @@ Jump down stairs, grab **120,000** crown chest and take the next right to grab t
 - Gerard: Fireball
 - Henri: Bow for park
 - Lisa: Short sword for spark
-- Leon: Double sword.
+- Leon: Double Cut.
 
 Follow up stairs and grab **small horn** outside. 
 
@@ -95,7 +95,7 @@ Grab **Red Metal** on top of table.
 
 **Kzissie 1**:
 - Henri: Bow, spark Eve Break
-- Lisa: 家電衝
+- Lisa: Shock Rush/家電衝
 - Esmeralda: Fireball
 - Gerard uses Fireball
 - Leon: Double Sword
@@ -106,7 +106,7 @@ Goblin fights:
 - Gerard: Sword
 - Lisa: Short Sword for sparks
 - Esmeralda: Fireball
-- Henri: Bow for sparks, でたらめ矢 if you have it
+- Henri: Bow for sparks, Rapid Volley/でたらめ矢 if you have it
 - Head Goblin fight: Ok to use overdrive
 
 Choose to go to Somon (second option).
@@ -130,13 +130,12 @@ Preparation:
 - Formation: Gerard in the back
 
 Join the fight:
-- Gerard Double Sword, Esmerald fireball, Bow/Rapier
+- Gerard Double Cut, Esmerald fireball, Bow/Rapier
 
-Heal BP, save. You really wanna have でたらめ矢 and 家電衝
+Heal BP, save. You really wanna have Rapid Volley/でたらめ矢 and Shock Rush/家電衝
 
 **Kzissie 2**:
-- Double Sword, Fireball, Eve Break/でたらめ矢, 家電衝, Hector uses either a bow attack or buff.
-- Prioritize killing the sword
+- Double Cut, Fireball, Id Break or Rapid Volley/でたらめ矢, Shock Rush/家電衝, Hector uses either a bow attack or Gilded Strength.
 
 ## 1001
 
@@ -152,13 +151,15 @@ Talk to man, choose to pay.
 
 **Menu**:
 - Change formation, put Hector on the front.
-- Skills, forget Hector's Buff skill
+- Skills, forget Hector's Gilded Strength
 - Equipment, Hector - auto equip weapons, remove second, auto equip defense
-- Equipment, Theresa - auto equip attack, remove rapier
+- Equipment, Therese - auto equip attack, remove rapier
 
 (Dungeon): First left, grab **180,000 crown** chest.
 
 Right then right on big hall.
+
+Take the two goblin encounters before the last corridor to achieved level 8 Bow proficiency with Henry and level 8 Shortsword proficiency with Jessica.
 
 At the save point, head to the room on the right and grab both chests. Heal.
 
@@ -167,8 +168,9 @@ At the save point, head to the room on the right and grab both chests. Heal.
 - Theresa: Auto equip attack
 
 **Fight**:
-- Vykke: Weak to wind, use 家電衝 or Wind Cutter
-- Everyone else: Double sword or arrows
+- Vykke: Weak to wind, use Shock Rush/家電衝 or Wind Cutter
+- Everyone else: Double Cut or Bow
+- You HAVE to spark Sidewinder with Jessica and Twin Arrows with either Henry or Therese
 - Prioritize hitting Vykke unless he's buffed
 
 ## 105X
@@ -182,9 +184,9 @@ Go to throne room, talk to portrait of Gerard for +1 Ability.
 Go to bar, click through characters very fast. Then end with Orion, Bayson, Jessica, Marie.
 
 Go to training grounds to inherit skills.
-- Amethysts - gets bow skills
-- Bayson - Gets sword skills
-- Marie - gets rapier and bow skills
+- Amethysts - gets bow skills and sword skills (Knee Split)
+- Bison - Gets sword skills (Knee Split)
+- Marie - gets short sword and bow skills 
 
 Go to forgery, make Armor and Helmet.
 
@@ -196,9 +198,9 @@ Grab **Red Metal** and chest with Horn near the port.
 
 Take boat to Mairuz.
 
-### Mairuz
+### Miles
 
-Grab chest left near the port. Teleport to Mairuz through map and exit behind.
+Grab chest left near the port. Teleport to Miles through map and exit behind.
 
 Straight forward to walk to Nomad village. Grab **Silk cloth** and then enter first tent on the left. Talk to the guy say **1st option** then **2nd option** to not join for the quest.
 
@@ -236,14 +238,14 @@ Head right, grab chest near the shop then enter the shop.
 
 Sell:
 - Royal Amber
-- Meteoric Iron
+- Meteorite
 
 Buy:
 - Crescent-Moon blade
 - Doublet
 - All Small Horn
 - All Silver Horn
-- Mator (500k)
+- Mottled Ore (500k)
 
 Talk to the quest girl. Retransfer to entrance and talk to the first villager.
 
@@ -271,7 +273,7 @@ Head straight right to enter the Settlement. Talk to the leader and then to the 
 
 Transfer back to the entrance of the settlement, exit and head right to Saramat.
 
-### Saramat
+### Sallamat
 
 Equipment:
 - Orion: Auto weapons equip, change Long sword to Bow, auto equip speed, remove helm, bracelet and shoes 
@@ -279,6 +281,8 @@ Equipment:
 - Jessica: auto weapons equip, remove bow, auto speed equip, remove helmet, bracelet, shoes, give rabit foot
 - Marie: auto speed equip, remove shoes and bracelet, give somon ring
 - Amethyst: Remove shield, helmet, bracelet and shoes
+- ABILITIES: Jessica: All +1
+- FORMATION: Free fight
 
 Final Equipment:
 - Amethyst: Leon Sword, Bow, Worker Robe, Star Stone
@@ -287,19 +291,13 @@ Final Equipment:
 - Marie: Dart, Fray, Worker Robe, Headband, Somon Ring
 - Orion: Crescent Blade, Bow, Doublet, Silver Ring
 
-Abilities:
-- Jessica: All +1
+Go left down, pick up horn. Drop down, head right to thicker jungle. Pick up Natural Essence and Small Horn.
 
-Formation:
-- Free fight
-
-Go left down, pick up horn. Drop down, head right to thicker jungle. Pick up Forest Essence and Small Horn.
-
-Straight forward, if you have サインドワインダ then kill one of the frogs to up proficiency a bit, otherwise skip.
+Straight forward, kill one of the frogs to up bow proficiency.
 
 Grab chest left with 160k crowns. Squeeze through walls, forward to Yuuyan.
 
-Talk to first villager to the right, transfer to Southern Settlement.
+Talk to first villager to the right, transfer to Southern Settlement/Ostro.
 
 Go to first hut on the right, talk to NPC and go rest.
 
@@ -314,7 +312,7 @@ Right at intersection, pick up Gold Mineral. Left at next intersection, grab fan
 Grab the Good Quality Nail and Harmonia. Then turn around to indicator, grab the Nail and other one. Drop down to mole village.
 
 Ant fight:
-- Orion: Double Sword
+- Orion: Double Cut/Moonfall Slash
 - Everyone else: Bow
 
 Head further into nest.
@@ -322,10 +320,10 @@ Head further into nest.
 Pick up both items on the way to the Queen.
 
 Queen fight:
-- Amethyst, Orion: なぎはらい
-- Jessica: Hopefully Side Winder, otherwise 家電衝, Feint to stune
-- Byson: なぎはらい/If fainted, Bow
-- Marie: Feint/If fainted, Double Bow
+- Amethyst, Orion: Knee Split/なぎはらい
+- Jessica: Hopefully Side Winder, otherwise Shock Rush/家電衝, Feint to stune
+- Byson: Knee Split/なぎはらい - If stunned, Bow
+- Marie: Feint/If stunned, Twin Arrows
 
 Transfer to Southern Settlement to complete quest.
 
@@ -362,11 +360,8 @@ From the throne sit down twice to build the magic institute and forgery update.
 
 Go to forgery and sell:
 - 3x Harmonia
-- 金剛 silver material
-- Ultimate material
-- Yellow Gold Mineral
-- 立派な角
-- 幻獣の爪
+- Superior Cloth
+- Magnificient Horn
 
 Buy all the materials they have.
 
@@ -376,9 +371,9 @@ Forge:
 
 ### Monster's Nest
 
-Go to Novel.
+Go to Nibel.
 
-Go up to bar, grab the Red Metal on the way. Talk to the men on the left to unlock the Monster's Nest and transfer there.
+Go up to bar, grab the Reddish Ore on the way. Talk to the men on the left to unlock the Monster's Nest and transfer there.
 
 Go through, grab materials on the way.
 
@@ -386,7 +381,7 @@ Jellatinous Matter:
 - Amethyst: Wind Cutter/ can squeeze one bow at the end to up proficiency
 - Jessica: Wind Rapier attack
 - Orion: Double Sword or whatever else good he has
-- Byson: Bow　
+- Bison: Bow　
 - Marie: Bow
 
 Transfer to the Dojo to talk to the fighter guy. After entering the cave, drop down stairs to grab a Red Metal, talk to the fighter and then grab chest behind the fighter.
@@ -396,23 +391,22 @@ Back to the nest, follow him. Once at the dojo, make him join the party.
 Transfer to the throne and abdicate of the position for a fighter.
 
 Go to bar:
-- Add Byson
+- Add Bison
 
 Equipment:
-- Emperor Karl: Bow, Leon Sword - Warrior Clothes, Headband, Knuckle Cover, Rubber Sole, Star Stone
-- Byson: Bow, Big Shield, Iron Armor, Face Mask, Knuckle Cover, Leather Boots, Candy Ring
-- Orion: Bow, Reza Guard, Iron Armor, Lionhead, Knuckle Cover, Leather Boots, Silver Ring
-- Maerie: Dart, Worker CLothes, Headband, Somon Ring
-- Jessica: Irorina, Bow, Reza Armor, Rabit Foot 
+- Karl: auto weapons
+- Bison: auto weapons, remove sword
+- Orion: get lionhelm
+- Jessica: bow
 
 Training hall, talk to formation guy.
 
 Move learner:
-- Auto learn for everyone
+- karl, jessica and bison
 
-Go to Tifar.
+Go to Tefal.
 
-### Tifar
+### Tefal
 
 Grab chest and material left, transfer back to entrance.
 
@@ -425,12 +419,13 @@ Leave, grab material outside and go to the door, first option.
 Take the elevator down. Grab the first chest to the right and material and then take the right after that until the exit.
 
 Menu:
-- Maeri: auto speed first
+- Mary: auto speed first
 - Jessica: auto speed first, change boots for rubber soles, take bracelet off
 - Dragon formation: Jessica (top), Maerie, Byson, Karl, Orion
 
 Fight:
-- Wind Rapier, Bow AOE
+- Shock Rush to hopefuly spark Plasma Thrust
+- Rapid Volley
 
 Grab crystal for 150,000 crowns. 
 
@@ -449,25 +444,26 @@ If you didn't deliver the quest, go to another area to reload the snakes then *T
 (Once done) Transfer to Magic Research Center and then to the Forgery.
 
 Sell:
-- All of the sontetsu
+- All of Meteorite
 
 Talk to the forger.
 - Forge second bow
 - Improve the gloves and boots.
 
-Go to bar, spam the characters. Final party: Rui, Sagittarius, Orion, Hamba (Hunter)
+Go to bar, spam the characters. Final party: Louis, Sagittarius, Orion, Hamba (Hunter)
 
 Training grounds, auto skill everyone.
 
 Menu:
 - Change quest marker to the Fabric search quest.
-- Formation: Rui (top), Hamba, Saggitarius, Karl, Orion
+- Formation: Louis (top), Hamba, Saggitarius, Karl, Orion
+- Remove all secondary weapons
 
-*Transfer to Saramat for grind.*. Keep going until you either learn all three of 影矢、落鳳破 and ビーストスレイヤー or the Bow is completed. If the Bow is completed, go to the Forgery to pick it up!!
+*Transfer to Saramat for grind.*. Fight snakes until you spark Shadow Shot. You also need Instant Shot and Beast Slayer for the next iteration so, to be safe, you can wait to spark those too, or try to spark them against Bokhon.
 
-Transfer to Maruz.
+Transfer to Miles.
 
-### Maruz and the big machine
+### Mile and the big machine
 
 Grab Red Metal on the corner then jump off stairs and grab the other Red Metal, enter house to talk to NPC.
 
@@ -479,15 +475,12 @@ Escape and start fight with the guard:
 Grab big chest with all the team's equipment. 
 
 **Menu**:
-- Change formation (top - right to left): Orion (front), Rui, Hamba, Karl and Saggitarius. 
+- Louis: remove spear, lion helm, white gloves, rubber soles, solom ring
+- Saggitarius: knuckle cover, leather boots, rabbits foot
+- Hamba: remove spear, auto speed, leather boots, candy ring
+- Orion: remove bow, auto speed, remove head/arms
 - Give Orion +1 ability.
-
-Equipment:
-- Rui - Strong bow/Stronger Bow, Worker Clothes, Lionhead, Improved White Gloves, Improved Rubber Sole, Solom Ring
-- Karl - Bow, Fighter Clothes, Headband, Knuckle Cover, Star Stone
-- Saggitarius - Bow, Reza Guard, Worker Clothes, Headband, Knuckle Cover, Leather Boots, Rabit Foot
-- Hamba - Dart/Strong Bow, Daret, Openhelm, Gauntlet, Leather Boots, Candy Ring
-- Orion -  Crescent Moon Blade, Worker Clothes,  Rubber Sole Improved, Silver Ring
+- Change formation (top - right to left): Orion (front), Rui, Hamba, Karl and Saggitarius. 
 
 Go left and then first right - straight forward past the oni - then left.
 
@@ -505,7 +498,10 @@ Bokhon fight:
 
 ## 11XX
 
-Pick Jayson/Free Fighter, keep trying for him.
+Emperor priority list:
+- Free Figher/Mercenary
+- Court Mage M
+- Any male character except Ranger M, Nomad M, Hunter
 
 Go to the Mole's village. Then go to Maruz.
 
@@ -514,20 +510,20 @@ Go to general store, buy:
 - 2x White Silver Material
 
 Go to Avalon Forgery:
-- Order improved armor.
+- Order Silver Cuirass.
 
 Forgerer shop, buy:
 - 2x Strong Bows
 
-Go to Avalons bar, do the weird character thingy, end up with: Kuwawa, Charlie (NOT CHARLES), Agnea, Besma. 
+Go to Avalons bar, mash characters, end up with: Kuwawa, Shirley, Agnea, Basma. 
 
 Equipment:
 - Jayson: auto weapons equip, remove sword
 - Besma: remove staff
 - Agnea: remove rapier
-- Charlie: remove rapier
+- Shirley: remove rapier
 - Kuwawa: remove sword
-- Charlie: auto equip speed, remove bracelet, give Agnea's improved shoes
+- Shirley: auto equip speed, remove bracelet, give Agnea's improved shoes
 - Agnea: auto equip speed, remove bracelet
 - Kuwawa: auto equip attack, remove accessory, equip Iron Will
 - Agnea: auto equip speed  
@@ -535,17 +531,15 @@ Equipment:
 - Jayson: Solomon Ring
 
 Formation: 
-- Charlie (front), Kuwawa, Agnea, Orion, Besma
+- Shirley (front), Kuwawa, Agnea, Orion, Besma
 
 Abilities:
-- Charlie: all +1
+- Shirley: all +1
 
 Go to training hall:
 - auto skills everyone
 
 Deliver mine mission if you haven't yet.
-
-**IF YOU DELIVER** the mine mission here, this will add 4 Event Points which means we need at least 5 fights added to the Generational Battle Count to prevent a timeskip aftr Rocbouquet, which we absolutely do not want. In that case, grind snakes twice to try to spark any remaining skills. There will be a mimic fight at the next dungeon, guaranteeing hitting the 5 battle count.
 
 Saramat, Yuuyan side walk and take exit right to Eilnep.
 
@@ -556,17 +550,17 @@ Grab chest left right at the entrance, go to tower.
 In the tower, follow the path. Take the mimic chest and equip the Ring on Kuwawa (attack equip should equip it).
 
 Weird tree fight:
-- 瞬足の矢
+- Instant Shot/瞬足の矢
 
 SAY SECOND OPTION AT ROCBOUQET
 
 Rocbouquet:
-- 瞬足の矢
+- Instant Shot/瞬足の矢
 
 Improve Forgery and Magic Hall. 
 
 Head to Wandering Lake, go fight Noel:
-- 瞬足の矢/影矢
+- Shadow Shot/影矢
 
 Go to Rudon plains, grab the horn at the top of the cliff before turning down to the Saigo tribe.
 
@@ -772,14 +766,11 @@ Magic hall.
 Back to last layer of the final dungeon.
 
 Equipment - check that everybody is immune to charm:
-- Emperor: Spirit Ring
-- Mujung: auto equip defense, remove shield, remove second weapon
-- Bats: remove second weapon
-- William: remove spear, auto equip attack
-- Catherine: auto equip attack, remove shield
-- Bats: solmon ring
-- William: auto equip attack (Sif ring), open helm (with temptation evade)/iron will without, remove shield, give normal shoes
-- Catherine: Improved Rubber Sole
+- Mujung: auto equip defense, remove shield, remove second weapon, silver ring
+- William: remove spear, auto equip attack, thief ring, iron will
+- Catherine: auto equip attack, remove shield, lion helm, entite ring 
+- Bats: somon ring
+
 
 Abilities:
 - Batsu: Max HP
