@@ -503,7 +503,7 @@ Emperor priority list:
 - Court Mage M
 - Any male character except Ranger M, Nomad M, Hunter
 
-Go to the Mole's village. Then go to Maruz.
+Go to the Mole's village. Then go to Miles.
 
 Go to general store, buy:
 - 10x Best Medicine
@@ -518,23 +518,16 @@ Forgerer shop, buy:
 Go to Avalons bar, mash characters, end up with: Kuwawa, Shirley, Agnea, Basma. 
 
 Equipment:
-- Jayson: auto weapons equip, remove sword
-- Besma: remove staff
-- Agnea: remove rapier
-- Shirley: remove rapier
-- Kuwawa: remove sword
-- Shirley: auto equip speed, remove bracelet, give Agnea's improved shoes
-- Agnea: auto equip speed, remove bracelet
-- Kuwawa: auto equip attack, remove accessory, equip Iron Will
-- Agnea: auto equip speed  
+- Remove all secondary weapons
+- Shirley: remove bracelet, give Agnea's improved shoes
+- Agnea: remove bracelet
+- Kuwawa: remove accessory, equip Iron Will, auto equip attack
 - Besma: auto equip attack
+- Agnea: auto equip speed 
+- Shirley: auto equip speed 
 - Jayson: Solomon Ring
-
-Formation: 
-- Shirley (front), Kuwawa, Agnea, Orion, Besma
-
-Abilities:
-- Shirley: all +1
+- ABILITIES: Shirley: all +1
+- FORMATION: Shirley (front), Kuwawa, Agnea, Orion, Besma
 
 Go to training hall:
 - auto skills everyone
@@ -658,6 +651,8 @@ Go to bar:
 
 Equipment:
 - Everyone remove second weapon
+- Abilities: Emperor auto equip
+- Formation: Emperor (top), Hupert, Hiporyute, Aria, Acquilles
 
 Training Hall:
 - Auto skills everyone
@@ -666,12 +661,6 @@ Training Hall:
 
 Go to Emperor room and go around to talk to Leon's painting for an ability.
 
-Abilities:
-- Emperor: auto equip
-
-Formation:
-- Emperor (top), Hupert, Hiporyute, Aria, Acquilles
-
 Teleport to sealed cave.
 
 ### Sealed Cave
@@ -679,7 +668,7 @@ Teleport to sealed cave.
 Grab chest right before Kzissie.
 
 Equipment:
-- Emperor: auto equip attack, remove shield, change boots to Rubber Solo Improved, accessory to Sif Ring
+- Emperor: auto equip attack, remove shield, change boots to Rubber Solo Improved, accessory to Thief Ring
 - Everyone else: auto equip attack
 
 Kzinssie:
@@ -766,18 +755,12 @@ Magic hall.
 Back to last layer of the final dungeon.
 
 Equipment - check that everybody is immune to charm:
-- Mujung: auto equip defense, remove shield, remove second weapon, silver ring
+- Mujung: auto equip defense, remove shield, remove second weapon, intaglio ring
 - William: remove spear, auto equip attack, thief ring, iron will
 - Catherine: auto equip attack, remove shield, lion helm, entite ring 
 - Bats: somon ring
-
-
-Abilities:
-- Batsu: Max HP
-- Mujung: Giant Killer
-
-Formation:
-- Emperor (top), Batsu, Catherine, William, Mujung
+- ABILITIES: Batsu: Max HP and Mujung: Giant Killer
+- FORMATION: Emperor (top), Batsu, Catherine, William, Mujung
 
 Seven:
 - First turn: 影矢
