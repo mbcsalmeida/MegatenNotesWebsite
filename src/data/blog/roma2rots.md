@@ -351,6 +351,8 @@ Change quest marker to Yuuyan's Sekshusai.
 
 Equipment:
 - Orion: Longsword for Bow
+- Jessica: Add Bow
+- Mary: Remove Shortsword
 
 Transfer to Saramat for snakes, grab the chest next to the second one.
 
@@ -397,7 +399,6 @@ Equipment:
 - Karl: auto weapons
 - Bison: auto weapons, remove sword
 - Orion: get lionhelm
-- Jessica: bow
 
 Training hall, talk to formation guy.
 
@@ -463,7 +464,7 @@ Menu:
 
 Transfer to Miles.
 
-### Mile and the big machine
+### Miles and the big machine
 
 Grab Red Metal on the corner then jump off stairs and grab the other Red Metal, enter house to talk to NPC.
 
@@ -720,17 +721,13 @@ Vitra:
 - Can use overdrive
 - 影矢
 
-Equipment:
-- Aria: put headgear as Iron Will
-- Acquiles: solmon ring, open helm
-- Hyuporyute: auto equip attack
-- Audrey: remove short sword/rapier
-
 Take the elevator to second layer.
 
 Grab chest in front of the dragon monster, jump down after.
 
 Equipment:
+- Aria: put headgear as Iron Will
+- Hyuporyute: auto equip attack
 - Acquiles, auto equip defense, remove shield 
 
 Queen:

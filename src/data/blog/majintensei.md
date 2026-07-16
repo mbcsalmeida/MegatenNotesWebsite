@@ -5,7 +5,7 @@ modDatetime: 2026-04-21T00:09:00Z
 title: Majin Tensei 
 slug: majin-tensei
 featured: false
-draft: true
+draft: false
 tags:
   - majin-tensei
 description: Majin Tensei notes.
@@ -45,11 +45,12 @@ Stats on Hero:
 - Defense until 10 (at lvl 8)
 - Strength until 28 
 - Magic until 7
-
+- Defense
 
 Stats on Heroine
 - Magic until 32 (at lvl25)
-- Defense
+- Defense until 25
+- Vitality
 
 Keep an emergency dis-paralyze or dis-poison with you.
 
@@ -215,7 +216,7 @@ Split: 1:32:04
 
 **2**: Hero attacks left, Heroine Maragion.
 
-**3**: Heroine Agilao the Werecat. Orthrus moves slightly right.
+**3**: Heroine Agilao the Weredog. Orthrus moves slightly right.
 
 Hero attacks the Dodongo.
 
@@ -231,9 +232,9 @@ Finish it next turn with Maragion.
 
 ## Map 10
 
-**1**: SAVE. Hero recruits closer Siren. Heroine moves up, Sabatoma the Siren and Orthrus.
+**1**: SAVE. Hero recruits closer left Siren. Heroine moves up, Sabatoma the Siren and Orthrus.
 
-**2**: SAVE. hero recruits other Siren. Heroine moves past bridge towards the other bridge, summons Siren.
+**2**: SAVE. hero recruits other right Siren. Heroine moves past bridge towards the other bridge, summons Siren.
 
 Orthrus follows past bridge, Siren goes up river.
 
@@ -329,15 +330,15 @@ Finish with AOEs, Orthrus helps.
 
 **5**: Heroine Maragion both Majuus. Hero gets on bridge, summon Orthrus on bridge and Siren diagonal top right.
 
-**6**: Siren goes far into mountains. Orthrus crosses bridge far into plains. Heroine uses Maragion. Hero defeats another Majuu.
+**6**: Siren goes far into mountains. Orthrus crosses bridge far into plains direction north. Heroine uses Maragion. Hero defeats another Majuu.
 
 **7**: Hero goes on bridge. Siren goes north. Orthrus goes through bridge. Heroine uses Magic on whoever.
 
-**8**: Hero attacks the Toukis. Cerberus goes further north through mountains. Siren gets on Generator. Heroine magic on remaining Youjuu.
+**8**: Hero attacks the Toukis. Orthrus goes further north through mountains. Siren gets on Generator. Heroine magic on remaining Youjuu.
 
-**9**: Hero goes North. Cerberus attacks Humbaba.
+**9**: Hero goes North. Orthrus attacks Humbaba.
 
-**10**: Save. Hero recruits Basilisk if in reach. Cerberus attacks Hanbaba.
+**10**: Save. Hero recruits Basilisk if in reach. Orthrus attacks Hanbaba.
 
 ## Map 16
 
@@ -363,29 +364,25 @@ Hero goes north.
 
 ## Map 17
 
-**1**: Hero next to house. Basilisk diagonal up, Orthrus diagonal down, Heroine goes to diagonal up.
+**1**: Hero next to house. Basilisk diagonal left up, Orthrus diagonal right down, Heroine goes to diagonal up.
 
-**2**: SAVE. Heroine uses Maragion. Hero moves to fountain attacks Tetzaquotl (can miss). 
+**2**: SAVE. Heroine uses Maragion. Basilisk attacks Tetzaquotl. Hero moves to fountain attacks Tetzaquotl (can miss). 
 
-Orthrus attacks Sylph.  Basilisk goes left up.
+Orthrus attacks Sylph. 
 
-**3**: SAVE. Orthrus down attacks Turdak. Basilisk attacks Pooka. 
+**3**: SAVE. Orthrus down attacks Turdak. 
 
-If Baykok is full HP, Heroine Maragion and Hero attacks to kill.
-
-If Baykok is hurt, Agilao to kill and Hero kills the Elf.
+Hero attacks the Elf. Basilisk kills the Baykok if low HP and heroine heals Basilisk, otherwise Heroine Maragion and Basilisk goes to fountain. 
 
 **4**: Orthrus heads further down to bait Spartoi.
 
- Hero kills last Baykok if Basilisk is poisoned, otherwise Heroine Maragion.
+Basilisk kills last Baykok if low HP, Hero and Heroine move left. Otherwise, one of them can take care of it.
 
- If Basilisk isn't poisoned, attack the Spartoi. Otherwise retreat. Heroine goes left.
+**5**: Orthrus kills Spartoi or goes north. 
 
-**5**: Orthrus goes north. Hero goes to fountain.
+Hero/Heroine/Basilisk attacks the demons around to start making their way to the Loa left.
 
-If Basilisk is poisoned, Heroine heals. Otherwise, Heroine Agilao the Kwancha and Basilisk attacks the Sylph.
-
-**6+**: Send Basilisk to left Loa and Orthrus to left Kwancha. 
+**6+**: Send Hero to left Loa and Orthrus to left Kwancha. 
 
 Close it out, hopefully nobody dies to Poison.
 
@@ -415,15 +412,17 @@ Heroine heads up to the grass, summons Basilisk above and Ganesha behind !!IF!! 
 
 Hero heads right, use a Dis-Poison if he's poisoned.
 
-**6**: Save. Hero heal if he's low health (double poison) otherwise talk to the Jatayu.
+**6**: Save. Hero heals poison or health if he's low health (double poison) otherwise go to fountain or attack the Typhon.
 
-Purski/Sirens kill the last Yurlungur. Send Basilisk to the right, Heroine Maragion and Dullahan standing a bit behind on the grass.
+Purski/Sirens kill the last Yurlungur. Send Basilisk to the right, Heroine Maragion and Ganesha standing a bit behind on the grass.
 
-**7+**: Dullahan Mabufula/Heroine Maragion, Basilisk attacks
+**7+**: Ganesha Mabufula the Anantas/Heroine Maragion, Basilisk attacks
 
-Hero recruits Jatayu. Make sure both are recruited.
+Hero kills Jatayus.
 
 Move Sirens and Purskis to the corner so they don't get attacked.
+
+**8+:** Hero recruits both Jatayus. Bring down their numbers with magic.
 
 ## Map 22
 
@@ -439,7 +438,7 @@ Move Sirens and Purskis to the corner so they don't get attacked.
 
 **6**: Hero goes down and kills the Hanbaba. Uriel and Heroine go down and follow.
 
-**7**: Uriel goes to generator, both advance.
+**7**: Uriel goes to generator, both advance. Heroine equips the Agrama Helmet.
 
 **8**: Heroine uses Maragion, Hero goes to stairs.
 
@@ -471,7 +470,7 @@ Maragion the Basilisk through the wall, move Hero up the corridor. If you get pa
 
 **1**: Heroine uses Maragion on Basilisk. Hero moves to generator and attacks Siren.
 
-**2**: Heroine uses Zionga on Siren if needed otherwise moves forward and sabatoma Siren on generator. Hero advances.
+**2**: Heroine uses Agilao on Siren if needed otherwise moves forward and sabatoma Siren on generator. Hero advances.
 
 **3,4,5,6,7,8**: Move through the left. Once Hero turned the corner, summon Uriel.
 
@@ -499,9 +498,9 @@ Once uriel is in reach, attacks Yatagarasu.
 
 ## Map 26
 
-1: Hero goes left, summons Uriel and Jatayu, Heroine goes right.
+1: Hero goes left, summons Uriel, Heroine goes right, summons Jatayu.
 
-2: Hero/Heroine up, Uriel up for right top chest, Jatayu goes for top of the bottom right chests.
+2: Hero/Heroine up, Uriel up for left top chest, Jatayu goes for top of the bottom right chests.
 
 3: Hero/Heroine up, demons move.
 
@@ -527,7 +526,7 @@ Leave the tower.
 
 ## Map 28
 
-1: Hero recruits Houou. Heroines moves one tile up, sabatoma (left to right) -> Houoh, Houoh, Houoh, Jatayu, Uriel,Jatayu, Siren.
+1: Hero recruits Houou. Heroines moves one tile up, sabatoma (left to right, top to bottom) -> Houoh, Houoh, Houoh, Jatayu, Uriel,Jatayu, Siren.
 
 2: Hero recruits Makara. Birds go straight left forming a wall, Uriel goes above to the mountains.
 
@@ -553,19 +552,21 @@ After the stage, go left in the map for the next stage.
 
 1: Hero straight up -> summon Mahakara behind, Loki front and Jatayu bottom left, Heroine right.
 
-2: Hero straight up, summons Ganesha behind, Houou on each side of Ganesha. Heroine straight up, sabatoma -> Cerberus up, Uriel right. Jatayu straight left, Loki and Mahakara down.
+2: Hero straight up, summons Ganesha behind, Houou on each side, Typhon top right. Heroine straight up, sabatoma -> Cerberus up, Uriel right. Jatayu straight left, Loki and Mahakara down.
 
-3: Ganesha uses Mabufula. Both Houou attacks Mayas. 
+3: Both Houou attacks Mayas. Hero attacks Papilsag if its in range. Ganesha uses Mabufula, hopefully to kill Spartoi.
 
-Cerberus attacks Loki, Heroine Bufula to kill it. Uriel attacks the Shitori if its close to die or Yatagarasu. 
+Cerberus attacks Loki. Heroine attacks either the Sytry with Ziogna or Bufula on Loki.
 
-Hero kills the remaining Maya. Jatayu straight left. Mahakara up the third corridor.
+Uriel attacks the Sytry if its in range or close to dying, or Yatagarasu. 
+
+Jatayu straight left. Mahakara up the third corridor.
 
 4: If Papilsag are in reach, attack with Maragion. Mahakara go up. Jatayu go up.
 
 Kill the Yatagarasu, Jatayu and Papilsag. If you can kill Papilsag without Cerberus, advance him up, otherwise keep him around there. Move Hero up.
 
-5: Ganesha Mabufula the Basilisk, Hero attacks the Sylph. Mahakara attacks the Baykok. Jatayu goes up. Move a bird to the generator and Uriel the chest top right.
+5: Ganesha Mabufula the Basilisk, Hero attacks the Sylph. Mahakara attacks the Baykok.Loki can use Zanma against Bugaboo. Jatayu goes up. Move a bird to the generator and Uriel the chest top right.
 
 6: Mahakara kills the Bugaboo. Move Uriel and Jatayu up. Move Hero and Ganesha to the last Basilisk.
 
@@ -577,22 +578,22 @@ Go back all the way to the right for the next stage.
 
 ## Map 31
 
-1: Hero up around the house, summon Cerberus right, Thor left. Heroine right.
+1: Hero up around the house, summon Cerberus right, Purski left. Heroine right.
 
-2: Save. Hero attacks Baykok, Cerberus attacks the top Loki. Thor moves straight forward Heroine moves right, summon Mahakara, Loki, Houou, Uriel behind.
+2: Save. Hero attacks Baykok, Cerberus attacks the top Loki. Purski moves behind Hero. Heroine moves right, summon Mahakara, Loki, Houou, Uriel behind.
 
-3: Houou attacks the Jatayu. Thor uses Mazio to Apis and Yatagarasu. Heroine uses Zionga on Yatagarasu.
+3: Mahakara uses Mazan. Heroine try to use Maragion. Purski tries to use Zionga to Apophis. Uriel can kill Orias.
 
-Hero attacks the Papilsag. Mahakara and Loki attacks the Loki. Uriel heals the Cerberus.
+4: Heroine Zionga the Maya, Mahakala/Loki attack Sytry/Orias to kill. Hero/Cerberus/Uriel move up.
 
-4: Uriel attacks Shitori. Thor Mazio hopefully all 3. Loki Zanma the Orobas, Heroine Zionga the Orobas to hopefully kill.
+5: SAVE. Cerberus, Hero attack the Mayas. Heroine can Zionga if in range.
 
-Mahakara uses Mazan on Shitori and Maya, Houou hopefully kills Maya. Make sure these all die, otherwise they'll go to the fountain or use Diarahan.
+---
 
-If everyone is taken care of, move Cerberus and Hero to the remaining dragons.
-
-5: SAVE. Cerberus attacks the Maya down, hopefully kill. Loki Zanma a Maya, move Heroine (Attack if needed). Hero attacks.
-
+You need Ganesha for the next stage. If it died somehow, you can fuse it as:
+- Badb Catha x Siren = Throne
+- Throne x Basilisk = Goblin
+- Goblin x Jatayu = Ganesha
 
 ## Map 32
 
@@ -600,15 +601,15 @@ If everyone is taken care of, move Cerberus and Hero to the remaining dragons.
 
 2: Uriel up, Heroine left. Hero left, summon Ganesha right behind him, Cerberus and Mahakara up and down Ganesha.
 
-3: Ganesha uses Mabufula. Everyone moves further left, Uriel goes to Generator.
+3: Ganesha uses Mabufula. Everyone moves further left, Hero summons 3 Houou/Jatayu, Uriel goes to Generator.
 
-4: Everyone goes left, Heroine summon 3 Houou in front.
+4: Everyone goes left, move the birds up.
 
-5: Mahakara uses Mazanma on Bugaboo, Hero and Cerberus advance, attack the Bugaboos. Birds and Heroine kill the Apises.
+5: Mahakara uses Mazan on Bugaboo, Hero and Cerberus advance, attack the Bugaboos. Birds and Heroine kill the Apises, or go further up. Move Ganesha left to return it to COMP.
 
 6: Hero/Cerberus/Mahakara go left, Mahakara can recover in fountain if needed. Send all birds to the middle generator and Ganesha and Heroine to the left.
 
-7: Birds to generator, move the Houhous in the direction of the Hero. Everyone through the path.
+7: Once one of the birds is in the generator, move the Houhous to the top left. Everyone through the path.
 
 8: Everyone through the path. Houhou close to Hero. Hero summons Undyne
 
@@ -628,25 +629,44 @@ If everyone is taken care of, move Cerberus and Hero to the remaining dragons.
 
 17: Hero kills.
 
+---
+
+Walk back to the temple next to Raphael to get the Heroine.
+
 ## Map 33
 
 It's okay if some birds die in this stage. You need at least 3 birds and Uriel alive by the end.
 
-1: Hero moves up, summons Uriel left, Heroine up Sabatoma -> Houhou and Jatayu each side.
+1: Hero moves up, summons Cerberus and Orthrus, 
 
-2: Hero/ Heroine/ Cerberus as far up as possible, Uriel up, Birds up in zigzag.
+Heroine up Sabatoma -> Uriel, Houhou and Jatayu each side.
 
-3: Kill Maya and Orobas with birds, move them up in a line. Everyone else up.
+2: Uriel goes straight right.
 
-4: Uriel straight right, Hero/Heroine up. Keep all birds in the void in zigzag.
+Orthrus up left, Cerberus up right. Hero up. Heroine up, sabatoma Mahakala.
 
-5:
+Birds up.
+
+3: Heal Uriel if he took damage, straight right.
+
+Hero goes up. Heroine goes up to the corridor, same with Cerberus all the way up. Jatayu goes left, Houous stay around Heroine. Orthrus stays behind.
+
+Mahakala goes right.
+
+4: Mahakala goes up. Heroine and birds fight the birds. Jatayu attacks one of the Uttakus. Cerberus goes into healing spot (DANGEROUS). Hero moves up. Uriel moves up.
+
+5: Uriel moves to generator. Jatayu attacks the Houou. Heroine either Zionga one of the birds or Bufula the Orcus. Mahakala moves up, spread attacks.
+
+Once the generators are covered, should be intuitive.
+
+Uriel can use Lightning on the Garuda.
+
 
 ## Map 35
 
 1: Hero and Heroine go diagonal up, summon 2x birds on one side and 1x bird and Uriel on each side.
 
-2: Go straight up.
+2: Go straight up with the flying units sticking to the walls.
 
 3: Go straight up, not in range for magic.
 
@@ -657,13 +677,11 @@ It's okay if some birds die in this stage. You need at least 3 birds and Uriel a
 
 Go to the Rag's store and exchange the pearls for the Ora Armor and Ora Helm.
 
-Enter stage 35 again to equip the armor and exit.
+Enter stage 35 again to equip the Auro Armor, Aura Helmet and God Slayer, Heroine equips Hero's armor and exit.
 
 Go back and grab Raphael
 
 ## Map 34
-
-Equip the Ora Armor and Ora Helm on Hero. Equip the remaining good armor on the Heroine.
 
 1: Hero summons a Jatayu on top of the island and Heroine summons Raphael and a Houou.
 
@@ -679,37 +697,57 @@ Equip the Ora Armor and Ora Helm on Hero. Equip the remaining good armor on the 
 
 7+: Houou attacks the rightmost Fafnir, Raphael heals.
 
-Once the Fafnir dies, Raphael picks up the chest. Then Traesto out.
+Once the Fafnir dies, Raphael picks up the chest. Then with Hero walk down to exit.
 
 ## Map 36/37/38
 
-Walk to the corner of the room.
+36 - left
+37 - right
+38 - middle
 
 ## Map 39
 
-1: Hero goes left, summons Raphael, Cerberus and 2x Houou. Hero goes up and summons Uriel and other Houou/Jatayu.
+1: Hero goes left, summons Raphael, Cerberus and 2x Houou. Heroine goes up and summons Uriel and other Houou/Jatayu.
 
-2: Raphael goes left, Houou follow and kill the Kobalt. Uriel goes up. Take out the Gargoyles. Hero follows bridge up
+2: Raphael goes left, Houous follow left and kill the Kobalt. Uriel goes up. Take out the Gargoyles. Hero follows bridge up
 
-3+: Same movements. Hero follows the path.
+3+: Same movements. Hero follows the path. Heroine also but from the top.
 
 There's no strategy to these stages.
 
-6: Uriel and Raphael cover the generator. Houous go up.
+6: Uriel and Raphael cover the generator. Houous go up to head to the top generator.
 
 At some point replace Jatayu with Uriel in the generator so he can move and clean up any leftover demons.
 
 ## Map 41
 
-1: Hero up, summons Cerberus front, Raphael left of Cerberus, Houou right. Heroine up, Zionga the garuda.
+Super scary, make sure to make a general save in the start and save every turn.
 
-2: Cerberus attacks Behemoth, Heroine Bufula it. Houou attacks the Apis. Raphael attacks the injured Garuda. Hero moves up, summons left Uriel, Gabriel and Ganesha behind.
+1: Hero up, summons Cerberus front, Raphael left of Cerberus Gabriel under, Houous right, Uriel behind Hero. Heroine up, Zionga the garuda.
 
-3: Ganesha uses Mabufula on two Behemoths. 
+2: Cerberus attacks Behemoth, Heroine Bufula it. 
+
+Houous attacks the Apophis. Uriel kills the injured Garuda. Raphael and Gabriel all the way up.
+
+3: Heroine Bufula Balam.
+
+Uriel blocks right path, Heals. Raphael goes to left fountain to block path, heals.
+
+Hero attacks the front Behemoth, Cerberus as well. Try to move Houous in the direction to block the top path.
+
+4: Heal with Uriel/Raphael if needed. Move Gabriel to block the top path.
+
+Attack Balam with Bufula, attack with Hero if he has enough health. Otherwise attack with Cerberus.
+
+5: Hopefully none of your characters are too numb. He probably will move to the top fountain.
+
+Heroine usually does 140 HP, Hero 118HP, Cerberus 100HP. If you can attack with all 3, he should die.
+
+Try to get the kill with Heroine so she learns Mabufula. If not, it's fine though.
 
 ## Map 42
 
-Review addition: get Hydra
+Review addition: get Hydra, if you can get at least two, better
 
 It's okay if Orthrus/Typhon/Thor/1 Houou die. The behavior of the demons in this stage is really unpredictable so each stage has a suggestion of which demons really need to die. Evaluate as you go.
 
@@ -723,21 +761,25 @@ Heroine Maragion if she can hit multiple.
 
 Otherwise, Orthrus -> Stonka. Heroine -> Bufula the Touki. Cerberus attacks Tetza. Move Houou to the left of the Heroine.
 
-
 3: Hero (hopefully) recruits Baal. Houou/Jatayu kill the Fafnir. 
 
 Houou attacks the Maya. Heroine -> Zionga Gamijin. Raphael -> attack and kill Gamijin. 
 
 Typhon attacks Typhon. Cerberus attacks Rangda.
 
+4: Hero tries to recruit Hydra?
 
-4: Heroine Mabufula to kill Hydra. 
+Heroine Mabufula to kill Hydra. 
 
-5: Cerberus attacks Fafnir. Orthrus attacks Isora.
+5: Hero tries to recruit Hydra?
 
-Heroine summons Gabriel, Phoenix and Baal.
+Cerberus attacks Fafnir. Orthrus attacks Isora.
 
-6: Kill Orkus with Mabufula.
+Heroine summons Gabriel, Phoenix, Hydra and Baal.
+
+6: Hero tries to recruit Hydra?
+
+Heroine prioritize the Abaddon, dont let it near the Hydra!!
 
 7: Try to Mabufula Gozuki and one of the other ones. Gozuki should die to one Mabufula.
 
@@ -751,25 +793,25 @@ It's okay if Mahakara dies.
 
 1: Hero up, Heroine around ice down.
 
-2: Hero up -> summon Cerberus, Gabriel and Raphael above, Phoenix right. Heroine down.
+2: Hero up -> summon Cerberus, Gabriel and Raphael above, Phoenix right, both Houous below. Heroine down.
 
-3: Heroine to fountain, Uriel up, Mahakara down, Baal left. 
+3: Heroine to fountain, Uriel up, Mahakara down, Hydra down right, Baal left. 
 
 Gabriel goes to fountain, Phoenix diagonal down left of him, Cerberus diagonal up right. Raphael diagonal down right of Cerberus.
 
 Hero goes up left.
 
-4: Heroine Mabufula, Uriel heal Baal.
+4: Heroine Mabufula, Uriel heal Mahakala/Baal if needed.
 
-Hero and Baal attack bottom Mahakara, Mahakara attacks the top one.
+Baal/Mahakala attack physical, try to kill at least one of the Mahakalas. Hero either attacks Mahakala or Stonka - IF Stonka equip the Beast Hunter.
 
-Raphael/Gabriel/Phoenix try to kill both Leonards.
+Raphael/Gabriel/Phoenix/Houous try to kill both Leonards.
 
 Cerberus attacks one of the surrounding enemies.
 
 5: Heroine Mabufula the other Hydra.
 
-Hero and Baal attack Mahakara, Uriel heals Baal.
+Hero and Baal attack Mahakara, Uriel heals Baal. Hydra can attack Mahakala too, does good damage.
 
 Gabriel/Raphael heal if needed. Cerberus attacks one of the enemies.
 
@@ -785,19 +827,21 @@ Heroine Mabufula zomas, Hero and Baal approach.
 
 8: Mabufula clean up.
 
+---
+
+Michael becomes an ally.
+
 ## Map 44
 
-1: Hero straight down, summon below all angels and a Phoenix, 2 Houous and Cerberus. Heroine attacks the close enemy.
+**1**: Hero straight down, summon below all angels and a Phoenix, 2 Houous and a Jatayu. Heroine attacks the close enemy.
 
-2: Uriel goes to generator 1.
+**2**: Michael, Heroine, Gabriel and Phoenix go left.
 
-Michael, Hero, Heroine and Cerberus go left.
+Everyone else goes down, can attack demons if in good position.
 
-Everyone else goes down.
+**3**: Phoenix and Houou/Jatayu hopefully attack one of the Leviathans, Gabriel uses Icecube to attack the rest.
 
-3: Houous attack Leviathans. One angel covers generator 2.
-
-Michael and crew go left, other one goes down.
+Michael and Heroine go left. Rest goes down.
 
 4: One bird follows an angel down to generator 3.
 
@@ -819,16 +863,81 @@ Hero and Heroine come down, hopefully bait the Leviathans.
 
 ## Map 46
 
-Godslayer on Hero makes him do more damage against the Zomas
+Godslayer on Hero makes him do more damage against the Zomas.
 
-Summon Michael, Gabriel, Baal, Cerberus. Heroine summons Phoenix on the first generator turn 1.
+**1**: Hero goes up to summon Phoenix over the generator. Heroine moves down a step and summons Michael, Gabriel, Baal, Cerberus.
 
-The rest will come later...
+**2:** All move straight down.
 
+**3:** Heroine walks down, uses Mabufula on all three. Cerberus attacks the Baal. 
+
+Then everyone down, heal Hero if needed.
+
+**4:** Kill Baal with Cerberus.
+
+Everyone advances
+
+**5:** Heroine Mabufula the Cockatrice. Heal Cerberus with Gabriel.
+
+Advance with everyone else, stay out of range.
+
+**6:** Heal everyone with Gabriel. 
+
+Send Baal and Heroine through the top corridor and Hero and Cerberus from the bottom corridor.
+
+**7:** Depending on who's on front: 
+- If Leviathan: Zionga with Heroine (doesn't kill), attack with Cerberus
+- If Behemoth: Mabufula with Heroine, if it doesn't kill attack with Cerberus
+
+Hero attacks the Zoma behind. Send Michael up around the rock and Gabriel down. Baal in the fountain.
+
+**8**: Move the Cerberus away, it can attack Toutetsu or Behemoth.
+
+Heroine Mabufula. Hero kills the Zoma.
+
+Michael attacks Odin. Gabriel heals Hero with Diarama.
+
+**9:** Heroine Mabufula the Odin.
+
+Michael moves out of the way, Cerberus attacks the Odin if it can and around 200HP, otherwise attack with Hero.
+
+Advance with Hero and Gabriel.
+
+**10:** Advance with Everyone
+
+**11:** Michael goes around. Gabriel can use Icecube or help get the Loas out of the way, get everyone closer.
+
+**12:** Heroine Mabufula. Send the angels around.
+
+**13:** Heroine Mabufula again. Hero, Cerberus and Michael advance.
+
+Rescue Baal if it's running low on HP.
+
+**14+:** Advance to stairs. If you need to, grab chests to fill up inventory.
 
 ## Map 47
 
-...
+Cerberus/Baal/Houous can die
+
+**1:** Straight up, summon all Angels.
+
+**2:** Advance.
+
+**3:** SAVE. Advance, Hero talks to Tiamat?. Heroine Maragion Toutetsu if in range.
+
+**4:** SAVE. Hero recruits Tiamat?. Everyone else advance. Heroine attack if needed.
+
+**5:** SAVE. Hero tries to recruit Yamato-no-Orochi. 
+
+Heroine advances, summons Houou, Cerberus, Baal/Mahakala.
+
+**6:** All advance down, only attack if its for a kill. Otherwise just position the demons in close range to the enemies.
+
+**7/8:** Advance, make sure to kill the Leonard, Leviathan, Garuda and Behemoth otherwise they will follow you.
+
+It's not possible to reach the generators on time so go safely. Try to have the Hero camp on the fountain and then send Michael forward to deal with the hoards.
+
+Grab the Jesus Armor (4) and Jesus Helmet (5) and equip them on the Heroine.
 
 ## Map 48
 
@@ -838,11 +947,35 @@ The rest will come later...
 
 3: Hero walks up.
 
-4: Hero talks to Isis. Heroine uses a smoke bomb or traesto.
+4: Hero talks to Isis. Heroine uses traesto.
 
 ## Map 40
 
-........
+Hero equip the Beast Hunter.
+
+**1**: Hero down, summon main 3 angels. Heroine down.
+
+**2**: Hero down, summon Yamato-no-Orochi. Heroine down. Angels right.
+
+**3**: Yamato no Orochi attack, Hero behind. Heroine Zionga the Oroboas. 
+
+Angels right.
+
+**4:** Angels straight down nexst ot the generator.
+
+Attack demons and cross over the mountains.
+
+**5:** Raphael use Thunderstorm on the generator spawns. Angels attack around.
+
+Hero and Heroine down. Yamato can kill some demons.
+
+**6:** Let the demons be entertained by the angels. Hero and Heroine continue down as well as the Yamato no Orochi.
+
+**7:** Angels heal with Mediarahan. Hero takes the teleporter. 
+
+**8+**: Hero walks down sticking to the right path. Heal the angels every turn.
+
+Confirm your inventory is full before entering the house. Make sure to equip back the God Slayer!!
 
 ## Map 49
 
@@ -972,7 +1105,7 @@ The crew advances, open menu!!
 
 ## Map 57
 
-**1:** Open menu, walk up.
+**1:** Hero open menu, walk up.
 
 **2**: Walk up, avoid the demon range.
 
@@ -980,7 +1113,7 @@ The crew advances, open menu!!
 
 ## Map 58
 
-**1**: Open menu, walk up 2 tiles.
+**1**: Hero open menu, walk up 2 tiles.
 
 **2**: SAVE. Walk around and down, open menu.
 

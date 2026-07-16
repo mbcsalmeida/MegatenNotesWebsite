@@ -5,7 +5,7 @@ modDatetime: 2026-04-21T00:09:00Z
 title: Majin Tensei Armor Management
 slug: majin-tensei-armor
 featured: false
-draft: true
+draft: false
 tags:
   - majin-tensei
 description: Majin Tensei Armor Management notes.
@@ -30,4 +30,14 @@ Map 28 - Turqoise Chest
 
 Map 35 - Opal, Garnet
 
-## Armor Management by Map
+## Armor Management 
+
+### Stage 1
+
+Lotus Wand - can skip Attack Knife in stage 3
+Metal Boots/Iron Suit - equip
+Emerald - skip emerald in stage 11
+
+### Stage 2
+
+Onyx/Sapphire/Emerald - keep
