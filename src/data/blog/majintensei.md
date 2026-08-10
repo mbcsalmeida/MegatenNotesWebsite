@@ -1,7 +1,7 @@
 ---
 author: Sion
 pubDatetime: 2025-05-10T00:09:00Z
-modDatetime: 2026-04-21T00:09:00Z
+modDatetime: 2026-07-17T00:09:00Z
 title: Majin Tensei 
 slug: majin-tensei
 featured: false
