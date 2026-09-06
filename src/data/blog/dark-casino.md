@@ -33,7 +33,7 @@ Type Weaknesses:
 
 Mash through dialogue in classroom and leave to trigger cutscene. Then head to the rightmost door to enter the Library.
 
-Pick up _Guard Gum_ in the leftmost bookshelf, then talk to Lena. Then talk to the librarian and say _Take Book_ and then talk to Jin again. Cutscene will be triggered.
+Pick up _Guard Gum_ and Love Charm in the leftmost bookshelf, then talk to Lena. Then talk to the librarian and say _Take Book_ and then talk to Jin again. Cutscene will be triggered.
 Choose to use the Demiloc.
 
 Fight **Gargoyle**:
@@ -65,31 +65,30 @@ Go to the top-left house and talk to the table for _Speed Gum_. Go down and up t
 Cross the bridge, enter the Heretic Mansion.
 
 Fuse:
-
+- Aminoz x Lava Rat = Seth - put at the bottom
 - Gale x Windling
-- Gale x Lava Rat
 
 Go down the stairs and up to the store.
 
 Sell:
-
-- Gums
+- Gums (except Speed Gum)
 
 Buy:
 
 - 11 Energy Pills
 - 11 Mana Juice
 - 4 Angel Wings
-- 31 Smoke bombs
+- 11 Smoke bombs
 
 Leave east.
 
-Pick up the first chest (Troll Seed). Fight encounters with Dark Howl and heal with Heal mid-battle. In between battles, heal with Energy Pills and Mana Juice. Fight until level 4, then switch to using smoke bombs.
+Pick up the first chest (Troll Seed). Fight until level 3 then avoid encounters.
 
-Head inside the cave. Pick up _Attack Gum_. Recruit Two-Tailt. Pick up the _Luck Gum_ chest and _Revival Orb_ chests side-by-side.
+Head inside the cave. Pick up _Attack Gum_. Pick up the _Luck Gum_ chest and _Revival Orb_ chests side-by-side.
 
 Leave the cave then head east, north on the intersection, pick up the _Resist Gum_ chest then east again.
-Recruit Garum. After getting Garum, avoid encounters. Arrange the party with Garum on top, then Aminoz then Two-Tail. Heal up.
+
+Recruit Chot hidden in the rocks, PASSWORD: Atlus
 
 Pick up _Magic Gum_ chest and head inside the cave.
 
@@ -104,37 +103,37 @@ Fight **Tupon**:
 Head outside the cave and Angel Wing back to town. Revive anyone if necessary.
 
 Sell:
-- Gums
+- Gums (except Speed Gum)
 
 Buy:
 
-- Demon Relic
-- Talon Relic
+- 2x Demon Relic
+- 2x Talon Relic
 
 Head inside the Heretic Mansion.
 
 Fuse:
 
-- Garum x Two-Tail = Razor (Powerboost, Distract)
-- Aminoz x Razor = Windlord (Powerboost, Distract)
+- Seth x Chot = Windlord (Attract, Heal)
 
-Leave through the south. Trigger cutscene.
+Use Attract. Leave through the south. Trigger cutscene.
 
 ### Center Town
 
-Head west to Center Town. Recruit one random demon to fuse into Gale, usually Ice Baby or Makara are the easiest to recruit.
+Head west to Center Town.
 
 Get to at least level 8. Heal between fights. Defeating demons in this area:
 
 - Generally: Dark Howl (Gale), Heal (Windlord)
 - Makara: Cyclone (Windlord)
 
-Once you hit level 8 and have gotten the extra demon, avoid encounters.
+Once you hit level 8, avoid encounters.
 
-Then head east, pick up chest with Macca, pick up the _Love Charm_ and enter beyond the bushes to the hidden house. Talk to Wyregg to recruit it.
+Then head east, pick up chest with 2000 Macca and enter beyond the bushes to the hidden house.
+
+Talk to Wyregg to recruit it. Get Luck Gum in the logs next to it.
+
 Head west again to Center Town.
-
-Grab _Resist Gum_ from house on the way to VN.
 
 Enter Virtual Network (VN) building and take demonary quiz from the Quiz Master.
 
@@ -142,50 +141,50 @@ Answers:
 
 - First quiz: 2, 1, 2, 1, 2
 
-Go to casino, buy 20 coins then cheese into 6500 coins.
+Grab _Resist Gum_ from house below the casino.
+
+Go to casino, buy 20 coins then cheese into 10k coins.
 
 Buy:
-- 2x Wind Robe
 - Macca Boost
 - EXP Boost
+- 2x Wind Robe
 
 Set Macca Boost on Demilizer.
 
 Go to the shop.
 
 Sell:
-
-- Gums
+- Gums (except Speed Gum)
 
 (Top seller) Buy:
 
-- Heavy Relic
+- 2x Heavy Relic
 
 (Bottom seller) Buy:
-
-- 21 Energy Pills
-- 21 Mana Juice
+- 11 Ointments
+- 11 Mana Juice
 - 1 Revive Orb
 - 21x Angel Wing
 
-Head to the mansion, talk to the left demon. Save.
-
-Fuse with Relics:
-
-- Random -> Cait Sith
+Head to the mansion.
 
 Fuse:
 - Gale x Wyregg
 
-Summon Windlord again.
+Fuse with Relics:
+- Random -> Cait Sith
+- Random -> Cait Sith
 
-Fuse:
+Fuse again:
+- Windlord x Cait Sith = Speedy (Heal All, Powerboost, Heal)
+- Gale x Cait Sith
 
-- Windlord x Cait Sith = Speedy (Heal All, Powerboost, Distract)
+PUT Speed Gums on Speedy.
 
 Leave North and save. Avoid encounters.
 
-Leave North and possibly save before the top of the area, heal up, use Attack Gum.
+SAVE unless going for WR.
 
 Fight **Grevir**:
 
