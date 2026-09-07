@@ -97,6 +97,8 @@ Talk to bartender　Choices:Yes→No→Yes
 
 !!　Unequip CH before getting Heroine - put his equipment on Hero !!
 
+Bookmark Terminal.
+
 Talk to Thor.
 
 **Gotou:**
@@ -141,28 +143,47 @@ Recruit Gandharva.
 
 ---
 
+## Shibuya
+
+---
+
+Get money by talking (ideally 7k after the Messian Recruit).
+
+Talk to the Heroine. Grab gems then take the terminal to Shinjuku.
+
+---
+
 ## New Shinjuku
 
 ---
 
-Junk shop:
+Go to Bar and disco.
 
-- Sell:weapons
-- Buy:Hexagram, Gold Pill
-
-Heal at the healer.
+Ozawa. Chaos Hero fusion.
 
 **Take-Minakata:**
 
-- AUTO
+- Ｎ:Defend　Gandharva:Zio　Ｌ:Zanma Pyro Jack:Agila Goblin:Makakaja　Ｃ:Agilao
 - ＮInt til 27, then MAG.　LH１SPD
 
-**Messian Church:**
+Junk shop:
+- Sell:weapons
+- Buy:Hexagram, Gold Pill
 
+Gem shop:
+- Emerald -> Core Shield
+- Aquamarine -> Bell
+
+Heal at the healer.
+
+**Messian Church:**
 - Buy 3x Segaki Rice.
 
-Zouchouten Lair for Level 28 - Use it on Yaksha, or Sanni Yaka (2x max). Trafuri everyone else.
-N - Int til 27, then MAG. LH - MAG
+Wendigo:
+- Change to formation below
+- Ｎ: Holy Water Sylph:Mazio Ｌ:Hamaya　Goblin:Makakaja
+
+Grab Psycho Diver and go to Shibuya.
 
 ---
 
@@ -170,26 +191,16 @@ N - Int til 27, then MAG. LH - MAG
 
 ---
 
-Get money by talking (ideally 7k after the Messian Recruit).
+SAVE. Use Bell.
 Buy 12x Hamayas and 2x Soul Senders.
 
-Fuse:
-
-- Pyro Jack x Dryad x Azumi = Kushinada Hime
-- Messian x leftover demon = Sylph
-
-**Wendigo:**
-
-- Change to formation below
-- Ｎ: Holy Water Sylph:Mazio Ｌ:Hamaya Kushinada:Attack　Goblin:Makakaja
-
-Transfer to Shibuya and !!save!!.
-
 **Arachne:**
-
 - AUTO
 - Ｎ5MAG 2VIT　Ｌ３STR
-  Put Kushinada-Hime in top middle position.
+
+Fuse:
+- Pyro Jack x Dryad x Azumi = Kushinada Hime
+- Messian x leftover demon = Sylph
 
 ---
 
