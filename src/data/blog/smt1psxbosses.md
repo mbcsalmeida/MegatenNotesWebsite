@@ -62,6 +62,7 @@ Inokashira Park
 
 - 10x Hamayas
 
+Echo Building 3f: Amethyst
 Echo Building 4F: Wisdom Incense + 4800yen
 
 **Douman battle:**
@@ -75,7 +76,9 @@ Echo Building 4F: Wisdom Incense + 4800yen
 
 ---
 
-Recruits（全5体）- > Goblin, Pyro Jack, Azumi, Imp, Jack Frost/Kobold, Dryad
+Recruits（全5体）- > Goblin, Pyro Jack, Azumi, Imp, Jack Frost/Kobold~
+
+Get COMP upgrade.
 
 Talk to bartender　Choices:Yes→No→Yes
 
@@ -101,6 +104,8 @@ Bookmark Terminal.
 
 Talk to Thor.
 
+Aquamarine in Ichigaya Garrison.
+
 **Gotou:**
 
 - Pisaca - Holy water, Nue - gun (H), zio
@@ -114,7 +119,7 @@ Talk to Thor.
 - Ｎ1MAG２VIT　Ｈ3MAG　
 
 !! Remove Heroine's weapons !!
-Amethyst、6720 Yen、Magic Incense, give to Heroine
+Emerald、6720 Yen、Magic Incense, give to Heroine
 
 ---
 
@@ -166,13 +171,15 @@ Ozawa. Chaos Hero fusion.
 - Ｎ:Defend　Gandharva:Zio　Ｌ:Zanma Pyro Jack:Agila Goblin:Makakaja　Ｃ:Agilao
 - ＮInt til 27, then MAG.　LH１SPD
 
+Fuse:
+- Messian x leftover demon = Sylph
+
 Junk shop:
 - Sell:weapons
-- Buy:Hexagram, Gold Pill
+- Buy: Hexagram, Gold Pill
 
 Gem shop:
-- Emerald -> Core Shield
-- Aquamarine -> Bell
+- Amethyst -> Sealing Bell
 
 Heal at the healer.
 
@@ -200,7 +207,6 @@ Buy 12x Hamayas and 2x Soul Senders.
 
 Fuse:
 - Pyro Jack x Dryad x Azumi = Kushinada Hime
-- Messian x leftover demon = Sylph
 
 ---
 
@@ -208,13 +214,13 @@ Fuse:
 
 ---
 
-Roppongi Bookmark terminal, talk to Alice
+Roppongi Bookmark terminal, talk to Alice.
 
 **Nebiros:**
 
 - N: Defend Kushinada: Makatora- > Sylph: Mazio Heroine: Hamaya Goblin: Makakaja
 
-Traport. Buy 8x Hamayas. Transfer to Roppongi.
+Traport to Shibuya. Buy 8x Hamayas. Transfer to Roppongi.
 
 ---
 
@@ -229,48 +235,50 @@ Ginza　Save at terminal
 ![SUGAMO-PRISON-3F](@/assets/images/smt1maps/3D/SUGAMO-PRISON-3F.png)
 
 NO to Yama.
-**Niou:**
 
+**Niou:**
 - N: Defend Kushinada: Makatora- > Sylph: Mazio Heroine: Hamaya Goblin: Makakaja
+
+Grab **Pearl**.
 
 Bookmark Ikebukuro terminal.
 
 Enter Ueno North.
 Transfer to Shibuya, buy: 10x Hamaya and 4x Soul Sender.
 
-Traport back and save.
+Traport back and SAVE.
+
+Grab **Ruby**.
 
 **Ladon:**
-
 - Same strat as Nebiros
 - Traesto
 
 **Devil Summoner 3:**
-
 - Corpse - Soul Sender
 - Phantom - Soul Sender
 - Legion - Mazio - > Soul Sender, Sanni Yaka - Soul Sender
 
 Junk shop:
-
 - Buy: 8x Killer Needles
 
 Traport.
 
 Exchange at Rag Shop
-
 - Emerald×Aquamarine×Pearl→Undyne
 - Ruby×Garnet×Diamond→Salamander
 
 Enter TDL.
 
 **Devil Summoner 4:**
-
 - Vetala - mazio - > Soul Sender, Sanni Yaka - Soul Sender
 - Wyvern - mazio - > Killer Needle, Wyrm - Killer Needle
 - Rakshasa - mazio - > Killer Needle, Manticore - Killer Needle
 
 Talk to Echidna.
+
+TRAESTO. Gaia:
+- Heal curse.
 
 ---
 
@@ -278,18 +286,21 @@ Talk to Echidna.
 
 ---
 
-Traport to Ginza. Leave through the Law exit.
-Grab the Magician's Mask (bottom reward house, any moon cycle other than New Moon, left chest).
-Grab the Lotus Wand (top reward house, 2/8 moon, left chest).
+Traport to Ginza. SAVE. Leave through the Law exit.
+- Grab the Magician's Mask (bottom reward house, any moon cycle other than New Moon, left chest).
+- Grab the Lotus Wand (top reward house, 2/8 moon, left chest).
 
 Enter through the Neutral exit.
-Healer:
 
-- Heal curse
+Healer:
 - Buy: 3x Hamaya and 4x Soul Sender
 
-**Devil Summoner 1:**
+Traport. 
 
+Go to Junk Store:
+- 31x Zionga Stones
+
+**Devil Summoner 1:**
 - Pisaca　Ｈ:Soul Sending　Others:Defend
 - Baykok AUTO
 - Lahke　Ｎ:Hamaya　Ｈ:Hamaya　Others:Defend
@@ -301,7 +312,6 @@ Healer:
 ---
 
 Armor shop:
-
 - Sell the Magician's Mask
 - Dragon Armor, Dragon Mail, Draupnir
 - Crimson Helmet, Crimson Mail, Crimson Bracers
@@ -312,7 +322,6 @@ Say NO to Haniel. **Haniel:**
 - Sword, Zionga, Tarukaja
 
 **Devil Summoner 2:**
-
 - Nue - Hamaya
 - Sawa Bahku - Soul Sender
 - Barbegazi - AUTO
@@ -320,7 +329,6 @@ Say NO to Haniel. **Haniel:**
 Traesto.
 
 Mansion Sword Fusion
-
 - Kusanagi×Sylph→ Futsu Sword
 - Futsu Sword ×Undyne→Murakumo
 - Murakumo×Salamander→Hinokagutsuchi
@@ -328,8 +336,7 @@ Mansion Sword Fusion
 !!　Equip N: Hinokagutsuchi !!
 
 Fight **Komokuten**:
-
-- Sword, Zionga, Tarukaja
+- Sword, Zionga Stone, Tarukaja
 
 ---
 
@@ -358,24 +365,31 @@ Walk to Tokyo Tower.
 ![TOKYO-TOWER-30F](@/assets/images/smt1maps/3D/TOKYO-TOWER-30F.png)
 
 Tokyo Tower **Kazfiel** - Say NO
-
 - AUTO
 
 Traport. Transfer to Ueno.
 
 **Bishamonten:**
-
 - Ghost Rice
 
 Grab the Magician's Mask.
 
 **Jikoukuten:**
-
 - AUTO
 
-Transfer to Shibuya.
-**Zouchouten:**
+Traport. Transfer to TDL.
 
+Gaia:
+- 2x Amulets
+
+Weapon Store:
+- Sell Mage's Mask, Lotus Wand
+- Buy Heroine: Kunimoto Gun + Flash Bullets.
+
+DO CHAOS MINI GAME - MOST LEFT.
+
+Traport and transfer to Shibuya.
+**Zouchouten:**
 - AUTO
 
 Return Goblin and summon Zouchouten.
@@ -388,7 +402,7 @@ Transfer to Ikebukuro.
 Transfer to TDL.
 **Echidna:**
 
-- Sword, Zionga, Tarukaja
+- Sword, Zionga Stone, Tarukaja
 
 ---
 
@@ -396,7 +410,13 @@ Transfer to TDL.
 
 ---
 
-Go to Cathedral. Talk to Law Hero and Chaos Hero, grab turtle and go outside to Tokyo Government Building.
+Go to Cathedral. Talk to Law Hero and Chaos Hero, traport, grab turtle and go outside to Law Side.
+
+Weapon Store on Hero:
+- Pauza P50
+- Flash bullets
+
+Go to Tokyo Government Building - DO NOT SAVE - Traport to talk to law Hero then traesto.
 
 **Ravana & Indrajit:**
 
