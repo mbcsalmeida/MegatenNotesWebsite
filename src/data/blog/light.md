@@ -35,17 +35,16 @@ First battle:
 
 - Defend -> Auto Repeat
 
-Go to the library. Check the leftmost bookcase for the Love Charm and the stairs for a Voodoo Doll.
+Go to the library. Check the leftmost bookcase for the Love Charm.
 Then talk to Lena and then Akira.
 Mash through dialogue, say yes to using the Demiloc.
 
 Fight Gargoyle:
-
 - Shining Howl -> Repeat
 
 Go for settings, put text Fast and animations Off. Heal Rand.
 
-Check rightmost room for Repel Charm and Demonitonic. Then check the other room for Mana Juice, Revive Orb and Ointment.
+Check the right of the left rooms for a Revive Orb.
 
 Go up to the rooftop. Say yes to Lena to going to the Demon World.
 
@@ -59,53 +58,45 @@ Talk to Wartak, the Quiz Master. Do the Demonary Quiz:
 
 Grab chest closest to the stairs for a Revive Orb.
 
-Walk to Hermit. Ideally, recruit one demon to be fused into Rand, any works. Fight random encouters with Shining Howl and Heal and heal between battles. Grind to level 5.
+Walk to Hermit. Grind to level 3. Fight random encouters with Shining Howl and Heal and heal between battles.
 
 Grab the chest on the way for a Revive Orb. Check the wall and recruit Chot, say the password "Atlus".
 
-Enter the town. Summon Chot over Aminoz. Go to the fusion mansion, grab _Attack Gum_ in barrel outside:
+Enter the town. Go to the fusion mansion, grab _Attack Gum_ in barrel outside:
 
-- Lava Rat x Windling - Undine (Pyro)
-- Undine x Chot - Arakneus (Pyro, Heal All)
-- Gale x Aminoz
-- Gale x Spare Demon
+- Aminoz x Windling = Makara (Heal)
+- Makara x Lava Rat = Krane (Heal)
+- SUMMON Chot
+- Chot x Rand
 
-Talk to the angel. Then head to the house, talk to the potted plant and talk to Judy twice. Examine the right bookcase for a Speed Gum.
+Talk to the angel. Then head to the house, talk to the potted plant and talk to Judy twice. Examine the left bookcase for a Speed Gum.
 
 Talk to Ludra and choose the first option.
 
 Head to the shop.
 
 Sell:
-
-- Gums (except attack magic)
+- Gums 
 
 Buy:
-
 - 11 Energy Pill
 - 11 Mana Juice
 - 11 Angel Wing
 
-Use 2 Attack Gums on Rand and 1 Magic Gum on Arakneus.
-
 Yeti + 2x Mariner:
 
-- Defend, Pyro - Yeti
-- Heal All with Rand if there's a crit or health is very low
-- When Yeti is one hit away, Shining Howl + Pyro
-- Make sure to have Rand fully healed before the next round
+- Defend, Powerboost x3
+- Shining Howl/Attack + Flare/Heal All
 
 Kyme:
-
-- First Strike + Pyro
+- Attack + Attack
 - Heal with Heal All for either characters when needed
 - Heal MP with Mana Juice
 - It tends to spam Heal All, which sucks, but eventually you'll get through
 
 ### Rebel Base Gauntlet
 
-Grind to level 8. Fight encounters:
-
+**Grind to level 5 if needed**. Fight encounters:
 - Thundar - Shining Howl + Petra
 - Makara - Shining Howl + Petra
 - Minare - Shining Howl + Pyro
@@ -117,206 +108,121 @@ Grab chest with 1000 Macca. Grab chest with Attack Gum. Recruit Ludra.
 Head inside the HQ.
 
 Fuse:
-
-- Arakneus x Ludra - Vampire (Pyro, Heal All, Cyclone)
+- Krane x Ludra - Midion (Pyro, Heal All, Powerboost)
 
 Talk to Lena. Grab Big Wing from the left barrel.
 
-Head further inside and talk to Shin. Grab the chest with the Dredfang, crates on the left for Blast Box, Angel Wing and Revive Orb. On the other side, grab Fist Relic and Luck Gum.
-
-Arrange the Demiloc with Vampire, and summon Iceraith at the bottom.
+Head further inside and talk to Shin. Grab the chest with the Dredfang, crates on the left for Blast Box, Angel Wing and Revive Orb.
 
 Talk to the middle demon to begin the fight.
 
 Fight Ice Baby x2 + Kanos:
-
-- Dredfang + Pyro
-- Shining Howl + Heal All
+- Dredfang + Powerboost
+- Defend, Powerboost
+- Attack and heal
 
 Fight Ice Baby + Arakneus + Ice Baby:
-
-- Pyro for Ice Baby, Heal All
-- Cyclone to Arakneus, Mana Juice to Vampire
+- Defend + Powerboost x2
+- Defend, Heal
+- Make sure to have decent MP for the next fight.
 
 Fight Windlord + Unicorn:
+- Defend + Powerboost x2
+- Kill Unicorn first.
 
-- Heal All/Shining Howl + Pyro on Windlord
-- Use Magic Drain on Unicorn
-- If Vampire dies, use Chomp with Iceraith
-
-Angel Wing back to Hermit. Put Iceraith in the Kingloc. Leave north, recruit Ikonda. Grind to level 11. Stop by Hydraville.
+Angel Wing back to Hermit. Put Iceraith in the Kingloc if you're level 8, use a Love Charm. Leave north, recruit Ikonda. Grind to level 11. Stop by Hydraville.
 
 Fight:
-
 - Unicorn - Magic Drain
 - Arakneus - Polar/Cold Voice
-- Windlord - Pyro
-- Lakshmi - Pyro
+- Windlord - Stun Shot
+- Lakshmi - Stun Shot
 - Arachne - Cyclone/Polar
 
 ### Mine
 
-Go to Avalon. Enter the house and inspect the table on the left corner for a Resist Gum. Inspect the well for an Attack Gum.
+Go up the stairs and inspect the barrel for a Guard Gum. Go to the HQ (right door) and talk to Drail. Then leave and enter the door on the left and talk to Naomi,the piano player. Go back to the other room and talk to Drail. Head to the mine.
 
-Exit and continue north to Elysium. After the first stairs, grab the chests to the right for a Magic Gum and Holy Orb.
-In Elysium, enter the house on the left and inspect the pot on the top right for a Revive Gem.
-
-Angel Wing back to Hydraville.
-
-Inspect the barrels to the right for a Bubble Oil. Go up the stairs and inspect the barrel for a Guard Gum. Go to the HQ (right door) and talk to Drail. Then leave and enter the door on the left and talk to Naomi,the piano player. Go back to the other room and talk to Drail. Head to the mine.
-
-Go left down the narrow passage and open two leftmost chests for gums.
 Then go north and go to the left room and open both chests. Inspect the pot right next to the chests for a Hex Relic. Then inspect the pots to the right of the character for a Revive Gem.
 
-Enter the middle room, open the left chest for a Gale Bag.
-
-Leave and go to the right room. Open chest for a Mana Shake and inspect the top left corner for Skyfish. Head to the passage to talk to guy and get a Hex Relic.
+Leave and go to the right room and inspect the top left corner for Skyfish. Head to the passage to talk to Guy and get a Hex Relic.
 
 Angel Wing back to Hydraville. Go to the healer. Inspect the barrel near the healer for a Resist Gum. Take the stairs downstairs, inspect the bookcase for a Speed Gum and talk to the Cait Sith to get a key to Limbo.
 
 Go to shop.
 
 Sell:
-
-- Gums (Except attack)
-
-Buy:
-
-- Blood Relic
-- Beast Relic
-- Lion Relic
-
-Angel wing to Avalon. Go to shop.
+- Gums
 
 Buy:
+- 2x Beast Relic
+- 2x Lion Relic
 
-- 31 Energy Cubes
-- 21 Mana Sundae
-- 11 Angel Wing
+Go to mansion, right demon:
+- Rand x Big Wing
+
+Go to Avalon. Enter the house and inspect the table on the left corner for a Resist Gum. Inspect the well for an Attack Gum.
+
+Buy:
+- 41 Energy Cubes
+- 11 Mana Sundae
+- 16 Angel Wing
 
 Deposit the rest of your money.
 
-Summon Skare. Go to the mansion and fuse:
-
-- Vampire x Skare - Irontaur (Shock? Pyro)
-
 Relic fuse:
+- Hex + Beast + Lion - Sylph x2
 
-- Hex + Beast + Lion - Sylph
+Summon Skare. Go to the mansion and fuse:
+- Midion x Iceraith = Gargoyle (Powerboost, Heal All, Cyclone)
+- Gargoyle x Ikonda = Irontaur (Powerboost, Polarburst)
+- Rand x Sylph
+- Rand x Skare
 
-Summon Irontaur and Ikonda on the Kingloc, Sylph and Iceraith in the Demiloc. Exit. Angel Wing to Hydraville.
-
-Go to mansion, right demon:
-
-- Sylph x Bubble Oil - Chaos Foam
-- Ikonda x Big Wing - Big Wing
+Put Irontaur on the Demiloc and Sylph on Kingloc. Exit.
 
 Angel Wing to Hermit. Exit north and head east.
 
-Talk to Judy. Grab chest with Smoke Bomb.
+Talk to Judy.
 
 3x Sea Ram fight:
+- Shining Howl, Petra, Heal All
 
-- Shining Howl, Petra, Chaos Foam
-- Rand will inevitably die, just heal Irontaur and Sylph's HP with each's Heal All
-
-Heal up, revive Rand. Put Ikonda in front of Irontaur.
+Heal up HP and MP.
 
 Irontaur fight:
+- Big Wing + Powerboost + Windburst
+- Big Wing + Heal All + Windburst
 
-- Gale Bag/First Strike + Windburst + Big Wing
-- With Irontaur use Cyclone/Glow
-- Heal with Heal All
-- Kill one at a time, they like using Heal All
-
-Use a revive orb on Rand but don't heal it. Return all demons (Access -> Send). Make sure to correctly avoid all encounters, otherwise you'll wipe and have to backtrack all the way.
+Use a revive orb on Rand if needed but don't heal it. Return all demons (Access -> Send). Make sure to correctly avoid all encounters, otherwise you'll wipe and have to backtrack all the way.
 
 Keep going right. Head up to start the cutscene.
 
 Fight 2x Irontaur + Sea Ram:
-
 - Auto -> Attack to die
 
-Summon Ikonda and Sylph on demiloc, Irontaur and Iceraith on the Kingloc and revive/heal at the healers. Check pots on the left for a revive orb.
+Summon back Irontaur on Demiloc, Sylph on the Kingloc and revive/heal at the healers. Check pots on the left for a revive orb.
 
 Watch Rand transform, ignore it (2nd option). Inherit Heal All.
 
-Grind to level 13. Fight:
-
-- Bearlord: Ice Breath + Ice Breath
-- Sandman: Double Nova + Ram
-- Sylph: Petra
-- Shogun: Ice Breath
-
-Go up all the stairs. Grab the chests on either side of the highest floor. Use Attack Gums on Rand. Summon Skyfish in front of Irontaur.
+Go up all the stairs. Grab chest on the right (Snow Comb).
 
 Fight Andromus:
+- Ice Breath + Polarburst + Snow Comb/Heal All
 
-- Ice Breath + Windburst/Snow Comb + Heal All
-- Focus on healing Rand with Energy Cubes for speed
-- Recover Irontaur's MP with a Mana Sundae
-- If any character get hit with Bomb, use Sylph's Cure
-- Fight takes a while but you'll get it eventually
-
-Go up the stairs. Talk to the first bed on the right and enter "Megami" to recruit Pandora. Then talk to the box right to it to get a Holy Orb. Go up the stairs and open the chest for a Speed Gum.
+Go up the stairs. Talk to the first bed on the right and enter "Megami" to recruit Pandora. Then talk to the box right to it to get a Holy Orb.
 
 Go back down the stairs two floors and head to the leftmost cell. Talk to the demon and get time chains. Inspect the pots on the left for a Revive Orb.
 
 Angel Wing back to Hydraville. Go back to the HQ and talk to Amy. Angel wing to Time Tower and head back to the school to destroy the time rift.
 
-Recover Sylph's MP before the fight.
+Recover HP and MP before the fight.
 
 Fight Glasyabo + Speedy:
-
-- Double Nova (Speedy) + Heal All + Ram (Speedy)
+- Double Nova (Speedy) + Petra/Ram + Energy Cube/Heal All
 - AUTO and stop on Pandemonium, use Sylph's cure.
 
 Angel Wing back to the School. Go up to the rooftop and take the left portal.
-
-# Record route
-
-Grab the _Magic Gum_ in the fireplace in the north house and the _Speed Gum_ in the logs of the western house.
-
-Leave South and head to the center. Grab the chests with _Guard Gum_ and _Attack Gum_.
-
-Grab the _Attack Gum_ in the house just below the casino.
-
-Leave north and avoid encounters. Talk to Forlo.
-
-Leave north to the maidens. Talk to the middle maiden. Say the 2nd option and watch Rand transform.
-
-Angel Wing to Hueville and leave north to go back to the school. Take the right portal to go to the time tower.
-
-Head down the Time Tower. Angel Wing to Elysium.
-
-Talk to the trainer guide and learn Rand's new skills. Then Angel Wing back to Time Tower.
-
-Head back to Center Town. Outside (east) of Center, grind to level 20. Recruit 2x Osiris once you're level 16, keep taking fights otherwise.
-
-Fights:
-
-- Ice Maid - Gaia Crush
-- Phantom - TNT Chain
-- Bifrius - TNT Chain
-- Osiris - TNT Chain
-
-Once you have both Osiris, head to north of Center Town and grind there. When you're level 20, recruit an Airavata. Grind until level 23.
-
-Head to Mansion. Save before fusions.
-
-Fuse:
-
-- Sylph x Irontaur - Pegasus
-- Skyfish x Pandora - Virgo
-- Pegasus x Airavata - Minotaur (Healmore All, Teleport, Powerboost)
-
-Summon the second Airavata.
-
-Fuse:
-
-- Airavata x Virgo - Lord Nan (Revive, Spellblock, Healmore All)
-
-# Safe route
 
 ## Hueyville
 
@@ -324,77 +230,57 @@ Grab the _Magic Gum_ in the fireplace in the north house and the _Speed Gum_ in 
 
 Leave South and head to the center. Grab the chests with _Guard Gum_ and _Attack Gum_.
 
+## Center Town
+
 Grab the _Attack Gum_ in the house just below the casino, top left.
 
-Sell:
+Casino - go up to 2560:
+- 1x Wind Robe
 
+Shop, Sell:
 - Gums
+- Holy Orb
 
 Buy:
-
-- 21x Smoke Bombs
-- 3 Revive Gems
+- 31x Smoke Bombs
 
 Withdraw money from the bank.
 
 Leave north and avoid encounters. Talk to Forlo.
 
-Leave north to the maidens. Talk to the middle maiden.
+Leave north to the maidens. Talk to the middle maiden. 2nd option to Rand evolving.
+
+## Time Travel
 
 Angel Wing to Hueville and leave north to go back to the school. Take the right portal to go to the time tower.
 
-Head down the Time Tower. Angel Wing to Elysium.
+Head down the Time Tower, go to Hydraville.
 
-Talk to the trainer guide and learn Rand's new skills. Then Angel Wing back to Time Tower.
+Mansion:
+- Rand x Wind Robe - Wind Dance
+
+Then Angel Wing back to Time Tower.
 
 Take the portal to your left. Head in and talk to Lucifer's tomb to get the Lucifer Gem.
 
+## Back to Center Town
+
 Head back to the time tower, take the blue door to the right, take the portal back to Hueyville and Angel Wing to the center.
 
-Heal. Outside (east) of Center, grind to level 16. Recruit 2x Osiris once you're level 16, keep taking fights otherwise. Heal out of battle with Healmore All.
-
-Once you're level 15, fuse:
-
-- Sylph x Irontaur - Pegasus (Petra, Pyro)
-
-Fights:
-
-- Ice Maid - Gaia Crush
-- Phantom - TNT Chain
-- Bifrius - TNT Chain
-- Osiris - TNT Chain
-
-If there's 3 enemies, always Gaia Crush first.
-
-Head north and keep taking encounters (goal is level 20, you can stop at 18 with 400exp to until 19).
-
-Fights:
-
-- Lord Ton - Gaia Crush
-- Lord Nan - TNT Chain
-- Airavata - Gaia Crush
-- Virgo - TNT Chain
+Use Repel - use smoke bombs to run away from battles. Feel free to summon Skyfish behind Irontaur, though not necessary.
 
 Enter Lucifer's palace and head north. Talk to Urd and choose "Send me there".
 
 Fight Hydra, Tiamat, Harpy:
 
-- Gaia Crush, Healmore All, Petraburst on Hydra
-- Focus on Hydra because it has distract
-- When only one left, switch to TNT Chain
+- Gaia Crush, Powerboost, Pyro Bust/Energy Cube on Rand
+- Use a Demontonic if anyone is charmed.
+- Once Hydra is dead, use Wind Dance
 
 Fight Forlo:
-
-- TNT Chain, Heal
+- Wind Dance, heal with Energy Cubes.
 
 Talk to Lucifer. Angel Wing to Center Town.
-
-You should already be level 20, if not grind until.
-
-Fuse:
-
-- Fist Relic x Hex Relic x Blood Relic - Airavara
-- Skyfish x Pandora - Virgo (Healmore All)
 
 Head through the Ice Temple and back to the portal to the Time Tower.
 
@@ -412,9 +298,9 @@ Head south from the sand area until the Light Temple.
 
 Fight Bifronz:
 
-- TNT Chain, Healmore All, Powerboost
+- Wind Dance, Energy Cube
 
-Choose the 2nd option with Rand. Make sure you have at least 4500 and then teleport to Ice Temple, otherwise teleport to Center Town and grind for money or sell items.
+Choose the 2nd option with Rand. Make sure you have at least 4500 and then teleport to Ice Temple - if you need money, inside the Light Temple, the leftmost chest of the left ones is an Attack Gum and the rightmost of the right ones is a Holy Orb.
 
 Go through the portal and down the Time Tower. Teleport to Elysium.
 
@@ -424,12 +310,12 @@ Watch the cutscene with Akira. Teleport to Avalon.
 
 Fight Ozemos:
 
-- Magic Flare, Healmore All, Powerboost
+- Magic Flare, Energy Cube
 
 Fight Imperius:
 
-- Magic Flare, Healmore All, Powerboost
+- Magic Flare, Energy Cube
 
 Fight Grazir:
 
-- Magic Flare, Healmore All, Powerboost
+- Magic Flare, Powerboost, Energy Cube
