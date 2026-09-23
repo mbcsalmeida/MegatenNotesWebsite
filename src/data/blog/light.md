@@ -64,8 +64,8 @@ Grab the chest on the way for a Revive Orb. Check the wall and recruit Chot, say
 
 Enter the town. Go to the fusion mansion, grab _Attack Gum_ in barrel outside:
 
-- Aminoz x Windling = Makara (Heal)
-- Makara x Lava Rat = Krane (Heal)
+- Aminoz x Windling = Makara (Heal, Cyclone)
+- Makara x Lava Rat = Krane (Heal, Pyro, Cyclone)
 - SUMMON Chot
 - Chot x Rand
 
@@ -79,14 +79,15 @@ Sell:
 - Gums 
 
 Buy:
-- 11 Energy Pill
+- 11 Energy Pills
 - 11 Mana Juice
 - 11 Angel Wing
 
 Yeti + 2x Mariner:
 
-- Defend, Powerboost x3
-- Shining Howl/Attack + Flare/Heal All
+- Defend, Powerboost
+- Attack, Pyro on Yeti
+- Once Yeti is dead, Shining Howl and Attack, heal HP/MP when relevant
 
 Kyme:
 - Attack + Attack
@@ -96,19 +97,14 @@ Kyme:
 
 ### Rebel Base Gauntlet
 
-**Grind to level 5 if needed**. Fight encounters:
-- Thundar - Shining Howl + Petra
-- Makara - Shining Howl + Petra
-- Minare - Shining Howl + Pyro
-- Ice Baby -Shining Howl + Attack
-- Kanos - Shining Howl + Petra
-
 Grab chest with 1000 Macca. Grab chest with Attack Gum. Recruit Ludra.
+
+Grab chest twith Kirin's Horn.
 
 Head inside the HQ.
 
 Fuse:
-- Krane x Ludra - Midion (Pyro, Heal All, Powerboost)
+- Krane x Ludra - Midion (Pyro, Cyclone, Powerboost)
 
 Talk to Lena. Grab Big Wing from the left barrel.
 
@@ -117,20 +113,22 @@ Head further inside and talk to Shin. Grab the chest with the Dredfang, crates o
 Talk to the middle demon to begin the fight.
 
 Fight Ice Baby x2 + Kanos:
-- Dredfang + Powerboost
-- Defend, Powerboost
+- Dredfang + Attack Left Ice Baby
+- Attack/Heal, Pyro Right Ice Baby
 - Attack and heal
 
 Fight Ice Baby + Arakneus + Ice Baby:
-- Defend + Powerboost x2
-- Defend, Heal
+- Attack + Cyclone on Arakneus, kill first
+- Attack + Pyro on Ice Babies
 - Make sure to have decent MP for the next fight.
 
 Fight Windlord + Unicorn:
-- Defend + Powerboost x2
-- Kill Unicorn first.
+- Kirin's Horn + Stun Shot on Unicorn.
+- Kill Unicorn first, attack Windlord to death, Pyro also does 35-40HP
 
-Angel Wing back to Hermit. Put Iceraith in the Kingloc if you're level 8, use a Love Charm. Leave north, recruit Ikonda. Grind to level 11. Stop by Hydraville.
+Put Iceraith in the Kingloc.
+
+Use a Love Charm, Leave north, recruit Ikonda. Grind to level 11. Stop by Hydraville.
 
 Fight:
 - Unicorn - Magic Drain
@@ -158,9 +156,6 @@ Buy:
 - 2x Beast Relic
 - 2x Lion Relic
 
-Go to mansion, right demon:
-- Rand x Big Wing
-
 Go to Avalon. Enter the house and inspect the table on the left corner for a Resist Gum. Inspect the well for an Attack Gum.
 
 Buy:
@@ -174,12 +169,16 @@ Relic fuse:
 - Hex + Beast + Lion - Sylph x2
 
 Summon Skare. Go to the mansion and fuse:
-- Midion x Iceraith = Gargoyle (Powerboost, Heal All, Cyclone)
+- Midion x Iceraith = Gargoyle (Powerboost)
 - Gargoyle x Ikonda = Irontaur (Powerboost, Polarburst)
 - Rand x Sylph
 - Rand x Skare
 
-Put Irontaur on the Demiloc and Sylph on Kingloc. Exit.
+Put Irontaur on the Demiloc and Sylph on Kingloc. Exit, Angel Wing to Hydraville.
+
+Go to mansion, right demon:
+- Rand x Big Wing
+- Sylph x Blast Box
 
 Angel Wing to Hermit. Exit north and head east.
 
